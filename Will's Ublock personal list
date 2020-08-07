@@ -1,6 +1,3 @@
-seekingalpha.com##._2QZ5R
-seekingalpha.com###DFP_1
-
 ! 4/21/2020 http://sports24.club
 ||cdn.topperformance.xyz/images/fcn/General3.jpg$image
 sports24.club###fcnbox_dialog
@@ -35,10 +32,6 @@ www.sports24.stream###bmc-wbtn
 ! 4/22/2020 seekingalpha.com
 @@||seekingalpha.com/api/v3/account/1lsvyjg/info?include=proSubscription,marketplaceSubscriptions$xhr,1p
 @@||seekingalpha.com/ajax_get_user_details_card$xhr,1p
-
-! 4/22/2020 https://seekingalpha.com
-
-
 
 ! 4/22/2020 https://www.infor.com
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -229,9 +222,6 @@ mediabiasfactcheck.com##[href="https://mediabiasfactcheck.com/advertising-discla
 mediabiasfactcheck.com###text-4 > .textwidget > center:nth-of-type(2)
 ||mediabiasfactcheck.com/wp-content/uploads/2019/09/adfreebanner.png$image
 
-! 5/22/2020 https://seekingalpha.com
-
-
 ! 5/23/2020 https://sourceforge.net
 sourceforge.net###dlp-voip-quote
 
@@ -256,7 +246,6 @@ www.google.com##.KGl2dd.fl
 ! 6/1/2020 https://www.wcoanimedub.tv
 www.wcoanimedub.tv##.anti-ad
 www.wcoanimedub.tv###hide-anime-video-0
-www.wcoanimedub.tv##div:nth-of-type(2) > p
 www.wcoanimedub.tv##.columns.fourteen > div:nth-of-type(2) > div:nth-of-type(1)
 
 ! 6/4/2020 https://www.google.com
@@ -273,12 +262,9 @@ www.fool.com##.alert-info.page-alert
 
 ! 6/11/2020 https://myflixer.to
 ||i.imgur.com/2iuZBCG.jpg$image
-myflixer.to##.mb-0.show.fade.alert-dismissible.alert
-myflixer.to###modalshare
-myflixer.to##.show.modal-backdrop
+
 ||i.imgur.com/8Fi0puS.jpg$image
-myflixer.to##[href="javascript:;"]
-myflixer.to###launcher
+
 ||i.imgur.com/8Fi0puS.jpg$image
 myflixer.to##.mb-3.alert
 myflixer.to###pc-fav
@@ -326,7 +312,6 @@ fulltip.net###CYs46XC1gar6QAlBEzhrL9YCYvLSvc
 www.google.com##.U7izfe.e2BEnf
 www.google.com##.pWCvWb > div > .duf3
 tinypass.com
-googletagmanager.com
 pubsub-edge.twitch.tv
 
 ! 7/2/2020 https://sports24.club
@@ -378,3 +363,56 @@ www.twitchquotes.com##li:nth-of-type(24)
 seekingalpha.com##._e4e07--AhyL
 seekingalpha.com##section._b742e-H9iAA._b742e-1hk6y.__35a28-2bjMO:nth-of-type(2)
 seekingalpha.com##._afab8-15v6p
+
+! 7/31/2020 https://seekingalpha.com
+seekingalpha.com###popover327977
+seekingalpha.com##.lock-premium.touchable.tab-a
+
+! 7/31/2020 https://www.bmwusa.com
+www.bmwusa.com##.zip-banner__inner-shell--active.zip-banner__inner-shell
+www.bmwusa.com##.zip-banner__outer-shell--active.zip-banner__outer-shell
+www.bmwusa.com##.zip-banner__modal-shell--active.zip-banner__modal-shell
+launcher.spot.im
+
+! 7/31/2020 https://seekingalpha.com
+seekingalpha.com##.popover-body
+seekingalpha.com##.popover-header
+seekingalpha.com##.arrow
+||static1.seekingalpha.com/assets/widget/prtfolio_sticky_bar_background-2de1c85cb8f2e9e79414f0b6bcd6688c603a792489d6bcdda60efb8c2b3e4138.svg$image
+seekingalpha.com###portfolioStickyBarMainForm
+||seekingalpha.com/samw/static/media/background_full.inline.252e54a0.svg$image
+seekingalpha.com##._6f60a-36AFA._6f60a-DKA_E
+seekingalpha.com##._2QZ5R
+seekingalpha.com###DFP_1
+
+! 8/1/2020 https://mail.aol.com
+mail.aol.com##.modalContainer
+mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
+
+! 8/2/2020 https://www.google.com
+www.google.com##.g-blk.mnr-c.kno-kp.g > .kno-ftr
+
+! 8/3/2020 https://myflixer.to
+||i.imgur.com/FRXqJCI.jpg$image
+myflixer.to##.block-rating
+myflixer.to##.mb-0.show.fade.alert-dismissible.alert
+myflixer.to###modalshare
+myflixer.to##.show.modal-backdrop
+
+! 8/3/2020 https://vidcloud.siteunblocked.info
+||l99l.org/y/u/$subdocument
+vidcloud.siteunblocked.info###share
+vidcloud.siteunblocked.info##.video-info-right
+
+! 8/3/2020 https://vidcloud9.com
+vidcloud9.com##.video-info-right
+buymeacoffee.com
+
+! 8/6/2020 https://www.wcoanimedub.tv
+www.wcoanimedub.tv###hide-anime-video-1
+www.wcoanimedub.tv###hide-anime-video-2
+
+! 8/7/2020 https://panopticlick.eff.org
+panopticlick.eff.org##.social
+opticalanalytics.io
+omtrdc.net
