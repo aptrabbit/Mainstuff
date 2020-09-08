@@ -40,9 +40,6 @@ www.sports24.stream###bmc-wbtn
 www.coursehero.com##.ch-aaq-widget-toast
 www.coursehero.com##.ch-aaq-widget-tab
 
-! 4/23/2020 https://quizlet.com
-||quizlet.com/a/i/upgrade/skyscraper_variant.d9bbb35cb602bf1.png$image
-
 ! 4/24/2020 https://www.coursehero.com
 www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
 
@@ -131,26 +128,6 @@ airvpn.org###air_cookielaw_container
 mail.yahoo.com##.P_1Eu7sD.R_fq7.T_fq7.p_f.e_eo6.ab_C.eo_x.ek_BB.D_F.q_52qC.W_3A1b8
 mail.yahoo.com###modal-outer
 
-! 5/18/2020 https://www.google.com
-www.google.com###dk2qOd
-www.google.com##.dPAwzb.med
-www.google.com##div.brs_col:nth-of-type(2) > p.nVcaUb:nth-of-type(1) > [href^="/search"]
-www.google.com##div.brs_col:nth-of-type(2) > a[href^="/search"]:nth-of-type(1)
-www.google.com##div.brs_col:nth-of-type(2) > a[href^="/search"]:nth-of-type(2)
-www.google.com##div.brs_col:nth-of-type(2) > a[href^="/search"]:nth-of-type(3)
-www.google.com##div.brs_col:nth-of-type(2) > a[href^="/search"]:nth-of-type(4)
-www.google.com##div.brs_col:nth-of-type(2) > a[href^="/search"]:nth-of-type(5)
-www.google.com##div.brs_col:nth-of-type(1) > p.nVcaUb:nth-of-type(1) > [href^="/search"]
-www.google.com##div.brs_col:nth-of-type(1) > a[href^="/search"]:nth-of-type(1)
-www.google.com##div.brs_col:nth-of-type(1) > a[href^="/search"]:nth-of-type(2)
-www.google.com##div.brs_col:nth-of-type(1) > a[href^="/search"]:nth-of-type(3)
-www.google.com##div.brs_col:nth-of-type(1) > a[href^="/search"]:nth-of-type(4)
-www.google.com##div.brs_col:nth-of-type(1) > a[href^="/search"]:nth-of-type(5)
-www.google.com##div.brs_col:nth-of-type(1)
-www.google.com##.card-section
-www.google.com##.NhRr3b
-www.google.com##.Tg0Ujf
-
 ! 5/18/2020 https://www.mercedes-amg.com
 www.mercedes-amg.com##.amg-e-social-share-buttons__toggle
 www.mercedes-amg.com##.amg-e-social-share-buttons__opener
@@ -232,7 +209,6 @@ www.google.com##.GcFlje
 
 ! 5/25/2020 https://client.schwab.com
 client.schwab.com##.closed.feedbackLink
-googletagmanager.com
 
 ! 5/25/2020 https://www.bloomberg.com
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
@@ -312,7 +288,6 @@ fulltip.net###CYs46XC1gar6QAlBEzhrL9YCYvLSvc
 www.google.com##.U7izfe.e2BEnf
 www.google.com##.pWCvWb > div > .duf3
 tinypass.com
-pubsub-edge.twitch.tv
 
 ! 7/2/2020 https://sports24.club
 ||sports24.club/tv/ol.php?t=Tennis%20Channel&r=aHR0cHM6Ly9teS1zcG9ydHMuY2x1Yi8tL3BsYXllci1yb2xsZXIvdGVubmlzLyMvej0zNjg5MC9scGFnZT1zLWR1YWwtdGVubmlzL2NfYmc9JTJGJTJGaW1nLmNvZGVzJTJGeW45ajRobGljL2NfaW1nMT0lMkYlMkZpbWcuY29kZXMlMkZ1UGJScVhiaWMvcT1TY2hyb2RlcnMrQmF0dGxlK29mK3RoZStCcml0cytMaXZlK1N0cmVhbS9jX2dhPVVBLTk4MzY4NjA5LTgvczE9dGVubmlzbW9kYWw=$subdocument
@@ -385,10 +360,6 @@ seekingalpha.com##._6f60a-36AFA._6f60a-DKA_E
 seekingalpha.com##._2QZ5R
 seekingalpha.com###DFP_1
 
-! 8/1/2020 https://mail.aol.com
-mail.aol.com##.modalContainer
-mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
-
 ! 8/2/2020 https://www.google.com
 www.google.com##.g-blk.mnr-c.kno-kp.g > .kno-ftr
 
@@ -406,7 +377,6 @@ vidcloud.siteunblocked.info##.video-info-right
 
 ! 8/3/2020 https://vidcloud9.com
 vidcloud9.com##.video-info-right
-buymeacoffee.com
 
 ! 8/6/2020 https://www.wcoanimedub.tv
 www.wcoanimedub.tv###hide-anime-video-1
@@ -416,3 +386,151 @@ www.wcoanimedub.tv###hide-anime-video-2
 panopticlick.eff.org##.social
 opticalanalytics.io
 omtrdc.net
+
+! 8/7/2020 http://sticknodes.com
+||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
+sticknodes.com##.filepage-ad-bg
+
+! 8/9/2020 https://www.google.com
+www.google.com##.xtBRad
+
+! 2020-08-15 https://www.fakespot.com
+www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
+www.fakespot.com##.show-vote-share-links
+
+! 2020-08-15 https://www.amazon.com
+||images-na.ssl-images-amazon.com/images/G/01/GW_HUD/PrimeUP/1222441-ilm_desk--revised_1x._CB432783780_.jpg$image
+||images-na.ssl-images-amazon.com/images/G/01/img20/parent/family/ilm/PX-SBA-Multiclick-650x45_v2._CB430493881_.jpg$image
+thefappeningblog.com###post-790454
+
+! 2020-08-20 https://www.amazon.com
+||images-na.ssl-images-amazon.com/images/G/01/US-hq/2020/img/Outdoor_Recreation/XCM_Manual_1237771_1254866_US_us_outdoor_recreation_celeb_store_3249109_650x45_en_US._CB408845777_.jpg$image
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+
+! 2020-08-23 https://www.google.com
+
+
+! 2020-08-23 https://www.ratemyprofessors.com
+www.ratemyprofessors.com##.kQijia__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! 2020-08-24 https://www.networkworld.com
+www.networkworld.com###insider-popup
+www.networkworld.com##.modal-close.modal-overlay
+
+! 2020-08-25 https://www.ebay.com
+||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
+www.ebay.com##.vi-feedback-survey
+www.ebay.com##.vi-feedback-header
+
+! 2020-08-25 https://www.komando.com
+www.komando.com##.k3-prefs-center-modal-background
+
+! 2020-08-25 https://www.newspapers.com
+www.newspapers.com##.tmask
+www.newspapers.com###tbox
+
+! 2020-08-25 newspapers.com
+||www.newspapers.com/freetrial/?iid=11&silo_tracker=i569162421&subtype=extra&duration=semiannual&ft=true$document,domain=www.newspapers.com
+||www.newspapers.com/freetrial/*$document,domain=www.newspapers.com
+
+! 2020-08-25 https://mail.aol.com
+mail.aol.com###dijit__WidgetsInTemplateMixin_1
+mail.aol.com##.AdDiv
+
+! 2020-08-25 https://developer.mozilla.org
+developer.mozilla.org##.notification
+cdn.buymeacoffee.com
+
+! 2020-08-26 https://www.pearson.com
+www.pearson.com###js-cookie-notification
+
+! 2020-08-28 https://seekingalpha.com
+seekingalpha.com##.__30741-3uRNf > .__30741-11OFE.__30741-3P0gR.__89ef8-DKA_E
+seekingalpha.com##.__23ec5-3uRNf
+
+! 2020-08-28 https://www.ebay.com
+www.ebay.com###ocs-inflow
+||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
+www.ebay.com##.vi-feedback-survey
+www.ebay.com##.vi-feedback-header
+
+! 2020-08-31 https://www.chegg.com
+www.chegg.com##.jLmUPm.CTAContent-sc-16kad4p-0
+www.chegg.com##.gEZyjt.ObfuscatedContent-sc-1s0k7r1-0
+requestmetrics.com
+
+! 2020-09-01 https://vexmovies.pro
+vexmovies.pro##.header_navbar__3tP32 > li:nth-of-type(6) > a
+vexmovies.pro##.watch_player-bar__24I_s
+
+! 2020-09-01 https://seekingalpha.com
+||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
+seekingalpha.com##.banner-image
+seekingalpha.com###paywall_dynamic_ticker
+
+! 2020-09-01 https://bookshelf.vitalsource.com
+bookshelf.vitalsource.com###dialog-lXvC57b_Q
+
+! 2020-09-02 https://mail.aol.com
+mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
+
+! 2020-09-03 https://theundefeated.com
+theundefeated.com##.dialog-content
+theundefeated.com##.dialog-overlay
+
+! 2020-09-03 https://www.theatlantic.com
+www.theatlantic.com##.c-nudge-reg-expanded__container.c-nudge__container
+
+! 2020-09-03 https://www.wcostream.com
+www.wcostream.com###star-watch-on
+www.wcostream.com##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
+
+! 2020-09-04 https://digitalguyde.com
+digitalguyde.com##a.easyazon-link:nth-of-type(11) > .aligncenter.easyazon-image
+
+! 2020-09-04 https://www.google.com
+www.google.com##.bY73L.J0Tv0e
+
+! 2020-09-06 https://www.google.com
+www.google.com###dk2qOd
+
+! 2020-09-07 https://www.google.com
+www.google.com##.InNVqc
+
+! 2020-09-07 https://pluto.tv
+pluto.tv##body > div:nth-of-type(2)
+
+! 2020-09-07 https://www.stream2watch.io
+||www.stream2watch.io/frames/fp2/index.php$subdocument
+
+! 2020-09-07 http://123tvnow.com
+123tvnow.com##[href^="https://go.nordvpn.net/aff_c"]
+123tvnow.com##.dropdown-toggle
+
+! 2020-09-07 https://ustvgo.tv
+||ustvgo.tv/tvguide/index.html$subdocument
+ustvgo.tv##.clearfix.entry-content > strong
+ustvgo.tv##[href^="https://zaynews.com/"]
+ustvgo.tv##[href^="https://go.nordvpn.net/aff_c"]
+
+! 2020-09-07 https://www.google.com
+www.google.com##div[class*="explore-main"]
+www.google.com##div[class*="exp-outline"]
+google.*##div[id^="eob"]
+google.*##.exp-outline
+! 2020-09-08 https://www.mercedes-amg.com
+www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
+
+! 2020-09-08 https://www.google.com
+www.google.com###brs
+
+! 2020-09-08 https://sports24.club
+sports24.club##a.btn-outline-primary.btn:nth-of-type(3)
+
+! 2020-09-08 https://www.google.com
+www.google.com##.DNvVdd
+www.google.com##.hide-focus-ring.NhRr3b.uquUgf
+
+! 2020-09-08 https://www.cnet.com
+www.cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
+www.cnet.com###article-body > .col-4
