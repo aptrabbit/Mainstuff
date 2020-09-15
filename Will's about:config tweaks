@@ -1,0 +1,60 @@
+My personal list of important about:config tweaks for maximum performance, usablitity, privacy, and little to no breakage.
+a value of "true" means the setting will be enabled, a value of "false" means the setting will be disabled
+(I'll specify in parentheses if the parameter requires additional knowledge)
+The extension "uBlock Origin" will be mentioned as it changes some parameters in its native settings; I HIGHLY recommend installing it as your only content blocker.
+(listed in order of the "Show All" button)
+
+accesibility.force_enabled; false (could break some sites that launch external tools)
+app.normandy.enabled; false
+app.normandy.first_run; false
+app.shield.optoutstudies.enabled; false
+beacon.enabled; false
+browser.backspace_action; 2 (depends on the user; A value of 2 prevents Firefox from going back a page if you press the backspace bar without a form entry)
+browser.discover.enabled; false
+browser.download.autohideButton; false
+browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden is more secure and renders autofill useless)
+browser.newtabpage.activity-stream.feeds.telemetry; false
+browser.newtabpage.activity-stream.telemetry; false
+browser.ping-centre.telemetry; false
+browser.sessionstore.interval; 75000
+browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and click the exit button on the tab rectangle, the Firefox won't close)
+browser.tabs.crashReporting.sendReport; false
+browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking and losing sensitive work)
+browser.urlbar.speculativeConnect.enabled; false
+browser.urlbar.trimURLs; false (shows the http/https header so you don't enter sensitive data into an insecure site)
+datareporting.healthreport.uploadEnabled; false
+datareporting.policy.dataSubmissionEnabled; false
+dom.battery.enabled; false (may cause breakage, prevents websites from accessing battery data of device)
+dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
+dom.event.clipboardevents.enabled; false (prevents websites from accessing clipboard data, ex. copying and pasting)
+dom.ipc.plugins.flash.subprocess.crashreporter.enabled; false
+dom.ipc.plugins.reportCrashURL; false
+dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
+extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge, this uses extra CPU and is largely unnecessary if you use bookmarks or the toolbar)
+geo.enabled; false (may break some sites; prevents sites from accessing your geolocation)
+gfx.downloadable_fonts.fallback_delay; 0 (loads fonts instanty)
+gfx.downloadable_fonts.fallback_delay_short; 0 (loads fonts instantly)
+gfx.font_loader.delay; 0 (loads fonts instantly)
+gfx.font_rendering.cleartype_params.force_gdi_classic_for_families; "" (will enable directwrite for better font rendering)
+gfx.font_rendering.cleartype_params.force_gdi_classic_max_size; 6 (enables directwrite)
+gfx.font_rendering.directwrite.use_gdi_table_loading; false (enables directwrite)
+gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender" which increases peformance significantly)
+image.decode-immediately.enabled; true (loads images instantly, allowing pages to load faster)
+media.peerconnection.ice.default_address_only; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
+media.peerconnection.ice.no_host; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
+media.peerconnection.ice.proxy_only_if_behind_proxy; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
+media.peerconnection.identity.timeout; 1
+media.video_stats.enabled; false
+network.IDN_show_punycode (for phishing attacks, see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
+network.predictor.enabled; false (ublock origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
+network.prefetch-next; false (ublock origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
+network.protocol-handler.warn-external.ms-windows-store; false (prevents the windows store app from opening when installing something from the website)
+network.security.esni.enabled; true (enables ESNI if using DNS over HTTPS (DoH), see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
+reader.parse-on-load.enabled; false (depens on user; prevents "reader mode" from appearing at all)
+security.dialog_enable_delay; 0
+security.notification_enable_delay; 0
+toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
+toolkit.telemetry.newProfilePing.enabled; false
+toolkit.telemetry.shutdownPingSender.enabled; false
+toolkit.telemetry.unified; false
+toolkit.telemetry.updatePing.enabled; false
