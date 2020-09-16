@@ -27,8 +27,6 @@ www.sports24.stream##.modal-header
 www.sports24.stream##body > div:nth-of-type(5)
 www.sports24.stream###bmc-wbtn
 
-! 4/21/2020 https://seekingalpha.com
-
 ! 4/22/2020 seekingalpha.com
 @@||seekingalpha.com/api/v3/account/1lsvyjg/info?include=proSubscription,marketplaceSubscriptions$xhr,1p
 @@||seekingalpha.com/ajax_get_user_details_card$xhr,1p
@@ -78,17 +76,6 @@ sports24.club##a.play.btn-block.btn-lg.btn-default.btn
 
 ! 5/4/2020 https://www.ghacks.net
 www.ghacks.net###ghacks_ad_code-2 > .pb--6.mb--10.border--bottom--gray.heading--tiny
-
-! 5/8/2020 https://vt.starrezhousing.com
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(9) > .sender
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(9)
-vt.starrezhousing.com##.ui-highlight.highlight.ui-page-conversation.conversation
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(7)
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(4)
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(5)
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(3)
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(1)
-vt.starrezhousing.com##li.ui-page-conversation.conversation:nth-of-type(2)
 
 ! 5/10/2020 seekingalpha.com
 @@||seekingalpha.com/news/3572315-time-to-buy-biopharma-names-is-now-bofa-says$document,1p
@@ -205,16 +192,12 @@ sourceforge.net###dlp-voip-quote
 ! 5/23/2020 https://www.google.com
 www.google.com##.GcFlje
 
-! 5/23/2020 https://www.datgroup.com
-
 ! 5/25/2020 https://client.schwab.com
 client.schwab.com##.closed.feedbackLink
 
 ! 5/25/2020 https://www.bloomberg.com
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##div.bb-global-footer__group:nth-of-type(2) > a.bb-global-footer__link:nth-of-type(3)
-
-! 5/29/2020 https://www.instagram.com
 
 ! 6/1/2020 https://www.google.com
 www.google.com##.KGl2dd.fl
@@ -268,8 +251,6 @@ www.coursehero.com##.flexible-sampling-v1-cta-container > .flexible-sampling-v2-
 ||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
 www.coursehero.com##.flexible-sampling-v2-cta-container > .flexible-sampling-v2-cta
 
-! 6/16/2020 https://sports24.club
-
 ! 6/16/2020 https://myflixer.to
 myflixer.to##.btn-login.btn-on-header.btn-sm.btn
 
@@ -287,7 +268,6 @@ fulltip.net###CYs46XC1gar6QAlBEzhrL9YCYvLSvc
 ! 6/27/2020 https://www.google.com
 www.google.com##.U7izfe.e2BEnf
 www.google.com##.pWCvWb > div > .duf3
-tinypass.com
 
 ! 7/2/2020 https://sports24.club
 ||sports24.club/tv/ol.php?t=Tennis%20Channel&r=aHR0cHM6Ly9teS1zcG9ydHMuY2x1Yi8tL3BsYXllci1yb2xsZXIvdGVubmlzLyMvej0zNjg5MC9scGFnZT1zLWR1YWwtdGVubmlzL2NfYmc9JTJGJTJGaW1nLmNvZGVzJTJGeW45ajRobGljL2NfaW1nMT0lMkYlMkZpbWcuY29kZXMlMkZ1UGJScVhiaWMvcT1TY2hyb2RlcnMrQmF0dGxlK29mK3RoZStCcml0cytMaXZlK1N0cmVhbS9jX2dhPVVBLTk4MzY4NjA5LTgvczE9dGVubmlzbW9kYWw=$subdocument
@@ -320,8 +300,6 @@ www.wcostream.com##.alert
 ! 7/13/2020 https://myflixer.to
 myflixer.to##.text-home-main
 myflixer.to###film_comments
-
-! 7/14/2020 https://seekingalpha.com
 
 ! 7/14/2020 https://www.google.com
 www.google.com##.dobdf.nPDigc > .duf3
@@ -406,9 +384,6 @@ thefappeningblog.com###post-790454
 ! 2020-08-20 https://www.amazon.com
 ||images-na.ssl-images-amazon.com/images/G/01/US-hq/2020/img/Outdoor_Recreation/XCM_Manual_1237771_1254866_US_us_outdoor_recreation_celeb_store_3249109_650x45_en_US._CB408845777_.jpg$image
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
-
-! 2020-08-23 https://www.google.com
-
 
 ! 2020-08-23 https://www.ratemyprofessors.com
 www.ratemyprofessors.com##.kQijia__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
@@ -534,3 +509,30 @@ www.google.com##.hide-focus-ring.NhRr3b.uquUgf
 ! 2020-09-08 https://www.cnet.com
 www.cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
 www.cnet.com###article-body > .col-4
+
+! 2020-09-08 https://www.swansonvitamins.com
+www.swansonvitamins.com###vanillaBox1
+
+! 2020-09-10 https://www.usopen.org
+||www.usopen.org/assets/images/header/ribbon.gif$image
+
+! 2020-09-10 https://chrome.google.com
+chrome.google.com##.Yb
+
+! 2020-09-11 https://sports24.club
+sports24.club##li.nav-item:nth-of-type(10) > .nav-link
+||sports24.club/mlb/ol.php$subdocument
+||www.twitch.tv/embed/sports24c/chat?parent=sports24.club&popout=0&darkpopout$subdocument
+
+! 2020-09-14 https://quizlet.com
+quizlet.com##.SetPage-adzWrapper
+analytics.trinikid.com
+
+! 2020-09-14 https://www.google.com
+www.google.com##.z2QsLb.VjDLd
+
+! 2020-09-15 https://www.wcostream.com
+www.wcostream.com##.iltext > table
+
+! 2020-09-16 https://seekingalpha.com
+seekingalpha.com##.__87e5f-36AFA.__4c89f-DKA_E
