@@ -50,7 +50,7 @@ network.predictor.enabled; false (ublock origin setting: "Disable pre-fetching (
 network.prefetch-next; false (ublock origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.protocol-handler.warn-external.ms-windows-store; false (prevents the windows store app from opening when installing something from the website)
 network.security.esni.enabled; true (enables ESNI if using DNS over HTTPS (DoH), see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
-reader.parse-on-load.enabled; false (depens on user; prevents "reader mode" from appearing at all)
+reader.parse-on-load.enabled; false (depends on user; prevents "reader mode" from appearing at all)
 security.dialog_enable_delay; 0
 security.notification_enable_delay; 0
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
