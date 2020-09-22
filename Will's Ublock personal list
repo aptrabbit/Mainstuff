@@ -536,3 +536,10 @@ www.wcostream.com##.iltext > table
 
 ! 2020-09-16 https://seekingalpha.com
 seekingalpha.com##.__87e5f-36AFA.__4c89f-DKA_E
+
+! 2020-09-19 https://www.google.com
+www.google.com##.KFFQ0c
+
+! 2020-09-22 https://www.wcostream.com
+www.wcostream.com##[href="https://user.wco.tv"]
+wcostream.com##+js(nostif, google_jobrunner)
