@@ -16,7 +16,7 @@ browser.formfill.enable; false (depends on the user; if using Firefox's native p
 browser.newtabpage.activity-stream.feeds.telemetry; false
 browser.newtabpage.activity-stream.telemetry; false
 browser.ping-centre.telemetry; false
-browser.sessionstore.interval; 75000
+browser.sessionstore.interval; 60000
 browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and click then exit button on the tab rectangle, the Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking and losing sensitive work)
