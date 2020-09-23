@@ -376,11 +376,6 @@ www.google.com##.xtBRad
 www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
 www.fakespot.com##.show-vote-share-links
 
-! 2020-08-15 https://www.amazon.com
-||images-na.ssl-images-amazon.com/images/G/01/GW_HUD/PrimeUP/1222441-ilm_desk--revised_1x._CB432783780_.jpg$image
-||images-na.ssl-images-amazon.com/images/G/01/img20/parent/family/ilm/PX-SBA-Multiclick-650x45_v2._CB430493881_.jpg$image
-thefappeningblog.com###post-790454
-
 ! 2020-08-20 https://www.amazon.com
 ||images-na.ssl-images-amazon.com/images/G/01/US-hq/2020/img/Outdoor_Recreation/XCM_Manual_1237771_1254866_US_us_outdoor_recreation_celeb_store_3249109_650x45_en_US._CB408845777_.jpg$image
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
@@ -542,3 +537,16 @@ www.google.com##.KFFQ0c
 
 ! 2020-09-22 https://www.wcostream.com
 www.wcostream.com##[href="https://user.wco.tv"]
+
+! 2020-09-23 https://seekingalpha.com
+seekingalpha.com###px-captcha-wrapper
+
+! 2020-09-23 https://quizlet.com
+quizlet.com##.SiteHeader-chiclet
+https://quizlet.com/static/rollbarv2.3.9.min.js
+eventlogger-k8s.quizlet.com
+quizlet.com##.HurricaneBannerWrapper
+https://assets.quizlet.com/a/j/dist/log_datadog_rum_metrics.42e9bb5601f7472.js
+
+! 2020-09-23 https://lifehacker.com
+lifehacker.com###sidebar_wrapper
