@@ -1,31 +1,6 @@
-! 4/21/2020 http://sports24.club
-||cdn.topperformance.xyz/images/fcn/General3.jpg$image
-sports24.club###fcnbox_dialog
-sports24.club##.fcnbox_message
-sports24.club##.fcnbox_close_button
-sports24.club##.fcnbox_notification_count
-sports24.club##body > div:nth-of-type(5)
-sports24.club###bmc-wbtn
-sports24.club##a.btn-outline-primary.btn:nth-of-type(1) > h5
-sports24.club##a.btn-outline-primary.btn:nth-of-type(2) > h5
-sports24.club##.btn-outline-primary.btn > h4
-sports24.club##.btn-warning.btn
-sports24.club##.modal-title
-sports24.club##.close > span
-sports24.club##.modal-header
-
 ! 4/21/2020 https://www.sports24.stream
 ||cdn.topperformance.xyz/images/fcn/General1.jpg$image
-www.sports24.stream##.fcnbox_message
-www.sports24.stream###fcnbox_dialog
-www.sports24.stream##.fcnbox_close_button
-www.sports24.stream##.fcnbox_notification_count
-
-www.sports24.stream##.container > center
-www.sports24.stream##.btn-warning.btn
-www.sports24.stream##.modal-header
-www.sports24.stream##body > div:nth-of-type(5)
-www.sports24.stream###bmc-wbtn
+||cdn.topperformance.xyz/images/fcn/General3.jpg$image
 
 ! 4/22/2020 seekingalpha.com
 @@||seekingalpha.com/api/v3/account/1lsvyjg/info?include=proSubscription,marketplaceSubscriptions$xhr,1p
@@ -60,19 +35,6 @@ heimdalsecurity.com###ulp-layer-199
 heimdalsecurity.com##.ulp-content
 heimdalsecurity.com###ulp-fd4QboHjgB2v9vvM-overlay
 heimdalsecurity.com##.playht-custom-audio__playFloatingBtn.__play-listen-floating-btn
-
-! 4/27/2020 https://www.sports24.stream
-www.sports24.stream##a.play.btn-block.btn-lg.btn-default.btn > .card-body
-www.sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
-www.sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(4) > .card-body > a.btn-outline-primary.btn:nth-of-type(2) > b
-www.sports24.stream##a.btn-outline-primary.btn:nth-of-type(4) > b
-www.sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(3) > .card-body > a.btn-outline-primary.btn:nth-of-type(2) > b
-www.sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(5) > .card-body > a.btn-outline-primary.btn:nth-of-type(2) > b
-www.sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(6) > .card-body > a.btn-outline-primary.btn:nth-of-type(2) > b
-
-! 4/27/2020 http://sports24.club
-sports24.club##a.play.btn-block.btn-lg.btn-default.btn > .card-body
-sports24.club##a.play.btn-block.btn-lg.btn-default.btn
 
 ! 5/4/2020 https://www.ghacks.net
 www.ghacks.net###ghacks_ad_code-2 > .pb--6.mb--10.border--bottom--gray.heading--tiny
@@ -146,16 +108,6 @@ www.google.com##.kno-ftr.VTZT1b.AuP6le
 www.washingtonpost.com##div.dib-ns.dn:nth-of-type(1) > .btn-sm.btn-blue.btn
 www.washingtonpost.com##.relative.flex-ns.btn-blue.ml-xs.dib-ns.dn.gift-offer > .btn-sm.btn-blue.btn
 
-! 5/19/2020 http://sports24.club
-sports24.club##.container > a.btn-outline-primary.btn:nth-of-type(1)
-sports24.club##a.btn-outline-primary.btn:nth-of-type(2)
-sports24.club##.container > center
-sports24.club##.adrespl > .btn-outline-primary.btn
-
-sports24.club##.modal-body
-sports24.club##.modal-footer
-
-sports24.club##.show.modal-backdrop
 ||www.twitch.tv/embed/sports24c/chat?popout=&darkpopout$subdocument
 
 ! 5/19/2020 https://www.youtube.com
@@ -173,9 +125,6 @@ www.wcostream.com###reklam_adscat > table
 windowsreport.com##.qc-cmp2-summary-section
 windowsreport.com##.qc-cmp2-footer
 windowsreport.com##.qc-cmp-cleanslate.cumIXu.sc-htoDjs
-
-! 5/20/2020 http://sports24.club
-sports24.club##div.col:nth-of-type(2)
 
 ! 5/21/2020 https://www.google.com
 www.google.com##.kno-ftr.rhsvw
@@ -207,12 +156,6 @@ www.wcoanimedub.tv##.anti-ad
 www.wcoanimedub.tv###hide-anime-video-0
 www.wcoanimedub.tv##.columns.fourteen > div:nth-of-type(2) > div:nth-of-type(1)
 
-! 6/4/2020 https://www.google.com
-www.google.com##.BIB1wf.tvh9oe > .Y6heUd > .OUZ5W > .QnfS4e > div.ZUo4Ze:nth-of-type(1) > .fwCBrd > .L43GYb > a.OFxjge:nth-of-type(3)
-
-! 6/4/2020 http://sports24.club
-sports24.club###iframe_preview
-
 ! 6/11/2020 https://seekingalpha.com
 seekingalpha.com##._2LjP6
 
@@ -228,11 +171,6 @@ www.fool.com##.alert-info.page-alert
 myflixer.to##.mb-3.alert
 myflixer.to###pc-fav
 myflixer.to###pc-comment
-
-! 6/13/2020 http://sports24.club
-sports24.club##li.nav-item:nth-of-type(11) > .nav-link
-sports24.club##li.nav-item:nth-of-type(12) > .nav-link
-sports24.club##.alert-success.alert
 
 ! 6/13/2020 https://www.sports24.stream
 www.sports24.stream##.modal-body
@@ -268,10 +206,6 @@ fulltip.net###CYs46XC1gar6QAlBEzhrL9YCYvLSvc
 ! 6/27/2020 https://www.google.com
 www.google.com##.U7izfe.e2BEnf
 www.google.com##.pWCvWb > div > .duf3
-
-! 7/2/2020 https://sports24.club
-||sports24.club/tv/ol.php?t=Tennis%20Channel&r=aHR0cHM6Ly9teS1zcG9ydHMuY2x1Yi8tL3BsYXllci1yb2xsZXIvdGVubmlzLyMvej0zNjg5MC9scGFnZT1zLWR1YWwtdGVubmlzL2NfYmc9JTJGJTJGaW1nLmNvZGVzJTJGeW45ajRobGljL2NfaW1nMT0lMkYlMkZpbWcuY29kZXMlMkZ1UGJScVhiaWMvcT1TY2hyb2RlcnMrQmF0dGxlK29mK3RoZStCcml0cytMaXZlK1N0cmVhbS9jX2dhPVVBLTk4MzY4NjA5LTgvczE9dGVubmlzbW9kYWw=$subdocument
-sports24.club###MzgzNjU2
 daimlerde.tt.omtrdc.net
 1clickcdn.ru
 
@@ -291,9 +225,6 @@ googleoptimize.com
 www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
 www.foxnews.com##.collection-trending.collection
 
-! 7/9/2020 https://sports24.club
-||sports24.club/images/close.jpg$image
-
 ! 7/11/2020 https://www.wcostream.com
 www.wcostream.com##.alert
 
@@ -304,9 +235,6 @@ myflixer.to###film_comments
 ! 7/14/2020 https://www.google.com
 www.google.com##.dobdf.nPDigc > .duf3
 cdn.raygun.io
-
-! 7/14/2020 https://sports24.club
-||sports24.club/tv/ol.php?
 
 ! 7/19/2020 https://www.twitchquotes.com
 www.twitchquotes.com##li:nth-of-type(10)
@@ -344,9 +272,6 @@ www.google.com##.g-blk.mnr-c.kno-kp.g > .kno-ftr
 ! 8/3/2020 https://myflixer.to
 ||i.imgur.com/FRXqJCI.jpg$image
 myflixer.to##.block-rating
-myflixer.to##.mb-0.show.fade.alert-dismissible.alert
-myflixer.to###modalshare
-myflixer.to##.show.modal-backdrop
 
 ! 8/3/2020 https://vidcloud.siteunblocked.info
 ||l99l.org/y/u/$subdocument
@@ -494,9 +419,6 @@ www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-o
 ! 2020-09-08 https://www.google.com
 www.google.com###brs
 
-! 2020-09-08 https://sports24.club
-sports24.club##a.btn-outline-primary.btn:nth-of-type(3)
-
 ! 2020-09-08 https://www.google.com
 www.google.com##.DNvVdd
 www.google.com##.hide-focus-ring.NhRr3b.uquUgf
@@ -513,11 +435,6 @@ www.swansonvitamins.com###vanillaBox1
 
 ! 2020-09-10 https://chrome.google.com
 chrome.google.com##.Yb
-
-! 2020-09-11 https://sports24.club
-sports24.club##li.nav-item:nth-of-type(10) > .nav-link
-||sports24.club/mlb/ol.php$subdocument
-||www.twitch.tv/embed/sports24c/chat?parent=sports24.club&popout=0&darkpopout$subdocument
 
 ! 2020-09-14 https://quizlet.com
 quizlet.com##.SetPage-adzWrapper
@@ -550,3 +467,72 @@ https://assets.quizlet.com/a/j/dist/log_datadog_rum_metrics.42e9bb5601f7472.js
 
 ! 2020-09-23 https://lifehacker.com
 lifehacker.com###sidebar_wrapper
+
+! 2020-09-24 https://www.thefirearmsforum.com
+www.thefirearmsforum.com###out-player-demo
+
+! 2020-09-24 https://www.strategy-business.com
+www.strategy-business.com###gdpr-cookie-notice-handle
+www.strategy-business.com##.showing.newsletterOverlay
+
+! 2020-09-24 https://www.google.com
+www.google.com##.PmPt7d
+
+! 2020-09-24 https://www.azcentral.com
+https://www.azcentral.com/gannett-web/apps/teal/
+www.azcentral.com##.gnt_rr
+www.azcentral.com##.gnt_xbr
+
+! 2020-09-24 https://www.ancestry.com
+www.ancestry.com###Banner_privacy_0
+
+! 2020-09-24 https://gw.geneanet.org
+gw.geneanet.org##.reveal-modal-bg
+gw.geneanet.org###subscribe-incite-modal
+
+! 2020-09-26 https://www.healthline.com
+www.healthline.com##.css-1pnad6
+www.healthline.com##.css-2gi6go
+www.healthline.com##.no-hash.css-x71m42
+
+! 2020-09-26 https://www.fix.com
+www.fix.com##.modal-body
+www.fix.com##.in.fade.modal-backdrop
+
+! 2020-09-27 https://connect.recsports.vt.edu
+connect.recsports.vt.edu###gdpr-cookie-message
+
+! 2020-09-28 https://www.fool.com
+www.fool.com###market_performance
+
+! 2020-09-28 https://www.amazon.com
+www.amazon.com###cart-item-recs
+www.amazon.com##.maple-banner
+www.amazon.com###prime-pda-type-box-ad
+
+! 2020-09-29 https://www.motor1.com
+www.motor1.com##.widget-wrapper
+
+! 2020-09-29 https://sports24.stream
+sports24.stream###bmc-wbtn
+sports24.stream##li.nav-item:nth-of-type(11) > .nav-link
+sports24.stream##li.nav-item:nth-of-type(10) > .nav-link
+sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
+sports24.stream##.alert-success.alert
+sports24.stream##.adrespl
+sports24.stream##.container > a.btn-outline-primary.btn:nth-of-type(1)
+sports24.stream##.container > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.stream##.container > a.btn-outline-primary.btn:nth-of-type(3)
+sports24.stream##.container > .row
+sports24.stream###fcnbox
+||sports24.site/ol.php$subdocument
+||sports24.stream/images/close.jpg$image
+sports24.site
+https://sports24.site/
+sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(2) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(3) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(4) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(5) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(6) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(7) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(8) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
