@@ -40,7 +40,6 @@ gfx.font_rendering.cleartype_params.force_gdi_classic_for_families; "" (will ena
 gfx.font_rendering.cleartype_params.force_gdi_classic_max_size; 6 (enables directwrite)
 gfx.font_rendering.directwrite.use_gdi_table_loading; false (enables directwrite)
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender" which increases peformance significantly)
-image.decode-immediately.enabled; true (decodes images without delay, allowing pages to load faster)
 media.peerconnection.ice.default_address_only; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.no_host; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
