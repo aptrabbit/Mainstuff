@@ -26,7 +26,6 @@ datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
 dom.event.clipboardevents.enabled; false (prevents websites from accessing clipboard data, ex. copying and pasting)
-dom.ipc.plugins.flash.subprocess.crashreporter.enabled; false
 dom.ipc.plugins.reportCrashURL; false
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge, this uses extra CPU and is largely unnecessary if you use bookmarks or the toolbar)
