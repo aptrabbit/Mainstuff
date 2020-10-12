@@ -24,13 +24,11 @@ browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header so you don't enter sensitive data into an insecure site)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
-dom.battery.enabled; false (may cause breakage, prevents websites from accessing battery data of device)
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
 dom.event.clipboardevents.enabled; false (prevents websites from accessing clipboard data, ex. copying and pasting)
 dom.ipc.plugins.flash.subprocess.crashreporter.enabled; false
 dom.ipc.plugins.reportCrashURL; false
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
-dom.window.event.enabled; false
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge, this uses extra CPU and is largely unnecessary if you use bookmarks or the toolbar)
 geo.enabled; false (may break some sites; prevents sites from accessing your geolocation)
 gfx.downloadable_fonts.fallback_delay; 0 (loads fonts instanty)
@@ -44,7 +42,6 @@ media.peerconnection.ice.default_address_only; true (ublock origin setting: "Pre
 media.peerconnection.ice.no_host; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.identity.timeout; 1
-media.video_stats.enabled; false
 network.IDN_show_punycode; true (for phishing attacks, see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (ublock origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (ublock origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
