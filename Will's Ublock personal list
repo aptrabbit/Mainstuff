@@ -1,10 +1,6 @@
-! 4/21/2020 https://www.sports24.stream
+! 4/21/2020 https://www.sports24.club
 ||cdn.topperformance.xyz/images/fcn/General1.jpg$image
 ||cdn.topperformance.xyz/images/fcn/General3.jpg$image
-
-! 4/22/2020 seekingalpha.com
-@@||seekingalpha.com/api/v3/account/1lsvyjg/info?include=proSubscription,marketplaceSubscriptions$xhr,1p
-@@||seekingalpha.com/ajax_get_user_details_card$xhr,1p
 
 ! 4/22/2020 https://www.infor.com
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -38,10 +34,6 @@ heimdalsecurity.com##.playht-custom-audio__playFloatingBtn.__play-listen-floatin
 
 ! 5/4/2020 https://www.ghacks.net
 www.ghacks.net###ghacks_ad_code-2 > .pb--6.mb--10.border--bottom--gray.heading--tiny
-
-! 5/10/2020 seekingalpha.com
-@@||seekingalpha.com/news/3572315-time-to-buy-biopharma-names-is-now-bofa-says$document,1p
-@@||seekingalpha.com/news/3572315-time-to-buy-biopharma-names-is-now-bofa-says$document
 
 ! 5/12/2020 https://www.studyblue.com
 www.studyblue.com##.slide-in.js-slideup-banner.slideup-banner
@@ -156,32 +148,16 @@ www.wcoanimedub.tv##.anti-ad
 www.wcoanimedub.tv###hide-anime-video-0
 www.wcoanimedub.tv##.columns.fourteen > div:nth-of-type(2) > div:nth-of-type(1)
 
-! 6/11/2020 https://seekingalpha.com
-seekingalpha.com##._2LjP6
-
 ! 6/11/2020 https://www.fool.com
 www.fool.com##.alert-info.page-alert
 
 ! 6/11/2020 https://myflixer.to
 ||i.imgur.com/2iuZBCG.jpg$image
-
 ||i.imgur.com/8Fi0puS.jpg$image
-
 ||i.imgur.com/8Fi0puS.jpg$image
 myflixer.to##.mb-3.alert
 myflixer.to###pc-fav
 myflixer.to###pc-comment
-
-! 6/13/2020 https://www.sports24.stream
-www.sports24.stream##.modal-body
-www.sports24.stream##.modal-footer
-www.sports24.stream##.show.modal-backdrop
-www.sports24.stream##.container > a.btn-outline-primary.btn:nth-of-type(1)
-www.sports24.stream##a.btn-outline-primary.btn:nth-of-type(2)
-www.sports24.stream##div.col:nth-of-type(2)
-www.sports24.stream##.adrespl > .btn-outline-primary.btn
-www.sports24.stream##li.nav-item:nth-of-type(11) > .nav-link
-www.sports24.stream##li.nav-item:nth-of-type(12) > .nav-link
 
 ! 6/13/2020 https://www.coursehero.com
 ||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
@@ -240,13 +216,7 @@ cdn.raygun.io
 www.twitchquotes.com##li:nth-of-type(10)
 www.twitchquotes.com##li:nth-of-type(24)
 
-! 7/25/2020 https://seekingalpha.com
-seekingalpha.com##._e4e07--AhyL
-seekingalpha.com##section._b742e-H9iAA._b742e-1hk6y.__35a28-2bjMO:nth-of-type(2)
-seekingalpha.com##._afab8-15v6p
-
 ! 7/31/2020 https://seekingalpha.com
-seekingalpha.com###popover327977
 seekingalpha.com##.lock-premium.touchable.tab-a
 
 ! 7/31/2020 https://www.bmwusa.com
@@ -254,17 +224,6 @@ www.bmwusa.com##.zip-banner__inner-shell--active.zip-banner__inner-shell
 www.bmwusa.com##.zip-banner__outer-shell--active.zip-banner__outer-shell
 www.bmwusa.com##.zip-banner__modal-shell--active.zip-banner__modal-shell
 launcher.spot.im
-
-! 7/31/2020 https://seekingalpha.com
-seekingalpha.com##.popover-body
-seekingalpha.com##.popover-header
-seekingalpha.com##.arrow
-||static1.seekingalpha.com/assets/widget/prtfolio_sticky_bar_background-2de1c85cb8f2e9e79414f0b6bcd6688c603a792489d6bcdda60efb8c2b3e4138.svg$image
-seekingalpha.com###portfolioStickyBarMainForm
-||seekingalpha.com/samw/static/media/background_full.inline.252e54a0.svg$image
-seekingalpha.com##._6f60a-36AFA._6f60a-DKA_E
-seekingalpha.com##._2QZ5R
-seekingalpha.com###DFP_1
 
 ! 8/2/2020 https://www.google.com
 www.google.com##.g-blk.mnr-c.kno-kp.g > .kno-ftr
@@ -435,9 +394,6 @@ www.swansonvitamins.com###vanillaBox1
 
 ! 2020-09-10 https://chrome.google.com
 chrome.google.com##.Yb
-
-! 2020-09-14 https://quizlet.com
-quizlet.com##.SetPage-adzWrapper
 analytics.trinikid.com
 
 ! 2020-09-14 https://www.google.com
@@ -445,9 +401,6 @@ www.google.com##.z2QsLb.VjDLd
 
 ! 2020-09-15 https://www.wcostream.com
 www.wcostream.com##.iltext > table
-
-! 2020-09-16 https://seekingalpha.com
-seekingalpha.com##.__87e5f-36AFA.__4c89f-DKA_E
 
 ! 2020-09-19 https://www.google.com
 www.google.com##.KFFQ0c
@@ -457,13 +410,6 @@ www.wcostream.com##[href="https://user.wco.tv"]
 
 ! 2020-09-23 https://seekingalpha.com
 seekingalpha.com###px-captcha-wrapper
-
-! 2020-09-23 https://quizlet.com
-quizlet.com##.SiteHeader-chiclet
-https://quizlet.com/static/rollbarv2.3.9.min.js
-eventlogger-k8s.quizlet.com
-quizlet.com##.HurricaneBannerWrapper
-https://assets.quizlet.com/a/j/dist/log_datadog_rum_metrics.42e9bb5601f7472.js
 
 ! 2020-09-23 https://lifehacker.com
 lifehacker.com###sidebar_wrapper
@@ -513,26 +459,95 @@ www.amazon.com###prime-pda-type-box-ad
 ! 2020-09-29 https://www.motor1.com
 www.motor1.com##.widget-wrapper
 
-! 2020-09-29 https://sports24.stream
-sports24.stream###bmc-wbtn
-sports24.stream##li.nav-item:nth-of-type(11) > .nav-link
-sports24.stream##li.nav-item:nth-of-type(10) > .nav-link
-sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
-sports24.stream##.alert-success.alert
-sports24.stream##.adrespl
-sports24.stream##.container > a.btn-outline-primary.btn:nth-of-type(1)
-sports24.stream##.container > a.btn-outline-primary.btn:nth-of-type(2)
-sports24.stream##.container > a.btn-outline-primary.btn:nth-of-type(3)
-sports24.stream##.container > .row
-sports24.stream###fcnbox
+! 2020-09-30 https://sports24.club
 ||sports24.site/ol.php$subdocument
-||sports24.stream/images/close.jpg$image
+||sports24.club/images/close.jpg$image
 sports24.site
 https://sports24.site/
-sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(2) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
-sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(3) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
-sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(4) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
-sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(5) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
-sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(6) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
-sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(7) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
-sports24.stream##div.play.btn-block.btn-lg.btn-default.btn:nth-of-type(8) > .card-body > a.btn-outline-primary.btn:nth-of-type(2)
+sports24.club##.alert-success.alert
+cdnjs.buymeacoffee.com
+sports24.club##li.nav-item:nth-of-type(11) > .nav-link
+sports24.club##li.nav-item:nth-of-type(10) > .nav-link
+sports24.club##body > .container > a.btn-outline-primary.btn
+sports24.club##body > .container > div.row
+bckfnohmg.com
+iqkfplsez.com
+sports24.club##.container > .border-top.pt-md-5.my-md-5.pt-4
+sports24.club##.container > a.play.btn-block.btn-lg.btn-default.btn
+
+! 2020-10-01 https://www.tvshowsace.com
+www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
+
+! 2020-10-02 https://www.netgear.com
+www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
+www.netgear.com###container > div.modal-group > .active.custom-modal-bg
+
+! 2020-10-02 https://quizlet.com
+quizlet.com##.site > .HurricaneBannerWrapper
+quizlet.com###DashboardPageTarget > .has-sidebar-adz.DashboardLayout-container > .DashboardLayout-main > .DashboardPage > .DashboardPage-inner > .DashboardPage-main > .LoggedInHomepage.UIDiv > div.UIContainer > .UILink > .is-alwaysNightMode.LoggedInHomepageMerchBanner
+
+! 2020-10-02 https://vexmovies.pro
+vexmovies.pro###__next > main > .container > .watch_watch-page__1ZgSS > .watch_content-tags__2tI5p
+
+! 2020-10-02 https://www.motorauthority.com
+www.motorauthority.com###main > .article-block > .article-wrap > .right-col
+
+! 2020-10-02 https://www.google.com
+www.google.com###rso > div > .uUPGi.O9g5cc.xpd.cUezCb.HD8Pae > div > .bTZTkf
+
+! 2020-10-02 https://www.usatoday.com
+www.usatoday.com##.gnt_cw_w > .gnt_cw > .gnt_xbr
+
+! 2020-10-02 https://www.google.com
+www.google.com###rso > div.g-blk.mnr-c.g > .kno-ftr
+
+! 2020-10-05 https://www.womenshistory.org
+www.womenshistory.org##.n-modal
+
+! 2020-10-05 https://quizlet.com
+quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
+
+! 2020-10-05 https://www.studocu.com
+www.studocu.com###wrapper-all > div > .bar--1Rnih
+
+! 2020-10-06 https://www.cincinnati.com
+www.cincinnati.com##.gnt_pm
+
+! 2020-10-07 https://www.auslogics.com
+www.auslogics.com##.modal-container
+
+! 2020-10-07 https://www.barchart.com
+www.barchart.com##.no-print.bc-webinar-card
+
+! 2020-10-07 https://www.coinbase.com
+www.coinbase.com##.gkNzOD.sc-fzoLsD
+
+! 2020-10-07 https://www.investing.com
+www.investing.com##.dark_graph.js-gen-popup.signupWrap
+
+! 2020-10-08 https://thepostmillennial.com
+thepostmillennial.com##.newsletter.banner.partial
+thepostmillennial.com##.closeable.bottom-shadow.no-margin.commercial > .inner > .display.publicity
+thepostmillennial.com##.player-wrapper
+thepostmillennial.com##.inner > div.commercial-container > .lazyload > div > .commercial
+thepostmillennial.com##.lazyload.content.publicity
+
+! 2020-10-08 https://www.foxnews.com
+www.foxnews.com##.is-programming.alert-banner
+
+! 2020-10-09 https://www.barchart.com
+www.barchart.com##.in.auth-no-modal-ref-class.authentication-modal.register-modal.fade.reveal-modal
+www.barchart.com##.in.fade.reveal-modal-bg
+
+! 2020-10-10 https://www.microsoft.com
+www.microsoft.com##.f-flow.c-dialog
+
+! 2020-10-10 https://www.wcostream.com
+||www.wcostream.com/wp-content/themes/animewp78712/images/bg.jpg$image
+
+! 2020-10-12 https://seekingalpha.com
+seekingalpha.com##._c8ca2-10dOf._c8ca2-130Vb._c8ca2-MbAi4 > ._c8ca2-130Vb._c8ca2-MbAi4
+
+! 2020-10-12 https://civilwartalk.com
+civilwartalk.com##font > center
+events-collector.spot.im
