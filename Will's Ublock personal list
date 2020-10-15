@@ -247,7 +247,6 @@ www.wcoanimedub.tv###hide-anime-video-2
 ! 8/7/2020 https://panopticlick.eff.org
 panopticlick.eff.org##.social
 opticalanalytics.io
-omtrdc.net
 
 ! 8/7/2020 http://sticknodes.com
 ||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
@@ -551,3 +550,26 @@ seekingalpha.com##._c8ca2-10dOf._c8ca2-130Vb._c8ca2-MbAi4 > ._c8ca2-130Vb._c8ca2
 ! 2020-10-12 https://civilwartalk.com
 civilwartalk.com##font > center
 events-collector.spot.im
+
+! 2020-10-13 https://www.studocu.com
+www.studocu.com##.pop-up--21ihD
+www.studocu.com##.preview-banner--1fHJL
+www.studocu.com##.fade-in-enter-done.overlay--1kFgE
+www.studocu.com##.fade-in-enter-done.overlay
+www.studocu.com##.support-button--1wdGm.ic-text
+https://quizlet.com/static/rollbarv2.3.9.min.js
+https://assets.quizlet.com/a/j/dist/log_datadog_rum_metrics.5d1f9f0efe4c816.js
+https://eventlogger-k8s.quizlet.com/
+
+! 2020-10-14 https://www.ecstuning.com
+www.ecstuning.com##.show.fade.hide.modal
+
+! 2020-10-14 https://www.bremboparts.com
+www.bremboparts.com##.tooltip-newsletter
+
+! 2020-10-14 https://www.pelicanparts.com
+www.pelicanparts.com##.simplemodal2-container
+www.pelicanparts.com###simplemodal2-overlay
+
+! 2020-10-14 https://www.mercedescla.org
+www.mercedescla.org###welcome_back
