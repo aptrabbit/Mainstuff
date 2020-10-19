@@ -27,6 +27,7 @@ datareporting.policy.dataSubmissionEnabled; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
 dom.event.clipboardevents.enabled; false (prevents websites from accessing clipboard data, ex. copying and pasting)
 dom.ipc.plugins.reportCrashURL; false
+dom.maxHardwareConcurrency; 2 (spoofs cpu cores as 2 to protect against fingerprinting)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge, this uses extra CPU and is largely unnecessary if you use bookmarks or the toolbar)
 gfx.downloadable_fonts.fallback_delay; 0 (loads fonts instanty)
@@ -50,3 +51,5 @@ toolkit.telemetry.newProfilePing.enabled; false
 toolkit.telemetry.shutdownPingSender.enabled; false
 toolkit.telemetry.unified; false
 toolkit.telemetry.updatePing.enabled; false
+webgl.enable-debug-renderer-info; false (leaves WebGL Vendor & Renderer info blank, protects against webgl fingerprinting)
+
