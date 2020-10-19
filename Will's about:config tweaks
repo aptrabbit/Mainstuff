@@ -29,7 +29,6 @@ dom.event.clipboardevents.enabled; false (prevents websites from accessing clipb
 dom.ipc.plugins.reportCrashURL; false
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge, this uses extra CPU and is largely unnecessary if you use bookmarks or the toolbar)
-geo.enabled; false (may break some sites; prevents sites from accessing your geolocation)
 gfx.downloadable_fonts.fallback_delay; 0 (loads fonts instanty)
 gfx.downloadable_fonts.fallback_delay_short; 0 (loads fonts instantly)
 gfx.font_loader.delay; 0 (loads fonts instantly)
