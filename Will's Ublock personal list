@@ -5,22 +5,12 @@
 ! 4/22/2020 https://www.infor.com
 ||js.driftt.com/deploy/assets/index.html$subdocument
 
-! 4/22/2020 https://www.coursehero.com
-www.coursehero.com##.ch-aaq-widget-toast
-www.coursehero.com##.ch-aaq-widget-tab
-www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
-
 ! 4/25/2020 https://www.dignited.com
 ||i2.wp.com/www.dignited.com/wp-content/uploads/2020/03/728-90PX-FRAMES.gif?ssl=1$image
 
 ! 4/26/2020 https://www.guidancepa.com
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
-
-! 4/26/2020 https://www.instagram.com
-www.instagram.com##.g6RW6.XfCBB.lDRO1._4EzTm.eGOV_.IwRSH.Igw0E
-www.instagram.com##.l4b0S.uL8Hv.h_zdq.qyrsm.xLCgt._7UhW9
-www.instagram.com##.Yx5HN.RnEpo
 
 ! 4/27/2020 https://heimdalsecurity.com
 heimdalsecurity.com###ulp-layer-200
@@ -47,10 +37,6 @@ www.instadp.com###cookie-msg
 speedof.me##.cc-window-banner
 speedof.me##.cc-dialog-pane
 
-! 5/14/2020 https://www.wcostream.com
-www.wcostream.com##.larkax > div:nth-of-type(1)
-www.wcostream.com##.anti-ad
-
 ! 5/14/2020 https://airvpn.org
 airvpn.org###air_cookielaw_container
 
@@ -61,35 +47,17 @@ mail.yahoo.com###modal-outer
 ! 5/18/2020 https://www.mercedes-amg.com
 www.mercedes-amg.com##.amg-e-social-share-buttons__toggle
 www.mercedes-amg.com##.amg-e-social-share-buttons__opener
+opticalanalytics.io
 
 ! 5/18/2020 https://www.google.com
-www.google.com###rso > .g-blk.mnr-c.kno-kp.g > .kno-ftr
-www.google.com##.i8lZMc.JolIg
-www.google.com###_hE7DXsCUFoqRsAfbmqSwDw117 > .cbphWd.hide-focus-ring.match-mod-horizontal-padding
-www.google.com###_hE7DXsCUFoqRsAfbmqSwDw135 > .cbphWd.hide-focus-ring.match-mod-horizontal-padding
-www.google.com###_hE7DXsCUFoqRsAfbmqSwDw152 > .cbphWd.hide-focus-ring.match-mod-horizontal-padding
-www.google.com###_hE7DXsCUFoqRsAfbmqSwDw163 > .cbphWd.hide-focus-ring.match-mod-horizontal-padding
-www.google.com###_p07DXtKCEayhmwWvl7rYDQ3 > .cbphWd.hide-focus-ring.match-mod-horizontal-padding
-www.google.com###_p07DXtKCEayhmwWvl7rYDQ6 > .cbphWd.hide-focus-ring.match-mod-horizontal-padding
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
-www.google.com##.kno-ftr.health-kp-feedback.rhsvw > .kno-fb.OwRFvb > div > .duf3
-www.google.com##.F2eIEb.Aks71e.kno-ftr > .duf3
-www.google.com##.apRX7 > .duf3
-www.google.com##.apRX7
 support.google.com##.user-feedback-link
-www.google.com##.kno-ftr.VTZT1b.AuP6le
-www.google.com##.kno-ftr.AuP6le
-www.google.com##.kno-ftr.rhsvw
 www.google.com##.GcFlje
 www.google.com##.KGl2dd.fl
+www.google.com##.xtBRad
 
 ! 5/19/2020 https://www.washingtonpost.com
 www.washingtonpost.com##div.dib-ns.dn:nth-of-type(1) > .btn-sm.btn-blue.btn
 www.washingtonpost.com##.relative.flex-ns.btn-blue.ml-xs.dib-ns.dn.gift-offer > .btn-sm.btn-blue.btn
-
-! 5/19/2020 https://www.wcostream.com
-www.wcostream.com###reklam_adscat > table > tbody > tr > td
-www.wcostream.com###reklam_adscat > table
 
 ! 5/20/2020 https://windowsreport.com
 windowsreport.com##.qc-cmp2-summary-section
@@ -113,9 +81,9 @@ www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##div.bb-global-footer__group:nth-of-type(2) > a.bb-global-footer__link:nth-of-type(3)
 
 ! 6/1/2020 https://www.wcoanimedub.tv
+www.wcostream.com###reklam_adscat > table
 www.wcoanimedub.tv##.anti-ad
 www.wcoanimedub.tv###hide-anime-video-0
-www.wcoanimedub.tv##.columns.fourteen > div:nth-of-type(2) > div:nth-of-type(1)
 
 ! 6/11/2020 https://www.fool.com
 www.fool.com##.alert-info.page-alert
@@ -128,16 +96,16 @@ myflixer.to##.mb-3.alert
 myflixer.to###pc-fav
 myflixer.to###pc-comment
 
-! 6/13/2020 https://www.coursehero.com
-||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
-www.coursehero.com##.flexible-sampling-v1-cta-container > .flexible-sampling-v2-cta
-||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
-www.coursehero.com##.flexible-sampling-v2-cta-container > .flexible-sampling-v2-cta
-
 ! 6/16/2020 https://myflixer.to
 myflixer.to##.btn-login.btn-on-header.btn-sm.btn
 
 ! 6/18/2020 https://www.coursehero.com
+www.coursehero.com##.ch-aaq-widget-toast
+www.coursehero.com##.ch-aaq-widget-tab
+www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
+||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
+www.coursehero.com##.flexible-sampling-v1-cta-container > .flexible-sampling-v2-cta
+www.coursehero.com##.flexible-sampling-v2-cta-container > .flexible-sampling-v2-cta
 www.coursehero.com###out-of-views-wrapper-2 > .h2a.out-of-views-cta
 fast.wistia.com
 
@@ -147,64 +115,29 @@ kubadownload.com##.at-cv-toaster-win.at-cv-animated-toaster.at-cv-win
 ! 6/26/2020 https://fulltip.net
 fulltip.net###Ee8qmSEFnEtg9MAoLylQ1NykUPiugv
 fulltip.net###CYs46XC1gar6QAlBEzhrL9YCYvLSvc
-
-! 6/27/2020 https://www.google.com
-www.google.com##.U7izfe.e2BEnf
-www.google.com##.pWCvWb > div > .duf3
-www.google.com###sbfblt
-www.google.com###bres > div > .ep3ODe.J0Tv0e
 1clickcdn.ru
-
-! 7/9/2020 https://www.foxnews.com
-||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
-www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
-www.foxnews.com##.collection-trending.collection
-
-! 7/11/2020 https://www.wcostream.com
-www.wcostream.com##.alert
 
 ! 7/13/2020 https://myflixer.to
 myflixer.to##.text-home-main
 myflixer.to###film_comments
-
-! 7/31/2020 https://www.bmwusa.com
-www.bmwusa.com##.zip-banner__inner-shell--active.zip-banner__inner-shell
-www.bmwusa.com##.zip-banner__outer-shell--active.zip-banner__outer-shell
-www.bmwusa.com##.zip-banner__modal-shell--active.zip-banner__modal-shell
 
 ! 8/3/2020 https://myflixer.to
 ||i.imgur.com/FRXqJCI.jpg$image
 myflixer.to##.block-rating
 
 ! 8/3/2020 https://vidcloud.siteunblocked.info
-||l99l.org/y/u/$subdocument
 vidcloud.siteunblocked.info###share
 vidcloud.siteunblocked.info##.video-info-right
-
-! 8/3/2020 https://vidcloud9.com
 vidcloud9.com##.video-info-right
-
-! 8/6/2020 https://www.wcoanimedub.tv
-www.wcoanimedub.tv###hide-anime-video-1
-www.wcoanimedub.tv###hide-anime-video-2
-opticalanalytics.io
+||l99l.org/y/u/$subdocument
 
 ! 8/7/2020 http://sticknodes.com
 ||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
 sticknodes.com##.filepage-ad-bg
 
-! 8/9/2020 https://www.google.com
-www.google.com##.dobdf.nPDigc > .duf3
-www.google.com##.g-blk.mnr-c.kno-kp.g > .kno-ftr
-www.google.com##.xtBRad
-
 ! 2020-08-15 https://www.fakespot.com
 www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
 www.fakespot.com##.show-vote-share-links
-
-! 2020-08-20 https://www.amazon.com
-||images-na.ssl-images-amazon.com/images/G/01/US-hq/2020/img/Outdoor_Recreation/XCM_Manual_1237771_1254866_US_us_outdoor_recreation_celeb_store_3249109_650x45_en_US._CB408845777_.jpg$image
-www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 
 ! 2020-08-23 https://www.ratemyprofessors.com
 www.ratemyprofessors.com##.kQijia__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
@@ -216,17 +149,6 @@ www.networkworld.com##.modal-close.modal-overlay
 ! 2020-08-25 https://www.komando.com
 www.komando.com##.k3-prefs-center-modal-background
 
-! 2020-08-25 https://www.newspapers.com
-www.newspapers.com##.tmask
-www.newspapers.com###tbox
-||www.newspapers.com/freetrial/?iid=11&silo_tracker=i569162421&subtype=extra&duration=semiannual&ft=true$document,domain=www.newspapers.com
-||www.newspapers.com/freetrial/*$document,domain=www.newspapers.com
-
-! 2020-08-25 https://mail.aol.com
-mail.aol.com###dijit__WidgetsInTemplateMixin_1
-mail.aol.com##.AdDiv
-mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
-
 ! 2020-08-26 https://www.pearson.com
 www.pearson.com###js-cookie-notification
 
@@ -235,13 +157,8 @@ www.pearson.com###js-cookie-notification
 www.ebay.com##.vi-feedback-survey
 www.ebay.com##.vi-feedback-header
 www.ebay.com###ocs-inflow
-||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
 www.ebay.com##.vi-feedback-survey
 www.ebay.com##.vi-feedback-header
-
-! 2020-08-31 https://www.chegg.com
-www.chegg.com##.jLmUPm.CTAContent-sc-16kad4p-0
-www.chegg.com##.gEZyjt.ObfuscatedContent-sc-1s0k7r1-0
 
 ! 2020-09-01 https://bookshelf.vitalsource.com
 bookshelf.vitalsource.com###dialog-lXvC57b_Q
@@ -256,6 +173,8 @@ www.theatlantic.com##.c-nudge-reg-expanded__container.c-nudge__container
 ! 2020-09-03 https://www.wcostream.com
 www.wcostream.com###star-watch-on
 www.wcostream.com##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
+www.wcoanimedub.tv###hide-anime-video-1
+www.wcoanimedub.tv###hide-anime-video-2
 
 ! 2020-09-04 https://digitalguyde.com
 digitalguyde.com##a.easyazon-link:nth-of-type(11) > .aligncenter.easyazon-image
@@ -277,29 +196,14 @@ ustvgo.tv##[href^="https://zaynews.com/"]
 ustvgo.tv##[href^="https://go.nordvpn.net/aff_c"]
 
 ! 2020-09-07 https://www.google.com
-www.google.com##.bY73L.J0Tv0e
-www.google.com###dk2qOd
-www.google.com##.InNVqc
 www.google.com##div[class*="explore-main"]
 www.google.com##div[class*="exp-outline"]
 google.*##div[id^="eob"]
 google.*##.exp-outline
-www.google.com###brs
-www.google.com##.DNvVdd
-www.google.com##.hide-focus-ring.NhRr3b.uquUgf
-www.google.com##.z2QsLb.VjDLd
-www.google.com##.KFFQ0c
-www.google.com##.PmPt7d
-
-! 2020-09-08 https://www.mercedes-amg.com
-www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
 
 ! 2020-09-08 https://www.cnet.com
 www.cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
 www.cnet.com###article-body > .col-4
-
-! 2020-09-08 https://www.swansonvitamins.com
-www.swansonvitamins.com###vanillaBox1
 
 ! 2020-09-10 https://www.usopen.org
 ||www.usopen.org/assets/images/header/ribbon.gif$image
@@ -309,23 +213,19 @@ chrome.google.com##.Yb
 analytics.trinikid.com
 
 ! 2020-09-15 https://www.wcostream.com
+www.wcostream.com##.alert
 www.wcostream.com##.iltext > table
-
-! 2020-09-22 https://www.wcostream.com
 www.wcostream.com##[href="https://user.wco.tv"]
 
 ! 2020-09-23 https://lifehacker.com
 lifehacker.com###sidebar_wrapper
-
-! 2020-09-24 https://www.thefirearmsforum.com
-www.thefirearmsforum.com###out-player-demo
 
 ! 2020-09-24 https://www.strategy-business.com
 www.strategy-business.com###gdpr-cookie-notice-handle
 www.strategy-business.com##.showing.newsletterOverlay
 
 ! 2020-09-24 https://www.azcentral.com
-https://www.azcentral.com/gannett-web/apps/teal/
+www.azcentral.com##.gnt_pm
 www.azcentral.com##.gnt_rr
 www.azcentral.com##.gnt_xbr
 
@@ -351,28 +251,26 @@ connect.recsports.vt.edu###gdpr-cookie-message
 ! 2020-09-28 https://www.fool.com
 www.fool.com###market_performance
 
-! 2020-09-28 https://www.amazon.com
-www.amazon.com###cart-item-recs
-www.amazon.com##.maple-banner
-www.amazon.com###prime-pda-type-box-ad
-
 ! 2020-09-29 https://www.motor1.com
 www.motor1.com##.widget-wrapper
 
 ! 2020-09-30 https://sports24.club
-||sports24.site/ol.php$subdocument
-||sports24.club/images/close.jpg$image
-sports24.site
-https://sports24.site/
 sports24.club##.alert-success.alert
-sports24.club##li.nav-item:nth-of-type(11) > .nav-link
-sports24.club##li.nav-item:nth-of-type(10) > .nav-link
 sports24.club##body > .container > a.btn-outline-primary.btn
 sports24.club##body > .container > div.row
+sports24.club##.modal-dialog-centered.modal-dialog
+sports24.club##.show.modal
+sports24.club##.show.modal-backdrop
+sports24.club##li.nav-item:nth-of-type(10)
+sports24.club##li.nav-item:nth-of-type(11)
+sports24.club##a.play.btn-block.btn-lg.btn-default.btn
+sports24.club##.border-top.pt-md-5.my-md-5.pt-4
+||sports24.site/ol.php$subdocument
+sports24.site
+https://sports24.site/
 bckfnohmg.com
 iqkfplsez.com
-sports24.club##.container > .border-top.pt-md-5.my-md-5.pt-4
-sports24.club##.container > a.play.btn-block.btn-lg.btn-default.btn
+cdnjs.buymeacoffee.com
 
 ! 2020-10-01 https://www.tvshowsace.com
 www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
@@ -393,8 +291,12 @@ www.motorauthority.com###main > .article-block > .article-wrap > .right-col
 www.usatoday.com##.gnt_cw_w > .gnt_cw > .gnt_xbr
 
 ! 2020-10-02 https://www.google.com
-www.google.com###rso > div.g-blk.mnr-c.g > .kno-ftr
-www.google.com###rso > div > .uUPGi.O9g5cc.xpd.cUezCb.HD8Pae > div > .bTZTkf
+www.google.com##.Zes0Mc
+www.google.com##.pWCvWb
+www.google.com###botstuff
+www.google.com##.dobdf.nPDigc
+www.google.com##.z2QsLb.VjDLd
+www.google.com##.g-blk.mnr-c.kno-kp.g
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -422,6 +324,8 @@ thepostmillennial.com##.inner > div.commercial-container > .lazyload > div > .co
 thepostmillennial.com##.lazyload.content.publicity
 
 ! 2020-10-08 https://www.foxnews.com
+www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
+www.foxnews.com##.collection-trending.collection
 www.foxnews.com##.is-programming.alert-banner
 cdn.raygun.io
 
@@ -431,9 +335,6 @@ www.barchart.com##.in.fade.reveal-modal-bg
 
 ! 2020-10-10 https://www.microsoft.com
 www.microsoft.com##.f-flow.c-dialog
-
-! 2020-10-10 https://www.wcostream.com
-||www.wcostream.com/wp-content/themes/animewp78712/images/bg.jpg$image
 
 ! 2020-10-12 https://civilwartalk.com
 civilwartalk.com##font > center
@@ -466,9 +367,6 @@ tinder.com##.C\(\$c-secondary\).Bgc\(\#fff\).B\(0\).Bxsh\(\$bxsh-4-way-spread\).
 ! 2020-10-17 https://www.barrons.com
 www.barrons.com###webui-read-next > div
 
-! 2020-10-19 https://www.google.com
-www.google.com##.hide-focus-ring.NhRr3b.pTi5ve
-
 ! 2020-10-19 https://www.marketwatch.com
 www.marketwatch.com###circular-widget
 
@@ -490,15 +388,69 @@ blog.automox.com##.get-started-bottom
 
 ! 2020-10-19 https://quizlet.com
 quizlet.com##.site > .HurricaneBannerWrapper
-quizlet.com###DashboardPageTarget > .has-sidebar-adz.DashboardLayout-container > .DashboardLayout-main > .DashboardPage > .DashboardPage-inner > .DashboardPage-main > .LoggedInHomepage.UIDiv > div.UIContainer > .UILink > .is-alwaysNightMode.LoggedInHomepageMerchBanner
-https://quizlet.com/static/rollbarv2.3.9.min.js
-https://assets.quizlet.com/a/j/dist/log_datadog_rum_metrics.5d1f9f0efe4c816.js
 https://eventlogger-k8s.quizlet.com/
-https://assets.quizlet.com/a/j/dist/common.775445837047b4b.js
 eventlogger.quizlet.com
 quizlet.com##.SignupWallInline-overlay
 quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
 quizlet.com##.SetPageStudyModesBanner-body
 
-! 2020-10-19 https://canvas.vt.edu
-canvas.vt.edu###announcementWrapper
+! 2020-10-19 https://www.amazon.com
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+www.amazon.com###cart-item-recs
+www.amazon.com##.maple-banner
+www.amazon.com###prime-pda-type-box-ad
+www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
+
+! 2020-10-19 https://panopticlick.eff.org
+panopticlick.eff.org##.social
+
+! 2020-10-19 https://www.pirateproxy-bay.com
+www.pirateproxy-bay.com##.hidden-except-country.nord-message__wrap
+
+! 2020-10-19 https://www.coursicle.com
+www.coursicle.com##.appPlugNotifiedWithImage.featurePlug
+
+! 2020-10-19 https://www.retailmenot.com
+www.retailmenot.com##.dMSMYo.ModalDealFinderCallOut__DealFinderCallOut-sc-1z0bb58-0
+www.retailmenot.com##.fHZgam.PromoStickyFooterBanner__StickyFooter-sc-3i57qf-0
+
+! 2020-10-19 https://cenualepil.pl.tl
+cenualepil.pl.tl###selfpromotionOverlay
+
+! 2020-10-20 https://www.cnbc.com
+www.cnbc.com##.pro-feedback-fixed
+
+! 2020-10-20 https://payments.jagex.com
+payments.jagex.com##.ng-scope.messages--inline.cookies.messages
+
+! 2020-10-20 https://www.mercedes-amg.com
+www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
+
+! 2020-10-21 https://www.wcostream.com
+www.wcostream.com##.larkax > div:nth-of-type(1)
+
+! 2020-10-21 https://www.aol.com
+mail.aol.com###dijit__WidgetsInTemplateMixin_1
+mail.aol.com##.AdDiv
+www.aol.com##.YDC-Col2
+login.aol.com##.login-bg-inner > .darla
+mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
+mail.aol.com##.GeminiNativeAd
+
+! 2020-10-22 https://www.fedex.com
+www.fedex.com##.va_icon
+www.fedex.com##.askFedex
+
+! 2020-10-23 https://userstyles.org
+userstyles.org##.android_button_button
+
+! 2020-10-23 https://www.ups.com
+www.ups.com###nuance-chat-anchored
+www.ups.com##.tcChat
+
+! 2020-10-23 https://capital.com
+capital.com##.footer-site-inner
+
+! 2020-10-24 https://www.msn.com
+www.msn.com##.rcc.rc.recommendedSearch
+www.msn.com##.show.floatingfeedback
