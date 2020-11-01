@@ -25,7 +25,6 @@ www.ghacks.net###ghacks_ad_code-2 > .pb--6.mb--10.border--bottom--gray.heading--
 
 ! 5/12/2020 https://www.studyblue.com
 www.studyblue.com##.slide-in.js-slideup-banner.slideup-banner
-study.com##.unlockStudyAnswers
 
 ! 5/13/2020 https://www.instadp.com
 www.instadp.com###cookie-msg
@@ -107,7 +106,6 @@ www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
 www.coursehero.com##.flexible-sampling-v1-cta-container > .flexible-sampling-v2-cta
 www.coursehero.com##.flexible-sampling-v2-cta-container > .flexible-sampling-v2-cta
 www.coursehero.com###out-of-views-wrapper-2 > .h2a.out-of-views-cta
-fast.wistia.com
 
 ! 6/26/2020 https://kubadownload.com
 kubadownload.com##.at-cv-toaster-win.at-cv-animated-toaster.at-cv-win
@@ -139,6 +137,9 @@ sticknodes.com##.filepage-ad-bg
 www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
 www.fakespot.com##.show-vote-share-links
 
+! 2020-08-15 https://trinikid.com
+analytics.trinikid.com
+
 ! 2020-08-23 https://www.ratemyprofessors.com
 www.ratemyprofessors.com##.kQijia__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
 
@@ -157,8 +158,6 @@ www.pearson.com###js-cookie-notification
 www.ebay.com##.vi-feedback-survey
 www.ebay.com##.vi-feedback-header
 www.ebay.com###ocs-inflow
-www.ebay.com##.vi-feedback-survey
-www.ebay.com##.vi-feedback-header
 
 ! 2020-09-01 https://bookshelf.vitalsource.com
 bookshelf.vitalsource.com###dialog-lXvC57b_Q
@@ -208,10 +207,6 @@ www.cnet.com###article-body > .col-4
 ! 2020-09-10 https://www.usopen.org
 ||www.usopen.org/assets/images/header/ribbon.gif$image
 
-! 2020-09-10 https://chrome.google.com
-chrome.google.com##.Yb
-analytics.trinikid.com
-
 ! 2020-09-15 https://www.wcostream.com
 www.wcostream.com##.alert
 www.wcostream.com##.iltext > table
@@ -255,9 +250,10 @@ www.fool.com###market_performance
 www.motor1.com##.widget-wrapper
 
 ! 2020-09-30 https://sports24.club
+sports24.club##.container > a.btn-outline-primary.btn
+sports24.club##div.col
+sports24.club##.col-lg-3.embed-responsive.col-12
 sports24.club##.alert-success.alert
-sports24.club##body > .container > a.btn-outline-primary.btn
-sports24.club##body > .container > div.row
 sports24.club##.modal-dialog-centered.modal-dialog
 sports24.club##.show.modal
 sports24.club##.show.modal-backdrop
@@ -265,15 +261,13 @@ sports24.club##li.nav-item:nth-of-type(10)
 sports24.club##li.nav-item:nth-of-type(11)
 sports24.club##a.play.btn-block.btn-lg.btn-default.btn
 sports24.club##.border-top.pt-md-5.my-md-5.pt-4
-||sports24.site/ol.php$subdocument
-sports24.site
-https://sports24.site/
 bckfnohmg.com
 iqkfplsez.com
 cdnjs.buymeacoffee.com
 
 ! 2020-10-01 https://www.tvshowsace.com
 www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
+analytics.trinikid.com
 
 ! 2020-10-02 https://www.netgear.com
 www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
@@ -296,7 +290,7 @@ www.google.com##.pWCvWb
 www.google.com###botstuff
 www.google.com##.dobdf.nPDigc
 www.google.com##.z2QsLb.VjDLd
-www.google.com##.g-blk.mnr-c.kno-kp.g
+www.google.com###rso > .g-blk.mnr-c.kno-kp.g
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -327,7 +321,6 @@ thepostmillennial.com##.lazyload.content.publicity
 www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
 www.foxnews.com##.collection-trending.collection
 www.foxnews.com##.is-programming.alert-banner
-cdn.raygun.io
 
 ! 2020-10-09 https://www.barchart.com
 www.barchart.com##.in.auth-no-modal-ref-class.authentication-modal.register-modal.fade.reveal-modal
@@ -338,7 +331,6 @@ www.microsoft.com##.f-flow.c-dialog
 
 ! 2020-10-12 https://civilwartalk.com
 civilwartalk.com##font > center
-events-collector.spot.im
 
 ! 2020-10-13 https://www.studocu.com
 www.studocu.com##.pop-up--21ihD
@@ -454,3 +446,25 @@ capital.com##.footer-site-inner
 ! 2020-10-24 https://www.msn.com
 www.msn.com##.rcc.rc.recommendedSearch
 www.msn.com##.show.floatingfeedback
+
+! 2020-10-25 https://www.masculinedevelopment.com
+www.masculinedevelopment.com##.right.sAs
+
+! 2020-10-27 https://www.wcostream.com
+www.wcostream.com##.anti-ad
+
+! 2020-10-27 https://www.ratemyprofessors.com
+www.ratemyprofessors.com##.reveal-modal-bg
+www.ratemyprofessors.com##.hidden.ccpa-footer.ccpa-modal
+www.ratemyprofessors.com##.gfTyxp.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0
+
+! 2020-10-27 https://ymovies.vip
+ymovies.vip###toggle-xsidebar
+
+! 2020-10-28 https://www.realclearpolitics.com
+www.realclearpolitics.com##.fark-header
+
+! 2020-11-01 https://www.amazon.com
+www.amazon.com###customer-survey_feature_div
+                    
+               
