@@ -29,6 +29,7 @@ dom.event.clipboardevents.enabled; false (prevents websites from accessing clipb
 dom.ipc.plugins.reportCrashURL; false
 dom.maxHardwareConcurrency; 2 (spoofs cpu cores as 2 to protect against fingerprinting)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
+extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge, this uses extra CPU and is largely unnecessary if you use bookmarks or the toolbar)
 gfx.font_loader.delay; 0 (loads fonts instantly)
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender" which increases peformance significantly)
@@ -50,4 +51,3 @@ toolkit.telemetry.shutdownPingSender.enabled; false
 toolkit.telemetry.unified; false
 toolkit.telemetry.updatePing.enabled; false
 webgl.enable-debug-renderer-info; false (leaves WebGL Vendor & Renderer info blank, protects against webgl fingerprinting)
-
