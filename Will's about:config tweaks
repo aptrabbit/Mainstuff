@@ -12,16 +12,14 @@ beacon.enabled; false
 browser.backspace_action; 2 (depends on the user; A value of 2 prevents Firefox from going back a page if you press the backspace bar without a form entry)
 browser.discover.enabled; false
 browser.download.autohideButton; false
-browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden is more secure and renders autofill useless)
-browser.newtabpage.activity-stream.feeds.telemetry; false
-browser.newtabpage.activity-stream.telemetry; false
+browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
 browser.ping-centre.telemetry; false
 browser.sessionstore.interval; 60000
-browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and click then exit button on the tab rectangle, the Firefox won't close)
+browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and click then exit button on the tab rectangle, Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking and losing sensitive work)
 browser.urlbar.speculativeConnect.enabled; false
-browser.urlbar.trimURLs; false (shows the http/https header so you don't enter sensitive data into an insecure site)
+browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
@@ -30,24 +28,21 @@ dom.ipc.plugins.reportCrashURL; false
 dom.maxHardwareConcurrency; 2 (spoofs cpu cores as 2 to protect against fingerprinting)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
-extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge, this uses extra CPU and is largely unnecessary if you use bookmarks or the toolbar)
+extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge; this uses extra CPU)
 gfx.font_loader.delay; 0 (loads fonts instantly)
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender" which increases peformance significantly)
 media.peerconnection.ice.default_address_only; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
-media.peerconnection.ice.no_host; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
-media.peerconnection.ice.proxy_only_if_behind_proxy; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
+media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
+media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.identity.timeout; 1
-network.IDN_show_punycode; true (for phishing attacks, see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
-network.predictor.enabled; false (ublock origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
-network.prefetch-next; false (ublock origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
-network.protocol-handler.warn-external.ms-windows-store; false (prevents the windows store app from opening when installing something from the website)
+network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
+network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
+network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.security.esni.enabled; true (enables ESNI if using DNS over HTTPS (DoH), see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
-reader.parse-on-load.enabled; false (depends on user; prevents "reader mode" from appearing at all)
+reader.parse-on-load.enabled; false (depends on user; prevents "reader mode" from appearing at all on url bar)
 security.dialog_enable_delay; 0
 security.notification_enable_delay; 0
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
-toolkit.telemetry.newProfilePing.enabled; false
 toolkit.telemetry.shutdownPingSender.enabled; false
 toolkit.telemetry.unified; false
-toolkit.telemetry.updatePing.enabled; false
 webgl.enable-debug-renderer-info; false (leaves WebGL Vendor & Renderer info blank, protects against webgl fingerprinting)
