@@ -250,17 +250,19 @@ www.fool.com###market_performance
 www.motor1.com##.widget-wrapper
 
 ! 2020-09-30 https://sports24.club
-sports24.club##.container > a.btn-outline-primary.btn
-sports24.club##div.col
-sports24.club##.col-lg-3.embed-responsive.col-12
-sports24.club##.alert-success.alert
-sports24.club##.modal-dialog-centered.modal-dialog
-sports24.club##.show.modal
-sports24.club##.show.modal-backdrop
-sports24.club##li.nav-item:nth-of-type(10)
-sports24.club##li.nav-item:nth-of-type(11)
-sports24.club##a.play.btn-block.btn-lg.btn-default.btn
-sports24.club##.border-top.pt-md-5.my-md-5.pt-4
+sports24.icu##.container > a.btn-outline-primary.btn
+sports24.icu##div.col
+sports24.icu##.col-lg-3.embed-responsive.col-12
+sports24.icu##.alert-success.alert
+sports24.icu##.modal-dialog-centered.modal-dialog
+sports24.icu##.show.modal
+sports24.icu##.show.modal-backdrop
+sports24.icu##li.nav-item:nth-of-type(10)
+sports24.icu##li.nav-item:nth-of-type(11)
+sports24.icu##a.play.btn-block.btn-lg.btn-default.btn
+sports24.icu##.border-top.pt-md-5.my-md-5.pt-4
+||sports24.icu/images/close.jpg$image
+||sports24.site/ol.php$subdocument
 bckfnohmg.com
 iqkfplsez.com
 cdnjs.buymeacoffee.com
@@ -370,10 +372,10 @@ www.glassdoor.com###InlineLoginModule
 seekingalpha.com##.banner-image
 seekingalpha.com###paywall_dynamic_ticker
 seekingalpha.com###px-captcha-wrapper
-seekingalpha.com##.lock-premium.touchable.tab-a
 seekingalpha.com###news-left-slot-1
 seekingalpha.com###article-left-slot-2
 seekingalpha.com###add-ticker-to-portfolio-unit
+seekingalpha.com##.in.fade.modal-backdrop
 
 ! 2020-10-19 https://blog.automox.com
 blog.automox.com##.get-started-bottom
@@ -385,6 +387,8 @@ eventlogger.quizlet.com
 quizlet.com##.SignupWallInline-overlay
 quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
 quizlet.com##.SetPageStudyModesBanner-body
+quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
+quizlet.com##.is-visible.is-included.UIModal-backdrop
 
 ! 2020-10-19 https://www.amazon.com
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
@@ -392,15 +396,13 @@ www.amazon.com###cart-item-recs
 www.amazon.com##.maple-banner
 www.amazon.com###prime-pda-type-box-ad
 www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
+www.amazon.com###customer-survey_feature_div
 
 ! 2020-10-19 https://panopticlick.eff.org
 panopticlick.eff.org##.social
 
 ! 2020-10-19 https://www.pirateproxy-bay.com
 www.pirateproxy-bay.com##.hidden-except-country.nord-message__wrap
-
-! 2020-10-19 https://www.coursicle.com
-www.coursicle.com##.appPlugNotifiedWithImage.featurePlug
 
 ! 2020-10-19 https://www.retailmenot.com
 www.retailmenot.com##.dMSMYo.ModalDealFinderCallOut__DealFinderCallOut-sc-1z0bb58-0
@@ -464,7 +466,47 @@ ymovies.vip###toggle-xsidebar
 ! 2020-10-28 https://www.realclearpolitics.com
 www.realclearpolitics.com##.fark-header
 
-! 2020-11-01 https://www.amazon.com
-www.amazon.com###customer-survey_feature_div
-                    
-               
+! 2020-11-02 https://www.mediafire.com
+www.mediafire.com##.CookieAcceptance
+
+! 2020-11-03 https://news.gallup.com
+news.gallup.com##.gcb_35556
+
+! 2020-11-03 https://coinmarketcap.com
+coinmarketcap.com##.dRFchQ.sc-174r4on-0
+
+! 2020-11-03 https://groups.yahoo.com
+groups.yahoo.com###yset-search-upsell-container
+
+! 2020-11-03 https://pro.coinbase.com
+pro.coinbase.com##.hdzUHW.sc-fzoXWK
+
+! 2020-11-04 https://ustv247.tv
+ustv247.tv##.clearfix.entry-content > strong
+ustv247.tv##.advertisement_above_footer
+ustv247.tv###menu-item-1684 > [href="https://ustv247.tv/how-to-install-vpn/"]
+ustv247.tv###menu-item-1305 > [href^="https://go.nordvpn.net/aff_c"]
+ustv247.tv###scroll-up
+ustv247.tv##h2
+ustv247.tv##h4
+ustv247.tv##.clearfix.entry-content > p
+||ustv247.tv/tvguide/index.html$subdocument
+
+! 2020-11-05 https://www.nytimes.com
+www.nytimes.com##.css-iu3170
+
+! 2020-11-06 https://www.nerdwallet.com
+www.nerdwallet.com##p > div
+www.nerdwallet.com##p > ._2dyIi
+
+! 2020-11-06 https://coinmarketcap.com
+coinmarketcap.com##.kTOFra.sc-174r4on-0
+
+! 2020-11-07 https://www.autoblog.com
+www.autoblog.com###spotim-specific
+
+! 2020-11-09 https://cosmos.network
+cosmos.network##.banner-wrapper
+
+! 2020-11-10 https://membernotifications.aol.com
+membernotifications.aol.com###CTA_Link
