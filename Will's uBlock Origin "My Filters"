@@ -250,18 +250,18 @@ www.fool.com###market_performance
 www.motor1.com##.widget-wrapper
 
 ! 2020-09-30 https://sports24.club
-sports24.icu##.container > a.btn-outline-primary.btn
-sports24.icu##div.col
-sports24.icu##.col-lg-3.embed-responsive.col-12
-sports24.icu##.alert-success.alert
-sports24.icu##.modal-dialog-centered.modal-dialog
-sports24.icu##.show.modal
-sports24.icu##.show.modal-backdrop
-sports24.icu##li.nav-item:nth-of-type(10)
-sports24.icu##li.nav-item:nth-of-type(11)
-sports24.icu##a.play.btn-block.btn-lg.btn-default.btn
-sports24.icu##.border-top.pt-md-5.my-md-5.pt-4
-||sports24.icu/images/close.jpg$image
+sports24.club##.container > a.btn-outline-primary.btn
+sports24.club##div.col
+sports24.club##.col-lg-3.embed-responsive.col-12
+sports24.club##.alert-success.alert
+sports24.club##.modal-dialog-centered.modal-dialog
+sports24.club##.show.modal
+sports24.club##.show.modal-backdrop
+sports24.club##li.nav-item:nth-of-type(10)
+sports24.club##li.nav-item:nth-of-type(11)
+sports24.club##a.play.btn-block.btn-lg.btn-default.btn
+sports24.club##.border-top.pt-md-5.my-md-5.pt-4
+||sports24.club/images/close.jpg$image
 ||sports24.site/ol.php$subdocument
 bckfnohmg.com
 iqkfplsez.com
@@ -274,11 +274,6 @@ analytics.trinikid.com
 ! 2020-10-02 https://www.netgear.com
 www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
 www.netgear.com###container > div.modal-group > .active.custom-modal-bg
-
-! 2020-10-02 https://vexmovies.pro
-vexmovies.pro##.header_navbar__3tP32 > li:nth-of-type(6) > a
-vexmovies.pro##.watch_player-bar__24I_s
-vexmovies.pro###__next > main > .container > .watch_watch-page__1ZgSS > .watch_content-tags__2tI5p
 
 ! 2020-10-02 https://www.motorauthority.com
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
@@ -293,6 +288,8 @@ www.google.com###botstuff
 www.google.com##.dobdf.nPDigc
 www.google.com##.z2QsLb.VjDLd
 www.google.com###rso > .g-blk.mnr-c.kno-kp.g
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##div.J3Tg1d.PNCib.isv-r
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -305,9 +302,6 @@ www.auslogics.com##.modal-container
 
 ! 2020-10-07 https://www.barchart.com
 www.barchart.com##.no-print.bc-webinar-card
-
-! 2020-10-07 https://www.coinbase.com
-www.coinbase.com##.gkNzOD.sc-fzoLsD
 
 ! 2020-10-07 https://www.investing.com
 www.investing.com##.dark_graph.js-gen-popup.signupWrap
@@ -376,6 +370,7 @@ seekingalpha.com###news-left-slot-1
 seekingalpha.com###article-left-slot-2
 seekingalpha.com###add-ticker-to-portfolio-unit
 seekingalpha.com##.in.fade.modal-backdrop
+seekingalpha.com##div._02770-3Yy4A._02770-3yLfX
 
 ! 2020-10-19 https://blog.automox.com
 blog.automox.com##.get-started-bottom
@@ -507,3 +502,53 @@ cosmos.network##.banner-wrapper
 
 ! 2020-11-10 https://membernotifications.aol.com
 membernotifications.aol.com###CTA_Link
+
+! 2020-11-11 https://www.accuweather.com
+www.accuweather.com##.privacy-policy-banner
+
+! 2020-11-12 https://www.coinbase.com
+www.coinbase.com##.gkNzOD.sc-fzoLsD
+
+! 2020-11-12 https://www.niche.com
+www.niche.com##.scatterplot__logged-out-messages
+www.niche.com##.search-result--featured
+
+! 2020-11-13 https://www.theblockcrypto.com
+www.theblockcrypto.com##.d-md-flex.d-none.out.toggle-fade.animation.sponsorFooter
+www.theblockcrypto.com##.mb-4.ml-4.float-right.d-lg-block.d-none
+www.theblockcrypto.com##.mt-5.newsletterFeed
+www.theblockcrypto.com##.modal-retainer
+
+! 2020-11-13 https://www.barchart.com
+www.barchart.com##.advertisement-left
+
+! 2020-11-13 https://www.investors.com
+www.investors.com###investors-policy-terms-consent-dialog
+
+! 2020-11-13 https://www.marketbeat.com
+www.marketbeat.com###HelpersArea
+www.marketbeat.com##tr.bottom-sort
+www.marketbeat.com###pnlAllAccessTrial
+www.marketbeat.com##[src="https://www.marketbeat.com/scripts/MoreOnMarketBeatCompanyProfiles.aspx"]
+www.marketbeat.com##.mb-3.c-white.p-3.gradient-blue
+
+! 2020-11-15 https://www.twitch.tv
+||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
+
+! 2020-11-16 https://www.benzinga.com
+www.benzinga.com##.bz-campaign-text-bottom
+
+! 2020-11-17 https://nodawaynews.com
+nodawaynews.com##.header-ad-content.c5-right
+
+! 2020-11-17 https://www.urotuning.com
+www.urotuning.com###soundest-forms-container
+
+! 2020-11-18 https://www.gamingscan.com
+www.gamingscan.com##.fs-top-of-content
+
+! 2020-11-18 https://www.bankrate.com
+www.bankrate.com##.myFinance-ad-unit
+
+! 2020-11-19 https://www.guidingtech.com
+www.guidingtech.com##div.space-two.layer-one.resetcoords.fill-bb-white.campaign-ad
