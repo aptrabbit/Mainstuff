@@ -384,6 +384,7 @@ quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
 quizlet.com##.SetPageStudyModesBanner-body
 quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
 quizlet.com##.is-visible.is-included.UIModal-backdrop
+quizlet.com##.SetPageWall--normal.SetPageWall
 
 ! 2020-10-19 https://www.amazon.com
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
@@ -552,3 +553,6 @@ www.bankrate.com##.myFinance-ad-unit
 
 ! 2020-11-19 https://www.guidingtech.com
 www.guidingtech.com##div.space-two.layer-one.resetcoords.fill-bb-white.campaign-ad
+
+! 2020-11-23 https://www.studiowide.co.uk
+www.studiowide.co.uk###swpopup-wrapper
