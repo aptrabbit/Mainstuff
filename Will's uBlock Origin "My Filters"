@@ -29,9 +29,6 @@ www.studyblue.com##.slide-in.js-slideup-banner.slideup-banner
 ! 5/13/2020 https://www.instadp.com
 www.instadp.com###cookie-msg
 
-! 5/13/2020 http://izuum.com
-||izuum.com/routerqr.jpg$image
-
 ! 5/14/2020 https://speedof.me
 speedof.me##.cc-window-banner
 speedof.me##.cc-dialog-pane
@@ -250,18 +247,18 @@ www.fool.com###market_performance
 www.motor1.com##.widget-wrapper
 
 ! 2020-09-30 https://sports24.club
-sports24.club##.container > a.btn-outline-primary.btn
-sports24.club##div.col
-sports24.club##.col-lg-3.embed-responsive.col-12
-sports24.club##.alert-success.alert
-sports24.club##.modal-dialog-centered.modal-dialog
-sports24.club##.show.modal
-sports24.club##.show.modal-backdrop
-sports24.club##li.nav-item:nth-of-type(10)
-sports24.club##li.nav-item:nth-of-type(11)
-sports24.club##a.play.btn-block.btn-lg.btn-default.btn
-sports24.club##.border-top.pt-md-5.my-md-5.pt-4
-||sports24.club/images/close.jpg$image
+vip.sports24.club##.container > a.btn-outline-primary.btn
+vip.sports24.club##div.col
+vip.sports24.club##.col-lg-3.embed-responsive.col-12
+vip.sports24.club##.alert-success.alert
+vip.sports24.club##.modal-dialog-centered.modal-dialog
+vip.sports24.club##.show.modal
+vip.sports24.club##.show.modal-backdrop
+vip.sports24.club##li.nav-item:nth-of-type(11)
+vip.sports24.club##li.nav-item:nth-of-type(12)
+vip.sports24.club##a.play.btn-block.btn-lg.btn-default.btn
+vip.sports24.club##.border-top.pt-md-5.my-md-5.pt-4
+||vip.sports24.club/images/close.jpg$image
 ||sports24.site/ol.php$subdocument
 bckfnohmg.com
 iqkfplsez.com
@@ -290,6 +287,7 @@ www.google.com##.z2QsLb.VjDLd
 www.google.com###rso > .g-blk.mnr-c.kno-kp.g
 www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
 www.google.com##div.J3Tg1d.PNCib.isv-r
+www.google.com##.LEKZTd
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -556,3 +554,21 @@ www.guidingtech.com##div.space-two.layer-one.resetcoords.fill-bb-white.campaign-
 
 ! 2020-11-23 https://www.studiowide.co.uk
 www.studiowide.co.uk###swpopup-wrapper
+
+! 2020-11-25 https://www.spotify.com
+www.spotify.com##.hzeuvL.sc-cxFLnm
+
+! 2020-11-27 https://www.britannica.com
+www.britannica.com##.marketing-slider.marketing-SLIDER
+
+! 2020-11-28 https://www.firestonecompleteautocare.com
+www.firestonecompleteautocare.com##.dL_rosBanner
+
+! 2020-11-28 https://www.dell.com
+www.dell.com##.ask-question-banner-wrapper
+
+! 2020-11-28 https://www.ccleaner.com
+www.ccleaner.com###main-content > .text-center
+
+! 2020-11-30 https://www.jewage.org
+www.jewage.org##.family_search_popup
