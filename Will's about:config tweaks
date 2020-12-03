@@ -29,6 +29,7 @@ dom.maxHardwareConcurrency; 2 (spoofs cpu cores as 2 to protect against fingerpr
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge; this uses extra CPU)
+extensions.webextensions.restrictedDomains; "accounts-static.cdn.mozilla.net,accounts.firefox.com,api.accounts.firefox.com,install.mozilla.org,oauth.accounts.firefox.com,profile.accounts.firefox.com,sync.services.mozilla.com"
 gfx.font_loader.delay; 0 (loads fonts instantly)
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender" which increases peformance significantly)
 media.peerconnection.ice.default_address_only; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
@@ -38,6 +39,7 @@ media.peerconnection.identity.timeout; 1
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
+privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on mozilla websites)
 network.security.esni.enabled; true (enables ESNI if using DNS over HTTPS (DoH), see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
 reader.parse-on-load.enabled; false (depends on user; prevents "reader mode" from appearing at all on url bar)
 security.dialog_enable_delay; 0
