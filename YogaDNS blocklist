@@ -1,4 +1,4 @@
-YogaDNS blocklist for windows telemetry, basic telemetry used by various programs and spotify ads
+YogaDNS blocklist for windows telemetry, basic telemetry used by various programs and some ads
 name configuration "blacklist"
 "Action: Block"
 Resolve host names as 0.0.0.0
