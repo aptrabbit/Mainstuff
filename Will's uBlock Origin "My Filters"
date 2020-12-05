@@ -245,6 +245,8 @@ www.fool.com###market_performance
 
 ! 2020-09-29 https://www.motor1.com
 www.motor1.com##.widget-wrapper
+www.motor1.com##.msrp-stripe
+www.motor1.com##.msrp-body
 
 ! 2020-09-30 https://sports24.club
 vip.sports24.club##.container > a.btn-outline-primary.btn
@@ -572,3 +574,13 @@ www.ccleaner.com###main-content > .text-center
 
 ! 2020-11-30 https://www.jewage.org
 www.jewage.org##.family_search_popup
+
+! 2020-12-04 https://yesmovies.ag
+yesmovies.ag###xsidebar
+
+! 2020-12-05 https://brainly.com
+brainly.com##.js-react-brainly-plus-box-aside
+
+! 2020-12-05 https://wwatchseries.com
+wwatchseries.com##div:nth-of-type(5)
+wwatchseries.com##.watch_content-tags__2tI5p
