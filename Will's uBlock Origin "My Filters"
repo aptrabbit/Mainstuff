@@ -207,8 +207,8 @@ sports24.club##.show.modal-backdrop
 sports24.club##li.nav-item:nth-of-type(12)
 sports24.club##li.nav-item:nth-of-type(13)
 sports24.club##a.play.btn-block.btn-lg.btn-default.btn
-sports24.club##.border-top.pt-md-5.my-md-5.pt-4
 sports24.club###cedato-unit
+sports24.club###footylight
 ||sports24.club/images/close.jpg$image
 ||sports24.site/ol.php$subdocument
 bckfnohmg.com
@@ -509,12 +509,14 @@ wwatchseries.com##div:nth-of-type(5)
 wwatchseries.com##.watch_content-tags__2tI5p
 wwatchseries.com##.poster_content-list__11G1q
 wwatchseries.com##.watch_similar-title__1D8e2
+wwatchseries.com##.watch_player-bar__24I_s
 
 ! 2020-12-06 https://www.ratemyprofessors.com
 www.ratemyprofessors.com##.cxTury__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
 www.ratemyprofessors.com##.kaWnLy.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0
 www.ratemyprofessors.com##.reveal-modal-bg
 www.ratemyprofessors.com##.hidden.ccpa-footer.ccpa-modal
+wwatchseries.com##li:nth-of-type(6)
 
 ! 2020-12-09 https://expressdigest.com
 expressdigest.com##.code-block-2.code-block
@@ -591,3 +593,6 @@ open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--anima
 ! 2020-12-31 https://www.imyfone.com
 www.imyfone.com##.left-list
 www.imyfone.com##.m-hidden-769.activity-aside.activity-aside-pc
+
+! 2021-01-06 https://mail.yahoo.com
+mail.yahoo.com##.cZ1YE9Ay_3vNsy.cZ1YE9Aj_3HK1R.H_3rRhf.W_3DVPV.D_B.M_1EAG48
