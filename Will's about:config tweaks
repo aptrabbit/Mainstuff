@@ -25,7 +25,6 @@ datareporting.policy.dataSubmissionEnabled; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
 dom.event.clipboardevents.enabled; false (prevents websites from accessing clipboard data, ex. copying and pasting)
 dom.ipc.plugins.reportCrashURL; false
-dom.maxHardwareConcurrency; 2 (spoofs cpu cores as 2 to protect against fingerprinting)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge; this uses extra CPU)
@@ -47,4 +46,3 @@ security.notification_enable_delay; 0
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
 toolkit.telemetry.shutdownPingSender.enabled; false
 toolkit.telemetry.unified; false
-webgl.enable-debug-renderer-info; false (leaves WebGL Vendor & Renderer info blank, protects against webgl fingerprinting)
