@@ -11,6 +11,7 @@ app.shield.optoutstudies.enabled; false
 beacon.enabled; false
 browser.backspace_action; 2 (depends on the user; A value of 2 prevents Firefox from going back a page if you press the backspace bar without a form entry)
 browser.discover.enabled; false
+browser.display.focus_ring_width; 0
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
 browser.ping-centre.telemetry; false
@@ -28,8 +29,11 @@ dom.webnotifications.enabled; false (depends on user; setting to false will bloc
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge; this uses extra CPU)
 extensions.webextensions.restrictedDomains; "accounts-static.cdn.mozilla.net,accounts.firefox.com,api.accounts.firefox.com,install.mozilla.org,oauth.accounts.firefox.com,profile.accounts.firefox.com,sync.services.mozilla.com"
+gfx.downloadable_fonts.fallback_delay; 0
+gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0 (loads fonts instantly)
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender" which increases peformance significantly)
+image.decode-immediately.enabled: true
 media.peerconnection.ice.default_address_only; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
