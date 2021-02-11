@@ -33,7 +33,6 @@ gfx.downloadable_fonts.fallback_delay; 0
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0 (loads fonts instantly)
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender" which increases peformance significantly)
-image.decode-immediately.enabled: true
 media.peerconnection.ice.default_address_only; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
