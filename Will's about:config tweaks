@@ -23,7 +23,6 @@ browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
-dom.event.clipboardevents.enabled; false (prevents websites from accessing clipboard data, ex. copying and pasting)
 dom.ipc.plugins.reportCrashURL; false
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
