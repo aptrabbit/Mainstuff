@@ -14,6 +14,7 @@ browser.display.focus_ring_width; 0
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
 browser.ping-centre.telemetry; false
+browser.send_pings.require_same_host; true
 browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and click then exit button on the tab rectangle, Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking and losing sensitive work)
