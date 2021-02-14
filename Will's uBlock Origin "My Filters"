@@ -45,7 +45,6 @@ windowsreport.com##.qc-cmp-cleanslate.cumIXu.sc-htoDjs
 ||mediabiasfactcheck.com/wp-content/uploads/2019/09/adfreebanner.png$image
 mediabiasfactcheck.com##[href="https://mediabiasfactcheck.com/advertising-disclaimer/"]
 mediabiasfactcheck.com###text-4 > .textwidget > center:nth-of-type(2)
-||mediabiasfactcheck.com/wp-content/uploads/2019/09/adfreebanner.png$image
 
 ! 5/23/2020 https://sourceforge.net
 sourceforge.net###dlp-voip-quote
@@ -74,11 +73,6 @@ www.coursehero.com###out-of-views-wrapper-2 > .h2a.out-of-views-cta
 
 ! 6/26/2020 https://kubadownload.com
 kubadownload.com##.at-cv-toaster-win.at-cv-animated-toaster.at-cv-win
-
-! 6/26/2020 https://fulltip.net
-fulltip.net###Ee8qmSEFnEtg9MAoLylQ1NykUPiugv
-fulltip.net###CYs46XC1gar6QAlBEzhrL9YCYvLSvc
-1clickcdn.ru
 
 ! 8/3/2020 https://vidcloud.siteunblocked.info
 vidcloud.siteunblocked.info###share
@@ -134,17 +128,8 @@ pluto.tv##body > div:nth-of-type(2)
 123tvnow.com##[href^="https://go.nordvpn.net/aff_c"]
 123tvnow.com##.dropdown-toggle
 
-! 2020-09-07 https://ustvgo.tv
-||ustvgo.tv/tvguide/index.html$subdocument
-ustvgo.tv##.clearfix.entry-content > strong
-ustvgo.tv##[href^="https://zaynews.com/"]
-ustvgo.tv##[href^="https://go.nordvpn.net/aff_c"]
-
 ! 2020-09-07 https://www.google.com
-www.google.com##div[class*="explore-main"]
-www.google.com##div[class*="exp-outline"]
 google.*##div[id^="eob"]
-google.*##.exp-outline
 
 ! 2020-09-08 https://www.cnet.com
 www.cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
@@ -204,6 +189,8 @@ sports24.club##.alert-success.alert
 sports24.club##.modal-dialog-centered.modal-dialog
 sports24.club##.show.modal
 sports24.club##.show.modal-backdrop
+sports24.club##li.nav-item:nth-of-type(10)
+sports24.club##li.nav-item:nth-of-type(11)
 sports24.club##li.nav-item:nth-of-type(12)
 sports24.club##li.nav-item:nth-of-type(13)
 sports24.club##a.play.btn-block.btn-lg.btn-default.btn
@@ -233,7 +220,6 @@ www.usatoday.com##.gnt_cw_w > .gnt_cw > .gnt_xbr
 
 ! 2020-10-02 https://www.google.com
 support.google.com##.user-feedback-link
-www.google.com##.GcFlje
 www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
 www.google.com##.Zes0Mc
@@ -241,13 +227,13 @@ www.google.com##.pWCvWb
 www.google.com###botstuff
 www.google.com##.dobdf.nPDigc
 www.google.com##.z2QsLb.VjDLd
-www.google.com###rso > .g-blk.mnr-c.kno-kp.g
-www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
 www.google.com##div.J3Tg1d.PNCib.isv-r
 www.google.com##.LEKZTd
 www.google.com##.vcsi.l8pIW.a5mgdf
-www.google.com##.vI9alf.pGEVQb.hide-focus-ring > div
-
+www.google.com##.InNVqc
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
+www.google.com##.f0FBcf
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -280,16 +266,12 @@ www.foxnews.com##.is-programming.alert-banner
 www.barchart.com##.in.auth-no-modal-ref-class.authentication-modal.register-modal.fade.reveal-modal
 www.barchart.com##.in.fade.reveal-modal-bg
 
-! 2020-10-10 https://www.microsoft.com
-www.microsoft.com##.f-flow.c-dialog
-
 ! 2020-10-12 https://civilwartalk.com
 civilwartalk.com##font > center
 
 ! 2020-10-13 https://www.studocu.com
 www.studocu.com##.pop-up--21ihD
 www.studocu.com##.preview-banner--1fHJL
-www.studocu.com##.fade-in-enter-done.overlay--1kFgE
 www.studocu.com##.fade-in-enter-done.overlay
 www.studocu.com##.support-button--1wdGm.ic-text
 www.studocu.com###wrapper-all > div > .bar--1Rnih
@@ -328,7 +310,10 @@ seekingalpha.com###news-left-slot-1
 seekingalpha.com###article-left-slot-2
 seekingalpha.com##.in.fade.modal-backdrop
 seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com###helphero-dom
+seekingalpha.com###krux-container
+https://static.seekingalpha.com/uploads/
+elfsight.com
+helphero.co
 
 ! 2020-10-19 https://blog.automox.com
 blog.automox.com##.get-started-bottom
@@ -352,6 +337,7 @@ www.amazon.com###prime-pda-type-box-ad
 www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
 www.amazon.com###customer-survey_feature_div
 www.amazon.com###sims-consolidated-2_feature_div
+www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
 
 ! 2020-10-19 https://www.pirateproxy-bay.com
 www.pirateproxy-bay.com##.hidden-except-country.nord-message__wrap
@@ -408,17 +394,6 @@ coinmarketcap.com##.dRFchQ.sc-174r4on-0
 
 ! 2020-11-03 https://pro.coinbase.com
 pro.coinbase.com##.hdzUHW.sc-fzoXWK
-
-! 2020-11-04 https://ustv247.tv
-ustv247.tv##.clearfix.entry-content > strong
-ustv247.tv##.advertisement_above_footer
-ustv247.tv###menu-item-1684 > [href="https://ustv247.tv/how-to-install-vpn/"]
-ustv247.tv###menu-item-1305 > [href^="https://go.nordvpn.net/aff_c"]
-ustv247.tv###scroll-up
-ustv247.tv##h2
-ustv247.tv##h4
-ustv247.tv##.clearfix.entry-content > p
-||ustv247.tv/tvguide/index.html$subdocument
 
 ! 2020-11-05 https://www.nytimes.com
 www.nytimes.com##.css-iu3170
@@ -507,16 +482,15 @@ brainly.com##.js-react-brainly-plus-box-aside
 ! 2020-12-05 https://wwatchseries.com
 wwatchseries.com##div:nth-of-type(5)
 wwatchseries.com##.watch_content-tags__2tI5p
-wwatchseries.com##.poster_content-list__11G1q
 wwatchseries.com##.watch_similar-title__1D8e2
 wwatchseries.com##.watch_player-bar__24I_s
+wwatchseries.com##li:nth-of-type(6)
 
 ! 2020-12-06 https://www.ratemyprofessors.com
 www.ratemyprofessors.com##.cxTury__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
 www.ratemyprofessors.com##.kaWnLy.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0
 www.ratemyprofessors.com##.reveal-modal-bg
 www.ratemyprofessors.com##.hidden.ccpa-footer.ccpa-modal
-wwatchseries.com##li:nth-of-type(6)
 
 ! 2020-12-09 https://expressdigest.com
 expressdigest.com##.code-block-2.code-block
@@ -570,10 +544,7 @@ www.theguardian.com##.css-9aekbr
 ! 2020-12-15 https://jimstennis.com
 jimstennis.com###ac-wrapper
 
-! 2020-12-27 https://www.amazon.com
-www.amazon.com###sims-consolidated-2_feature_div
-
-! 2020-12-27 https://www.coinbase.com/
+! 2020-12-27 https:/userleap.com/
 api.userleap.com
 
 ! 2020-12-30 https://www.businessnewsdaily.com
@@ -584,9 +555,6 @@ www.healthline.com###modal-host
 www.healthline.com##.css-h9jo37
 www.healthline.com##.css-1pnad6
 
-! 2020-12-30 https://www.youtube.com
-www.youtube.com##.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-unlimited-offer-module-renderer.style-scope
-
 ! 2020-12-30 https://open.spotify.com
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
 
@@ -596,3 +564,165 @@ www.imyfone.com##.m-hidden-769.activity-aside.activity-aside-pc
 
 ! 2021-01-06 https://mail.yahoo.com
 mail.yahoo.com##.cZ1YE9Ay_3vNsy.cZ1YE9Aj_3HK1R.H_3rRhf.W_3DVPV.D_B.M_1EAG48
+
+! 2021-01-14 https://contentmarketinginstitute.com
+contentmarketinginstitute.com##.pty_pkg
+
+! 2021-01-15 https://www.forbes.com
+www.forbes.com##.ad-rail
+
+! 2021-01-15 https://superuser.com
+superuser.com##.js-consent-banner.theme-light__forced.bg-black-700.fc-white.z-banner.r0.l0.b0.ps-sticky.ff-sans.p8.grid
+
+! 2021-01-16 https://www.grammarly.com
+www.grammarly.com##._1X8pZ-overlay
+
+! 2021-01-18 https://www.theguardian.com
+www.theguardian.com###sp_message_container_383916
+
+! 2021-01-18 https://support.mozilla.org
+support.mozilla.org##.document-vote--sidebar-wrap
+
+! 2021-01-20 https://www.fosshub.com
+www.fosshub.com##.ad
+
+! 2021-01-20 https://www.laptopmag.com
+www.laptopmag.com##.slot-topOfSidebar
+www.laptopmag.com##.slot-beforePopularBox
+www.laptopmag.com##.slot-leaderboard
+www.laptopmag.com##.slot-afterPopularBox
+www.laptopmag.com###affiliateDisclaimer
+www.laptopmag.com##.hawk-main-transparent
+www.laptopmag.com##.slot-lightbox1
+
+! 2021-01-20 https://cryptoslate.com
+cryptoslate.com##.image.sticky-footer
+cryptoslate.com##div.widget
+
+! 2021-01-21 https://www.chess.com
+www.chess.com###upgrade-modal
+
+! 2021-01-21 https://nypost.com
+nypost.com###circular-widget
+
+! 2021-01-25 https://www.majorgeeks.com
+www.majorgeeks.com##.navigation-light
+
+! 2021-01-25 https://www.techradar.com
+www.techradar.com##.slot-leaderboard
+www.techradar.com##.slot-topOfSidebar
+www.techradar.com##.slot-beforePopularBox
+www.techradar.com##.slot-afterPopularBox
+www.techradar.com##.slot-double-height-6-566
+www.techradar.com##.slot-double-height-image-6
+www.techradar.com###affiliateDisclaimer
+
+! 2021-01-25 https://genius.com
+genius.com##apple-music-player
+
+! 2021-01-25 https://mail.yahoo.com
+mail.yahoo.com##.Z_0.em_0.I_52qC.iz_A > .D_F
+
+! 2021-01-25 https://www.swipehelper.com
+www.swipehelper.com###tysixjhbu-blanket
+
+! 2021-01-25 https://www.euronews.com
+www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
+
+! 2021-01-25 https://www.accounts.google.com
+||accounts.google.com/gsi/iframe/select$subdocument
+
+! 2021-01-25 https://www.vidaselect.com
+www.vidaselect.com##.cpro-open.cp-module-modal_popup.cp_style_19364.cp-popup-live-wrap.cp-popup-container
+
+! 2021-01-25 https://www.zoosk.com
+www.zoosk.com##.interesting-info-header-div.interesting-info-div.text-center.small-12.columns
+
+! 2021-01-26 https://chrome.google.com
+chrome.google.com##.Yb
+
+! 2021-01-26 https://patook.com
+patook.com##.cookies_subtext
+
+! 2021-01-27 https://www.yahoo.com
+www.yahoo.com###applet_p_50000466
+www.yahoo.com###applet_p_50000467
+
+! 2021-01-27 https://www.pdfdrive.com
+www.pdfdrive.com##.show.fade.modal
+www.pdfdrive.com##.show.fade.modal-backdrop
+www.pdfdrive.com###alternatives > div > .form-inline
+
+! 2021-01-27 https://www.speedtest.net
+www.speedtest.net##.eot-info-audience.u-c.pure-u-1-2
+
+! 2021-01-28 https://www.ratemyprofessors.com
+www.ratemyprofessors.com##div.dQpRnT.FullPageModal__StyledFullPageModal-sc-1tziext-1:nth-of-type(5)
+
+! 2021-01-28 https://www.theguardian.com
+www.theguardian.com###sp_message_container_414202
+
+! 2021-01-30 https://invezz.com
+invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0.mb-4.p-4.relative.inv-sidebar-widget
+invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
+
+! 2021-01-30 https://mail.google.com
+||ogs.google.com/widget/callout$subdocument
+
+! 2021-01-31 https://www.fxstreet.com
+www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
+
+! 2021-01-31 https://www.streakingthelawn.com
+||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
+
+! 2021-01-31 https://coinmarketcap.com
+coinmarketcap.com##.jJisww.jltjox-0
+
+! 2021-01-31 https://uphold.com
+uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
+
+! 2021-02-01 https://cryptojobslist.com
+cryptojobslist.com##._1Oy_ehtA_ibqvuiauHvH6P
+
+! 2021-02-02 https://support.microsoft.com
+support.microsoft.com###supWrapperToPreventFeedbackFlickering
+
+! 2021-02-03 https://www.perlego.com
+www.perlego.com##.eMbzNt.sc-hqGPoI
+
+! 2021-02-03 https://www.crypto-news-flash.com
+www.crypto-news-flash.com##.cpro-open.cp-module-modal_popup.cp_style_33446.cp-popup-live-wrap.cp-popup-container
+
+! 2021-02-03 https://www.sparknotes.com
+www.sparknotes.com##.partner__pw__header
+
+! 2021-02-06 https://www.allposters.com
+www.allposters.com##.slide.close-v1.email-lb-bg
+
+! 2021-02-07 https://fulltip.net
+fulltip.net##.penci-wrap-gprd-law
+
+! 2021-02-09 https://carbuzz.com
+carbuzz.com##.ad-placement_desktop-top-sticky.ad-placement
+carbuzz.com##div.cb-sidebar__item.ad-placement:nth-of-type(1)
+carbuzz.com##div.cb-sidebar__item.ad-placement:nth-of-type(3)
+carbuzz.com##.cb-sidebar__sticky-ad.cb-sidebar__item.ad-placement
+carbuzz.com##.cb-container__sidebar > div.ad-placement
+
+! 2021-02-09 https://www.privacyend.com
+www.privacyend.com##.widget_media_image.inner-padding.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
+
+! 2021-02-09 https://stackshare.io
+stackshare.io##.css-17kwd5z
+
+! 2021-02-09 https://myanimelist.net
+myanimelist.net##.banner-header-anime-straming
+
+! 2021-02-10 https://www.coingecko.com
+www.coingecko.com##.sponsored-v2
+
+! 2021-02-10 https://www.publish0x.com
+www.publish0x.com##div.post.row:nth-of-type(9)
+
+! 2021-02-10 https://www.mbusa.com/
+edge-prod-nycr3a.ctrl.t-0003.t-msedge.net
