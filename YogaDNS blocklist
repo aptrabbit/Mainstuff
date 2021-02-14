@@ -3,6 +3,7 @@ name configuration "blacklist"
 "Action: Block"
 Resolve host names as 0.0.0.0
 Copy list into "hostnames:" 
+
 a.ads1.msn.com
 a.ads2.msads.net
 a.ads2.msn.com
