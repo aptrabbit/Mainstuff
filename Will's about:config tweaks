@@ -13,6 +13,7 @@ browser.backspace_action; 2 (depends on the user; A value of 2 prevents Firefox 
 browser.display.focus_ring_width; 0
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
+browser.overlink-delay; 0
 browser.ping-centre.telemetry; false
 browser.send_pings.require_same_host; true
 browser.startup.blankWindow; false
