@@ -86,9 +86,6 @@ sticknodes.com##.filepage-ad-bg
 www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
 www.fakespot.com##.show-vote-share-links
 
-! 2020-08-15 https://trinikid.com
-analytics.trinikid.com
-
 ! 2020-08-24 https://www.networkworld.com
 www.networkworld.com###insider-popup
 www.networkworld.com##.modal-close.modal-overlay
@@ -224,7 +221,6 @@ www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
 www.google.com##.Zes0Mc
 www.google.com##.pWCvWb
-www.google.com###botstuff
 www.google.com##.dobdf.nPDigc
 www.google.com##.z2QsLb.VjDLd
 www.google.com##div.J3Tg1d.PNCib.isv-r
@@ -234,6 +230,7 @@ www.google.com##.InNVqc
 www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
 www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
 www.google.com##.f0FBcf
+www.google.com###brs
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -325,7 +322,6 @@ quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
 quizlet.com##.SetPageStudyModesBanner-body
 quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
 quizlet.com##.is-visible.is-included.UIModal-backdrop
-quizlet.com##.SetPageWall--normal.SetPageWall
 https://eventlogger-k8s.quizlet.com/
 eventlogger.quizlet.com
 
@@ -726,3 +722,10 @@ www.publish0x.com##div.post.row:nth-of-type(9)
 
 ! 2021-02-10 https://www.mbusa.com/
 edge-prod-nycr3a.ctrl.t-0003.t-msedge.net
+
+! 2021-02-15 https://celo.org
+celo.org##.r-13qz1uu.r-1xcajam.r-1pcd2l5.r-1hsi953.r-1777fci.r-6koalj.r-1p0dtai.r-ltq0in.r-1awozwy.css-1dbjc4n
+
+! 2021-02-17 https://neilpatel.com
+neilpatel.com###bottom-box
+
