@@ -25,7 +25,6 @@ browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
-dom.disable_window_move_resize; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
 dom.ipc.plugins.reportCrashURL; false
 dom.serviceWorkers.enabled; false
