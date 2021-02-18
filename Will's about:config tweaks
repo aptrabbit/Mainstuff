@@ -25,13 +25,14 @@ browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
+dom.disable_window_move_resize; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
 dom.ipc.plugins.reportCrashURL; false
 dom.serviceWorkers.enabled; false
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in microsoft edge; this uses extra CPU)
-extensions.webextensions.restrictedDomains; "accounts-static.cdn.mozilla.net,accounts.firefox.com,api.accounts.firefox.com,install.mozilla.org,oauth.accounts.firefox.com,profile.accounts.firefox.com,sync.services.mozilla.com"
+extensions.webextensions.restrictedDomains; ""
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
