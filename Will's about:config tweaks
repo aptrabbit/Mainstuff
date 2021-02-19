@@ -1,6 +1,7 @@
 My personal list of about:config tweaks for maximum performance, usablitity, privacy, with little to no breakage.
 a value of "true" means the setting will be enabled, a value of "false" means the setting will be disabled
 (I'll specify in parentheses if the parameter requires additional knowledge)
+If "hidden preference" is noted, you must type in the parameter and select "Boolean" and click the "+" indicator to create the parameter.
 The extension "uBlock Origin" will be mentioned as it changes some parameters in its native settings; I HIGHLY recommend installing it as your only content blocker.
 (listed in order of the "Show All" button)
 
@@ -56,7 +57,7 @@ toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you wa
 toolkit.telemetry.archive.enabled; false
 toolkit.telemetry.bhrPing.enabled; false
 toolkit.coverage.endpoint.base; " "
-toolkit.telemetry.coverage.opt-out; true
+toolkit.telemetry.coverage.opt-out; true (hidden preference)
 toolkit.telemetry.newProfilePing.enabled; false
 toolkit.telemetry.shutdownPingSender.enabled; false
 toolkit.telemetry.unified; false
