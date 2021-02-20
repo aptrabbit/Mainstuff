@@ -49,7 +49,7 @@ network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
 network.security.esni.enabled; true (enables ESNI if using DNS over HTTPS (DoH), see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
-reader.parse-on-load.enabled; false (depends on user; prevents "reader mode" from appearing at all on url bar)
+reader.parse-on-load.enabled; false (depends on user; this setting disables "reader mode")
 security.dialog_enable_delay; 0
 security.notification_enable_delay; 0
 toolkit.coverage.opt-out; true
