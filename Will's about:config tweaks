@@ -38,7 +38,7 @@ gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
 image.decode-immediately.enabled; true
-media.peerconnection.ice.default_address_only; true (ublock origin setting: "Prevent WebRTC from leaking local IP addresses")
+media.peerconnection.ice.default_address_only; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.identity.timeout; 1
@@ -48,7 +48,7 @@ network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.ne
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
-network.security.esni.enabled; true (enables ESNI if using DNS over HTTPS (DoH), see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
+network.security.esni.enabled; true (enables ESNI (Encrypted Server Name Indication) if using certain DNS over HTTPS (DoH) servers, see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
 reader.parse-on-load.enabled; false (depends on user; this setting disables "reader mode")
 security.dialog_enable_delay; 0
 security.notification_enable_delay; 0
