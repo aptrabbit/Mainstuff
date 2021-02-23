@@ -59,6 +59,7 @@ toolkit.telemetry.bhrPing.enabled; false
 toolkit.coverage.endpoint.base; " "
 toolkit.telemetry.coverage.opt-out; true (hidden preference)
 toolkit.telemetry.newProfilePing.enabled; false
+toolkit.telemetry.server; " "
 toolkit.telemetry.shutdownPingSender.enabled; false
 toolkit.telemetry.unified; false
 toolkit.telemetry.updatePing.enabled; false
