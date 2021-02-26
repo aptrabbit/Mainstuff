@@ -17,7 +17,7 @@ browser.formfill.enable; false (depends on the user; if using Firefox's native p
 browser.overlink-delay; 0
 browser.ping-centre.telemetry; false
 browser.send_pings.require_same_host; true
-browser.shell.checkDefaultBrowser
+browser.shell.checkDefaultBrowser; false
 browser.startup.blankWindow; false
 browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and click then exit button on the tab rectangle, Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
@@ -37,7 +37,6 @@ gfx.downloadable_fonts.fallback_delay; 0
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
-image.decode-immediately.enabled; true
 media.peerconnection.ice.default_address_only; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
