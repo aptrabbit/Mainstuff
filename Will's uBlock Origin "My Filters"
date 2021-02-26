@@ -58,13 +58,10 @@ www.bloomberg.com##div.bb-global-footer__group:nth-of-type(2) > a.bb-global-foot
 
 ! 6/1/2020 https://www.wcoanimedub.tv
 www.wcoanimedub.tv##.anti-ad
-www.wcoanimedub.tv###hide-anime-video-0
-www.wcoanimedub.tv###hide-anime-video-1
-www.wcoanimedub.tv###hide-anime-video-2
+www.wcoanimedub.tv###hide-anime-video
 
 ! 6/18/2020 https://www.coursehero.com
-www.coursehero.com##.ch-aaq-widget-toast
-www.coursehero.com##.ch-aaq-widget-tab
+www.coursehero.com##.ch-aaq-widget
 www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
 ||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
 www.coursehero.com##.flexible-sampling-v1-cta-container > .flexible-sampling-v2-cta
@@ -124,9 +121,6 @@ pluto.tv##body > div:nth-of-type(2)
 ! 2020-09-07 http://123tvnow.com
 123tvnow.com##[href^="https://go.nordvpn.net/aff_c"]
 123tvnow.com##.dropdown-toggle
-
-! 2020-09-07 https://www.google.com
-google.*##div[id^="eob"]
 
 ! 2020-09-08 https://www.cnet.com
 www.cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
@@ -216,6 +210,7 @@ www.usatoday.com##.gnt_cw_w > .gnt_cw > .gnt_xbr
 
 ! 2020-10-02 https://www.google.com
 support.google.com##.user-feedback-link
+google.*##div[id^="eob"]
 www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
 www.google.com##.Zes0Mc
@@ -226,10 +221,13 @@ www.google.com##div.J3Tg1d.PNCib.isv-r
 www.google.com##.LEKZTd
 www.google.com##.vcsi.l8pIW.a5mgdf
 www.google.com##.InNVqc
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
 www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
 www.google.com##.f0FBcf
 www.google.com###brs
+www.google.com###bres
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##.hI5uQc.VjDLd
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -321,6 +319,7 @@ quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
 quizlet.com##.SetPageStudyModesBanner-body
 quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
 quizlet.com##.is-visible.is-included.UIModal-backdrop
+quizlet.com##.SiteUpgradeButton
 https://eventlogger-k8s.quizlet.com/
 eventlogger.quizlet.com
 
@@ -351,8 +350,7 @@ www.cnbc.com##.pro-feedback-fixed
 payments.jagex.com##.ng-scope.messages--inline.cookies.messages
 
 ! 2020-10-20 https://www.mercedes-amg.com
-www.mercedes-amg.com##.amg-e-social-share-buttons__toggle
-www.mercedes-amg.com##.amg-e-social-share-buttons__opener
+www.mercedes-amg.com##.amg-e-social-share-buttons
 www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
 opticalanalytics.io
 
@@ -389,9 +387,6 @@ coinmarketcap.com##.dRFchQ.sc-174r4on-0
 
 ! 2020-11-03 https://pro.coinbase.com
 pro.coinbase.com##.hdzUHW.sc-fzoXWK
-
-! 2020-11-05 https://www.nytimes.com
-www.nytimes.com##.css-iu3170
 
 ! 2020-11-06 https://www.nerdwallet.com
 www.nerdwallet.com##p > div
@@ -522,10 +517,6 @@ www.tipranks.com##.client-components-experts-sideBar-side__newletter
 ! 2020-12-11 https://www.nsmedicaldevices.com
 www.nsmedicaldevices.com##.home_timeline
 
-! 2020-12-11 https://www.fool.com
-www.fool.com##.alert-info.page-alert
-www.fool.com###market_performance
-
 ! 2020-12-13 https://vidcloud.siteunblocked.info
 vidcloud.siteunblocked.info##iframe[src="https://www.jstatic.org/y/u/index4.php"]:nth-of-type(1)
 vidcloud.siteunblocked.info###header-social
@@ -640,8 +631,7 @@ chrome.google.com##.Yb
 patook.com##.cookies_subtext
 
 ! 2021-01-27 https://www.yahoo.com
-www.yahoo.com###applet_p_50000466
-www.yahoo.com###applet_p_50000467
+www.yahoo.com###applet_p
 
 ! 2021-01-27 https://www.pdfdrive.com
 www.pdfdrive.com##.show.fade.modal
@@ -697,13 +687,6 @@ www.allposters.com##.slide.close-v1.email-lb-bg
 ! 2021-02-07 https://fulltip.net
 fulltip.net##.penci-wrap-gprd-law
 
-! 2021-02-09 https://carbuzz.com
-carbuzz.com##.ad-placement_desktop-top-sticky.ad-placement
-carbuzz.com##div.cb-sidebar__item.ad-placement:nth-of-type(1)
-carbuzz.com##div.cb-sidebar__item.ad-placement:nth-of-type(3)
-carbuzz.com##.cb-sidebar__sticky-ad.cb-sidebar__item.ad-placement
-carbuzz.com##.cb-container__sidebar > div.ad-placement
-
 ! 2021-02-09 https://www.privacyend.com
 www.privacyend.com##.widget_media_image.inner-padding.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
 
@@ -719,11 +702,73 @@ www.coingecko.com##.sponsored-v2
 ! 2021-02-10 https://www.publish0x.com
 www.publish0x.com##div.post.row:nth-of-type(9)
 
-! 2021-02-10 https://www.mbusa.com/
-edge-prod-nycr3a.ctrl.t-0003.t-msedge.net
-
 ! 2021-02-15 https://celo.org
 celo.org##.r-13qz1uu.r-1xcajam.r-1pcd2l5.r-1hsi953.r-1777fci.r-6koalj.r-1p0dtai.r-ltq0in.r-1awozwy.css-1dbjc4n
 
 ! 2021-02-17 https://neilpatel.com
 neilpatel.com###bottom-box
+
+! 2021-02-19 https://www.thewindowsclub.com
+www.thewindowsclub.com##[href^="http://www.restoro.com/includes/route.php"]
+
+! 2021-02-19 https://www.crunchyroll.com
+www.crunchyroll.com###showmedia_free_trial_signup
+
+! 2021-02-19 https://caliva.com
+caliva.com###ccpa-app
+
+! 2021-02-19 https://www.softwaresuggest.com
+www.softwaresuggest.com##.visible.exit-intent-popup
+
+! 2021-02-20 https://www.nytimes.com
+www.nytimes.com##.css-iu3170
+www.nytimes.com##.css-16l7vy9
+
+! 2021-02-20 https://www.animenewsnetwork.com
+||*.animenewsnetwork.com/assets/*.png$subdocument
+
+! 2021-02-20 https://scholar.google.com
+scholar.google.com##.gs_r.gs_qsuggest_wrap
+
+! 2021-02-21 https://news.bitcoin.com
+news.bitcoin.com##.custom-html-widget.textwidget > p
+news.bitcoin.com##.sticky-down.bn_desktop_widgets > .bitcoin-widget.widget.td_block_template_1
+
+! 2021-02-21 https://www.digitalrealty.com
+www.digitalrealty.com##.js-show.uk-alert.uk-animation-fade.CookieNotice.uk-position-bottom.uk-position-fixed
+
+! 2021-02-21 https://carbuzz.com
+carbuzz.com##.ad-placement_desktop-top-sticky.ad-placement
+carbuzz.com##div.cb-sidebar__item.ad-placement
+carbuzz.com##.cb-sidebar__sticky-ad.cb-sidebar__item.ad-placement
+carbuzz.com##.cb-container__sidebar > div.ad-placement
+carbuzz.com##div.cb-post-block-ad-banner.cb-post-block.cb-content-block.ad-placement
+carbuzz.com##.cb-post__gallery-preview > .ad-slot-full-width
+carbuzz.com##.margin-top-40.gtm-cb-post-related-reviews.cb-posts-preview > .ad-slot-full-width.ad-placement
+carbuzz.com##.ad-slot-full-width.cb-post__sponsered-consideration.ad-placement
+carbuzz.com##div.ad-slot-full-width.ad-placement
+
+! 2021-02-21 https://crypto.com
+crypto.com##.top-banner-module--wrapper--dTrdt
+
+! 2021-02-21 https://www.space.com
+www.space.com##.Campaign--css.CampaignType--popup.Campaign.portland-campaign.exit-intent__dark-background.exit-intent
+www.space.com##.dfp-leaderboard-container
+
+! 2021-02-21 https://www.fool.com
+www.fool.com##.alert-info.page-alert
+www.fool.com###market_performance
+www.fool.com##.userway_p2.uwy
+www.fool.com##.special-message
+
+! 2021-02-22 https://www.afar.com
+www.afar.com###topPortal
+
+! 2021-02-25 https://www.theatlantic.com
+www.theatlantic.com##.Paywall_root__3-sty
+
+! 2021-02-26 https://www.cnn.com
+www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
+
+! 2021-02-27 https://www.doxchannel.com
+www.doxchannel.com###appBarHeaderContainer
