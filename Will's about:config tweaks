@@ -11,6 +11,7 @@ app.normandy.first_run; false
 app.shield.optoutstudies.enabled; false
 beacon.enabled; false
 browser.backspace_action; 2 (depends on the user; A value of 2 prevents Firefox from going back a page if you press the backspace bar without a form entry)
+browser.display.focus_ring_width; 0
 browser.download.animateNotifications; false
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
