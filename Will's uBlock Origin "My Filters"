@@ -172,21 +172,21 @@ www.motor1.com##.widget-wrapper
 www.motor1.com##.msrp-stripe
 www.motor1.com##.msrp-body
 
-! 2020-09-30 https://sports24.club
-sports24.club##.container > a.btn-outline-primary.btn
-sports24.club##div.col
-sports24.club##.col-lg-3.embed-responsive.col-12
-sports24.club##.alert-success.alert
-sports24.club##.modal-dialog-centered.modal-dialog
-sports24.club##.show.modal
-sports24.club##.show.modal-backdrop
-sports24.club##li.nav-item:nth-of-type(10)
-sports24.club##li.nav-item:nth-of-type(11)
-sports24.club##li.nav-item:nth-of-type(12)
-sports24.club##li.nav-item:nth-of-type(13)
-sports24.club##a.play.btn-block.btn-lg.btn-default.btn
-sports24.club###cedato-unit
-sports24.club###footylight
+! 2020-09-30 https://sports24.stream
+sports24.stream##.container > a.btn-outline-primary.btn
+sports24.stream##div.col
+sports24.stream##.col-lg-3.embed-responsive.col-12
+sports24.stream##.alert-success.alert
+sports24.stream##.modal-dialog-centered.modal-dialog
+sports24.stream##.show.modal
+sports24.stream##.show.modal-backdrop
+sports24.stream##li.nav-item:nth-of-type(10)
+sports24.stream##li.nav-item:nth-of-type(11)
+sports24.stream##li.nav-item:nth-of-type(12)
+sports24.stream##li.nav-item:nth-of-type(13)
+sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
+sports24.stream###cedato-unit
+sports24.stream###footylight
 sports24.site/ol.php
 bckfnohmg.com
 iqkfplsez.com
@@ -385,9 +385,6 @@ news.gallup.com##.gcb_35556
 ! 2020-11-03 https://coinmarketcap.com
 coinmarketcap.com##.dRFchQ.sc-174r4on-0
 
-! 2020-11-03 https://pro.coinbase.com
-pro.coinbase.com##.hdzUHW.sc-fzoXWK
-
 ! 2020-11-06 https://www.nerdwallet.com
 www.nerdwallet.com##p > div
 www.nerdwallet.com##p > ._2dyIi
@@ -403,9 +400,6 @@ cosmos.network##.banner-wrapper
 
 ! 2020-11-11 https://www.accuweather.com
 www.accuweather.com##.privacy-policy-banner
-
-! 2020-11-12 https://www.coinbase.com
-www.coinbase.com##.gkNzOD.sc-fzoLsD
 
 ! 2020-11-12 https://www.niche.com
 www.niche.com##.scatterplot__logged-out-messages
@@ -764,11 +758,64 @@ www.fool.com##.special-message
 ! 2021-02-22 https://www.afar.com
 www.afar.com###topPortal
 
-! 2021-02-25 https://www.theatlantic.com
-www.theatlantic.com##.Paywall_root__3-sty
-
 ! 2021-02-26 https://www.cnn.com
 www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
 
 ! 2021-02-27 https://www.doxchannel.com
 www.doxchannel.com###appBarHeaderContainer
+
+! 2021-02-27 https://www.wallstreetoasis.com
+www.wallstreetoasis.com##.show.modal
+
+! 2021-02-27 https://www.coinbase.com
+www.coinbase.com##.ismrKK.sc-fzoLsD
+
+! 2021-02-27 https://pro.coinbase.com
+pro.coinbase.com##.hdzUHW.sc-fzoXWK
+
+! 2021-02-27 https://www.fxstreet.com
+www.fxstreet.com###globalalert
+
+! 2021-02-28 https://coingeek.com
+coingeek.com##.my-3.overflow-hidden.cg__radius.advertising__image
+
+! 2021-02-28 https://www.coindesk.com
+www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
+
+! 2021-02-28 https://bravenewcoin.com
+bravenewcoin.com##app-content-block-component > div > app-content-markdown > .markdown-content > div
+
+! 2021-03-01 https://www.benzinga.com
+www.benzinga.com##.page-sidebar-placement.bz3-widget-container
+www.benzinga.com##.article-content > .lead-form.form
+www.benzinga.com##.primary-placeholder.placeholder
+www.benzinga.com##.secondary-placeholder.placeholder
+www.benzinga.com##.shadow-border.crypto-sidebar-table
+www.benzinga.com##.table-flex-wrap
+www.benzinga.com##.benzinga-blocks
+www.benzinga.com##.bz-campaign-text-top
+
+! 2021-03-01 https://mail.protonmail.com
+mail.protonmail.com##.latest-upgrade.text-center
+mail.protonmail.com##section:nth-of-type(2)
+mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
+
+! 2021-03-01 https://www.theatlantic.com
+www.theatlantic.com###paywall
+
+! 2021-03-01 https://www.washingtonpost.com
+||www.washingtonpost.com/talk/embed/stream$subdocument
+
+! 2021-03-01 https://www.starsandstripesfc.com
+||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
+www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
+
+! 2021-03-01 https://www.startengine.com
+www.startengine.com###drift-frame-controller
+
+! 2021-03-02 https://winaero.com
+winaero.com##.entry-content > div
+winaero.com###dfsfsdfs-asdasd-2
+
+! 2021-03-02 https://docs.microsoft.com
+docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border-bottom.feedback-verbatim
