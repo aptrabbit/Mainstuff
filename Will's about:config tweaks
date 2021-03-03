@@ -17,6 +17,8 @@ browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
 browser.overlink-delay; 0
 browser.ping-centre.telemetry; false
+browser.search.separatePrivateDefault; true
+browser.search.separatePrivateDefault.ui.enabled; true
 browser.send_pings.require_same_host; true
 browser.shell.checkDefaultBrowser; false
 browser.startup.blankWindow; false
