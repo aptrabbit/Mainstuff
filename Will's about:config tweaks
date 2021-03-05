@@ -29,9 +29,11 @@ browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
+device.sensors.enabled; false
 dom.enable_resource_timing; false (prevents websites from accessing javascript resource timing)
 dom.ipc.plugins.reportCrashURL; false
-dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) 
+dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+dom.vibrator.enabled; false
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in Microsoft Edge; this uses extra CPU)
