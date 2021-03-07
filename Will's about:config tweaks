@@ -52,7 +52,6 @@ privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to a
 network.security.esni.enabled; true (enables ESNI (Encrypted Server Name Indication) if using certain DNS over HTTPS (DoH) servers, see https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
 reader.parse-on-load.enabled; false (depends on user; setting this to false disables "reader mode")
 security.dialog_enable_delay; 0
-security.family_safety.mode; 0
 security.notification_enable_delay; 0
 toolkit.coverage.opt-out; true
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
