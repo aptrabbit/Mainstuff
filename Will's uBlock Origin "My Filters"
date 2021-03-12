@@ -32,10 +32,6 @@ airvpn.org###air_cookielaw_container
 ! 5/17/2020 https://mail.yahoo.com
 mail.yahoo.com###modal-outer
 
-! 5/19/2020 https://www.washingtonpost.com
-www.washingtonpost.com##div.dib-ns.dn:nth-of-type(1) > .btn-sm.btn-blue.btn
-www.washingtonpost.com##.relative.flex-ns.btn-blue.ml-xs.dib-ns.dn.gift-offer > .btn-sm.btn-blue.btn
-
 ! 5/20/2020 https://windowsreport.com
 windowsreport.com##.qc-cmp2-summary-section
 windowsreport.com##.qc-cmp2-footer
@@ -148,11 +144,6 @@ lifehacker.com###sidebar_wrapper
 www.strategy-business.com###gdpr-cookie-notice-handle
 www.strategy-business.com##.showing.newsletterOverlay
 
-! 2020-09-24 https://www.azcentral.com
-www.azcentral.com##.gnt_pm
-www.azcentral.com##.gnt_rr
-www.azcentral.com##.gnt_xbr
-
 ! 2020-09-24 https://www.ancestry.com
 www.ancestry.com###Banner_privacy_0
 
@@ -205,9 +196,6 @@ www.netgear.com###container > div.modal-group > .active.custom-modal-bg
 ! 2020-10-02 https://www.motorauthority.com
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
 
-! 2020-10-02 https://www.usatoday.com
-www.usatoday.com##.gnt_cw_w > .gnt_cw > .gnt_xbr
-
 ! 2020-10-02 https://www.google.com
 support.google.com##.user-feedback-link
 google.*##div[id^="eob"]
@@ -228,6 +216,8 @@ www.google.com###bres
 www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
 www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
 www.google.com##.hI5uQc.VjDLd
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.google.com^
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -304,8 +294,8 @@ seekingalpha.com###news-left-slot-1
 seekingalpha.com###article-left-slot-2
 seekingalpha.com##.in.fade.modal-backdrop
 seekingalpha.com##section[data-test-id="recommended-section"]
+seekingalpha.com##[data-test-id="ad-slot-list"]
 seekingalpha.com###krux-container
-https://static.seekingalpha.com/uploads/
 elfsight.com
 helphero.co
 
@@ -382,15 +372,9 @@ www.mediafire.com##.CookieAcceptance
 ! 2020-11-03 https://news.gallup.com
 news.gallup.com##.gcb_35556
 
-! 2020-11-03 https://coinmarketcap.com
-coinmarketcap.com##.dRFchQ.sc-174r4on-0
-
 ! 2020-11-06 https://www.nerdwallet.com
 www.nerdwallet.com##p > div
 www.nerdwallet.com##p > ._2dyIi
-
-! 2020-11-06 https://coinmarketcap.com
-coinmarketcap.com##.kTOFra.sc-174r4on-0
 
 ! 2020-11-07 https://www.autoblog.com
 www.autoblog.com###spotim-specific
@@ -654,9 +638,6 @@ www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
 ! 2021-01-31 https://www.streakingthelawn.com
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
 
-! 2021-01-31 https://coinmarketcap.com
-coinmarketcap.com##.jJisww.jltjox-0
-
 ! 2021-01-31 https://uphold.com
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
 
@@ -766,9 +747,7 @@ www.doxchannel.com###appBarHeaderContainer
 
 ! 2021-02-27 https://www.wallstreetoasis.com
 www.wallstreetoasis.com##.show.modal
-
-! 2021-02-27 https://www.coinbase.com
-www.coinbase.com##.ismrKK.sc-fzoLsD
+www.wallstreetoasis.com##.show.modal-backdrop
 
 ! 2021-02-27 https://pro.coinbase.com
 pro.coinbase.com##.hdzUHW.sc-fzoXWK
@@ -803,9 +782,6 @@ mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 ! 2021-03-01 https://www.theatlantic.com
 www.theatlantic.com###paywall
 
-! 2021-03-01 https://www.washingtonpost.com
-||www.washingtonpost.com/talk/embed/stream$subdocument
-
 ! 2021-03-01 https://www.starsandstripesfc.com
 ||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
 www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
@@ -819,3 +795,75 @@ winaero.com###dfsfsdfs-asdasd-2
 
 ! 2021-03-02 https://docs.microsoft.com
 docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border-bottom.feedback-verbatim
+
+! 2021-03-03 https://www.producthunt.com
+www.producthunt.com##.styles_promotedSection__1fAUW
+
+! 2021-03-03 https://instadp.org
+instadp.org##.text1.container
+instadp.org##div:nth-of-type(4)
+
+! 2021-03-03 https://www.startpage.com
+www.startpage.com##.footer__blog-widget
+www.startpage.com###feedback-button-container
+
+! 2021-03-04 https://coinmarketcap.com
+coinmarketcap.com##.dRFchQ.sc-174r4on-0
+coinmarketcap.com##.kTOFra.sc-174r4on-0
+coinmarketcap.com##.jJisww.jltjox-0
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.buyAdButtonSection___1BCTy.bYwLMj.sc-AxhCb
+
+! 2021-03-04 https://cointelegraph.com
+cointelegraph.com##.price-indexes-widget
+cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
+
+! 2021-03-04 https://consensys.net
+consensys.net##.notificationBar__visible--2U7sn.notificationBar__wrapper--378uN
+
+! 2021-03-05 https://www.wbur.org
+www.wbur.org##.uw--sponsorships
+
+! 2021-03-05 https://www.linkedin.com
+www.linkedin.com##.premium-upsell-link
+www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
+
+! 2021-03-05 https://www.monster.com
+www.monster.com##.lilo3746-wrapper
+
+! 2021-03-05 https://smallbusiness.chron.com
+smallbusiness.chron.com##.s2nBelowViewport.s2nContainer.k-VtBBB6Nk.s2nPlayer
+
+! 2021-03-05 https://www.aarp.org
+www.aarp.org##.parsys.iparsys.everywhere-page-header > div.section.parbase.textimage
+
+! 2021-03-05 https://www.psychologytoday.com
+www.psychologytoday.com##.pt-ad-show-text.pt-ad--container
+
+! 2021-03-06 https://dude-hack.com
+dude-hack.com##.et_pb_code_0.et_pb_code.et_pb_module.et_pb_with_border
+
+! 2021-03-07 https://www.wired.com
+www.wired.com##.persistent-aside--align-left.persistent-aside.cRaImu.sc-iWFSnp
+
+! 2021-03-08 https://www.rentcafe.com
+www.rentcafe.com##picture
+
+! 2021-03-09 https://ambcrypto.com
+ambcrypto.com##.ub-sticky-ad-containerdesk
+
+! 2021-03-09 https://www.youtube.com
+www.youtube.com###offer-module
+
+! 2021-03-10 http://123tvnow.com
+tracker.123tv.live
+123tvnow.com##.enter.floating-chat
+
+! 2021-03-11 https://tzstats.com
+tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
+
+! 2021-03-11 https://careerkarma.com
+careerkarma.com##.design1.wmpci-popup-wrp.splash
+
+! 2021-03-12 https://www.washingtonpost.com
+www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
