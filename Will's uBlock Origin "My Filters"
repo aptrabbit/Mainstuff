@@ -218,6 +218,7 @@ www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
 www.google.com##.hI5uQc.VjDLd
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 ||consent.google.com^
+www.google.com##.gVqDn
 
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
@@ -867,3 +868,15 @@ careerkarma.com##.design1.wmpci-popup-wrp.splash
 
 ! 2021-03-12 https://www.washingtonpost.com
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
+
+! 2021-03-13 https://www.berkeleywellness.com
+www.berkeleywellness.com##.lazy.adbox
+
+! 2021-03-13 https://www.laweekly.com
+www.laweekly.com##.sponsor-wrap
+
+! 2021-03-13 https://blog.hootsuite.com
+blog.hootsuite.com##._popupVariantContentUpgrade.content-upgrade--popup-variant.content-upgrade
+
+! 2021-03-13 https://steemit.com
+steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
