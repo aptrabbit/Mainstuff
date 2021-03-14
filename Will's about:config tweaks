@@ -34,6 +34,7 @@ extensions.getAddons.showPane; false (hidden preference, removes "recommended" e
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in Microsoft Edge; this uses extra CPU)
 extensions.webextensions.restrictedDomains; ""
 geo.enabled; false
+geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
