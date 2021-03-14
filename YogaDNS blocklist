@@ -32,8 +32,10 @@ bl3301-a.1drv.com
 bl3301-c.1drv.com
 bl3301-g.1drv.com
 browser.events.data.microsoft.com
+browser.events.data.msn.com
 bs.serving-sys.com
 c.atdmt.com
+c.bing.com
 c.msn.com
 cache.datamart.windows.com
 cdn.atdmt.com
@@ -242,6 +244,5 @@ bloodhound.spotify.com
 dntcl.qualaroo.com
 adservice.google.com
 telemetry.malwarebytes.com
-www.google-analytics.com
-www.googleadservices.com
 telemetry.dropbox.com
+concertads-configs.vox-cdn.com
