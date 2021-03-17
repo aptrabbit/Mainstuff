@@ -48,10 +48,6 @@ sourceforge.net###dlp-voip-quote
 ! 5/25/2020 https://client.schwab.com
 client.schwab.com##.closed.feedbackLink
 
-! 5/25/2020 https://www.bloomberg.com
-www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
-www.bloomberg.com##div.bb-global-footer__group:nth-of-type(2) > a.bb-global-footer__link:nth-of-type(3)
-
 ! 6/1/2020 https://www.wcoanimedub.tv
 www.wcoanimedub.tv##.anti-ad
 www.wcoanimedub.tv###hide-anime-video
@@ -412,9 +408,6 @@ www.marketbeat.com##.mb-3.c-white.p-3.gradient-blue
 ! 2020-11-15 https://www.twitch.tv
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
 
-! 2020-11-16 https://www.benzinga.com
-www.benzinga.com##.bz-campaign-text-bottom
-
 ! 2020-11-17 https://nodawaynews.com
 nodawaynews.com##.header-ad-content.c5-right
 
@@ -765,16 +758,6 @@ www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
 ! 2021-02-28 https://bravenewcoin.com
 bravenewcoin.com##app-content-block-component > div > app-content-markdown > .markdown-content > div
 
-! 2021-03-01 https://www.benzinga.com
-www.benzinga.com##.page-sidebar-placement.bz3-widget-container
-www.benzinga.com##.article-content > .lead-form.form
-www.benzinga.com##.primary-placeholder.placeholder
-www.benzinga.com##.secondary-placeholder.placeholder
-www.benzinga.com##.shadow-border.crypto-sidebar-table
-www.benzinga.com##.table-flex-wrap
-www.benzinga.com##.benzinga-blocks
-www.benzinga.com##.bz-campaign-text-top
-
 ! 2021-03-01 https://mail.protonmail.com
 mail.protonmail.com##.latest-upgrade.text-center
 mail.protonmail.com##section:nth-of-type(2)
@@ -880,3 +863,34 @@ blog.hootsuite.com##._popupVariantContentUpgrade.content-upgrade--popup-variant.
 
 ! 2021-03-13 https://steemit.com
 steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
+
+! 2021-03-15 https://kids.nationalgeographic.com
+kids.nationalgeographic.com###tou-message
+
+! 2021-03-15 https://bittrex.com
+bittrex.com##.banner--container
+
+! 2021-03-15 https://www.123rf.com
+www.123rf.com##.showTNC.tnc-padding.tnc-container
+
+! 2021-03-15 https://www.benzinga.com
+www.benzinga.com##.page-sidebar-placement.bz3-widget-container
+www.benzinga.com##.article-content > .lead-form.form
+www.benzinga.com##.primary-placeholder.placeholder
+www.benzinga.com##.secondary-placeholder.placeholder
+www.benzinga.com##.shadow-border.crypto-sidebar-table
+www.benzinga.com##.table-flex-wrap
+www.benzinga.com##.bz-campaign-text-top
+www.benzinga.com##.bz-campaign-text-middle
+www.benzinga.com##.bz-campaign-text-bottom
+www.benzinga.com###data-licensing-ad-right-rail
+
+! 2021-03-15 https://www.tennis-warehouse.com
+www.tennis-warehouse.com###data_protection
+
+! 2021-03-16 https://coingeek.com
+coingeek.com##.acabnnr-39.gcabnnr-single > [href]
+
+! 2021-03-17 https://www.bloomberg.com
+www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
+www.bloomberg.com##.leaderboard-container
