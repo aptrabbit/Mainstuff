@@ -174,6 +174,7 @@ sports24.stream##li.nav-item:nth-of-type(13)
 sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
 sports24.stream###cedato-unit
 sports24.stream###footylight
+sports24.stream/images/close.jpg
 sports24.site/ol.php
 bckfnohmg.com
 iqkfplsez.com
@@ -257,20 +258,6 @@ www.marketwatch.com###circular-widget
 
 ! 2020-10-19 https://www.glassdoor.com
 www.glassdoor.com###InlineLoginModule
-
-! 2020-10-19 https://seekingalpha.com
-||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
-seekingalpha.com##.banner-image
-seekingalpha.com###paywall_dynamic_ticker
-seekingalpha.com###px-captcha-wrapper
-seekingalpha.com###news-left-slot-1
-seekingalpha.com###article-left-slot-2
-seekingalpha.com##.in.fade.modal-backdrop
-seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com##[data-test-id="ad-slot-list"]
-seekingalpha.com###krux-container
-elfsight.com
-helphero.co
 
 ! 2020-10-19 https://blog.automox.com
 blog.automox.com##.get-started-bottom
@@ -935,3 +922,17 @@ www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
 
 ! 2021-03-23 https://app.koinly.io
 app.koinly.io##.intercom-lightweight-app
+
+! 2020-3-23 https://seekingalpha.com
+||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
+seekingalpha.com##.banner-image
+seekingalpha.com###paywall_dynamic_ticker
+seekingalpha.com###px-captcha-wrapper
+seekingalpha.com###news-left-slot-1
+seekingalpha.com###article-left-slot-2
+seekingalpha.com##.in.fade.modal-backdrop
+seekingalpha.com##section[data-test-id="recommended-section"]
+seekingalpha.com##[data-test-id="ad-slot-list"]
+seekingalpha.com###krux-container
+elfsight.com
+helphero.co
