@@ -13,4 +13,3 @@ behind-the-scene * inline-script noop
 secure.bankofamerica.com https://secure.bankofamerica.com/secure-authsales-eclo/spa-assets/components/utilities/global/share-content-utility/ script allow
 www.coursehero.com https://www.gstatic.com/recaptcha/ script block
 www.coursehero.com https://www.gstatic.com/recaptcha/releases/ script block
-www.coursehero.com https://cdn.polyfill.io script block
