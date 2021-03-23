@@ -159,29 +159,6 @@ www.motor1.com##.widget-wrapper
 www.motor1.com##.msrp-stripe
 www.motor1.com##.msrp-body
 
-! 2020-09-30 https://sports24.stream
-sports24.stream##.container > a.btn-outline-primary.btn
-sports24.stream##div.col
-sports24.stream##.col-lg-3.embed-responsive.col-12
-sports24.stream##.alert-success.alert
-sports24.stream##.modal-dialog-centered.modal-dialog
-sports24.stream##.show.modal
-sports24.stream##.show.modal-backdrop
-sports24.stream##li.nav-item:nth-of-type(10)
-sports24.stream##li.nav-item:nth-of-type(11)
-sports24.stream##li.nav-item:nth-of-type(12)
-sports24.stream##li.nav-item:nth-of-type(13)
-sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
-sports24.stream###cedato-unit
-sports24.stream###footylight
-sports24.*##.adrespl
-sports24.site
-bckfnohmg.com
-iqkfplsez.com
-cdnjs.buymeacoffee.com
-adieusyaktop.com
-algoply.com
-
 ! 2020-10-01 https://www.tvshowsace.com
 www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
 analytics.trinikid.com
@@ -261,27 +238,6 @@ www.glassdoor.com###InlineLoginModule
 
 ! 2020-10-19 https://blog.automox.com
 blog.automox.com##.get-started-bottom
-
-! 2020-10-19 https://quizlet.com
-quizlet.com##.site > .HurricaneBannerWrapper
-quizlet.com##.SignupWallInline-overlay
-quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
-quizlet.com##.SetPageStudyModesBanner-body
-quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
-quizlet.com##.is-visible.is-included.UIModal-backdrop
-quizlet.com##.SiteUpgradeButton
-https://eventlogger-k8s.quizlet.com/
-eventlogger.quizlet.com
-
-! 2020-10-19 https://www.amazon.com
-www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
-www.amazon.com###cart-item-recs
-www.amazon.com##.maple-banner
-www.amazon.com###prime-pda-type-box-ad
-www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
-www.amazon.com###customer-survey_feature_div
-www.amazon.com###sims-consolidated-2_feature_div
-www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
 
 ! 2020-10-19 https://www.pirateproxy-bay.com
 www.pirateproxy-bay.com##.hidden-except-country.nord-message__wrap
@@ -936,3 +892,46 @@ seekingalpha.com##[data-test-id="ad-slot-list"]
 seekingalpha.com###krux-container
 elfsight.com
 helphero.co
+
+! 2020-03-23 https://sports24.stream
+sports24.stream##.container > a.btn-outline-primary.btn
+sports24.stream##div.col
+sports24.stream##.col-lg-3.embed-responsive.col-12
+sports24.stream##.alert-success.alert
+sports24.stream##.modal-dialog-centered.modal-dialog
+sports24.stream##.show.modal
+sports24.stream##.show.modal-backdrop
+sports24.stream##li.nav-item:nth-of-type(11)
+sports24.stream##li.nav-item:nth-of-type(12)
+sports24.stream##li.nav-item:nth-of-type(13)
+sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
+sports24.stream###cedato-unit
+sports24.stream###footylight
+sports24.*##div[style^="width:300px;height:250px"]:upward(1)
+sports24.site
+bckfnohmg.com
+iqkfplsez.com
+cdnjs.buymeacoffee.com
+adieusyaktop.com
+algoply.com
+
+! 2020-10-19 https://quizlet.com
+quizlet.com##.site > .HurricaneBannerWrapper
+quizlet.com##.SignupWallInline-overlay
+quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
+quizlet.com##.SetPageStudyModesBanner-body
+quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
+quizlet.com##.is-visible.is-included.UIModal-backdrop
+quizlet.com##.SiteUpgradeButton
+https://eventlogger-k8s.quizlet.com/
+eventlogger.quizlet.com
+
+! 2020-3-23 https://www.amazon.com
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+www.amazon.com###cart-item-recs
+www.amazon.com##.maple-banner
+www.amazon.com###prime-pda-type-box-ad
+www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
+www.amazon.com###customer-survey_feature_div
+www.amazon.com###sims-consolidated-2_feature_div
+www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
