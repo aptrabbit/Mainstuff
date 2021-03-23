@@ -10,7 +10,6 @@ app.normandy.enabled; false
 app.normandy.first_run; false
 app.shield.optoutstudies.enabled; false
 beacon.enabled; false
-browser.backspace_action; 2 (depends on the user; A value of 2 prevents Firefox from going back a page if you press the backspace bar without a form entry)
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
 browser.overlink-delay; 0
@@ -44,7 +43,6 @@ media.peerconnection.ice.default_address_only; true (uBlock Origin setting: "Pre
 media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.identity.timeout; 1
-media.videocontrols.picture-in-picture.allow-multiple; true
 media.video_stats.enabled; false
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
