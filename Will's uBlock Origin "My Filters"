@@ -192,30 +192,6 @@ www.netgear.com###container > div.modal-group > .active.custom-modal-bg
 ! 2020-10-02 https://www.motorauthority.com
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
 
-! 2020-10-02 https://www.google.com
-support.google.com##.user-feedback-link
-google.*##div[id^="eob"]
-www.google.com##.KGl2dd.fl
-www.google.com##.xtBRad
-www.google.com##.Zes0Mc
-www.google.com##.pWCvWb
-www.google.com##.dobdf.nPDigc
-www.google.com##.z2QsLb.VjDLd
-www.google.com##div.J3Tg1d.PNCib.isv-r
-www.google.com##.LEKZTd
-www.google.com##.vcsi.l8pIW.a5mgdf
-www.google.com##.InNVqc
-www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
-www.google.com##.f0FBcf
-www.google.com###brs
-www.google.com###bres
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
-www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
-www.google.com##.hI5uQc.VjDLd
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-||consent.google.com^
-www.google.com##.gVqDn
-
 ! 2020-10-05 https://www.womenshistory.org
 www.womenshistory.org##.n-modal
 
@@ -441,13 +417,6 @@ www.jewage.org##.family_search_popup
 ! 2020-12-05 https://brainly.com
 brainly.com##.js-react-brainly-plus-box-aside
 
-! 2020-12-05 https://wwatchseries.com
-wwatchseries.com##div:nth-of-type(5)
-wwatchseries.com##.watch_content-tags__2tI5p
-wwatchseries.com##.watch_similar-title__1D8e2
-wwatchseries.com##.watch_player-bar__24I_s
-wwatchseries.com##li:nth-of-type(6)
-
 ! 2020-12-06 https://www.ratemyprofessors.com
 www.ratemyprofessors.com##.cxTury__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
 www.ratemyprofessors.com##.kaWnLy.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0
@@ -507,11 +476,6 @@ api.userleap.com
 
 ! 2020-12-30 https://www.businessnewsdaily.com
 www.businessnewsdaily.com##.e15dejzw0.css-md5sep-TransparentContainer
-
-! 2020-12-30 https://www.healthline.com
-www.healthline.com###modal-host
-www.healthline.com##.css-h9jo37
-www.healthline.com##.css-1pnad6
 
 ! 2020-12-30 https://open.spotify.com
 open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--animated.GenericModal__overlay
@@ -796,7 +760,6 @@ coinmarketcap.com##.dRFchQ.sc-174r4on-0
 coinmarketcap.com##.kTOFra.sc-174r4on-0
 coinmarketcap.com##.jJisww.jltjox-0
 coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.buyAdButtonSection___1BCTy.bYwLMj.sc-AxhCb
 
 ! 2021-03-04 https://cointelegraph.com
 cointelegraph.com##.price-indexes-widget
@@ -894,3 +857,81 @@ coingeek.com##.acabnnr-39.gcabnnr-single > [href]
 ! 2021-03-17 https://www.bloomberg.com
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##.leaderboard-container
+
+! 2021-03-17 https://optinmonster.com
+https://c1ac63.optinmonster.com/app/campaign-views/
+
+! 2021-03-18 https://coinmarketcap.com
+coinmarketcap.com##.buyAdButtonSection___1BCTy
+
+! 2021-03-18 https://www.cointracker.io
+www.cointracker.io##.performance-chart-upgrade
+www.cointracker.io##tbody > .d-flex
+
+! 2021-03-18 https://functionpoint.com
+functionpoint.com##.ub-emb-container
+
+! 2021-03-19 https://functionpoint.com
+functionpoint.com###featured-image
+
+! 2021-03-19 https://www.mindtools.com
+www.mindtools.com##.banner-article-horizonatal.responsive-ad-container
+www.mindtools.com##.display-on-load
+www.mindtools.com##div.panel.banner-vertical-article.banner-vertical.banner.advert
+
+! 2021-03-19 https://www.g2.com
+www.g2.com##.hide-for-small-only.bg-midnight-100.border-color--medium-gray.border-bottom
+
+! 2021-03-19 https://blog.hubspot.com
+blog.hubspot.com###slidebox
+
+! 2021-03-21 https://www.google.com
+support.google.com##.user-feedback-link
+google.*##div[id^="eob"]
+www.google.com##.KGl2dd.fl
+www.google.com##.xtBRad
+www.google.com##.Zes0Mc
+www.google.com##.pWCvWb
+www.google.com##.dobdf.nPDigc
+www.google.com##.z2QsLb.VjDLd
+www.google.com##div.J3Tg1d.PNCib.isv-r
+www.google.com##.LEKZTd
+www.google.com##.vcsi.l8pIW.a5mgdf
+www.google.com##.InNVqc
+www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
+www.google.com##.f0FBcf
+www.google.com###brs
+www.google.com###bres
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##.hI5uQc.VjDLd
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+www.google.com##.gVqDn
+www.google.com##.sfbg
+
+! 2021-03-22 https://www.healthline.com
+www.healthline.com###modal-host
+www.healthline.com##.css-h9jo37
+www.healthline.com##.css-1pnad6
+www.healthline.com##.css-1uycmzq
+www.healthline.com##.css-fextg5
+
+! 2021-03-22 https://www.greekrank.com
+www.greekrank.com###main-container > .container > div:nth-of-type(1)
+www.greekrank.com#@#.like-box
+
+! 2021-03-22 https://wwatchseries.com
+wwatchseries.com##div:nth-of-type(5)
+wwatchseries.com##.watch_content-tags__2tI5p
+wwatchseries.com##.watch_similar-title__1D8e2
+wwatchseries.com##.watch_player-bar__24I_s
+wwatchseries.com##li:nth-of-type(6)
+wwatchseries.com##.MuiPaper-elevation0
+wwatchseries.com##.MuiGrid-justify-xs-center
+wwatchseries.com##.MuiContainer-maxWidthLg.MuiContainer-root > .MuiPaper-rounded.MuiPaper-elevation1.MuiPaper-root > .MuiGrid-justify-xs-space-between
+
+! 2021-03-22 https://www.wired.com
+www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
+
+! 2021-03-23 https://app.koinly.io
+app.koinly.io##.intercom-lightweight-app
