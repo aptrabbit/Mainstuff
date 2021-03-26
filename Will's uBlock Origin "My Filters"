@@ -764,9 +764,6 @@ www.berkeleywellness.com##.lazy.adbox
 ! 2021-03-13 https://www.laweekly.com
 www.laweekly.com##.sponsor-wrap
 
-! 2021-03-13 https://blog.hootsuite.com
-blog.hootsuite.com##._popupVariantContentUpgrade.content-upgrade--popup-variant.content-upgrade
-
 ! 2021-03-13 https://steemit.com
 steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
 
@@ -934,3 +931,39 @@ www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
 www.amazon.com###customer-survey_feature_div
 www.amazon.com###sims-consolidated-2_feature_div
 www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
+
+! 2021-03-23 https://www.ringcentral.com
+www.ringcentral.com##.rc-notibar
+
+! 2021-03-24 https://www.ccleaner.com
+www.ccleaner.com###main-content > .text-center
+www.ccleaner.com##.download-notification--top.download-notification
+
+! 2021-03-25 https://carbuzz.com
+carbuzz.com##.cb-post-share-toolbar-top
+
+! 2021-03-25 https://bitcoinist.com
+bitcoinist.com##.text-banner
+bitcoinist.com##.play-games
+
+! 2021-03-25 https://blog.hootsuite.com
+blog.hootsuite.com##._popupVariantContentUpgrade.content-upgrade--popup-variant.content-upgrade
+blog.hootsuite.com##.fade-in.exit-intent-modal
+
+! 2021-03-25 https://socialtipster.co
+socialtipster.co##.flexright.hidden-xs.hidden-sm.th-col-right.to-flex-col
+socialtipster.co###socia-1030937160
+socialtipster.co##.socia-after-content
+
+! 2021-03-25 https://neilpatel.com
+neilpatel.com##.mfp-ready.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+
+! 2021-03-25 https://smallbusiness.chron.com
+smallbusiness.chron.com##.article-right-col-container
+
+! 2021-03-26 https://www.schwab.com
+www.schwab.com###Login-Logout-slot-1
+www.schwab.com###Login-Logout-slot-2
+
+! 2021-03-26 https://homebusinessmag.com
+homebusinessmag.com##.widget_media_image.widget.td_block_template_1
