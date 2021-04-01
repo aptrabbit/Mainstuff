@@ -698,12 +698,6 @@ instadp.org##div:nth-of-type(4)
 www.startpage.com##.footer__blog-widget
 www.startpage.com###feedback-button-container
 
-! 2021-03-04 https://coinmarketcap.com
-coinmarketcap.com##.dRFchQ.sc-174r4on-0
-coinmarketcap.com##.kTOFra.sc-174r4on-0
-coinmarketcap.com##.jJisww.jltjox-0
-coinmarketcap.com##.trending-sponsored
-
 ! 2021-03-04 https://cointelegraph.com
 cointelegraph.com##.price-indexes-widget
 cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
@@ -848,6 +842,9 @@ www.google.com##.hI5uQc.VjDLd
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 www.google.com##.gVqDn
 www.google.com##.sfbg
+www.google.com###lb
+www.google.com##:root:style(overflow-y: visible !important;)
+https://www.google.com/gen_204
 
 ! 2021-03-22 https://www.healthline.com
 www.healthline.com###modal-host
@@ -922,16 +919,6 @@ quizlet.com##.SiteUpgradeButton
 https://eventlogger-k8s.quizlet.com/
 eventlogger.quizlet.com
 
-! 2020-3-23 https://www.amazon.com
-www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
-www.amazon.com###cart-item-recs
-www.amazon.com##.maple-banner
-www.amazon.com###prime-pda-type-box-ad
-www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
-www.amazon.com###customer-survey_feature_div
-www.amazon.com###sims-consolidated-2_feature_div
-www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
-
 ! 2021-03-23 https://www.ringcentral.com
 www.ringcentral.com##.rc-notibar
 
@@ -967,3 +954,51 @@ www.schwab.com###Login-Logout-slot-2
 
 ! 2021-03-26 https://homebusinessmag.com
 homebusinessmag.com##.widget_media_image.widget.td_block_template_1
+
+! 2021-03-27 https://www2.watchserieshd.ru
+www2.watchserieshd.ru###user
+www2.watchserieshd.ru##.bl-2
+www2.watchserieshd.ru##.bl-1 > .bl
+www2.watchserieshd.ru###md-share
+www2.watchserieshd.ru##.show.fade.modal-backdrop
+
+! 2021-03-28 https://www.binance.us
+www.binance.us##.css-1iq0xlp
+
+! 2021-03-28 https://markets.businessinsider.com
+markets.businessinsider.com##div.htl-ad.htl-ad-placeholder--desktopInPostRightRail.htl-ad-placeholder
+markets.businessinsider.com##div.htl-ad.htl-ad-placeholder--desktopInPost.htl-ad-placeholder
+markets.businessinsider.com##.htl-ad.htl-ad-placeholder--subnav.htl-ad-placeholder
+markets.businessinsider.com##div.mobile-spacer-25.spacer-50
+
+! 2021-03-28 https://www.amazon.com
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+www.amazon.com###cart-item-recs
+www.amazon.com##.maple-banner
+www.amazon.com###prime-pda-type-box-ad
+www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
+www.amazon.com###customer-survey_feature_div
+www.amazon.com###sims-consolidated-2_feature_div
+www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
+www.amazon.com##tbody
+
+! 2021-03-28 https://finance.zacks.com
+finance.zacks.com###pfnModule > div
+
+! 2021-03-29 https://coinmarketcap.com
+coinmarketcap.com##.dRFchQ.sc-174r4on-0
+coinmarketcap.com##.kTOFra.sc-174r4on-0
+coinmarketcap.com##.jJisww.jltjox-0
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.dKPMPu.sc-AxhCb
+
+! 2021-03-30 https://manofmany.com
+manofmany.com##.header_banner_wrap
+manofmany.com##div.incontent-ad-banner.middle-banner
+manofmany.com##.single-post.banners
+
+! 2021-03-30 https://cointelegraph.com
+cointelegraph.com###vue-footer
+
+! 2021-04-01 https://adguard.com
+adguard.com##.flash-wrapper--en.flash-wrapper
