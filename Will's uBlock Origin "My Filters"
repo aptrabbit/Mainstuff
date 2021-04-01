@@ -650,9 +650,6 @@ www.doxchannel.com###appBarHeaderContainer
 www.wallstreetoasis.com##.show.modal
 www.wallstreetoasis.com##.show.modal-backdrop
 
-! 2021-02-27 https://pro.coinbase.com
-pro.coinbase.com##.hdzUHW.sc-fzoXWK
-
 ! 2021-02-27 https://www.fxstreet.com
 www.fxstreet.com###globalalert
 
@@ -870,9 +867,6 @@ wwatchseries.com##.MuiContainer-maxWidthLg.MuiContainer-root > .MuiPaper-rounded
 ! 2021-03-22 https://www.wired.com
 www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
 
-! 2021-03-23 https://app.koinly.io
-app.koinly.io##.intercom-lightweight-app
-
 ! 2020-3-23 https://seekingalpha.com
 ||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
 seekingalpha.com##.banner-image
@@ -1002,3 +996,12 @@ cointelegraph.com###vue-footer
 
 ! 2021-04-01 https://adguard.com
 adguard.com##.flash-wrapper--en.flash-wrapper
+
+! 2021-02-27 https://pro.coinbase.com
+pro.coinbase.com##.hdzUHW.sc-fzoXWK
+
+! 2021-04-01 https://www.coinbase.com
+www.coinbase.com##.ismrKK.sc-fzoLsD
+
+! 2021-04-01 https://app.koinly.io
+app.koinly.io##.intercom-namespace
