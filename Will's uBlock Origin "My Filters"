@@ -839,7 +839,6 @@ www.google.com##.hI5uQc.VjDLd
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 www.google.com##.gVqDn
 www.google.com##.sfbg
-www.google.com###lb
 www.google.com##:root:style(overflow-y: visible !important;)
 https://www.google.com/gen_204
 
@@ -1003,5 +1002,14 @@ pro.coinbase.com##.hdzUHW.sc-fzoXWK
 ! 2021-04-01 https://www.coinbase.com
 www.coinbase.com##.ismrKK.sc-fzoLsD
 
-! 2021-04-01 https://app.koinly.io
-app.koinly.io##.intercom-namespace
+! 2021-04-03 https://hostadvice.com
+hostadvice.com##.banner-popup
+
+! 2021-04-03 https://www.g2.com
+www.g2.com##aside.product-listing--banner.product-listing--competitor
+
+! 2021-04-03 https://hpanel.hostinger.com
+intercom.io
+
+! 2021-04-03 https://editor.zyro.com
+editor.zyro.com##.nps
