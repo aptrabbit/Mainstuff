@@ -161,7 +161,7 @@ www.motor1.com##.msrp-body
 
 ! 2020-10-01 https://www.tvshowsace.com
 www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
-analytics.trinikid.com
+||analytics.trinikid.com^
 
 ! 2020-10-02 https://www.netgear.com
 www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
@@ -254,11 +254,6 @@ www.cnbc.com##.pro-feedback-fixed
 
 ! 2020-10-20 https://payments.jagex.com
 payments.jagex.com##.ng-scope.messages--inline.cookies.messages
-
-! 2020-10-20 https://www.mercedes-amg.com
-www.mercedes-amg.com##.amg-e-social-share-buttons
-www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
-opticalanalytics.io
 
 ! 2020-10-21 https://www.aol.com
 login.aol.com##.login-bg-inner > .darla
@@ -872,8 +867,8 @@ seekingalpha.com##.in.fade.modal-backdrop
 seekingalpha.com##section[data-test-id="recommended-section"]
 seekingalpha.com##[data-test-id="ad-slot-list"]
 seekingalpha.com###krux-container
-apps.elfsight.com
-app.helphero.co
+||apps.elfsight.com^
+||app.helphero.co^
 
 ! 2020-03-23 https://sports24.stream
 sports24.stream##.container > a.btn-outline-primary.btn
@@ -889,12 +884,12 @@ sports24.stream##li.nav-item:nth-of-type(13)
 sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
 sports24.stream###cedato-unit
 sports24.stream###footylight
-sports24.site
-bckfnohmg.com
-iqkfplsez.com
-cdnjs.buymeacoffee.com
-adieusyaktop.com
-algoply.com
+||sports24.site^
+||bckfnohmg.com^
+||iqkfplsez.com^
+||cdnjs.buymeacoffee.com^
+||adieusyaktop.com^
+||algoply.com^
 
 ! 2020-10-19 https://quizlet.com
 quizlet.com##.site > .HurricaneBannerWrapper
@@ -905,7 +900,7 @@ quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
 quizlet.com##.is-visible.is-included.UIModal-backdrop
 quizlet.com##.SiteUpgradeButton
 https://eventlogger-k8s.quizlet.com/
-eventlogger.quizlet.com
+||eventlogger.quizlet.com
 
 ! 2021-03-23 https://www.ringcentral.com
 www.ringcentral.com##.rc-notibar
@@ -999,9 +994,6 @@ www.g2.com##aside.product-listing--banner.product-listing--competitor
 ! 2021-04-03 https://editor.zyro.com
 editor.zyro.com##.nps
 
-! 2021-04-03 https://www.jumboprivacy.com
-cdn.simpleanalytics.io
-
 ! 2021-04-03 https://piwik.pro
 piwik.pro##div.cc-johnson-box
 piwik.pro##.hs-cta-wrapper
@@ -1015,6 +1007,14 @@ coinpedia.org##.footerstickyimg
 coinpedia.org##.footer-popup-ad
 coinpedia.org##.widget_custom_html.widget.container-wrapper.widget_text
 
+! 2021-4-04 https://www.mercedes-amg.com
+www.mercedes-amg.com##.amg-e-social-share-buttons
+www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
+||opticalanalytics.io^
+
+! 2021-04-04 https://www.mbusa.com
+||collect.igodigital.com^
+
 ! 2021-04-04 https://coinmarketcap.com
 coinmarketcap.com##.buyAdButtonSection___1BCTy
 coinmarketcap.com##.dRFchQ.sc-174r4on-0
@@ -1023,3 +1023,4 @@ coinmarketcap.com##.jJisww.jltjox-0
 coinmarketcap.com##.trending-sponsored
 coinmarketcap.com##.dKPMPu.sc-AxhCb
 coinmarketcap.com##.QaVUF.sc-AxjAm
+coinmarketcap.com##.iUeDYB.kd7fmf-0
