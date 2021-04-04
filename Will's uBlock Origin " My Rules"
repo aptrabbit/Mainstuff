@@ -13,3 +13,6 @@ behind-the-scene * inline-script noop
 secure.bankofamerica.com https://secure.bankofamerica.com/secure-authsales-eclo/spa-assets/components/utilities/global/share-content-utility/ script allow
 www.coursehero.com https://www.gstatic.com/recaptcha/ script block
 www.coursehero.com https://www.gstatic.com/recaptcha/releases/ script block
+www.foxnews.com https://static.foxnews.com/static/isa/app/lib/ script allow
+www.trustpliot.com https://cdn.cookielaw.org script allow
+www.trustpliot.com https://cdn.cookielaw.org xmlhttprequest allow
