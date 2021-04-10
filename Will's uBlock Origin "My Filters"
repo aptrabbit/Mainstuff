@@ -1,3 +1,4 @@
+
 ! 4/22/2020 https://www.infor.com
 ||js.driftt.com/deploy/assets/index.html$subdocument
 
@@ -28,9 +29,6 @@ speedof.me##.cc-dialog-pane
 
 ! 5/14/2020 https://airvpn.org
 airvpn.org###air_cookielaw_container
-
-! 5/17/2020 https://mail.yahoo.com
-mail.yahoo.com###modal-outer
 
 ! 5/20/2020 https://windowsreport.com
 windowsreport.com##.qc-cmp2-summary-section
@@ -97,9 +95,6 @@ bookshelf.vitalsource.com###dialog-lXvC57b_Q
 ! 2020-09-03 https://theundefeated.com
 theundefeated.com##.dialog-content
 theundefeated.com##.dialog-overlay
-
-! 2020-09-03 https://www.theatlantic.com
-www.theatlantic.com##.c-nudge-reg-expanded__container.c-nudge__container
 
 ! 2020-09-04 https://digitalguyde.com
 digitalguyde.com##a.easyazon-link:nth-of-type(11) > .aligncenter.easyazon-image
@@ -192,11 +187,6 @@ thepostmillennial.com##.player-wrapper
 thepostmillennial.com##.inner > div.commercial-container > .lazyload > div > .commercial
 thepostmillennial.com##.lazyload.content.publicity
 
-! 2020-10-08 https://www.foxnews.com
-www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
-www.foxnews.com##.collection-trending.collection
-www.foxnews.com##.is-programming.alert-banner
-
 ! 2020-10-09 https://www.barchart.com
 www.barchart.com##.in.auth-no-modal-ref-class.authentication-modal.register-modal.fade.reveal-modal
 www.barchart.com##.in.fade.reveal-modal-bg
@@ -258,7 +248,6 @@ payments.jagex.com##.ng-scope.messages--inline.cookies.messages
 ! 2020-10-21 https://www.aol.com
 login.aol.com##.login-bg-inner > .darla
 membernotifications.aol.com###content
-mail.aol.com###dijit__WidgetsInTemplateMixin_1
 mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
 
 ! 2020-10-23 https://userstyles.org
@@ -422,9 +411,6 @@ open.spotify.com##.GenericModal__overlay--afterOpen.GenericModal__overlay--anima
 www.imyfone.com##.left-list
 www.imyfone.com##.m-hidden-769.activity-aside.activity-aside-pc
 
-! 2021-01-06 https://mail.yahoo.com
-mail.yahoo.com##.cZ1YE9Ay_3vNsy.cZ1YE9Aj_3HK1R.H_3rRhf.W_3DVPV.D_B.M_1EAG48
-
 ! 2021-01-14 https://contentmarketinginstitute.com
 contentmarketinginstitute.com##.pty_pkg
 
@@ -481,7 +467,7 @@ www.techradar.com###affiliateDisclaimer
 genius.com##apple-music-player
 
 ! 2021-01-25 https://mail.yahoo.com
-mail.yahoo.com##.Z_0.em_0.I_52qC.iz_A > .D_F
+mail.yahoo.com###modal-outer
 
 ! 2021-01-25 https://www.swipehelper.com
 www.swipehelper.com###tysixjhbu-blanket
@@ -503,9 +489,6 @@ chrome.google.com##.Yb
 
 ! 2021-01-26 https://patook.com
 patook.com##.cookies_subtext
-
-! 2021-01-27 https://www.yahoo.com
-www.yahoo.com###applet_p
 
 ! 2021-01-27 https://www.pdfdrive.com
 www.pdfdrive.com##.show.fade.modal
@@ -662,9 +645,6 @@ mail.protonmail.com##.latest-upgrade.text-center
 mail.protonmail.com##section:nth-of-type(2)
 mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 
-! 2021-03-01 https://www.theatlantic.com
-www.theatlantic.com###paywall
-
 ! 2021-03-01 https://www.starsandstripesfc.com
 ||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
 www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
@@ -809,7 +789,6 @@ www.g2.com##.hide-for-small-only.bg-midnight-100.border-color--medium-gray.borde
 blog.hubspot.com###slidebox
 
 ! 2021-03-21 https://www.google.com
-support.google.com##.user-feedback-link
 google.*##div[id^="eob"]
 www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
@@ -831,6 +810,7 @@ www.google.com##.hI5uQc.VjDLd
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 www.google.com##.gVqDn
 www.google.com##.sfbg
+www.google.com##.SfSHIf
 
 ! 2021-03-22 https://www.healthline.com
 www.healthline.com###modal-host
@@ -900,7 +880,7 @@ quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
 quizlet.com##.is-visible.is-included.UIModal-backdrop
 quizlet.com##.SiteUpgradeButton
 https://eventlogger-k8s.quizlet.com/
-||eventlogger.quizlet.com
+||eventlogger.quizlet.com^
 
 ! 2021-03-23 https://www.ringcentral.com
 www.ringcentral.com##.rc-notibar
@@ -998,10 +978,6 @@ editor.zyro.com##.nps
 piwik.pro##div.cc-johnson-box
 piwik.pro##.hs-cta-wrapper
 
-! 2021-04-04 https://www.celebritynetworth.com
-www.celebritynetworth.com###skyline
-www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox.cnw_ads_300.block
-
 ! 2021-04-04 https://coinpedia.org
 coinpedia.org##.footerstickyimg
 coinpedia.org##.footer-popup-ad
@@ -1024,3 +1000,98 @@ coinmarketcap.com##.trending-sponsored
 coinmarketcap.com##.dKPMPu.sc-AxhCb
 coinmarketcap.com##.QaVUF.sc-AxjAm
 coinmarketcap.com##.iUeDYB.kd7fmf-0
+
+! 2021-04-05 https://cointelegraph.com
+cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
+
+! 2021-04-05 https://dentacoin.com
+dentacoin.com##.dcn-privacy-policy-cookie
+
+! 2021-04-06 https://cryptobriefing.com
+cryptobriefing.com##.bottom.ad-sticky-banner
+cryptobriefing.com##.article-sidebar-items
+cryptobriefing.com##.top-adv-content
+cryptobriefing.com##.extra.sidebar-info
+
+! 2021-04-06 https://decrypt.co
+decrypt.co##.euvlPq.sc-17hoiz4-1
+decrypt.co##.fwAJKO.sc-13hse52-0
+decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
+
+! 2021-04-06 https://www.coindesk.com
+www.coindesk.com##.newsletter-module-wrapper
+www.coindesk.com##.false.article-com-wrapper
+
+! 2021-04-06 https://www.celebritynetworth.com
+www.celebritynetworth.com###skyline
+www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox.cnw_ads_300.block
+www.celebritynetworth.com###single__bar
+
+! 2021-04-06 https://www.twitch.tv
+twitch.tv##+js(twitch-videoad)
+
+! 2021-04-06 https://www.foxnews.com
+www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
+www.foxnews.com##.collection-trending.collection
+www.foxnews.com##.is-programming.alert-banner
+www.foxnews.com##.js-on-now.has-live-stream.promo-watch-live.promo
+www.foxnews.com##.js-promo.promo-image.promo
+www.foxnews.com##.has-load-more.collection-fox-nation.collection
+www.foxnews.com##.video-player.m > [href="http://video.foxnews.com/v/6245703562001"]
+www.foxnews.com##.article-social
+
+! 2021-04-06 https://www.reddit.com
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+
+! 2021-04-06 https://dillehayortho.com
+||chatwidget.ruby.com^
+
+! 2021-04-06 https://www.instapalace.com
+||api.sjpf.io^
+
+! 2021-04-07 https://www.yahoo.com
+www.yahoo.com###applet_p
+www.yahoo.com##.Mb-20.subscriptiontdv2
+
+! 2021-04-08 https://creatoracademy.youtube.com
+creatoracademy.youtube.com###google-hats-survey
+
+! 2021-04-08 https://support.google.com
+support.google.com##.user-feedback-link
+support.google.com##sc-client-feedback-inline-feedback-link
+
+! 2021-04-09 https://www.bitprime.co.nz
+||assetscdn-wchat.au.freshchat.com^
+
+! 2021-04-09 https://help.vimeo.com
+||api.solvvy.com^
+
+! 2021-04-09 https://www.verywellhealth.com
+www.verywellhealth.com###mntl-leaderboard-spacer_1-0
+
+! 2021-04-09 https://azdailysun.com
+azdailysun.com##.has-promotiom.hidden-print.show-after-loaded.lee-subscription-article-link.lee-featured-subscription
+azdailysun.com##div.subscriber-ad.asset-breakout-container.hidden-print
+
+! 2021-04-09 https://www.theatlantic.com
+www.theatlantic.com##.c-nudge-reg-expanded__container.c-nudge__container
+www.theatlantic.com###paywall
+www.theatlantic.com##.BottomLeaflets_root__RjVTY
+
+! 2021-04-09 https://www.medpagetoday.com
+www.medpagetoday.com##.leaderboard-region
+www.medpagetoday.com###right-rail-frame
+
+! 2021-04-09 https://www.wsj.com
+www.wsj.com##div.wsj-modern-ad-container
+
+! 2021-04-09 https://mail.google.com
+||ogs.google.com/u/0/widget/callout/sid$subdocument
+mail.google.com##.vh
+
+! 2021-04-10 https://www.spotify.com
+spotify.com#@#div > div[aria-live="polite"]
+
+! 2021-04-10 https://abc.com
+||staging.api.telemetry.watchabc.go.com^
+||cdn1.edgedatg.com/aws/apps/datg/web-js-telemetry-service/1.0.0.6/production/js/datgts.js$script
