@@ -244,11 +244,6 @@ www.cnbc.com##.pro-feedback-fixed
 ! 2020-10-20 https://payments.jagex.com
 payments.jagex.com##.ng-scope.messages--inline.cookies.messages
 
-! 2020-10-21 https://www.aol.com
-login.aol.com##.login-bg-inner > .darla
-membernotifications.aol.com###content
-mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
-
 ! 2020-10-23 https://userstyles.org
 userstyles.org##.android_button_button
 
@@ -497,9 +492,6 @@ www.theguardian.com###sp_message_container_414202
 invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0.mb-4.p-4.relative.inv-sidebar-widget
 invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
 
-! 2021-01-30 https://mail.google.com
-||ogs.google.com/widget/callout$subdocument
-
 ! 2021-01-31 https://www.fxstreet.com
 www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
 
@@ -539,9 +531,6 @@ stackshare.io##.css-17kwd5z
 ! 2021-02-09 https://myanimelist.net
 myanimelist.net##.banner-header-anime-straming
 
-! 2021-02-10 https://www.coingecko.com
-www.coingecko.com##.sponsored-v2
-
 ! 2021-02-10 https://www.publish0x.com
 www.publish0x.com##div.post.row:nth-of-type(9)
 
@@ -562,10 +551,6 @@ caliva.com###ccpa-app
 
 ! 2021-02-19 https://www.softwaresuggest.com
 www.softwaresuggest.com##.visible.exit-intent-popup
-
-! 2021-02-20 https://www.nytimes.com
-www.nytimes.com##.css-iu3170
-www.nytimes.com##.css-16l7vy9
 
 ! 2021-02-20 https://www.animenewsnetwork.com
 ||*.animenewsnetwork.com/assets/*.png$subdocument
@@ -619,9 +604,6 @@ www.wallstreetoasis.com##.show.modal-backdrop
 
 ! 2021-02-27 https://www.fxstreet.com
 www.fxstreet.com###globalalert
-
-! 2021-02-28 https://coingeek.com
-coingeek.com##.my-3.overflow-hidden.cg__radius.advertising__image
 
 ! 2021-02-28 https://www.coindesk.com
 www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
@@ -747,6 +729,7 @@ www.benzinga.com###data-licensing-ad-right-rail
 www.tennis-warehouse.com###data_protection
 
 ! 2021-03-16 https://coingeek.com
+coingeek.com##.my-3.overflow-hidden.cg__radius.advertising__image
 coingeek.com##.acabnnr-39.gcabnnr-single > [href]
 
 ! 2021-03-17 https://www.bloomberg.com
@@ -869,8 +852,6 @@ quizlet.com##.SetPageStudyModesBanner-body
 quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
 quizlet.com##.is-visible.is-included.UIModal-backdrop
 quizlet.com##.SiteUpgradeButton
-https://eventlogger-k8s.quizlet.com/
-||eventlogger.quizlet.com^
 
 ! 2021-03-23 https://www.ringcentral.com
 www.ringcentral.com##.rc-notibar
@@ -1041,10 +1022,6 @@ www.medpagetoday.com###right-rail-frame
 ! 2021-04-09 https://www.wsj.com
 www.wsj.com##div.wsj-modern-ad-container
 
-! 2021-04-09 https://mail.google.com
-||ogs.google.com/u/0/widget/callout/sid$subdocument
-mail.google.com##.vh
-
 ! 2021-04-10 https://www.spotify.com
 spotify.com#@#div > div[aria-live="polite"]
 
@@ -1076,7 +1053,6 @@ www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
 www.amazon.com###customer-survey_feature_div
 www.amazon.com###sims-consolidated-2_feature_div
 www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
-www.amazon.com#@#iframe[src="about:blank"]
 www.amazon.com##.s-widget-padding-bottom
 
 ! 2021-04-14 https://hypebeast.com
@@ -1139,7 +1115,6 @@ coinmarketcap.com##.jJisww.jltjox-0
 coinmarketcap.com##.trending-sponsored
 coinmarketcap.com##.dKPMPu.sc-AxhCb
 coinmarketcap.com##.QaVUF.sc-AxjAm
-coinmarketcap.com##.iUeDYB.kd7fmf-0
 coinmarketcap.com##.empty.email-signup
 coinmarketcap.com##.OAeiV.sc-16r8icm-0
 
@@ -1163,3 +1138,60 @@ www.marketbeat.com###shareableArticle > .hidden-print
 www.cryptocompare.com##big-info-section.ng-isolate-scope
 www.cryptocompare.com##.col-md-3 > .ng-isolate-scope
 www.cryptocompare.com##li.item-special
+www.cryptocompare.com##div.ng-scope.featured-mining-guide.well-guide:nth-of-type(2)
+www.cryptocompare.com##.ng-scope.featured-mining-guide.well-coin-page
+www.cryptocompare.com##.ci-trigger > .ng-isolate-scope
+
+! 2021-04-22 https://www.wikihow.com
+www.wikihow.com##.show
+
+! 2021-04-22 https://www.fishkeeper.co.uk
+||tracking.recommend.pro^
+
+! 2021-04-22 https://www.statnews.com
+www.statnews.com##.dfp-ad-midbreaker-wrap
+www.statnews.com##.stat-plus-article-cta.widget-default.widget
+
+! 2021-04-22 https://healthtechmagazine.net
+healthtechmagazine.net##.ui-front.ui-widget-overlay
+healthtechmagazine.net##.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
+healthtechmagazine.net###block-googlesidebarad
+healthtechmagazine.net###header
+healthtechmagazine.net##.hdr-btm
+
+! 2021-04-22 https://etherscan.io
+etherscan.io##.align-items-center.justify-content-between.flex-wrap.d-flex > .flex-wrap.d-flex
+
+! 2021-04-22 https://www.aol.com
+login.aol.com##.login-bg-inner > .darla
+membernotifications.aol.com###content
+mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
+mail.aol.com##.inforOfferDlg.WSModalPane
+
+! 2021-04-22 https://mail.google.com
+||ogs.google.com/widget/callout$subdocument
+||ogs.google.com/u/0/widget/callout/sid$subdocument
+mail.google.com##.vh
+mail.google.com###google-hats-survey
+
+! 2021-04-22 https://wetransfer.com
+wetransfer.com##.banner__animations-enter-done.banner__container
+
+! 2021-04-23 https://www.petco.com
+www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
+
+! 2021-04-26 https://www.wcostream.com
+||quantumdex.io^
+||id.sharedid.org^
+
+! 2021-04-26 https://www.investors.com
+www.investors.com##.drop-cap.post-content.single-post-content > p > span
+
+! 2021-04-26 https://www.coingecko.com
+www.coingecko.com##.sponsored-v2
+www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
+www.coingecko.com##.tw-justify-center.flex-column.tw-flex
+
+! 2021-04-27 https://cryptoslate.com
+cryptoslate.com##.right.sidebar
+cryptoslate.com##.top-sticky
