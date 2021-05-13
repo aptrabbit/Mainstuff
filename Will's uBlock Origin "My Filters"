@@ -104,10 +104,6 @@ pluto.tv##body > div:nth-of-type(2)
 ! 2020-09-07 https://www.stream2watch.io
 ||www.stream2watch.io/frames/fp2/index.php$subdocument
 
-! 2020-09-07 http://123tvnow.com
-123tvnow.com##[href^="https://go.nordvpn.net/aff_c"]
-123tvnow.com##.dropdown-toggle
-
 ! 2020-09-08 https://www.cnet.com
 www.cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
 www.cnet.com###article-body > .col-4
@@ -292,9 +288,6 @@ www.theblockcrypto.com##.modal-retainer
 ! 2020-11-13 https://www.barchart.com
 www.barchart.com##.advertisement-left
 
-! 2020-11-13 https://www.investors.com
-www.investors.com###investors-policy-terms-consent-dialog
-
 ! 2020-11-17 https://nodawaynews.com
 nodawaynews.com##.header-ad-content.c5-right
 
@@ -424,10 +417,6 @@ www.laptopmag.com##.slot-afterPopularBox
 www.laptopmag.com###affiliateDisclaimer
 www.laptopmag.com##.hawk-main-transparent
 www.laptopmag.com##.slot-lightbox1
-
-! 2021-01-20 https://cryptoslate.com
-cryptoslate.com##.image.sticky-footer
-cryptoslate.com##div.widget
 
 ! 2021-01-21 https://www.chess.com
 www.chess.com###upgrade-modal
@@ -682,10 +671,6 @@ ambcrypto.com##.ub-sticky-ad-containerdesk
 ! 2021-03-09 https://www.youtube.com
 www.youtube.com###offer-module
 
-! 2021-03-10 http://123tvnow.com
-tracker.123tv.live
-123tvnow.com##.enter.floating-chat
-
 ! 2021-03-11 https://tzstats.com
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 
@@ -760,31 +745,6 @@ www.g2.com##.hide-for-small-only.bg-midnight-100.border-color--medium-gray.borde
 ! 2021-03-19 https://blog.hubspot.com
 blog.hubspot.com###slidebox
 
-! 2021-03-21 https://www.google.com
-google.*##div[id^="eob"]
-www.google.com##.KGl2dd.fl
-www.google.com##.xtBRad
-www.google.com##.Zes0Mc
-www.google.com##.pWCvWb
-www.google.com##.dobdf.nPDigc
-www.google.com##.z2QsLb.VjDLd
-www.google.com##div.J3Tg1d.PNCib.isv-r
-www.google.com##.LEKZTd
-www.google.com##.vcsi.l8pIW.a5mgdf
-www.google.com##.InNVqc
-www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
-www.google.com##.f0FBcf
-www.google.com###brs
-www.google.com###bres
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
-www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
-www.google.com##.hI5uQc.VjDLd
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-www.google.com##.gVqDn
-www.google.com##.sfbg
-www.google.com##.SfSHIf
-www.google.com###w3bYAd
-
 ! 2021-03-22 https://www.healthline.com
 www.healthline.com###modal-host
 www.healthline.com##.css-h9jo37
@@ -822,27 +782,6 @@ seekingalpha.com##[data-test-id="ad-slot-list"]
 seekingalpha.com###krux-container
 ||apps.elfsight.com^
 ||app.helphero.co^
-
-! 2020-03-23 https://sports24.stream
-sports24.stream##.container > a.btn-outline-primary.btn
-sports24.stream##div.col
-sports24.stream##.col-lg-3.embed-responsive.col-12
-sports24.stream##.alert-success.alert
-sports24.stream##.modal-dialog-centered.modal-dialog
-sports24.stream##.show.modal
-sports24.stream##.show.modal-backdrop
-sports24.stream##li.nav-item:nth-of-type(11)
-sports24.stream##li.nav-item:nth-of-type(12)
-sports24.stream##li.nav-item:nth-of-type(13)
-sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
-sports24.stream###cedato-unit
-sports24.stream###footylight
-||sports24.site^
-||bckfnohmg.com^
-||iqkfplsez.com^
-||cdnjs.buymeacoffee.com^
-||adieusyaktop.com^
-||algoply.com^
 
 ! 2020-10-19 https://quizlet.com
 quizlet.com##.site > .HurricaneBannerWrapper
@@ -1185,6 +1124,7 @@ www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
 ||id.sharedid.org^
 
 ! 2021-04-26 https://www.investors.com
+www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
 
 ! 2021-04-26 https://www.coingecko.com
@@ -1192,6 +1132,133 @@ www.coingecko.com##.sponsored-v2
 www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
 www.coingecko.com##.tw-justify-center.flex-column.tw-flex
 
-! 2021-04-27 https://cryptoslate.com
+! 2021-04-28 https://sports24.stream
+sports24.stream##.container > a.btn-outline-primary.btn
+sports24.stream##div.col
+sports24.stream##.col-lg-3.embed-responsive.col-12
+sports24.stream##.alert-success.alert
+sports24.stream##.modal-dialog-centered.modal-dialog
+sports24.stream##.show.modal
+sports24.stream##.show.modal-backdrop
+sports24.stream##li.nav-item:nth-of-type(10)
+sports24.stream##li.nav-item:nth-of-type(11)
+sports24.stream##li.nav-item:nth-of-type(12)
+sports24.stream##li.nav-item:nth-of-type(13)
+sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
+sports24.stream###cedato-unit
+sports24.stream###footylight
+||sports24.site^
+||bckfnohmg.com^
+||iqkfplsez.com^
+||cdnjs.buymeacoffee.com^
+||adieusyaktop.com^
+||algoply.com^
+
+! 2021-04-28 http://123tv.live
+tracker.123tv.live
+123tv.live##.enter.floating-chat
+123tv.live##.js-demo-avd.demo-avd
+123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
+123tv.live##[href^="https://go.nordvpn.net/aff_c"]
+123tv.live##.watch-video-description
+
+! 2021-04-30 https://xx.network
+xx.network##.is-active.cookie.modal
+
+! 2021-05-02 https://liberalarts.vt.edu
+||widget.freshworks.com^
+||ai.ocelotbot.com^
+
+! 2021-05-03 https://www.nimh.nih.gov
+www.nimh.nih.gov##.sidebar_section.sidebar_child.share_links_wrap
+
+! 2021-05-03 https://coinguides.org
+coinguides.org##.q2w3-fixed-widget-container.theiaStickySidebar
+
+! 2021-05-04 https://cryptocoin.news
+cryptocoin.news##.ccpw-header-ticker-fixedbar.ccpw-ticker-cont.style-1-2
+
+! 2021-05-05 https://www.digit.in
+www.digit.in##.avg_height
+
+! 2021-05-05 https://www.google.com
+google.*##div[id^="eob"]
+www.google.com##.KGl2dd.fl
+www.google.com##.xtBRad
+www.google.com##.Zes0Mc
+www.google.com##.pWCvWb
+www.google.com##.dobdf.nPDigc
+www.google.com##.z2QsLb.VjDLd
+www.google.com##div.J3Tg1d.PNCib.isv-r
+www.google.com##.LEKZTd
+www.google.com##.vcsi.l8pIW.a5mgdf
+www.google.com##.InNVqc
+www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
+www.google.com##.f0FBcf
+www.google.com###brs
+www.google.com###bres
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##.hI5uQc.VjDLd
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+www.google.com##.gVqDn
+www.google.com##.sfbg
+www.google.com##.SfSHIf
+www.google.com###w3bYAd
+www.google.com##.g4peUd.V88cHc.ynRric
+www.google.com##li.sbre.ZCOBRd
+
+! 2021-05-06 https://www.fool.com
+||api.userway.org^
+
+! 2021-05-07 https://www.britannica.com
+www.britannica.com##.rr-module-1.rr-module
+
+! 2021-05-08 https://selfhacked.com
+selfhacked.com##.sh-et-7388fa.sponsored.shp-form.sh-partner
+selfhacked.com##.sh-et-7388fa.sponsored.shp-button.sh-partner
+selfhacked.com##.end-of-post
+selfhacked.com##.post-ratings-wrapper
+selfhacked.com##.sponsored-full-width.sponsored
+
+! 2021-05-08 https://staking.harmony.one
+staking.harmony.one###bar-container
+
+! 2021-05-09 https://finance.yahoo.com
+finance.yahoo.com##.caas-body > div
+
+! 2021-05-09 https://beincrypto.com
+beincrypto.com##.with-promo
+beincrypto.com##.col-md-3
+
+! 2021-05-10 https://cryptoslate.com
+cryptoslate.com##.image.sticky-footer
+cryptoslate.com##div.widget
 cryptoslate.com##.right.sidebar
 cryptoslate.com##.top-sticky
+cryptoslate.com##.buy-crypto.btn
+cryptoslate.com##.header-strip
+cryptoslate.com##.edge-cta
+
+! 2021-05-10 https://benchmarks.ul.com
+benchmarks.ul.com##.clearfix.defaultbox
+
+! 2021-05-10 https://www.investopedia.com
+www.investopedia.com###performance-marketing_3-0
+www.investopedia.com###fin-billboard1-sticky-dynamic_3-0
+www.investopedia.com###partnerlinks_21-0
+
+! 2021-05-10 https://www.virginiaent.com
+www.virginiaent.com##.hide
+
+! 2021-05-10 https://www.stakingrewards.com
+www.stakingrewards.com##.asset-links
+www.stakingrewards.com##.headerBanner
+www.stakingrewards.com##div.rt-tr-group:nth-of-type(1)
+www.stakingrewards.com##div.rt-tr-group:nth-of-type(2)
+
+! 2021-05-11 https://www.aetv.com
+www.aetv.com###signup-popup
+
+! 2021-05-12 https://www.precisiononcologynews.com
+www.precisiononcologynews.com##.footer__ads-footer
