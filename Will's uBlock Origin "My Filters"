@@ -321,12 +321,6 @@ www.jewage.org##.family_search_popup
 ! 2020-12-05 https://brainly.com
 brainly.com##.js-react-brainly-plus-box-aside
 
-! 2020-12-06 https://www.ratemyprofessors.com
-www.ratemyprofessors.com##.cxTury__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
-www.ratemyprofessors.com##.kaWnLy.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0
-www.ratemyprofessors.com##.reveal-modal-bg
-www.ratemyprofessors.com##.hidden.ccpa-footer.ccpa-modal
-
 ! 2020-12-09 https://expressdigest.com
 expressdigest.com##.code-block-2.code-block
 
@@ -471,9 +465,6 @@ www.pdfdrive.com###alternatives > div > .form-inline
 ! 2021-01-27 https://www.speedtest.net
 www.speedtest.net##.eot-info-audience.u-c.pure-u-1-2
 
-! 2021-01-28 https://www.ratemyprofessors.com
-www.ratemyprofessors.com##div.dQpRnT.FullPageModal__StyledFullPageModal-sc-1tziext-1:nth-of-type(5)
-
 ! 2021-01-28 https://www.theguardian.com
 www.theguardian.com###sp_message_container_414202
 
@@ -564,9 +555,6 @@ carbuzz.com##.cb-post__gallery-preview > .ad-slot-full-width
 carbuzz.com##.margin-top-40.gtm-cb-post-related-reviews.cb-posts-preview > .ad-slot-full-width.ad-placement
 carbuzz.com##.ad-slot-full-width.cb-post__sponsered-consideration.ad-placement
 carbuzz.com##div.ad-slot-full-width.ad-placement
-
-! 2021-02-21 https://crypto.com
-crypto.com##.top-banner-module--wrapper--dTrdt
 
 ! 2021-02-21 https://www.space.com
 www.space.com##.Campaign--css.CampaignType--popup.Campaign.portland-campaign.exit-intent__dark-background.exit-intent
@@ -1262,3 +1250,30 @@ www.aetv.com###signup-popup
 
 ! 2021-05-12 https://www.precisiononcologynews.com
 www.precisiononcologynews.com##.footer__ads-footer
+
+! 2021-05-16 https://abovethelaw.com
+abovethelaw.com##article.post-single--sponsored.post-single
+
+! 2021-05-16 https://www.ratemyprofessors.com
+www.ratemyprofessors.com##.cxTury__overlay.FullPageModal__StyledFullPageModal-sc-1tziext-1.ReactModal__Overlay--after-open.ReactModal__Overlay
+www.ratemyprofessors.com##.kaWnLy.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0
+www.ratemyprofessors.com##.reveal-modal-bg
+www.ratemyprofessors.com##.hidden.ccpa-footer.ccpa-modal
+www.ratemyprofessors.com##div.dQpRnT.FullPageModal__StyledFullPageModal-sc-1tziext-1:nth-of-type(5)
+www.ratemyprofessors.com##.ldUQse.HeaderLeaderboard__StyledHeaderLeaderboard-nduhbl-0
+
+! 2021-05-17 https://crypto.com
+crypto.com##.top-banner-module--wrapper--dTrdt
+crypto.com##.ekkiox40.css-5383u1
+
+! 2021-05-18 https://2cryptocalc.com
+2cryptocalc.com##.static
+
+! 2021-05-20 https://coinmarketcap.com
+coinmarketcap.com##.XVjpr.sc-16r8icm-0
+
+! 2021-05-20 https://www.fastcompany.com
+www.fastcompany.com##.w56438
+
+! 2021-05-24 https://www.ngpf.org
+www.ngpf.org###site-use-footer
