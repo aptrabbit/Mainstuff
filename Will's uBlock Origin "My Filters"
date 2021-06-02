@@ -234,9 +234,6 @@ www.retailmenot.com##.fHZgam.PromoStickyFooterBanner__StickyFooter-sc-3i57qf-0
 ! 2020-10-19 https://cenualepil.pl.tl
 cenualepil.pl.tl###selfpromotionOverlay
 
-! 2020-10-20 https://www.cnbc.com
-www.cnbc.com##.pro-feedback-fixed
-
 ! 2020-10-20 https://payments.jagex.com
 payments.jagex.com##.ng-scope.messages--inline.cookies.messages
 
@@ -1195,6 +1192,7 @@ www.google.com##.SfSHIf
 www.google.com###w3bYAd
 www.google.com##.g4peUd.V88cHc.ynRric
 www.google.com##li.sbre.ZCOBRd
+www.google.com##.MjfBXe.VjDLd
 
 ! 2021-05-06 https://www.fool.com
 ||api.userway.org^
@@ -1277,3 +1275,51 @@ www.fastcompany.com##.w56438
 
 ! 2021-05-24 https://www.ngpf.org
 www.ngpf.org###site-use-footer
+
+! 2021-05-25 https://vidrihmarko.medium.com
+vidrihmarko.medium.com##.ao.s.jy
+
+! 2021-05-26 https://www.discovermagazine.com
+www.discovermagazine.com##.dPURIw.thz482-0
+
+! 2021-05-26 https://www.technologyreview.com
+www.technologyreview.com##.overlayFooter__wrapper--3DhFn
+
+! 2021-05-26 https://www.altcoinbuzz.io
+www.altcoinbuzz.io##aside.widget_media_image.widget.td_block_template_1
+
+! 2021-05-26 https://www.monstersandcritics.com
+www.monstersandcritics.com##.tower300600
+www.monstersandcritics.com##.pw-ph-leaderboard.leaderboard-ad-size
+www.monstersandcritics.com##.pw-ph-med-rect
+www.monstersandcritics.com###custom_html-4
+www.monstersandcritics.com##.comments-area > .related-posts-column
+
+! 2021-05-27 https://dappradar.com
+dappradar.com##.entry--wide
+
+! 2021-05-27 https://www.getfilecloud.com
+www.getfilecloud.com##.textwidget
+
+! 2021-05-27 https://www.mayoclinic.org
+www.mayoclinic.org###leftNavigation
+www.mayoclinic.org##.mayoad
+
+! 2021-05-27 https://www.kiplinger.com
+www.kiplinger.com##.-sponsored-row-sidebar-enabled.-sponsored-row
+
+! 2021-05-31 https://www.entrepreneur.com
+www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
+www.entrepreneur.com##div.transparent.container
+www.entrepreneur.com###F20WidgetContainer
+
+! 2021-05-31 https://www.cnbc.com
+www.cnbc.com##.pro-feedback-fixed
+www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
+
+! 2021-05-31 https://www.gmx.com
+www.gmx.com##.dialogOverlay
+
+! 2021-06-01 https://www.autoevolution.com
+www.autoevolution.com###swipebox-action
+www.autoevolution.com###swipebox-right
