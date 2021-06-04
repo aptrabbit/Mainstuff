@@ -1313,13 +1313,33 @@ www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
 www.entrepreneur.com##div.transparent.container
 www.entrepreneur.com###F20WidgetContainer
 
-! 2021-05-31 https://www.cnbc.com
-www.cnbc.com##.pro-feedback-fixed
-www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
-
 ! 2021-05-31 https://www.gmx.com
 www.gmx.com##.dialogOverlay
 
 ! 2021-06-01 https://www.autoevolution.com
 www.autoevolution.com###swipebox-action
 www.autoevolution.com###swipebox-right
+
+! 2021-06-02 https://decrypt.co
+decrypt.co##.egrgSy.sc-13hse52-0
+
+! 2021-06-02 https://www.cnbc.com
+www.cnbc.com##.pro-feedback-fixed
+www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
+cnbc.com#@##social-buttons-transporter
+
+! 2021-06-02 https://www.hybridtraffic.net
+||widget.tidiochat.com^
+
+! 2021-06-04 https://us20.admin.mailchimp.com
+us20.admin.mailchimp.com##.root-35Mg8
+
+! 2021-06-04 https://www.nasdaq.com
+www.nasdaq.com##div.ads__inline
+www.nasdaq.com##.article-header__railAd
+www.nasdaq.com##.taboola-placeholder
+www.nasdaq.com##.ads__native
+www.nasdaq.com##.ads__midpage-fullwidth
+www.nasdaq.com##div.body--no-ads.body:nth-of-type(5)
+www.nasdaq.com##.inside-container
+www.nasdaq.com##.video-placeholder
