@@ -998,18 +998,6 @@ www.mayoclinic.org##.warning.globalnotice
 twitch.tv##+js(twitch-videoad)
 www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 
-! 2021-04-15 https://www.foxnews.com
-www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
-www.foxnews.com##.collection-trending.collection
-www.foxnews.com##.is-programming.alert-banner
-www.foxnews.com##.js-on-now.has-live-stream.promo-watch-live.promo
-www.foxnews.com##.js-promo.promo-image.promo
-www.foxnews.com##.has-load-more.collection-fox-nation.collection
-www.foxnews.com##.video-player.m > [href="http://video.foxnews.com/v/6245703562001"]
-www.foxnews.com##.article-social
-www.foxnews.com##[href] > strong
-www.foxnews.com##strong > [href]
-
 ! 2021-04-15 https://miningpoolstats.stream
 miningpoolstats.stream###mainpage_right [href] > .lozad
 miningpoolstats.stream###links_panel > div.box-comment.box > .table-condensed.table > tbody > tr > td > div
@@ -1343,3 +1331,33 @@ www.nasdaq.com##.ads__midpage-fullwidth
 www.nasdaq.com##div.body--no-ads.body:nth-of-type(5)
 www.nasdaq.com##.inside-container
 www.nasdaq.com##.video-placeholder
+
+! 2021-06-11 https://kusama.subscan.io
+kusama.subscan.io##.banner
+
+! 2021-06-13 https://www.foxnews.com
+www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
+www.foxnews.com##.collection-trending.collection
+www.foxnews.com##.is-programming.alert-banner
+www.foxnews.com##.js-on-now.has-live-stream.promo-watch-live.promo
+www.foxnews.com##.js-promo.promo-image.promo
+www.foxnews.com##.has-load-more.collection-fox-nation.collection
+www.foxnews.com##.video-player.m > [href="http://video.foxnews.com/v/6245703562001"]
+www.foxnews.com##.article-social
+www.foxnews.com##[href] > strong
+www.foxnews.com##strong > [href]
+www.foxnews.com##.sticky-region
+
+! 2021-06-16 https://www.finder.com
+www.finder.com##.hide-mobile.nps-feedbackModal__teaser
+www.finder.com###intercomChatButton
+
+! 2021-06-16 https://www.finder.com.au
+www.finder.com.au##.hide-mobile.nps-feedbackModal__teaser
+www.finder.com.au###intercomChatButton
+
+! 2021-06-17 https://www.dividend.com
+www.dividend.com###header-survey-container
+
+! 2021-06-17 https://firebase.google.com
+||firebaseinstallations.googleapis.com^
