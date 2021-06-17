@@ -440,7 +440,7 @@ www.swipehelper.com###tysixjhbu-blanket
 www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
 
 ! 2021-01-25 https://www.accounts.google.com
-||accounts.google.com/gsi/iframe/select$subdocument
+||accounts.google.com/gsi/*$xhr,script,3p
 
 ! 2021-01-25 https://www.vidaselect.com
 www.vidaselect.com##.cpro-open.cp-module-modal_popup.cp_style_19364.cp-popup-live-wrap.cp-popup-container
@@ -1361,3 +1361,7 @@ www.dividend.com###header-survey-container
 
 ! 2021-06-17 https://firebase.google.com
 ||firebaseinstallations.googleapis.com^
+
+! 2021-06-18 https://twitter.com
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
