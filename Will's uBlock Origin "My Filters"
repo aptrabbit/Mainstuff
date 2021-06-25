@@ -615,19 +615,11 @@ instadp.org##div:nth-of-type(4)
 www.startpage.com##.footer__blog-widget
 www.startpage.com###feedback-button-container
 
-! 2021-03-04 https://cointelegraph.com
-cointelegraph.com##.price-indexes-widget
-cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
-
 ! 2021-03-04 https://consensys.net
 consensys.net##.notificationBar__visible--2U7sn.notificationBar__wrapper--378uN
 
 ! 2021-03-05 https://www.wbur.org
 www.wbur.org##.uw--sponsorships
-
-! 2021-03-05 https://www.linkedin.com
-www.linkedin.com##.premium-upsell-link
-www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
 
 ! 2021-03-05 https://www.monster.com
 www.monster.com##.lilo3746-wrapper
@@ -730,13 +722,6 @@ www.g2.com##.hide-for-small-only.bg-midnight-100.border-color--medium-gray.borde
 ! 2021-03-19 https://blog.hubspot.com
 blog.hubspot.com###slidebox
 
-! 2021-03-22 https://www.healthline.com
-www.healthline.com###modal-host
-www.healthline.com##.css-h9jo37
-www.healthline.com##.css-1pnad6
-www.healthline.com##.css-1uycmzq
-www.healthline.com##.css-fextg5
-
 ! 2021-03-22 https://www.greekrank.com
 www.greekrank.com###main-container > .container > div:nth-of-type(1)
 www.greekrank.com#@#.like-box
@@ -837,9 +822,6 @@ manofmany.com##.header_banner_wrap
 manofmany.com##div.incontent-ad-banner.middle-banner
 manofmany.com##.single-post.banners
 
-! 2021-03-30 https://cointelegraph.com
-cointelegraph.com###vue-footer
-
 ! 2021-04-01 https://adguard.com
 adguard.com##.flash-wrapper--en.flash-wrapper
 
@@ -875,17 +857,8 @@ www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-o
 ! 2021-04-04 https://www.mbusa.com
 ||collect.igodigital.com^
 
-! 2021-04-05 https://cointelegraph.com
-cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
-
 ! 2021-04-05 https://dentacoin.com
 dentacoin.com##.dcn-privacy-policy-cookie
-
-! 2021-04-06 https://cryptobriefing.com
-cryptobriefing.com##.bottom.ad-sticky-banner
-cryptobriefing.com##.article-sidebar-items
-cryptobriefing.com##.top-adv-content
-cryptobriefing.com##.extra.sidebar-info
 
 ! 2021-04-06 https://decrypt.co
 decrypt.co##.euvlPq.sc-17hoiz4-1
@@ -1019,17 +992,6 @@ eth.2miners.com##.banner-2cryptocalc.banner
 ! 2021-04-17 https://www.tasteofhome.com
 www.tasteofhome.com##.non-contextual-video-wrapper.pure-g
 
-! 2021-04-19 https://coinmarketcap.com
-coinmarketcap.com##.buyAdButtonSection___1BCTy
-coinmarketcap.com##.dRFchQ.sc-174r4on-0
-coinmarketcap.com##.kTOFra.sc-174r4on-0
-coinmarketcap.com##.jJisww.jltjox-0
-coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.dKPMPu.sc-AxhCb
-coinmarketcap.com##.QaVUF.sc-AxjAm
-coinmarketcap.com##.empty.email-signup
-coinmarketcap.com##.OAeiV.sc-16r8icm-0
-
 ! 2021-04-19 https://www.adweek.com
 www.adweek.com##.position-relative.justify-content-end.row
 
@@ -1127,14 +1089,6 @@ sports24.stream###footylight
 ||adieusyaktop.com^
 ||algoply.com^
 
-! 2021-04-28 http://123tv.live
-tracker.123tv.live
-123tv.live##.enter.floating-chat
-123tv.live##.js-demo-avd.demo-avd
-123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
-123tv.live##[href^="https://go.nordvpn.net/aff_c"]
-123tv.live##.watch-video-description
-
 ! 2021-04-30 https://xx.network
 xx.network##.is-active.cookie.modal
 
@@ -1181,6 +1135,7 @@ www.google.com###w3bYAd
 www.google.com##.g4peUd.V88cHc.ynRric
 www.google.com##li.sbre.ZCOBRd
 www.google.com##.MjfBXe.VjDLd
+www.google.com###taw
 
 ! 2021-05-06 https://www.fool.com
 ||api.userway.org^
@@ -1255,9 +1210,6 @@ crypto.com##.ekkiox40.css-5383u1
 ! 2021-05-18 https://2cryptocalc.com
 2cryptocalc.com##.static
 
-! 2021-05-20 https://coinmarketcap.com
-coinmarketcap.com##.XVjpr.sc-16r8icm-0
-
 ! 2021-05-20 https://www.fastcompany.com
 www.fastcompany.com##.w56438
 
@@ -1295,11 +1247,6 @@ www.mayoclinic.org##.mayoad
 
 ! 2021-05-27 https://www.kiplinger.com
 www.kiplinger.com##.-sponsored-row-sidebar-enabled.-sponsored-row
-
-! 2021-05-31 https://www.entrepreneur.com
-www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
-www.entrepreneur.com##div.transparent.container
-www.entrepreneur.com###F20WidgetContainer
 
 ! 2021-05-31 https://www.gmx.com
 www.gmx.com##.dialogOverlay
@@ -1365,3 +1312,85 @@ www.dividend.com###header-survey-container
 ! 2021-06-18 https://twitter.com
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+
+! 2021-06-18 https://www.intowindows.com
+www.intowindows.com##div.\32 25e8008c70a1c7498d64714d951c985
+www.intowindows.com##.widget_custom_html.widget.widget_text
+
+! 2021-06-18 http://123tv.live
+tracker.123tv.live
+123tv.live##.enter.floating-chat
+123tv.live##.js-demo-avd.demo-avd
+123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
+123tv.live##[href^="https://go.nordvpn.net/aff_c"]
+123tv.live##.watch-video-description
+
+! 2021-06-18 https://www.linkedin.com
+www.linkedin.com##.premium-upsell-link
+www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
+www.linkedin.com##.show.cta-modal
+
+! 2021-06-18 https://www.healthline.com
+www.healthline.com###modal-host
+www.healthline.com##.css-h9jo37
+www.healthline.com##.css-1pnad6
+www.healthline.com##.css-1uycmzq
+www.healthline.com##.css-fextg5
+www.healthline.com##li.css-1m7x7vu
+www.healthline.com##.md\:justify-between.md\:flex.md\:rounded-2xl.bg-cyan-600.z-50.md\:-translate-x-1\/2.md\:transform.md\:left-1\/2.left-0.md\:bottom-6.bottom-0.md\:max-w-3xl.w-full.p-6.md\:fixed.sticky
+
+! 2021-06-21 https://www.entrepreneur.com
+www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
+www.entrepreneur.com##div.transparent.container
+www.entrepreneur.com###F20WidgetContainer
+www.entrepreneur.com##.show
+
+! 2021-06-21 https://coinmarketcap.com
+coinmarketcap.com##.buyAdButtonSection___1BCTy
+coinmarketcap.com##.dRFchQ.sc-174r4on-0
+coinmarketcap.com##.kTOFra.sc-174r4on-0
+coinmarketcap.com##.jJisww.jltjox-0
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.dKPMPu.sc-AxhCb
+coinmarketcap.com##.QaVUF.sc-AxjAm
+coinmarketcap.com##.empty.email-signup
+coinmarketcap.com##.OAeiV.sc-16r8icm-0
+coinmarketcap.com##.XVjpr.sc-16r8icm-0
+coinmarketcap.com##.kCVvHP.xahu3l-2
+coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
+
+! 2021-06-22 https://www.historic-uk.com
+www.historic-uk.com###hu
+
+! 2021-06-22 https://www.techpowerup.com
+||www.techpowerup.com/thlknzrjbv/*.jpg$image
+
+! 2021-06-22 https://cryptopanic.com
+cryptopanic.com##.news-row-sponsored.sponsored.news-row
+
+! 2021-06-22 https://dailyhodl.com
+dailyhodl.com##.widget_custom_html.widget.widget_text
+
+! 2021-06-24 https://etc.2miners.com
+etc.2miners.com##.banner-2cryptocalc.banner
+etc.2miners.com##.btn-support
+
+! 2021-06-24 https://cointelegraph.com
+cointelegraph.com##.price-indexes-widget
+cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
+cointelegraph.com###vue-footer
+cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
+cointelegraph.com##.post__content-shares
+cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
+cointelegraph.com##div.sidebar__widget:nth-of-type(2)
+
+! 2021-06-24 https://alternative.me
+alternative.me###footer
+alternative.me##.container > .block
+
+! 2021-06-24 https://cryptobriefing.com
+cryptobriefing.com##.bottom.ad-sticky-banner
+cryptobriefing.com##.article-sidebar-items
+cryptobriefing.com##.top-adv-content
+cryptobriefing.com##.extra.sidebar-info
+cryptobriefing.com#@#.newsletter-modal
