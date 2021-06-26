@@ -327,10 +327,6 @@ investorplace.com##.widget_ipm_sidebar_ad.widgetcontainer
 ! 2020-12-09 https://www.independent.co.uk
 www.independent.co.uk##.video-hero-wrapper
 
-! 2020-12-09 https://www.ibtimes.com
-www.ibtimes.com##.wf2-animated.wf2-slide-in-top.wf2-popover.grwf2-wrapper
-www.ibtimes.com##.wf2-bg-light.grwf2_backdrop
-
 ! 2020-12-09 https://www.popularmechanics.com
 www.popularmechanics.com##.gallery-module.embed
 
@@ -1394,3 +1390,19 @@ cryptobriefing.com##.article-sidebar-items
 cryptobriefing.com##.top-adv-content
 cryptobriefing.com##.extra.sidebar-info
 cryptobriefing.com#@#.newsletter-modal
+
+! 2021-06-25 https://www.ibtimes.com
+www.ibtimes.com##.wf2-animated.wf2-slide-in-top.wf2-popover.grwf2-wrapper
+www.ibtimes.com##.wf2-bg-light.grwf2_backdrop
+www.ibtimes.com##.wf2-bg-dark.grwf2_backdrop
+||cdn.vuukle.com/widgets/index.html$subdocument
+www.ibtimes.com##.discussion
+
+! 2021-06-25 https://www.nytimes.com
+www.nytimes.com##.css-1wspfld
+
+! 2021-06-25 https://robbreport.com
+robbreport.com##.sister-links
+
+! 2021-06-25 https://www.nccih.nih.gov
+www.nccih.nih.gov##footer
