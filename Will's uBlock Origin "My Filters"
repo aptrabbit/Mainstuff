@@ -339,13 +339,6 @@ www.automobilemag.com##._3UB4F
 www.automobilemag.com##.dt-container-xsmall._1TDV3.dt-actionable
 www.automobilemag.com##div._11KmK:nth-of-type(5)
 
-! 2020-12-11 https://www.tipranks.com
-www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
-www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
-www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
-www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
-www.tipranks.com##.client-components-experts-sideBar-side__newletter
-
 ! 2020-12-11 https://www.nsmedicaldevices.com
 www.nsmedicaldevices.com##.home_timeline
 
@@ -553,12 +546,6 @@ carbuzz.com##div.ad-slot-full-width.ad-placement
 www.space.com##.Campaign--css.CampaignType--popup.Campaign.portland-campaign.exit-intent__dark-background.exit-intent
 www.space.com##.dfp-leaderboard-container
 
-! 2021-02-21 https://www.fool.com
-www.fool.com##.alert-info.page-alert
-www.fool.com###market_performance
-www.fool.com##.userway_p2.uwy
-www.fool.com##.special-message
-
 ! 2021-02-22 https://www.afar.com
 www.afar.com###topPortal
 
@@ -637,9 +624,6 @@ www.wired.com##.persistent-aside--align-left.persistent-aside.cRaImu.sc-iWFSnp
 
 ! 2021-03-08 https://www.rentcafe.com
 www.rentcafe.com##picture
-
-! 2021-03-09 https://ambcrypto.com
-ambcrypto.com##.ub-sticky-ad-containerdesk
 
 ! 2021-03-09 https://www.youtube.com
 www.youtube.com###offer-module
@@ -1039,7 +1023,6 @@ mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
 mail.aol.com##.inforOfferDlg.WSModalPane
 
 ! 2021-04-22 https://mail.google.com
-||ogs.google.com/widget/callout$subdocument
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com##.vh
 mail.google.com###google-hats-survey
@@ -1125,16 +1108,11 @@ www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
 www.google.com##.hI5uQc.VjDLd
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 www.google.com##.gVqDn
-www.google.com##.sfbg
 www.google.com##.SfSHIf
 www.google.com###w3bYAd
 www.google.com##.g4peUd.V88cHc.ynRric
 www.google.com##li.sbre.ZCOBRd
 www.google.com##.MjfBXe.VjDLd
-www.google.com###taw
-
-! 2021-05-06 https://www.fool.com
-||api.userway.org^
 
 ! 2021-05-07 https://www.britannica.com
 www.britannica.com##.rr-module-1.rr-module
@@ -1151,10 +1129,6 @@ staking.harmony.one###bar-container
 
 ! 2021-05-09 https://finance.yahoo.com
 finance.yahoo.com##.caas-body > div
-
-! 2021-05-09 https://beincrypto.com
-beincrypto.com##.with-promo
-beincrypto.com##.col-md-3
 
 ! 2021-05-10 https://cryptoslate.com
 cryptoslate.com##.image.sticky-footer
@@ -1321,11 +1295,6 @@ tracker.123tv.live
 123tv.live##[href^="https://go.nordvpn.net/aff_c"]
 123tv.live##.watch-video-description
 
-! 2021-06-18 https://www.linkedin.com
-www.linkedin.com##.premium-upsell-link
-www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
-www.linkedin.com##.show.cta-modal
-
 ! 2021-06-18 https://www.healthline.com
 www.healthline.com###modal-host
 www.healthline.com##.css-h9jo37
@@ -1360,9 +1329,6 @@ www.historic-uk.com###hu
 
 ! 2021-06-22 https://www.techpowerup.com
 ||www.techpowerup.com/thlknzrjbv/*.jpg$image
-
-! 2021-06-22 https://cryptopanic.com
-cryptopanic.com##.news-row-sponsored.sponsored.news-row
 
 ! 2021-06-22 https://dailyhodl.com
 dailyhodl.com##.widget_custom_html.widget.widget_text
@@ -1406,3 +1372,97 @@ robbreport.com##.sister-links
 
 ! 2021-06-25 https://www.nccih.nih.gov
 www.nccih.nih.gov##footer
+
+! 2021-06-26 https://www.potterybarnkids.com
+||recs.richrelevance.com^
+||westelm.quiq-api.com^
+||match.collectandgather.com^
+
+! 2021-06-26 https://www.trustnodes.com
+www.trustnodes.com#@#.simple-share
+
+! 2021-06-26 https://cryptopanic.com
+cryptopanic.com##.news-row-sponsored.sponsored.news-row
+cryptopanic.com##.text-ad-item.flex-col.mb-3
+
+! 2021-06-26 https://beincrypto.com
+beincrypto.com##.with-promo
+beincrypto.com##.col-md-3
+beincrypto.com##.position-relative.ml-auto.text-nowrap.btn-parners.btn
+||clinfo-dot-analyticsbeincrypto.appspot.com^
+
+! 2021-06-26 https://datamish.com
+datamish.com##.cookielaw1
+datamish.com##.themesetting
+datamish.com##.hidden-xs.text-right.col-sm-12.col-md-6
+datamish.com##.sidebar-scroll > div
+
+! 2021-06-28 https://p2pfoundation.ning.com
+p2pfoundation.ning.com##.signedOut.chatFooter.xg_chat
+
+! 2021-06-28 https://www.vox.com
+www.vox.com#@#.c-tab-bar
+
+! 2021-06-29 https://ambcrypto.com
+ambcrypto.com##.ub-sticky-ad-containerdesk
+ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
+
+! 2021-06-29 https://cryptowat.ch
+cryptowat.ch##._3To4aljoTY054zJj-UPJSD
+
+! 2021-06-29 https://21shares.com
+21shares.com###legal-disclaimer
+21shares.com###how-to-buy
+
+! 2021-06-29 https://www.subscan.io
+www.subscan.io##.banner
+
+! 2021-06-30 https://www.linkedin.com
+www.linkedin.com##.premium-upsell-link
+www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
+www.linkedin.com##.show.cta-modal
+
+! 2021-06-30 https://cryptopro.app
+cryptopro.app###modalDownload
+cryptopro.app##.show.fade.modal-backdrop
+
+! 2021-06-30 https://app.grammarly.com
+app.grammarly.com##.notificationContainer_fgmz57n
+
+! 2021-07-01 https://pixabay.com
+pixabay.com##.container--1MiV3
+pixabay.com##.viewMore--1odRT
+pixabay.com##.sponsoredWithResults--1tY_-.container--Ir0yq
+pixabay.com##.container--Ir0yq
+
+! 2021-07-02 https://www.tipranks.com
+www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
+www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
+www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
+www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
+www.tipranks.com##.client-components-experts-sideBar-side__newletter
+www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo
+www.tipranks.com##.hideOnpremium.hideOnultimate.bgGradientgrey.mb7.p4.borderColorwhite-8.border1.group.shadow1.bgwhite.w12.positionrelative
+
+! 2021-07-02 https://www.insidermonkey.com
+www.insidermonkey.com###advertorial-container
+
+! 2021-07-02 https://www.nbcnews.com
+www.nbcnews.com##div.recommended-intersection-ref
+
+! 2021-07-03 https://www.chegg.com
+www.chegg.com##.SsZyJ.CallToAction__CTAWrapper-ieaghs-3
+
+! 2021-07-04 https://www.fool.com
+www.fool.com##.alert-info.page-alert
+www.fool.com###market_performance
+www.fool.com##.special-message
+||cdn.userway.org^
+www.fool.com###best-next-section
+www.fool.com###services-section
+www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
+www.fool.com##.art__pitch
+
+! 2021-07-07 https://u.today
+u.today##.something--fixed
+u.today##a.card--something.card
