@@ -1041,11 +1041,6 @@ www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
 www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
 
-! 2021-04-26 https://www.coingecko.com
-www.coingecko.com##.sponsored-v2
-www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
-www.coingecko.com##.tw-justify-center.flex-column.tw-flex
-
 ! 2021-04-28 https://sports24.stream
 sports24.stream##.container > a.btn-outline-primary.btn
 sports24.stream##div.col
@@ -1310,20 +1305,6 @@ www.entrepreneur.com##div.transparent.container
 www.entrepreneur.com###F20WidgetContainer
 www.entrepreneur.com##.show
 
-! 2021-06-21 https://coinmarketcap.com
-coinmarketcap.com##.buyAdButtonSection___1BCTy
-coinmarketcap.com##.dRFchQ.sc-174r4on-0
-coinmarketcap.com##.kTOFra.sc-174r4on-0
-coinmarketcap.com##.jJisww.jltjox-0
-coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.dKPMPu.sc-AxhCb
-coinmarketcap.com##.QaVUF.sc-AxjAm
-coinmarketcap.com##.empty.email-signup
-coinmarketcap.com##.OAeiV.sc-16r8icm-0
-coinmarketcap.com##.XVjpr.sc-16r8icm-0
-coinmarketcap.com##.kCVvHP.xahu3l-2
-coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
-
 ! 2021-06-22 https://www.historic-uk.com
 www.historic-uk.com###hu
 
@@ -1466,3 +1447,21 @@ www.fool.com##.art__pitch
 ! 2021-07-07 https://u.today
 u.today##.something--fixed
 u.today##a.card--something.card
+
+! 2021-07-11 https://www.coingecko.com
+www.coingecko.com##.sponsored-v2
+www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
+www.coingecko.com##.mb-2.mt-1.text-sm
+
+! 2021-07-11 https://cryptopotato.com
+cryptopotato.com##.ai-viewport-1.code-block-6.code-block
+cryptopotato.com##.widget_pojo_image.widget
+cryptopotato.com##.widget_text.widget
+
+! 2021-07-13 https://coinmarketcap.com
+coinmarketcap.com##.buyAdButtonSection___1BCTy
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.empty.email-signup
+coinmarketcap.com##.kCVvHP.xahu3l-2
+coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
+coinmarketcap.com##.bKmQGi.sc-16r8icm-0
