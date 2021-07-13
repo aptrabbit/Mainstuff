@@ -303,9 +303,6 @@ www.guidingtech.com##div.space-two.layer-one.resetcoords.fill-bb-white.campaign-
 ! 2020-11-23 https://www.studiowide.co.uk
 www.studiowide.co.uk###swpopup-wrapper
 
-! 2020-11-25 https://www.spotify.com
-www.spotify.com##.hzeuvL.sc-cxFLnm
-
 ! 2020-11-27 https://www.britannica.com
 www.britannica.com##.marketing-slider.marketing-SLIDER
 
@@ -349,9 +346,6 @@ vidcloud.siteunblocked.info###header-social
 ! 2020-12-14 https://www.npr.org
 www.npr.org###global-modal-mount
 
-! 2020-12-14 https://www.theguardian.com
-www.theguardian.com##.css-9aekbr
-
 ! 2020-12-15 https://jimstennis.com
 jimstennis.com###ac-wrapper
 
@@ -379,9 +373,6 @@ superuser.com##.js-consent-banner.theme-light__forced.bg-black-700.fc-white.z-ba
 
 ! 2021-01-16 https://www.grammarly.com
 www.grammarly.com##._1X8pZ-overlay
-
-! 2021-01-18 https://www.theguardian.com
-www.theguardian.com###sp_message_container_383916
 
 ! 2021-01-18 https://support.mozilla.org
 support.mozilla.org##.document-vote--sidebar-wrap
@@ -452,6 +443,8 @@ www.pdfdrive.com###alternatives > div > .form-inline
 www.speedtest.net##.eot-info-audience.u-c.pure-u-1-2
 
 ! 2021-01-28 https://www.theguardian.com
+www.theguardian.com##.css-9aekbr
+www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
 
 ! 2021-01-30 https://invezz.com
@@ -900,7 +893,8 @@ www.medpagetoday.com###right-rail-frame
 www.wsj.com##div.wsj-modern-ad-container
 
 ! 2021-04-10 https://www.spotify.com
-spotify.com#@#div > div[aria-live="polite"]
+www.spotify.com##.hzeuvL.sc-cxFLnm
+www.spotify.com#@#div > div[aria-live="polite"]
 
 ! 2021-04-10 https://abc.com
 ||staging.api.telemetry.watchabc.go.com^
