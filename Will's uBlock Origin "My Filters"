@@ -276,12 +276,6 @@ www.accuweather.com##.privacy-policy-banner
 www.niche.com##.scatterplot__logged-out-messages
 www.niche.com##.search-result--featured
 
-! 2020-11-13 https://www.theblockcrypto.com
-www.theblockcrypto.com##.d-md-flex.d-none.out.toggle-fade.animation.sponsorFooter
-www.theblockcrypto.com##.mb-4.ml-4.float-right.d-lg-block.d-none
-www.theblockcrypto.com##.mt-5.newsletterFeed
-www.theblockcrypto.com##.modal-retainer
-
 ! 2020-11-13 https://www.barchart.com
 www.barchart.com##.advertisement-left
 
@@ -667,10 +661,6 @@ www.tennis-warehouse.com###data_protection
 coingeek.com##.my-3.overflow-hidden.cg__radius.advertising__image
 coingeek.com##.acabnnr-39.gcabnnr-single > [href]
 
-! 2021-03-17 https://www.bloomberg.com
-www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
-www.bloomberg.com##.leaderboard-container
-
 ! 2021-03-17 https://optinmonster.com
 https://c1ac63.optinmonster.com/app/campaign-views/
 
@@ -915,17 +905,6 @@ www.lexology.com##.register-msg
 ! 2021-04-13 https://www.practicalfishkeeping.co.uk
 www.practicalfishkeeping.co.uk###popup-modal-ee164d02-c921-44bf-ae25-af6a67f21005
 
-! 2021-04-14 https://www.amazon.com
-www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
-www.amazon.com###cart-item-recs
-www.amazon.com##.maple-banner
-www.amazon.com###prime-pda-type-box-ad
-www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
-www.amazon.com###customer-survey_feature_div
-www.amazon.com###sims-consolidated-2_feature_div
-www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
-www.amazon.com##.s-widget-padding-bottom
-
 ! 2021-04-14 https://hypebeast.com
 hypebeast.com##div.sidebar-sticky-container:nth-of-type(1)
 
@@ -1034,28 +1013,6 @@ www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
 ! 2021-04-26 https://www.investors.com
 www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
-
-! 2021-04-28 https://sports24.stream
-sports24.stream##.container > a.btn-outline-primary.btn
-sports24.stream##div.col
-sports24.stream##.col-lg-3.embed-responsive.col-12
-sports24.stream##.alert-success.alert
-sports24.stream##.modal-dialog-centered.modal-dialog
-sports24.stream##.show.modal
-sports24.stream##.show.modal-backdrop
-sports24.stream##li.nav-item:nth-of-type(10)
-sports24.stream##li.nav-item:nth-of-type(11)
-sports24.stream##li.nav-item:nth-of-type(12)
-sports24.stream##li.nav-item:nth-of-type(13)
-sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
-sports24.stream###cedato-unit
-sports24.stream###footylight
-||sports24.site^
-||bckfnohmg.com^
-||iqkfplsez.com^
-||cdnjs.buymeacoffee.com^
-||adieusyaktop.com^
-||algoply.com^
 
 ! 2021-04-30 https://xx.network
 xx.network##.is-active.cookie.modal
@@ -1404,12 +1361,6 @@ cryptopro.app##.show.fade.modal-backdrop
 ! 2021-06-30 https://app.grammarly.com
 app.grammarly.com##.notificationContainer_fgmz57n
 
-! 2021-07-01 https://pixabay.com
-pixabay.com##.container--1MiV3
-pixabay.com##.viewMore--1odRT
-pixabay.com##.sponsoredWithResults--1tY_-.container--Ir0yq
-pixabay.com##.container--Ir0yq
-
 ! 2021-07-02 https://www.tipranks.com
 www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
 www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
@@ -1459,3 +1410,76 @@ coinmarketcap.com##.empty.email-signup
 coinmarketcap.com##.kCVvHP.xahu3l-2
 coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
 coinmarketcap.com##.bKmQGi.sc-16r8icm-0
+
+! 2021-07-14 https://starwars.fandom.com
+starwars.fandom.com###WikiaBar
+
+! 2021-07-19 https://www.theblockcrypto.com
+www.theblockcrypto.com##.d-md-flex.d-none.out.toggle-fade.animation.sponsorFooter
+www.theblockcrypto.com##.mb-4.ml-4.float-right.d-lg-block.d-none
+www.theblockcrypto.com##.mt-5.newsletterFeed
+www.theblockcrypto.com##.articleIAB
+www.theblockcrypto.com##.sticky
+
+! 2021-07-20 https://www.bloomberg.com
+www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
+www.bloomberg.com##.leaderboard-container
+www.bloomberg.com##.shimmering-text
+
+! 2021-07-20 https://zoom.us
+||static.ada.support^
+
+! 2021-07-20 https://study.com
+study.com##+js(rc, faded-content)
+study.com##+js(rc, hidden, div[ng-non-bindable])
+
+! 2021-07-20 https://catholicherald.co.uk
+||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
+
+! 2021-07-20 https://www.chegg.com
+www.chegg.com##.kTTapc.CallToAction__CTAWrapper-sc-ieaghs-3
+
+! 2021-07-20 https://sports24.stream
+sports24.stream##.container > a.btn-outline-primary.btn
+sports24.stream##div.col
+sports24.stream##.col-lg-3.embed-responsive.col-12
+sports24.stream##.alert-success.alert
+sports24.stream##.modal-dialog-centered.modal-dialog
+sports24.stream##.show.modal
+sports24.stream##.show.modal-backdrop
+sports24.stream##li.nav-item:nth-of-type(10)
+sports24.stream##li.nav-item:nth-of-type(11)
+sports24.stream##li.nav-item:nth-of-type(12)
+sports24.stream##li.nav-item:nth-of-type(13)
+sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
+sports24.stream###cedato-unit
+sports24.stream###footylight
+sports24.stream###id-custom_banner
+sports24.stream##div:nth-of-type(6)
+||sports24.site^
+||bckfnohmg.com^
+||iqkfplsez.com^
+||cdnjs.buymeacoffee.com^
+||adieusyaktop.com^
+||algoply.com^
+||adipolo.com^
+
+! 2021-07-21 https://pixabay.com
+pixabay.com##.container--1MiV3
+pixabay.com##.viewMore--1odRT
+pixabay.com##.sponsoredWithResults--1tY_-.container--Ir0yq
+pixabay.com##.container--Ir0yq
+pixabay.com##.show-gtty-item
+
+! 2021-07-22 https://www.amazon.com
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+www.amazon.com###cart-item-recs
+www.amazon.com##.maple-banner
+www.amazon.com###prime-pda-type-box-ad
+www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
+www.amazon.com###customer-survey_feature_div
+www.amazon.com###sims-consolidated-2_feature_div
+www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
+www.amazon.com##.s-widget-padding-bottom
+www.amazon.com###huc-first-upsell-row
+www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
