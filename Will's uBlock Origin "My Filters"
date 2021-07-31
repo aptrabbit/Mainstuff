@@ -1033,33 +1033,6 @@ cryptocoin.news##.ccpw-header-ticker-fixedbar.ccpw-ticker-cont.style-1-2
 ! 2021-05-05 https://www.digit.in
 www.digit.in##.avg_height
 
-! 2021-05-05 https://www.google.com
-google.*##div[id^="eob"]
-www.google.com##.KGl2dd.fl
-www.google.com##.xtBRad
-www.google.com##.Zes0Mc
-www.google.com##.pWCvWb
-www.google.com##.dobdf.nPDigc
-www.google.com##.z2QsLb.VjDLd
-www.google.com##div.J3Tg1d.PNCib.isv-r
-www.google.com##.LEKZTd
-www.google.com##.vcsi.l8pIW.a5mgdf
-www.google.com##.InNVqc
-www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
-www.google.com##.f0FBcf
-www.google.com###brs
-www.google.com###bres
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
-www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
-www.google.com##.hI5uQc.VjDLd
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-www.google.com##.gVqDn
-www.google.com##.SfSHIf
-www.google.com###w3bYAd
-www.google.com##.g4peUd.V88cHc.ynRric
-www.google.com##li.sbre.ZCOBRd
-www.google.com##.MjfBXe.VjDLd
-
 ! 2021-05-07 https://www.britannica.com
 www.britannica.com##.rr-module-1.rr-module
 
@@ -1482,3 +1455,43 @@ www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
 www.amazon.com##.s-widget-padding-bottom
 www.amazon.com###huc-first-upsell-row
 www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
+
+! 2021-07-24 https://www.google.com
+google.*##div[id^="eob"]
+www.google.com##.KGl2dd.fl
+www.google.com##.xtBRad
+www.google.com##.Zes0Mc
+www.google.com##.pWCvWb
+www.google.com##.dobdf.nPDigc
+www.google.com##.z2QsLb.VjDLd
+www.google.com##div.J3Tg1d.PNCib.isv-r
+www.google.com##.LEKZTd
+www.google.com##.vcsi.l8pIW.a5mgdf
+www.google.com##.InNVqc
+www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
+www.google.com##.f0FBcf
+www.google.com###brs
+www.google.com###bres
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##.hI5uQc.VjDLd
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+www.google.com##.gVqDn
+www.google.com##.SfSHIf
+www.google.com###w3bYAd
+www.google.com##.g4peUd.V88cHc.ynRric
+www.google.com##li.sbre.ZCOBRd
+www.google.com##.MjfBXe.VjDLd
+www.google.com##.cUnQKe.AuVD
+
+! 2021-07-29 https://www.tennisexpress.com
+www.tennisexpress.com##.show.cookieTextDisplay
+
+! 2021-07-29 https://www.dickssportinggoods.com
+www.dickssportinggoods.com###kampyleButtonContainer
+
+! 2021-07-29 https://coupons.cnet.com
+coupons.cnet.com##.SnackBar_root_active__3IYDm.SnackBar_root_info__1bH3Q.SnackBar_root__37aha
+
+! 2021-07-29 https://www.ft.com
+www.ft.com##.n-layout__footer-before
