@@ -8,7 +8,6 @@ app.shield.optoutstudies.enabled; false
 beacon.enabled; false
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
-browser.overlink-delay; 0
 browser.ping-centre.telemetry; false
 browser.search.separatePrivateDefault; true
 browser.search.separatePrivateDefault.ui.enabled; true
@@ -28,6 +27,7 @@ dom.webnotifications.enabled; false (depends on user; setting to false will bloc
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in Microsoft Edge; this uses extra CPU)
 extensions.webextensions.restrictedDomains; ""
+geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
@@ -36,6 +36,8 @@ media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC f
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.identity.timeout; 1
 media.video_stats.enabled; false
+network.dns.echconfig.enabled; true (ECH, replaced ESNI)
+network.dns.use_https_rr_as_altsvc; true (ECH, replaced ESNI)
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
