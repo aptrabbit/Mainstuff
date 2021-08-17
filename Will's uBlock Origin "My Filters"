@@ -1069,12 +1069,6 @@ www.investopedia.com###partnerlinks_21-0
 ! 2021-05-10 https://www.virginiaent.com
 www.virginiaent.com##.hide
 
-! 2021-05-10 https://www.stakingrewards.com
-www.stakingrewards.com##.asset-links
-www.stakingrewards.com##.headerBanner
-www.stakingrewards.com##div.rt-tr-group:nth-of-type(1)
-www.stakingrewards.com##div.rt-tr-group:nth-of-type(2)
-
 ! 2021-05-11 https://www.aetv.com
 www.aetv.com###signup-popup
 
@@ -1286,10 +1280,6 @@ www.nccih.nih.gov##footer
 ! 2021-06-26 https://www.trustnodes.com
 www.trustnodes.com#@#.simple-share
 
-! 2021-06-26 https://cryptopanic.com
-cryptopanic.com##.news-row-sponsored.sponsored.news-row
-cryptopanic.com##.text-ad-item.flex-col.mb-3
-
 ! 2021-06-26 https://beincrypto.com
 beincrypto.com##.with-promo
 beincrypto.com##.col-md-3
@@ -1365,16 +1355,6 @@ www.fool.com##.art__pitch
 ! 2021-07-07 https://u.today
 u.today##.something--fixed
 u.today##a.card--something.card
-
-! 2021-07-11 https://www.coingecko.com
-www.coingecko.com##.sponsored-v2
-www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
-www.coingecko.com##.mb-2.mt-1.text-sm
-
-! 2021-07-11 https://cryptopotato.com
-cryptopotato.com##.ai-viewport-1.code-block-6.code-block
-cryptopotato.com##.widget_pojo_image.widget
-cryptopotato.com##.widget_text.widget
 
 ! 2021-07-13 https://coinmarketcap.com
 coinmarketcap.com##.buyAdButtonSection___1BCTy
@@ -1495,3 +1475,65 @@ coupons.cnet.com##.SnackBar_root_active__3IYDm.SnackBar_root_info__1bH3Q.SnackBa
 
 ! 2021-07-29 https://www.ft.com
 www.ft.com##.n-layout__footer-before
+
+! 2021-08-05 https://hardwaresfera.com
+hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
+hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
+
+! 2021-08-07 https://zycrypto.com
+zycrypto.com##.td-header-sp-recs
+zycrypto.com###block-2
+zycrypto.com###custom_html-13
+
+! 2021-08-08 https://coinfomania.com
+coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
+
+! 2021-08-10 https://delta.app
+delta.app##.cOWINi.sc-iBPRYJ
+
+! 2021-08-12 https://blog.coincodecap.com
+blog.coincodecap.com##.ct-advertisement-widget.ct-widget
+blog.coincodecap.com###blocksy_ct_socials-3
+
+! 2021-08-14 https://app.santiment.net
+app.santiment.net##.Intercom_wrapper__2vK2L
+app.santiment.net#@#div[class^="SocialTool"]
+
+! 2021-08-14 https://insights.santiment.net
+insights.santiment.net##.svelte-1ezhlqq.wrapper.SAN-panel_context.SAN-panel
+
+! 2021-08-15 https://en.chessbase.com
+en.chessbase.com###askForCookiesBackground
+
+! 2021-08-15 https://www.coingecko.com
+www.coingecko.com##.sponsored-v2
+www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
+www.coingecko.com##.mb-2.mt-1.text-sm
+www.coingecko.com##.mt-md-0.tw-mt-3.flex-wrap.tw-flex.lg\:tw-ml-3
+
+! 2021-08-15 https://cryptopotato.com
+cryptopotato.com##.ai-viewport-1.code-block-6.code-block
+cryptopotato.com##.widget_pojo_image.widget
+cryptopotato.com##.widget_text.widget
+cryptopotato.com##.code-block-12.code-block
+
+! 2021-08-16 https://polkadot.subscan.io
+polkadot.subscan.io##.banner
+
+! 2021-08-16 https://www.cryptoninjas.net
+www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
+www.cryptoninjas.net##.widget_text.widget
+
+! 2021-08-16 https://cryptopanic.com
+cryptopanic.com##.news-row-sponsored.sponsored.news-row
+cryptopanic.com##.text-ad-item.flex-col.mb-3
+cryptopanic.com#@#.social-login
+
+! 2021-08-16 https://www.stakingrewards.com
+www.stakingrewards.com##.asset-links
+www.stakingrewards.com##.headerBanner
+www.stakingrewards.com##div.rt-tr-group:nth-of-type(1)
+www.stakingrewards.com##div.rt-tr-group:nth-of-type(2)
+www.stakingrewards.com##.banner_native-ad-container-small__2w7l4.banner_native-ad-container__3X3VA
+www.stakingrewards.com###top-bar-section
+www.stakingrewards.com###header-banner
