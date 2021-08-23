@@ -1099,9 +1099,6 @@ www.fastcompany.com##.w56438
 ! 2021-05-24 https://www.ngpf.org
 www.ngpf.org###site-use-footer
 
-! 2021-05-25 https://vidrihmarko.medium.com
-vidrihmarko.medium.com##.ao.s.jy
-
 ! 2021-05-26 https://www.discovermagazine.com
 www.discovermagazine.com##.dPURIw.thz482-0
 
@@ -1356,14 +1353,6 @@ www.fool.com##.art__pitch
 u.today##.something--fixed
 u.today##a.card--something.card
 
-! 2021-07-13 https://coinmarketcap.com
-coinmarketcap.com##.buyAdButtonSection___1BCTy
-coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.empty.email-signup
-coinmarketcap.com##.kCVvHP.xahu3l-2
-coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
-coinmarketcap.com##.bKmQGi.sc-16r8icm-0
-
 ! 2021-07-14 https://starwars.fandom.com
 starwars.fandom.com###WikiaBar
 
@@ -1537,3 +1526,24 @@ www.stakingrewards.com##div.rt-tr-group:nth-of-type(2)
 www.stakingrewards.com##.banner_native-ad-container-small__2w7l4.banner_native-ad-container__3X3VA
 www.stakingrewards.com###top-bar-section
 www.stakingrewards.com###header-banner
+
+! 2021-08-18 https://thekrazycouponlady.com
+thekrazycouponlady.com#@#.share-buttons
+
+! 2021-08-18 https://enotes.com
+enotes.com##+js(rc, is-paywalled)
+
+! 2021-08-21 https://nypost.com
+nypost.com##.recirc--outbrain.recirc
+
+! 2021-08-23 https://forkast.news
+forkast.news##div.spaced-group
+
+! 2021-08-23 https://coinmarketcap.com
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.empty.email-signup
+coinmarketcap.com##.kCVvHP.xahu3l-2
+coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
+coinmarketcap.com##.bKmQGi.sc-16r8icm-0
+coinmarketcap.com##.buyAdButtonSection
+
