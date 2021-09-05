@@ -702,20 +702,6 @@ wwatchseries.com##.MuiContainer-maxWidthLg.MuiContainer-root > .MuiPaper-rounded
 ! 2021-03-22 https://www.wired.com
 www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
 
-! 2020-3-23 https://seekingalpha.com
-||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
-seekingalpha.com##.banner-image
-seekingalpha.com###paywall_dynamic_ticker
-seekingalpha.com###px-captcha-wrapper
-seekingalpha.com###news-left-slot-1
-seekingalpha.com###article-left-slot-2
-seekingalpha.com##.in.fade.modal-backdrop
-seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com##[data-test-id="ad-slot-list"]
-seekingalpha.com###krux-container
-||apps.elfsight.com^
-||app.helphero.co^
-
 ! 2020-10-19 https://quizlet.com
 quizlet.com##.site > .HurricaneBannerWrapper
 quizlet.com##.SignupWallInline-overlay
@@ -822,11 +808,6 @@ www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-o
 
 ! 2021-04-05 https://dentacoin.com
 dentacoin.com##.dcn-privacy-policy-cookie
-
-! 2021-04-06 https://decrypt.co
-decrypt.co##.euvlPq.sc-17hoiz4-1
-decrypt.co##.fwAJKO.sc-13hse52-0
-decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
 
 ! 2021-04-06 https://www.coindesk.com
 www.coindesk.com##.newsletter-module-wrapper
@@ -1134,9 +1115,6 @@ www.gmx.com##.dialogOverlay
 ! 2021-06-01 https://www.autoevolution.com
 www.autoevolution.com###swipebox-action
 www.autoevolution.com###swipebox-right
-
-! 2021-06-02 https://decrypt.co
-decrypt.co##.egrgSy.sc-13hse52-0
 
 ! 2021-06-02 https://www.cnbc.com
 www.cnbc.com##.pro-feedback-fixed
@@ -1494,12 +1472,6 @@ insights.santiment.net##.svelte-1ezhlqq.wrapper.SAN-panel_context.SAN-panel
 ! 2021-08-15 https://en.chessbase.com
 en.chessbase.com###askForCookiesBackground
 
-! 2021-08-15 https://www.coingecko.com
-www.coingecko.com##.sponsored-v2
-www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
-www.coingecko.com##.mb-2.mt-1.text-sm
-www.coingecko.com##.mt-md-0.tw-mt-3.flex-wrap.tw-flex.lg\:tw-ml-3
-
 ! 2021-08-15 https://cryptopotato.com
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
@@ -1546,4 +1518,45 @@ coinmarketcap.com##.kCVvHP.xahu3l-2
 coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
 coinmarketcap.com##.bKmQGi.sc-16r8icm-0
 coinmarketcap.com##.buyAdButtonSection
+
+! 2021-08-24 https://www.genomeweb.com
+www.genomeweb.com##.footer__ads-footer
+
+! 2021-08-25 https://www.theonion.com
+www.theonion.com###js_moreFromNetwork
+
+! 2021-08-29 https://www.coingecko.com
+www.coingecko.com##.sponsored-v2
+www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
+www.coingecko.com##.mb-2.mt-1.text-sm
+www.coingecko.com##.mt-md-0.tw-mt-3.flex-wrap.tw-flex.lg\:tw-ml-3
+www.coingecko.com##.tw-ads-btn-md.btn-success.btn
+
+! 2021-08-29 https://decrypt.co
+decrypt.co##.euvlPq.sc-17hoiz4-1
+decrypt.co##.fwAJKO.sc-13hse52-0
+decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
+decrypt.co##.egrgSy.sc-13hse52-0
+decrypt.co##.adbutler-inline-ad
+decrypt.co##.bHGkbV.sc-13hse52-0
+
+! 2021-09-02 https://www.scribd.com
+www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
+
+! 2021-09-04 https://seekingalpha.com
+||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
+seekingalpha.com##.banner-image
+seekingalpha.com###paywall_dynamic_ticker
+seekingalpha.com###px-captcha-wrapper
+seekingalpha.com###news-left-slot-1
+seekingalpha.com###article-left-slot-2
+seekingalpha.com##.in.fade.modal-backdrop
+seekingalpha.com##section[data-test-id="recommended-section"]
+seekingalpha.com##[data-test-id="ad-slot-list"]
+seekingalpha.com###krux-container
+seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
+seekingalpha.com##.sa_hFop.sa_hFls
+seekingalpha.com##.sa_Igr.sa_IfB.sa_IeS.sa_EbQ.sa_EbO.sa_EbF.sa_hhnN
+||apps.elfsight.com^
+||app.helphero.co^
 
