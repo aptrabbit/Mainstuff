@@ -1224,13 +1224,6 @@ cointelegraph.com##div.sidebar__widget:nth-of-type(2)
 alternative.me###footer
 alternative.me##.container > .block
 
-! 2021-06-24 https://cryptobriefing.com
-cryptobriefing.com##.bottom.ad-sticky-banner
-cryptobriefing.com##.article-sidebar-items
-cryptobriefing.com##.top-adv-content
-cryptobriefing.com##.extra.sidebar-info
-cryptobriefing.com#@#.newsletter-modal
-
 ! 2021-06-25 https://www.ibtimes.com
 www.ibtimes.com##.wf2-animated.wf2-slide-in-top.wf2-popover.grwf2-wrapper
 www.ibtimes.com##.wf2-bg-light.grwf2_backdrop
@@ -1403,34 +1396,6 @@ www.amazon.com##.s-widget-padding-bottom
 www.amazon.com###huc-first-upsell-row
 www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
 
-! 2021-07-24 https://www.google.com
-google.*##div[id^="eob"]
-www.google.com##.KGl2dd.fl
-www.google.com##.xtBRad
-www.google.com##.Zes0Mc
-www.google.com##.pWCvWb
-www.google.com##.dobdf.nPDigc
-www.google.com##.z2QsLb.VjDLd
-www.google.com##div.J3Tg1d.PNCib.isv-r
-www.google.com##.LEKZTd
-www.google.com##.vcsi.l8pIW.a5mgdf
-www.google.com##.InNVqc
-www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
-www.google.com##.f0FBcf
-www.google.com###brs
-www.google.com###bres
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
-www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
-www.google.com##.hI5uQc.VjDLd
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-www.google.com##.gVqDn
-www.google.com##.SfSHIf
-www.google.com###w3bYAd
-www.google.com##.g4peUd.V88cHc.ynRric
-www.google.com##li.sbre.ZCOBRd
-www.google.com##.MjfBXe.VjDLd
-www.google.com##.cUnQKe.AuVD
-
 ! 2021-07-29 https://www.tennisexpress.com
 www.tennisexpress.com##.show.cookieTextDisplay
 
@@ -1490,15 +1455,6 @@ cryptopanic.com##.news-row-sponsored.sponsored.news-row
 cryptopanic.com##.text-ad-item.flex-col.mb-3
 cryptopanic.com#@#.social-login
 
-! 2021-08-16 https://www.stakingrewards.com
-www.stakingrewards.com##.asset-links
-www.stakingrewards.com##.headerBanner
-www.stakingrewards.com##div.rt-tr-group:nth-of-type(1)
-www.stakingrewards.com##div.rt-tr-group:nth-of-type(2)
-www.stakingrewards.com##.banner_native-ad-container-small__2w7l4.banner_native-ad-container__3X3VA
-www.stakingrewards.com###top-bar-section
-www.stakingrewards.com###header-banner
-
 ! 2021-08-18 https://thekrazycouponlady.com
 thekrazycouponlady.com#@#.share-buttons
 
@@ -1510,14 +1466,6 @@ nypost.com##.recirc--outbrain.recirc
 
 ! 2021-08-23 https://forkast.news
 forkast.news##div.spaced-group
-
-! 2021-08-23 https://coinmarketcap.com
-coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.empty.email-signup
-coinmarketcap.com##.kCVvHP.xahu3l-2
-coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
-coinmarketcap.com##.bKmQGi.sc-16r8icm-0
-coinmarketcap.com##.buyAdButtonSection
 
 ! 2021-08-24 https://www.genomeweb.com
 www.genomeweb.com##.footer__ads-footer
@@ -1559,4 +1507,102 @@ seekingalpha.com##.sa_hFop.sa_hFls
 seekingalpha.com##.sa_Igr.sa_IfB.sa_IeS.sa_EbQ.sa_EbO.sa_EbF.sa_hhnN
 ||apps.elfsight.com^
 ||app.helphero.co^
+
+! 2021-09-06 https://www.esports.com
+www.esports.com##.adtech-section
+
+! 2021-09-07 https://www.stakingrewards.com
+www.stakingrewards.com##.asset-links
+www.stakingrewards.com##.headerBanner
+www.stakingrewards.com##div.rt-tr-group:nth-of-type(1)
+www.stakingrewards.com##div.rt-tr-group:nth-of-type(2)
+www.stakingrewards.com##.banner_native-ad-container-small__2w7l4.banner_native-ad-container__3X3VA
+www.stakingrewards.com###top-bar-section
+www.stakingrewards.com###header-banner
+www.stakingrewards.com##.ticker_animate__3RcNO.ticker_ticker-list__1XKhW
+www.stakingrewards.com##.asset_asset-links__UIoL4.assetHeader_asset-links__2FSQV
+
+! 2021-09-07 https://cryptonews.com
+cryptonews.com##.cookieConsentWrapper
+cryptonews.com##.mb-40.d-lg-block.d-none.dslot
+cryptonews.com###widget_container
+
+! 2021-09-07 https://www.google.com
+google.*##div[id^="eob"]
+www.google.com##.KGl2dd.fl
+www.google.com##.xtBRad
+www.google.com##.Zes0Mc
+www.google.com##.pWCvWb
+www.google.com##.dobdf.nPDigc
+www.google.com##.z2QsLb.VjDLd
+www.google.com##div.J3Tg1d.PNCib.isv-r
+www.google.com##.LEKZTd
+www.google.com##.vcsi.l8pIW.a5mgdf
+www.google.com##.InNVqc
+www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
+www.google.com##.f0FBcf
+www.google.com###brs
+www.google.com###bres
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##.hI5uQc.VjDLd
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+www.google.com##.gVqDn
+www.google.com##.SfSHIf
+www.google.com###w3bYAd
+www.google.com##.g4peUd.V88cHc.ynRric
+www.google.com##li.sbre.ZCOBRd
+www.google.com##.MjfBXe.VjDLd
+www.google.com##.cUnQKe.AuVD
+www.google.com##.klitem
+www.google.com##.kno-ftr.rpBMYb
+www.google.com##.YfftMc
+www.google.com##li.sbre.IDVnvc
+www.google.com##.K2P9Ob.V88cHc.ynRric
+
+! 2021-09-07 https://imgur.com
+imgur.com##.masthead.BannerTop3
+||aptrinsic.com^
+
+! 2021-09-08 https://www.docsity.com
+www.docsity.com##.dsy-advertising
+
+! 2021-09-08 https://www.banklesstimes.com
+www.banklesstimes.com##.tipi-xs-0.rotatable.secondary-navigation
+www.banklesstimes.com##.tipi-xs-0.sb-with-border.tipi-col.tipi-l-4.tipi-xs-12.sb-wrap-skin-1.sidebar-wrap.clearfix.block
+
+! 2021-09-09 https://cryptobriefing.com
+cryptobriefing.com##.bottom.ad-sticky-banner
+cryptobriefing.com##.article-sidebar-items
+cryptobriefing.com##.top-adv-content
+cryptobriefing.com##.extra.sidebar-info
+cryptobriefing.com#@#.newsletter-modal
+cryptobriefing.com##.ub-emb-container
+cryptobriefing.com##.ai-rotate
+
+! 2021-09-09 https://coinmarketcap.com
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.empty.email-signup
+coinmarketcap.com##.kCVvHP.xahu3l-2
+coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
+coinmarketcap.com##.bKmQGi.sc-16r8icm-0
+coinmarketcap.com##.buyAdButtonSection
+coinmarketcap.com##.carousel-items-wrapper
+coinmarketcap.com##.ivGjzC.mhbkgs-0
+
+! 2021-09-11 https://humbledollar.com
+humbledollar.com##.show-detected
+
+! 2021-09-12 https://quotefancy.com
+||quotefancy.com/frontend/img/studio/promo/quotefancy_studio_*0_optim.jpg$image
+
+! 2021-09-12 https://www.suzuki.com
+www.suzuki.com###cookieAck
+
+! 2021-09-12 https://www.newsbtc.com
+www.newsbtc.com###menu-item-458696
+www.newsbtc.com###menu-item-470793
+www.newsbtc.com###menu-item-446940
+www.newsbtc.com##.litespeed-loaded.size-full.attachment-full
+www.newsbtc.com##.widget_text.svecc-widget-title.widget
 
