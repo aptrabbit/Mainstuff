@@ -818,9 +818,6 @@ www.celebritynetworth.com###skyline
 www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox.cnw_ads_300.block
 www.celebritynetworth.com###single__bar
 
-! 2021-04-06 https://www.reddit.com
-reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-
 ! 2021-04-06 https://dillehayortho.com
 ||chatwidget.ruby.com^
 
@@ -859,9 +856,6 @@ www.theatlantic.com##.BottomLeaflets_root__RjVTY
 ! 2021-04-09 https://www.medpagetoday.com
 www.medpagetoday.com##.leaderboard-region
 www.medpagetoday.com###right-rail-frame
-
-! 2021-04-09 https://www.wsj.com
-www.wsj.com##div.wsj-modern-ad-container
 
 ! 2021-04-10 https://www.spotify.com
 www.spotify.com##.hzeuvL.sc-cxFLnm
@@ -1605,4 +1599,20 @@ www.newsbtc.com###menu-item-470793
 www.newsbtc.com###menu-item-446940
 www.newsbtc.com##.litespeed-loaded.size-full.attachment-full
 www.newsbtc.com##.widget_text.svecc-widget-title.widget
+
+! 2021-09-14 https://www.reddit.com
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+||diagnostics.redditmedia.com^
+
+! 2021-09-17 https://www.cinemablend.com
+www.cinemablend.com##.mobile-leaderboard-320-50
+www.cinemablend.com##div:nth-of-type(24)
+
+! 2021-09-17 https://softwarekeep.com
+softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.kfrPy.Modal__ModalPortalStyled-sc-9h204v-1.needsclick
+softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.gTXIIp.Modal__ModalPortalStyled-sc-9h204v-1.needsclick
+
+! 2021-09-17 https://www.wsj.com
+www.wsj.com##div.wsj-modern-ad-container
+www.wsj.com##.dynamic-inset-overflow
 
