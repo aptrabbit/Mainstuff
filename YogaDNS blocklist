@@ -62,7 +62,6 @@ mobile.events.data.microsoft.com
 modern.watson.data.microsoft.com.akadns.net
 msnbot-65-55-108-23.search.msn.com
 msntest.serving-sys.com
-nexusrules.officeapps.live.com
 oca.telemetry.microsoft.com
 oca.telemetry.microsoft.com.nsatc.net
 onecollector.cloudapp.aria.akadns.net
@@ -197,4 +196,11 @@ logx.optimizely.com
 google-analytics.com
 www.google-analytics.com
 firebaseinstallations.googleapis.com
+nexus.ensighten.com
+collections.md.mp.microsoft.com
+segment-data.zqtk.net
+s7.addthis.com
+tag.vlitag.com
+g.ezoic.net
+go.ezoic.net
 
