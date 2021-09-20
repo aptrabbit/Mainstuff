@@ -972,7 +972,6 @@ mail.aol.com##.inforOfferDlg.WSModalPane
 
 ! 2021-04-22 https://mail.google.com
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
-mail.google.com##.vh
 mail.google.com###google-hats-survey
 
 ! 2021-04-22 https://wetransfer.com
@@ -1615,4 +1614,10 @@ softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.gTXIIp.Modal__ModalP
 ! 2021-09-17 https://www.wsj.com
 www.wsj.com##div.wsj-modern-ad-container
 www.wsj.com##.dynamic-inset-overflow
+www.wsj.com###cx-what-to-read-next
+www.wsj.com###cx-join-the-conversation
+
+! 2021-09-18 https://www.timeanddate.com
+www.timeanddate.com###mpo
+||grabify.link^$important,all
 
