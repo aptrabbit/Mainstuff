@@ -1168,14 +1168,6 @@ twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="positio
 www.intowindows.com##div.\32 25e8008c70a1c7498d64714d951c985
 www.intowindows.com##.widget_custom_html.widget.widget_text
 
-! 2021-06-18 http://123tv.live
-tracker.123tv.live
-123tv.live##.enter.floating-chat
-123tv.live##.js-demo-avd.demo-avd
-123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
-123tv.live##[href^="https://go.nordvpn.net/aff_c"]
-123tv.live##.watch-video-description
-
 ! 2021-06-18 https://www.healthline.com
 www.healthline.com###modal-host
 www.healthline.com##.css-h9jo37
@@ -1184,12 +1176,6 @@ www.healthline.com##.css-1uycmzq
 www.healthline.com##.css-fextg5
 www.healthline.com##li.css-1m7x7vu
 www.healthline.com##.md\:justify-between.md\:flex.md\:rounded-2xl.bg-cyan-600.z-50.md\:-translate-x-1\/2.md\:transform.md\:left-1\/2.left-0.md\:bottom-6.bottom-0.md\:max-w-3xl.w-full.p-6.md\:fixed.sticky
-
-! 2021-06-21 https://www.entrepreneur.com
-www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
-www.entrepreneur.com##div.transparent.container
-www.entrepreneur.com###F20WidgetContainer
-www.entrepreneur.com##.show
 
 ! 2021-06-22 https://www.historic-uk.com
 www.historic-uk.com###hu
@@ -1620,4 +1606,24 @@ www.wsj.com###cx-join-the-conversation
 ! 2021-09-18 https://www.timeanddate.com
 www.timeanddate.com###mpo
 ||grabify.link^$important,all
+
+! 2021-09-20 https://www.bsc.news
+www.bsc.news##.ad-block-3-side-page
+
+! 2021-09-20 http://live94today.com
+live94today.com##.enter.floating-chat
+live94today.com##.js-demo-avd.demo-avd
+live94today.com##.pull-left.profile-nav.hide-from-mobile.dropdown
+live94today.com##[href^="https://go.nordvpn.net/aff_c"]
+live94today.com##.watch-video-description
+live94today.com##[href^="https://www.purevpn.com/order-now.php"]
+||tracker.123tv.live^
+
+! 2021-09-21 https://www.entrepreneur.com
+www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
+www.entrepreneur.com##div.transparent.container
+www.entrepreneur.com###F20WidgetContainer
+www.entrepreneur.com##.show
+www.entrepreneur.com##.adbox--called
+www.entrepreneur.com##.sm\:justify-center.justify-between.items-center.flex.text-sm.sm\:text-center.pl-4.bg-gray-200
 
