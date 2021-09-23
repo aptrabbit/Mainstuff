@@ -1259,11 +1259,6 @@ cryptowat.ch##._3To4aljoTY054zJj-UPJSD
 ! 2021-06-29 https://www.subscan.io
 www.subscan.io##.banner
 
-! 2021-06-30 https://www.linkedin.com
-www.linkedin.com##.premium-upsell-link
-www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
-www.linkedin.com##.show.cta-modal
-
 ! 2021-06-30 https://cryptopro.app
 cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
@@ -1626,4 +1621,17 @@ www.entrepreneur.com###F20WidgetContainer
 www.entrepreneur.com##.show
 www.entrepreneur.com##.adbox--called
 www.entrepreneur.com##.sm\:justify-center.justify-between.items-center.flex.text-sm.sm\:text-center.pl-4.bg-gray-200
+
+! 2021-09-22 https://troypoint.com
+troypoint.com##.mysticky-welcomebar-fixed-wrap
+troypoint.com##.code-block-3.code-block
+troypoint.com###ai_widget-3
+troypoint.com##div.code-block-8.code-block
+troypoint.com##.su-box-style-.su-box
+
+! 2021-09-23 https://www.linkedin.com
+www.linkedin.com##.premium-upsell-link
+www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
+www.linkedin.com##.show.cta-modal
+www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
 
