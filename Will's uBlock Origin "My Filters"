@@ -111,18 +111,6 @@ www.cnet.com###article-body > .col-4
 ! 2020-09-10 https://www.usopen.org
 ||www.usopen.org/assets/images/header/ribbon.gif$image
 
-! 2020-09-15 https://www.wcostream.com
-www.wcostream.com###reklam_adscat > table
-www.wcostream.com###star-watch-on
-www.wcostream.com##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
-www.wcostream.com##.larkax table
-www.wcostream.com##.anti-ad
-www.wcostream.com##.alert
-www.wcostream.com##.iltext > table
-www.wcostream.com##[href="https://user.wco.tv"]
-||www.wcostream.com/wp-content/themes/animewp78712/images/bg.jpg$image
-www.wcostream.com###close-this-ad
-
 ! 2020-09-23 https://lifehacker.com
 lifehacker.com###sidebar_wrapper
 
@@ -1023,15 +1011,6 @@ staking.harmony.one###bar-container
 ! 2021-05-09 https://finance.yahoo.com
 finance.yahoo.com##.caas-body > div
 
-! 2021-05-10 https://cryptoslate.com
-cryptoslate.com##.image.sticky-footer
-cryptoslate.com##div.widget
-cryptoslate.com##.right.sidebar
-cryptoslate.com##.top-sticky
-cryptoslate.com##.buy-crypto.btn
-cryptoslate.com##.header-strip
-cryptoslate.com##.edge-cta
-
 ! 2021-05-10 https://benchmarks.ul.com
 benchmarks.ul.com##.clearfix.defaultbox
 
@@ -1301,13 +1280,6 @@ u.today##a.card--something.card
 ! 2021-07-14 https://starwars.fandom.com
 starwars.fandom.com###WikiaBar
 
-! 2021-07-19 https://www.theblockcrypto.com
-www.theblockcrypto.com##.d-md-flex.d-none.out.toggle-fade.animation.sponsorFooter
-www.theblockcrypto.com##.mb-4.ml-4.float-right.d-lg-block.d-none
-www.theblockcrypto.com##.mt-5.newsletterFeed
-www.theblockcrypto.com##.articleIAB
-www.theblockcrypto.com##.sticky
-
 ! 2021-07-20 https://www.bloomberg.com
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##.leaderboard-container
@@ -1462,9 +1434,6 @@ decrypt.co##.egrgSy.sc-13hse52-0
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.bHGkbV.sc-13hse52-0
 
-! 2021-09-02 https://www.scribd.com
-www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
-
 ! 2021-09-04 https://seekingalpha.com
 ||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
 seekingalpha.com##.banner-image
@@ -1533,6 +1502,7 @@ www.google.com##.kno-ftr.rpBMYb
 www.google.com##.YfftMc
 www.google.com##li.sbre.IDVnvc
 www.google.com##.K2P9Ob.V88cHc.ynRric
+www.google.com##.PnU5cd.fwsf4b.fHIdc
 
 ! 2021-09-07 https://imgur.com
 imgur.com##.masthead.BannerTop3
@@ -1634,4 +1604,62 @@ www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
 www.linkedin.com##.show.cta-modal
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
+
+! 2021-09-23 https://www.wcostream.com
+www.wcostream.com###reklam_adscat > table
+www.wcostream.com###star-watch-on
+www.wcostream.com##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
+www.wcostream.com##.larkax table
+www.wcostream.com##.anti-ad
+www.wcostream.com##.alert
+www.wcostream.com##.iltext > table
+www.wcostream.com##[href="https://user.wco.tv"]
+||www.wcostream.com/wp-content/themes/animewp78712/images/bg.jpg$image
+www.wcostream.com###close-this-ad
+www.wcostream.com##td > div > span
+www.wcostream.com##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
+
+! 2021-09-24 https://www.scribd.com
+www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
+www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
+
+! 2021-09-26 http://live94today.com
+live94today.com##[href="http://ustv2.com"]
+
+! 2021-09-26 https://cryptoslate.com
+cryptoslate.com##.image.sticky-footer
+cryptoslate.com##div.widget
+cryptoslate.com##.right.sidebar
+cryptoslate.com##.top-sticky
+cryptoslate.com##.buy-crypto.btn
+cryptoslate.com##.header-strip
+cryptoslate.com##.edge-cta
+cryptoslate.com##.leaderboard.placement
+
+! 2021-09-26 https://www.tennisrecruiting.net
+www.tennisrecruiting.net##[href^="http://www.tennis-warehouse.com/"]
+www.tennisrecruiting.net###leftnav > div
+www.tennisrecruiting.net##.websitebox
+
+! 2021-09-26 https://www.horizen.io
+www.horizen.io###privacy-notification
+
+! 2021-09-29 https://www.theblockcrypto.com
+www.theblockcrypto.com##.d-md-flex.d-none.out.toggle-fade.animation.sponsorFooter
+www.theblockcrypto.com##.mb-4.ml-4.float-right.d-lg-block.d-none
+www.theblockcrypto.com##.mt-5.newsletterFeed
+www.theblockcrypto.com##.articleIAB
+www.theblockcrypto.com##.sticky
+www.theblockcrypto.com##article.feedCard:nth-of-type(1)
+www.theblockcrypto.com##.daily.feedCard
+
+! 2021-09-30 https://www.swagbucks.com
+www.swagbucks.com###lock__overlay--5tJ3U
+
+! 2021-09-30 https://www.terro.com
+www.terro.com##div.block-static-block.block.widget
+www.terro.com##.center
+www.terro.com##.right.ws-spr
+www.terro.com##.widget-product-grid.product-items
+www.terro.com##h2:nth-of-type(2)
 
