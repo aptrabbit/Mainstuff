@@ -1,6 +1,7 @@
 If "hidden preference" is noted, you must type in the parameter and select "Boolean" and click the "+" indicator to create the parameter.
 (listed in order of the "Show All" button)
 
+accessibility.blockautorefresh; true
 accesibility.force_enabled; false (turns off accessiblity services; could break some sites that launch external tools)
 app.normandy.enabled; false
 app.normandy.first_run; false
