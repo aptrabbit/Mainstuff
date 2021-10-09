@@ -472,9 +472,6 @@ stackshare.io##.css-17kwd5z
 ! 2021-02-09 https://myanimelist.net
 myanimelist.net##.banner-header-anime-straming
 
-! 2021-02-10 https://www.publish0x.com
-www.publish0x.com##div.post.row:nth-of-type(9)
-
 ! 2021-02-15 https://celo.org
 celo.org##.r-13qz1uu.r-1xcajam.r-1pcd2l5.r-1hsi953.r-1777fci.r-6koalj.r-1p0dtai.r-ltq0in.r-1awozwy.css-1dbjc4n
 
@@ -1497,7 +1494,6 @@ www.google.com##.g4peUd.V88cHc.ynRric
 www.google.com##li.sbre.ZCOBRd
 www.google.com##.MjfBXe.VjDLd
 www.google.com##.cUnQKe.AuVD
-www.google.com##.klitem
 www.google.com##.kno-ftr.rpBMYb
 www.google.com##.YfftMc
 www.google.com##li.sbre.IDVnvc
@@ -1626,16 +1622,6 @@ www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
 ! 2021-09-26 http://live94today.com
 live94today.com##[href="http://ustv2.com"]
 
-! 2021-09-26 https://cryptoslate.com
-cryptoslate.com##.image.sticky-footer
-cryptoslate.com##div.widget
-cryptoslate.com##.right.sidebar
-cryptoslate.com##.top-sticky
-cryptoslate.com##.buy-crypto.btn
-cryptoslate.com##.header-strip
-cryptoslate.com##.edge-cta
-cryptoslate.com##.leaderboard.placement
-
 ! 2021-09-26 https://www.tennisrecruiting.net
 www.tennisrecruiting.net##[href^="http://www.tennis-warehouse.com/"]
 www.tennisrecruiting.net###leftnav > div
@@ -1662,4 +1648,64 @@ www.terro.com##.center
 www.terro.com##.right.ws-spr
 www.terro.com##.widget-product-grid.product-items
 www.terro.com##h2:nth-of-type(2)
+
+! 2021-09-30 https://viablekratom.com
+||connect.livechatinc.com^
+
+! 2021-10-02 https://www.verizon.com
+www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
+
+! 2021-10-02 https://www.att.com
+||static.whisbi.com^
+
+! 2021-10-05 https://dutchycorp.space
+||bicugesi.xyz^
+
+! 2021-10-05 https://www.publish0x.com
+www.publish0x.com##div.post.row:nth-of-type(9)
+www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
+||himateca.xyz^
+www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
+
+! 2021-10-05 https://www.google.com
+www.google.com##.vcsi.a5mgdf
+
+! 2021-10-05 https://www.originpc.com
+www.originpc.com##.show.fade.modal-backdrop
+
+! 2021-10-05 https://www.winprizesonline.com
+||medicarebenefits.us^
+
+! 2021-10-05 https://freebitco.in
+freebitco.in###bottom_user_ads_container
+freebitco.in###premium_membership_msg
+freebitco.in##.premium_buy_more_tokens
+freebitco.in##.cross_promo_msg_div
+freebitco.in###free_play_fun_no_captcha_msg
+
+! 2021-10-05 https://cryptoslate.com
+cryptoslate.com##.image.sticky-footer
+cryptoslate.com##div.widget
+cryptoslate.com##.right.sidebar
+cryptoslate.com##.buy-crypto.btn
+cryptoslate.com##.header-strip
+cryptoslate.com##.edge-cta
+cryptoslate.com##.leaderboard.placement
+cryptoslate.com##.ftx-news-button
+cryptoslate.com##.code-block-3.code-block
+cryptoslate.com##.top-sticky
+
+! 2021-10-05 https://freebitco.in
+freebitco.in###myModal22
+freebitco.in##.reveal-modal-bg
+
+! 2021-10-06 https://freebitco.in
+freebitco.in##.deposit_promo_message_content
+
+! 2021-10-07 https://okmagazine.com
+okmagazine.com##.visible.igyrAv.sc-1fe8uuu-0
+okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
+
+! 2021-10-09 https://financefeeds.com
+financefeeds.com###aside
 
