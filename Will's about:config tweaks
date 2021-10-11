@@ -57,3 +57,4 @@ toolkit.telemetry.server; " "
 toolkit.telemetry.shutdownPingSender.enabled; false
 toolkit.telemetry.unified; false
 toolkit.telemetry.updatePing.enabled; false
+webgl.enable-debug-renderer-info; false
