@@ -1661,12 +1661,6 @@ www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
 ! 2021-10-05 https://dutchycorp.space
 ||bicugesi.xyz^
 
-! 2021-10-05 https://www.publish0x.com
-www.publish0x.com##div.post.row:nth-of-type(9)
-www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
-||himateca.xyz^
-www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
-
 ! 2021-10-05 https://www.google.com
 www.google.com##.vcsi.a5mgdf
 
@@ -1675,13 +1669,6 @@ www.originpc.com##.show.fade.modal-backdrop
 
 ! 2021-10-05 https://www.winprizesonline.com
 ||medicarebenefits.us^
-
-! 2021-10-05 https://freebitco.in
-freebitco.in###bottom_user_ads_container
-freebitco.in###premium_membership_msg
-freebitco.in##.premium_buy_more_tokens
-freebitco.in##.cross_promo_msg_div
-freebitco.in###free_play_fun_no_captcha_msg
 
 ! 2021-10-05 https://cryptoslate.com
 cryptoslate.com##.image.sticky-footer
@@ -1695,17 +1682,41 @@ cryptoslate.com##.ftx-news-button
 cryptoslate.com##.code-block-3.code-block
 cryptoslate.com##.top-sticky
 
-! 2021-10-05 https://freebitco.in
-freebitco.in###myModal22
-freebitco.in##.reveal-modal-bg
-
-! 2021-10-06 https://freebitco.in
-freebitco.in##.deposit_promo_message_content
-
 ! 2021-10-07 https://okmagazine.com
 okmagazine.com##.visible.igyrAv.sc-1fe8uuu-0
 okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
 
 ! 2021-10-09 https://financefeeds.com
 financefeeds.com###aside
+
+! 2021-10-11 https://www.wsls.com
+www.wsls.com##.top-wide.fdhXUI.sc-bdVaJa
+www.wsls.com##.hxaReX.dist__StackBase-sc-1fnzlkn-6.sc-bdVaJa
+
+! 2021-10-11 https://www.publish0x.com
+www.publish0x.com##div.post.row:nth-of-type(9)
+www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
+www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
+www.publish0x.com###registerPopup
+||himateca.xyz^
+
+! 2021-10-11 https://freebitco.in
+freebitco.in###bottom_user_ads_container
+freebitco.in###premium_membership_msg
+freebitco.in##.premium_buy_more_tokens
+freebitco.in##.cross_promo_msg_div
+freebitco.in###free_play_fun_no_captcha_msg
+freebitco.in###myModal22
+freebitco.in##.reveal-modal-bg
+freebitco.in##.deposit_promo_message_content
+freebitco.in##.daily_jackpot_main_container_div
+
+! 2021-10-11 https://www.health.harvard.edu
+www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.welcome-popup
+www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.exit-intent-popup
+
+! 2021-10-11 https://www.cryptodaily.co.uk
+www.cryptodaily.co.uk##.leaderboard-top-ad.row
+www.cryptodaily.co.uk##.fixed-sidebar-ad
+www.cryptodaily.co.uk##.ad-bottom-spacing
 
