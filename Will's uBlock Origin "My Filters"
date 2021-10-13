@@ -881,7 +881,6 @@ www.mayoclinic.org##.warning.globalnotice
 
 ! 2021-04-15 https://www.twitch.tv
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
-twitch.tv##+js(twitch-videoad)
 www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 
 ! 2021-04-15 https://miningpoolstats.stream
@@ -1295,22 +1294,6 @@ study.com##+js(rc, hidden, div[ng-non-bindable])
 www.chegg.com##.kTTapc.CallToAction__CTAWrapper-sc-ieaghs-3
 
 ! 2021-07-20 https://sports24.stream
-sports24.stream##.container > a.btn-outline-primary.btn
-sports24.stream##div.col
-sports24.stream##.col-lg-3.embed-responsive.col-12
-sports24.stream##.alert-success.alert
-sports24.stream##.modal-dialog-centered.modal-dialog
-sports24.stream##.show.modal
-sports24.stream##.show.modal-backdrop
-sports24.stream##li.nav-item:nth-of-type(10)
-sports24.stream##li.nav-item:nth-of-type(11)
-sports24.stream##li.nav-item:nth-of-type(12)
-sports24.stream##li.nav-item:nth-of-type(13)
-sports24.stream##a.play.btn-block.btn-lg.btn-default.btn
-sports24.stream###cedato-unit
-sports24.stream###footylight
-sports24.stream###id-custom_banner
-sports24.stream##div:nth-of-type(6)
 ||sports24.site^
 ||bckfnohmg.com^
 ||iqkfplsez.com^
@@ -1379,12 +1362,6 @@ insights.santiment.net##.svelte-1ezhlqq.wrapper.SAN-panel_context.SAN-panel
 
 ! 2021-08-15 https://en.chessbase.com
 en.chessbase.com###askForCookiesBackground
-
-! 2021-08-15 https://cryptopotato.com
-cryptopotato.com##.ai-viewport-1.code-block-6.code-block
-cryptopotato.com##.widget_pojo_image.widget
-cryptopotato.com##.widget_text.widget
-cryptopotato.com##.code-block-12.code-block
 
 ! 2021-08-16 https://polkadot.subscan.io
 polkadot.subscan.io##.banner
@@ -1499,6 +1476,7 @@ www.google.com##.YfftMc
 www.google.com##li.sbre.IDVnvc
 www.google.com##.K2P9Ob.V88cHc.ynRric
 www.google.com##.PnU5cd.fwsf4b.fHIdc
+www.google.com##.vcsi.a5mgdf
 
 ! 2021-09-07 https://imgur.com
 imgur.com##.masthead.BannerTop3
@@ -1661,9 +1639,6 @@ www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
 ! 2021-10-05 https://dutchycorp.space
 ||bicugesi.xyz^
 
-! 2021-10-05 https://www.google.com
-www.google.com##.vcsi.a5mgdf
-
 ! 2021-10-05 https://www.originpc.com
 www.originpc.com##.show.fade.modal-backdrop
 
@@ -1719,4 +1694,25 @@ www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.
 www.cryptodaily.co.uk##.leaderboard-top-ad.row
 www.cryptodaily.co.uk##.fixed-sidebar-ad
 www.cryptodaily.co.uk##.ad-bottom-spacing
+
+! 2021-10-12 https://money.usnews.com
+money.usnews.com###bfad-slot
+
+! 2021-10-12 https://notthebee.com
+notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
+
+! 2021-10-13 https://account.microsoft.com
+account.microsoft.com###feedback-button
+
+! 2021-10-13 https://cryptopotato.com
+cryptopotato.com##.ai-viewport-1.code-block-6.code-block
+cryptopotato.com##.widget_pojo_image.widget
+cryptopotato.com##.widget_text.widget
+cryptopotato.com##.code-block-12.code-block
+cryptopotato.com##.aos-animate
+
+! 2021-10-13 https://www.dailywire.com
+dailywire.com##+js(rc, css-jzy0w8)
+dailywire.com##+js(rc, css-160lw9c)
+||harpocrates.ethyca.com^
 
