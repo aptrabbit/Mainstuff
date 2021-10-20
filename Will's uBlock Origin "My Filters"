@@ -1241,18 +1241,6 @@ cryptopro.app##.show.fade.modal-backdrop
 ! 2021-06-30 https://app.grammarly.com
 app.grammarly.com##.notificationContainer_fgmz57n
 
-! 2021-07-02 https://www.tipranks.com
-www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
-www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
-www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
-www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
-www.tipranks.com##.client-components-experts-sideBar-side__newletter
-www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo
-www.tipranks.com##.hideOnpremium.hideOnultimate.bgGradientgrey.mb7.p4.borderColorwhite-8.border1.group.shadow1.bgwhite.w12.positionrelative
-
-! 2021-07-02 https://www.insidermonkey.com
-www.insidermonkey.com###advertorial-container
-
 ! 2021-07-02 https://www.nbcnews.com
 www.nbcnews.com##div.recommended-intersection-ref
 
@@ -1477,6 +1465,7 @@ www.google.com##li.sbre.IDVnvc
 www.google.com##.K2P9Ob.V88cHc.ynRric
 www.google.com##.PnU5cd.fwsf4b.fHIdc
 www.google.com##.vcsi.a5mgdf
+www.google.com##div.cLjAic.TzHB6b > .sATSHe > .wp-ms.gsrt.JNkvid
 
 ! 2021-09-07 https://imgur.com
 imgur.com##.masthead.BannerTop3
@@ -1716,3 +1705,21 @@ dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
 ||harpocrates.ethyca.com^
 
+! 2021-10-13 https://gitlab.com
+gitlab.com##.trial-link
+
+! 2021-10-14 https://www.insidermonkey.com
+www.insidermonkey.com###advertorial-container
+www.insidermonkey.com###shadow
+
+! 2021-10-14 https://www.tipranks.com
+www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
+www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
+www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
+www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
+www.tipranks.com##.client-components-experts-sideBar-side__newletter
+www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo
+www.tipranks.com##.hideOnpremium
+
+! 2021-10-19 https://www.yahoo.com
+www.yahoo.com###notification-container
