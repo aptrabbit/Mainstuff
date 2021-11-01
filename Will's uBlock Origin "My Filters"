@@ -1723,3 +1723,17 @@ www.tipranks.com##.hideOnpremium
 
 ! 2021-10-19 https://www.yahoo.com
 www.yahoo.com###notification-container
+
+! 2021-10-22 https://puck.news
+puck.news##.paywall
+puck.news##+js(rc, paywall-active, body)
+puck.news##+js(ra, style, body)
+
+! 2021-10-22 https://www.theglobeandmail.com
+||theglobeandmail.com/pf/dist/engine/react.js$script,1p
+
+! 2021-10-23 https://www.qmee.com
+www.qmee.com##.show-0-2-15.prerender-0-2-14
+
+! 2021-10-23 https://dollarclix.com
+||app.conversiobot.com^
