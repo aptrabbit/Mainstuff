@@ -23,6 +23,7 @@ browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
+dom.disable_open_click_delay; 0
 dom.ipc.plugins.reportCrashURL; false
 dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
@@ -32,6 +33,7 @@ extensions.webextensions.restrictedDomains; ""
 geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
+gfx.downloadable_fonts.fallback_delay_short; 50
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
@@ -43,13 +45,15 @@ media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting
 media.peerconnection.identity.timeout; 1
 media.video_stats.enabled; false
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
-network.dns.use_https_rr_as_altsvc; true (ECH, replaced ESNI)
+network.dns.upgrade_with_https_rr; false
+network.dns.use_https_rr_as_altsvc; false
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
 reader.parse-on-load.enabled; false (depends on user; setting this to false disables "reader mode")
 security.dialog_enable_delay; 0
+security.tls.enable_0rtt_data; false
 toolkit.coverage.opt-out; true
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
 toolkit.telemetry.archive.enabled; false
