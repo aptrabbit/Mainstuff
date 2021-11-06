@@ -24,6 +24,7 @@ browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 dom.animations.offscreen-throttling; false
+dom.battery.enabled; false
 dom.disable_open_click_delay; 0
 dom.ipc.plugins.reportCrashURL; false
 dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
