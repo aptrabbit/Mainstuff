@@ -37,27 +37,23 @@ geo.enabled; false
 gfx.offscreencanvas.enabled; true
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
-gfx.downloadable_fonts.fallback_delay_short; 20
+gfx.downloadable_fonts.fallback_delay_short; 10
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
 image.decode-immediately.enabled; true
-layout.frame_rate; 60
 media.peerconnection.ice.default_address_only; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.identity.timeout; 1
 media.video_stats.enabled; false
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
-network.dns.upgrade_with_https_rr; false
-network.dns.use_https_rr_as_altsvc; false
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
 reader.parse-on-load.enabled; false (depends on user; setting this to false disables "reader mode")
 security.dialog_enable_delay; 0
-security.tls.enable_0rtt_data; false
 toolkit.coverage.opt-out; true
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
 toolkit.telemetry.archive.enabled; false
