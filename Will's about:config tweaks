@@ -34,6 +34,7 @@ extensions.getAddons.showPane; false (hidden preference, removes "recommended" e
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in Microsoft Edge; this uses extra CPU)
 extensions.webextensions.restrictedDomains; ""
 geo.enabled; false
+gfx.offscreencanvas.enabled; true
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
 gfx.downloadable_fonts.fallback_delay_short; 20
@@ -41,7 +42,7 @@ gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
 image.decode-immediately.enabled; true
-layout.frame_rate; 0
+layout.frame_rate; 60
 media.peerconnection.ice.default_address_only; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.no_host; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
 media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting: "Prevent WebRTC from leaking local IP addresses")
