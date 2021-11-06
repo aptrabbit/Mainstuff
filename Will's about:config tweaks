@@ -53,6 +53,7 @@ network.http.max-persistent-connections-per-server; 10
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
+nglayout.initialpaint.delay; 0
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
 reader.parse-on-load.enabled; false (depends on user; setting this to false disables "reader mode")
 security.dialog_enable_delay; 0
