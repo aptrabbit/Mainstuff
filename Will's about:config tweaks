@@ -6,6 +6,7 @@ app.normandy.enabled; false
 app.normandy.first_run; false
 app.shield.optoutstudies.enabled; false
 beacon.enabled; false
+browser.display.show_image_placeholders; false
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
 browser.meta_refresh_when_inactive.disabled; true
@@ -48,6 +49,7 @@ media.peerconnection.ice.proxy_only_if_behind_proxy; true (uBlock Origin setting
 media.peerconnection.identity.timeout; 1
 media.video_stats.enabled; false
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
+network.http.max-persistent-connections-per-server; 10
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
