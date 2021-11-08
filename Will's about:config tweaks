@@ -4,7 +4,6 @@ If "hidden preference" is noted, you must type in the parameter and select "Bool
 accesibility.force_enabled; false (turns off accessiblity services; could break some sites that launch external tools)
 app.normandy.enabled; false
 app.normandy.first_run; false
-apz.scale_repaint_delay_ms; 0
 app.shield.optoutstudies.enabled; false
 beacon.enabled; false
 browser.display.show_image_placeholders; false
