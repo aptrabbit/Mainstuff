@@ -347,9 +347,6 @@ www.imyfone.com##.m-hidden-769.activity-aside.activity-aside-pc
 ! 2021-01-14 https://contentmarketinginstitute.com
 contentmarketinginstitute.com##.pty_pkg
 
-! 2021-01-15 https://www.forbes.com
-www.forbes.com##.ad-rail
-
 ! 2021-01-15 https://superuser.com
 superuser.com##.js-consent-banner.theme-light__forced.bg-black-700.fc-white.z-banner.r0.l0.b0.ps-sticky.ff-sans.p8.grid
 
@@ -503,17 +500,6 @@ news.bitcoin.com##.sticky-down.bn_desktop_widgets > .bitcoin-widget.widget.td_bl
 ! 2021-02-21 https://www.digitalrealty.com
 www.digitalrealty.com##.js-show.uk-alert.uk-animation-fade.CookieNotice.uk-position-bottom.uk-position-fixed
 
-! 2021-02-21 https://carbuzz.com
-carbuzz.com##.ad-placement_desktop-top-sticky.ad-placement
-carbuzz.com##div.cb-sidebar__item.ad-placement
-carbuzz.com##.cb-sidebar__sticky-ad.cb-sidebar__item.ad-placement
-carbuzz.com##.cb-container__sidebar > div.ad-placement
-carbuzz.com##div.cb-post-block-ad-banner.cb-post-block.cb-content-block.ad-placement
-carbuzz.com##.cb-post__gallery-preview > .ad-slot-full-width
-carbuzz.com##.margin-top-40.gtm-cb-post-related-reviews.cb-posts-preview > .ad-slot-full-width.ad-placement
-carbuzz.com##.ad-slot-full-width.cb-post__sponsered-consideration.ad-placement
-carbuzz.com##div.ad-slot-full-width.ad-placement
-
 ! 2021-02-21 https://www.space.com
 www.space.com##.Campaign--css.CampaignType--popup.Campaign.portland-campaign.exit-intent__dark-background.exit-intent
 www.space.com##.dfp-leaderboard-container
@@ -521,8 +507,6 @@ www.space.com##.dfp-leaderboard-container
 ! 2021-02-22 https://www.afar.com
 www.afar.com###topPortal
 
-! 2021-02-26 https://www.cnn.com
-www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
 
 ! 2021-02-27 https://www.doxchannel.com
 www.doxchannel.com###appBarHeaderContainer
@@ -704,11 +688,16 @@ www.ccleaner.com###main-content > .text-center
 www.ccleaner.com##.download-notification--top.download-notification
 
 ! 2021-03-25 https://carbuzz.com
+carbuzz.com##.ad-placement_desktop-top-sticky.ad-placement
+carbuzz.com##div.cb-sidebar__item.ad-placement
+carbuzz.com##.cb-sidebar__sticky-ad.cb-sidebar__item.ad-placement
+carbuzz.com##.cb-container__sidebar > div.ad-placement
+carbuzz.com##div.cb-post-block-ad-banner.cb-post-block.cb-content-block.ad-placement
+carbuzz.com##.cb-post__gallery-preview > .ad-slot-full-width
+carbuzz.com##.margin-top-40.gtm-cb-post-related-reviews.cb-posts-preview > .ad-slot-full-width.ad-placement
+carbuzz.com##.ad-slot-full-width.cb-post__sponsered-consideration.ad-placement
+carbuzz.com##div.ad-slot-full-width.ad-placement
 carbuzz.com##.cb-post-share-toolbar-top
-
-! 2021-03-25 https://bitcoinist.com
-bitcoinist.com##.text-banner
-bitcoinist.com##.play-games
 
 ! 2021-03-25 https://blog.hootsuite.com
 blog.hootsuite.com##._popupVariantContentUpgrade.content-upgrade--popup-variant.content-upgrade
@@ -1165,15 +1154,6 @@ dailyhodl.com##.widget_custom_html.widget.widget_text
 etc.2miners.com##.banner-2cryptocalc.banner
 etc.2miners.com##.btn-support
 
-! 2021-06-24 https://cointelegraph.com
-cointelegraph.com##.price-indexes-widget
-cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
-cointelegraph.com###vue-footer
-cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
-cointelegraph.com##.post__content-shares
-cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
-cointelegraph.com##div.sidebar__widget:nth-of-type(2)
-
 ! 2021-06-24 https://alternative.me
 alternative.me###footer
 alternative.me##.container > .block
@@ -1257,10 +1237,6 @@ www.fool.com###services-section
 www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
 www.fool.com##.art__pitch
 
-! 2021-07-07 https://u.today
-u.today##.something--fixed
-u.today##a.card--something.card
-
 ! 2021-07-14 https://starwars.fandom.com
 starwars.fandom.com###WikiaBar
 
@@ -1326,11 +1302,6 @@ www.ft.com##.n-layout__footer-before
 hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
 hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
 
-! 2021-08-07 https://zycrypto.com
-zycrypto.com##.td-header-sp-recs
-zycrypto.com###block-2
-zycrypto.com###custom_html-13
-
 ! 2021-08-08 https://coinfomania.com
 coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
 
@@ -1395,23 +1366,6 @@ decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
 decrypt.co##.egrgSy.sc-13hse52-0
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.bHGkbV.sc-13hse52-0
-
-! 2021-09-04 https://seekingalpha.com
-||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
-seekingalpha.com##.banner-image
-seekingalpha.com###paywall_dynamic_ticker
-seekingalpha.com###px-captcha-wrapper
-seekingalpha.com###news-left-slot-1
-seekingalpha.com###article-left-slot-2
-seekingalpha.com##.in.fade.modal-backdrop
-seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com##[data-test-id="ad-slot-list"]
-seekingalpha.com###krux-container
-seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
-seekingalpha.com##.sa_hFop.sa_hFls
-seekingalpha.com##.sa_Igr.sa_IfB.sa_IeS.sa_EbQ.sa_EbO.sa_EbF.sa_hhnN
-||apps.elfsight.com^
-||app.helphero.co^
 
 ! 2021-09-06 https://www.esports.com
 www.esports.com##.adtech-section
@@ -1512,10 +1466,6 @@ www.newsbtc.com###menu-item-470793
 www.newsbtc.com###menu-item-446940
 www.newsbtc.com##.litespeed-loaded.size-full.attachment-full
 www.newsbtc.com##.widget_text.svecc-widget-title.widget
-
-! 2021-09-14 https://www.reddit.com
-reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-||diagnostics.redditmedia.com^
 
 ! 2021-09-17 https://www.cinemablend.com
 www.cinemablend.com##.mobile-leaderboard-320-50
@@ -1737,3 +1687,84 @@ www.qmee.com##.show-0-2-15.prerender-0-2-14
 
 ! 2021-10-23 https://dollarclix.com
 ||app.conversiobot.com^
+
+! 2021-11-03 https://news.yahoo.com
+news.yahoo.com###close-button-section
+news.yahoo.com###module-monalixaRightRail
+
+! 2021-11-03 https://finance.yahoo.com
+finance.yahoo.com##._yb_aco1l._yb_1becu
+
+! 2021-11-03 https://mail.protonmail.com
+mail.protonmail.com##.topnav-link--blackfriday
+
+! 2021-11-03 https://bitcoinist.com
+bitcoinist.com##.text-banner
+bitcoinist.com##.play-games
+||nyyuhifa.xyz^
+
+! 2021-11-03 https://zycrypto.com
+zycrypto.com##.td-header-sp-recs
+zycrypto.com###block-2
+zycrypto.com###custom_html-13
+zycrypto.com##.widget_custom_html.custom_html-14.widget.td_block_template_5.widget_text
+
+! 2021-11-05 https://seekingalpha.com
+||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
+seekingalpha.com##.banner-image
+seekingalpha.com###paywall_dynamic_ticker
+seekingalpha.com###px-captcha-wrapper
+seekingalpha.com###news-left-slot-1
+seekingalpha.com###article-left-slot-2
+seekingalpha.com##.in.fade.modal-backdrop
+seekingalpha.com##section[data-test-id="recommended-section"]
+seekingalpha.com##[data-test-id="ad-slot-list"]
+seekingalpha.com###krux-container
+seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
+seekingalpha.com##.sa_hFop.sa_hFls
+seekingalpha.com##.sa_Igr.sa_IfB.sa_IeS.sa_EbQ.sa_EbO.sa_EbF.sa_hhnN
+seekingalpha.com##.llA
+||apps.elfsight.com^
+||app.helphero.co^
+
+! 2021-11-05 https://cryptopost.com
+cryptopost.com##.td-header-sp-recs
+cryptopost.com##aside.widget_custom_html.widget
+||casinobonusesnow.com^
+
+! 2021-11-06 https://www.reddit.com
+www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
+
+! 2021-11-06 https://www.lasfit.com
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+||diagnostics.redditmedia.com^
+www.lasfit.com###soundest-forms-container
+
+! 2021-11-06 https://www.cnn.com
+www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
+||steadfastseat.com^
+
+! 2021-11-06 https://cointelegraph.com
+cointelegraph.com##.price-indexes-widget
+cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
+cointelegraph.com###vue-footer
+cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
+cointelegraph.com##.post__content-shares
+cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
+cointelegraph.com##div.sidebar__widget:nth-of-type(2)
+cointelegraph.com##.sidebar__promo-button
+
+! 2021-11-06 https://u.today
+u.today##.something--fixed
+u.today##a.card--something.card
+u.today##.container.something--wide
+u.today##.something--leaderboard
+u.today##.card--something-md
+u.today##.promoted__mark
+
+! 2021-11-07 https://reelrundown.com
+reelrundown.com##.mm-detail-header--image-size-full-bleed.m-detail-header
+
+! 2021-11-07 https://www.forbes.com
+www.forbes.com##.ad-rail
+www.forbes.com##.ng-scope.rtb-top-wrapper
