@@ -36,7 +36,6 @@ extensions.webextensions.restrictedDomains; ""
 geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
-gfx.downloadable_fonts.fallback_delay_short; 50
 gfx.downloadable_fonts.fallback_delay; 0
 gfx.font_loader.delay; 0
 gfx.offscreencanvas.enabled; true
