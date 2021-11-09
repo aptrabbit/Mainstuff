@@ -1,7 +1,7 @@
 If "hidden preference" is noted, you must type in the parameter and select "Boolean" and click the "+" indicator to create the parameter.
 (listed in order of the "Show All" button)
 
-accesibility.force_enabled; false (turns off accessiblity services; could break some sites that launch external tools)
+accesibility.force_enabled; 1 (turns off accessiblity services; could break some sites that launch external tools)
 app.normandy.enabled; false
 app.normandy.first_run; false
 app.shield.optoutstudies.enabled; false
@@ -17,7 +17,7 @@ browser.search.separatePrivateDefault.ui.enabled; true
 browser.send_pings.require_same_host; true
 browser.shell.checkDefaultBrowser; false
 browser.startup.blankWindow; false
-browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and click then exit button on the tab rectangle, Firefox won't close)
+browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and clinck then exit button on the tab rectangle, Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking/losing sensitive work)
 browser.urlbar.speculativeConnect.enabled; false
