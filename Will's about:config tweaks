@@ -15,6 +15,7 @@ browser.ping-centre.telemetry; false
 browser.search.separatePrivateDefault; true
 browser.search.separatePrivateDefault.ui.enabled; true
 browser.send_pings.require_same_host; true
+browser.sessionstore.interval; 60000
 browser.shell.checkDefaultBrowser; false
 browser.startup.blankWindow; false
 browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and clinck then exit button on the tab rectangle, Firefox won't close)
