@@ -371,9 +371,6 @@ www.laptopmag.com##.slot-lightbox1
 ! 2021-01-21 https://www.chess.com
 www.chess.com###upgrade-modal
 
-! 2021-01-21 https://nypost.com
-nypost.com###circular-widget
-
 ! 2021-01-25 https://www.majorgeeks.com
 www.majorgeeks.com##.navigation-light
 
@@ -429,9 +426,6 @@ www.theguardian.com###sp_message_container_414202
 ! 2021-01-30 https://invezz.com
 invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0.mb-4.p-4.relative.inv-sidebar-widget
 invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
-
-! 2021-01-31 https://www.fxstreet.com
-www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
 
 ! 2021-01-31 https://www.streakingthelawn.com
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
@@ -514,9 +508,6 @@ www.doxchannel.com###appBarHeaderContainer
 ! 2021-02-27 https://www.wallstreetoasis.com
 www.wallstreetoasis.com##.show.modal
 www.wallstreetoasis.com##.show.modal-backdrop
-
-! 2021-02-27 https://www.fxstreet.com
-www.fxstreet.com###globalalert
 
 ! 2021-02-28 https://www.coindesk.com
 www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
@@ -1341,10 +1332,8 @@ thekrazycouponlady.com#@#.share-buttons
 enotes.com##+js(rc, is-paywalled)
 
 ! 2021-08-21 https://nypost.com
+nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
-
-! 2021-08-23 https://forkast.news
-forkast.news##div.spaced-group
 
 ! 2021-08-24 https://www.genomeweb.com
 www.genomeweb.com##.footer__ads-footer
@@ -1698,11 +1687,6 @@ finance.yahoo.com##._yb_aco1l._yb_1becu
 ! 2021-11-03 https://mail.protonmail.com
 mail.protonmail.com##.topnav-link--blackfriday
 
-! 2021-11-03 https://bitcoinist.com
-bitcoinist.com##.text-banner
-bitcoinist.com##.play-games
-||nyyuhifa.xyz^
-
 ! 2021-11-03 https://zycrypto.com
 zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
@@ -1721,9 +1705,6 @@ seekingalpha.com##section[data-test-id="recommended-section"]
 seekingalpha.com##[data-test-id="ad-slot-list"]
 seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
-seekingalpha.com##.sa_hFop.sa_hFls
-seekingalpha.com##.sa_Igr.sa_IfB.sa_IeS.sa_EbQ.sa_EbO.sa_EbF.sa_hhnN
-seekingalpha.com##.llA
 ||apps.elfsight.com^
 ||app.helphero.co^
 
@@ -1768,3 +1749,26 @@ reelrundown.com##.mm-detail-header--image-size-full-bleed.m-detail-header
 ! 2021-11-07 https://www.forbes.com
 www.forbes.com##.ad-rail
 www.forbes.com##.ng-scope.rtb-top-wrapper
+
+! 2021-11-08 https://bitcoinist.com
+bitcoinist.com##.text-banner
+bitcoinist.com##.play-games
+bitcoinist.com##.header__sponsored-logo
+bitcoinist.com##.svecc-header-price
+||nyyuhifa.xyz^
+
+! 2021-11-09 https://www.fxstreet.com
+www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
+www.fxstreet.com###globalalert
+www.fxstreet.com##.fxs_extra-bottom
+www.fxstreet.com###BottomSecond_C016_Col01
+
+! 2021-11-09 https://issueexplorer.com
+issueexplorer.com##.con-carbon-noti
+
+! 2021-11-09 https://www.bizjournals.com
+www.bizjournals.com##.u-flex-justify-start.secondary\@lg
+
+! 2021-11-09 https://forkast.news
+forkast.news##div.spaced-group
+forkast.news##.alert-bar
