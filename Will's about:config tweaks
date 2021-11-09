@@ -27,6 +27,7 @@ datareporting.policy.dataSubmissionEnabled; false
 device.sensors.enabled; false
 dom.animations.offscreen-throttling; false
 dom.battery.enabled; false
+dom.disable_open_during_load; false (disables popup blocker)
 dom.ipc.plugins.reportCrashURL; false
 dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
