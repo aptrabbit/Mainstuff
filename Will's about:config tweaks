@@ -6,6 +6,8 @@ app.normandy.enabled; false
 app.normandy.first_run; false
 app.shield.optoutstudies.enabled; false
 beacon.enabled; false
+breakpad.reportURL; ""
+browser.discovery.enable; false
 browser.display.show_image_placeholders; false
 browser.download.autohideButton; false
 browser.formfill.enable; false (depends on the user; if using Firefox's native password manager "Lockwise," then ignore, but using a password manager like Bitwarden renders autofill useless)
@@ -31,6 +33,7 @@ dom.animations.offscreen-throttling; false
 dom.battery.enabled; false
 dom.disable_open_during_load; false (disables popup blocker)
 dom.ipc.plugins.reportCrashURL; false
+dom.security.https_only_mode_send_http_background_request; false
 dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
@@ -49,8 +52,10 @@ media.peerconnection.ice.no_host; true
 media.peerconnection.ice.proxy_only_if_behind_proxy; true
 media.peerconnection.identity.timeout; 1
 media.video_stats.enabled; false
+network.auth.subresource-http-auth-allow; 1
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
 network.http.max-persistent-connections-per-server; 10
+network.http.speculative-parallel-limit; 0
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
@@ -63,7 +68,7 @@ toolkit.coverage.opt-out; true
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
 toolkit.telemetry.archive.enabled; false
 toolkit.telemetry.bhrPing.enabled; false
-toolkit.coverage.endpoint.base; " "
+toolkit.coverage.endpoint.base; ""
 toolkit.telemetry.coverage.opt-out; true (hidden preference)
 toolkit.telemetry.newProfilePing.enabled; false
 toolkit.telemetry.server; " "
