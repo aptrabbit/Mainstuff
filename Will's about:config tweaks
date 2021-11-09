@@ -20,6 +20,7 @@ browser.startup.blankWindow; false
 browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and clinck then exit button on the tab rectangle, Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking/losing sensitive work)
+browser.tabs.tabMinWidth; 90
 browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
