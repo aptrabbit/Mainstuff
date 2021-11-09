@@ -55,8 +55,8 @@ network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.ne
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
-nglayout.initialpaint.delay; 3
-nglayout.initialpaint.delay_in_oopif; 3
+nglayout.initialpaint.delay; 2
+nglayout.initialpaint.delay_in_oopif; 2
 reader.parse-on-load.enabled; false (depends on user; setting this to false disables "reader mode")
 security.dialog_enable_delay; 0
 toolkit.coverage.opt-out; true
