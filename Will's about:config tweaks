@@ -23,7 +23,7 @@ browser.startup.blankWindow; false
 browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and clinck then exit button on the tab rectangle, Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking/losing sensitive work)
-browser.tabs.tabMinWidth; 90
+browser.tabs.tabMinWidth; 100
 browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
@@ -53,7 +53,6 @@ media.peerconnection.ice.no_host; true
 media.peerconnection.ice.proxy_only_if_behind_proxy; true
 media.peerconnection.identity.timeout; 1
 media.video_stats.enabled; false
-network.auth.subresource-http-auth-allow; 1
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
 network.http.max-persistent-connections-per-server; 10
 network.http.speculative-parallel-limit; 0
