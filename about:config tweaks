@@ -16,6 +16,7 @@ browser.newtabpage.activity-stream.feeds.telemetry; false
 browser.newtabpage.activity-stream.telemetry; false
 browser.overlink-delay; 20
 browser.ping-centre.telemetry; false
+browser.safebrowsing.downloads.remote.url; : ""
 browser.search.separatePrivateDefault; true
 browser.search.separatePrivateDefault.ui.enabled; true
 browser.send_pings.require_same_host; true
