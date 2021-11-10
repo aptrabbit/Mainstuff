@@ -1693,21 +1693,6 @@ zycrypto.com###block-2
 zycrypto.com###custom_html-13
 zycrypto.com##.widget_custom_html.custom_html-14.widget.td_block_template_5.widget_text
 
-! 2021-11-05 https://seekingalpha.com
-||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
-seekingalpha.com##.banner-image
-seekingalpha.com###paywall_dynamic_ticker
-seekingalpha.com###px-captcha-wrapper
-seekingalpha.com###news-left-slot-1
-seekingalpha.com###article-left-slot-2
-seekingalpha.com##.in.fade.modal-backdrop
-seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com##[data-test-id="ad-slot-list"]
-seekingalpha.com###krux-container
-seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
-||apps.elfsight.com^
-||app.helphero.co^
-
 ! 2021-11-05 https://cryptopost.com
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
@@ -1772,3 +1757,23 @@ www.bizjournals.com##.u-flex-justify-start.secondary\@lg
 ! 2021-11-09 https://forkast.news
 forkast.news##div.spaced-group
 forkast.news##.alert-bar
+
+! 2021-11-10 https://abc.com
+@@||dcf.espn.com^
+
+! 2021-11-09 https://seekingalpha.com
+||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
+seekingalpha.com##.banner-image
+seekingalpha.com###paywall_dynamic_ticker
+seekingalpha.com###px-captcha-wrapper
+seekingalpha.com###news-left-slot-1
+seekingalpha.com###article-left-slot-2
+seekingalpha.com##.in.fade.modal-backdrop
+seekingalpha.com##section[data-test-id="recommended-section"]
+seekingalpha.com##[data-test-id="ad-slot-list"]
+seekingalpha.com###krux-container
+seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
+seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
+||apps.elfsight.com^
+||app.helphero.co^
+
