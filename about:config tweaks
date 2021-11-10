@@ -52,7 +52,6 @@ gfx.downloadable_fonts.fallback_delay_short; 40
 gfx.font_loader.delay; 0
 gfx.offscreencanvas.enabled; true
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
-image.decode-immediately.enabled; true
 media.peerconnection.ice.default_address_only; true
 media.peerconnection.ice.no_host; true
 media.peerconnection.ice.proxy_only_if_behind_proxy; true
