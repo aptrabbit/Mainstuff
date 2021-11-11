@@ -594,17 +594,6 @@ pixabay.com##.viewMore--1odRT
 pixabay.com##.sponsoredWithResults--1tY_-.container--Ir0yq
 pixabay.com##.container--Ir0yq
 pixabay.com##.show-gtty-item
-www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
-www.amazon.com###cart-item-recs
-www.amazon.com##.maple-banner
-www.amazon.com###prime-pda-type-box-ad
-www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
-www.amazon.com###customer-survey_feature_div
-www.amazon.com###sims-consolidated-2_feature_div
-www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
-www.amazon.com##.s-widget-padding-bottom
-www.amazon.com###huc-first-upsell-row
-www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
 www.tennisexpress.com##.show.cookieTextDisplay
 www.dickssportinggoods.com###kampyleButtonContainer
 coupons.cnet.com##.SnackBar_root_active__3IYDm.SnackBar_root_info__1bH3Q.SnackBar_root__37aha
@@ -634,12 +623,6 @@ www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
 www.coingecko.com##.mb-2.mt-1.text-sm
 www.coingecko.com##.mt-md-0.tw-mt-3.flex-wrap.tw-flex.lg\:tw-ml-3
 www.coingecko.com##.tw-ads-btn-md.btn-success.btn
-decrypt.co##.euvlPq.sc-17hoiz4-1
-decrypt.co##.fwAJKO.sc-13hse52-0
-decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
-decrypt.co##.egrgSy.sc-13hse52-0
-decrypt.co##.adbutler-inline-ad
-decrypt.co##.bHGkbV.sc-13hse52-0
 www.esports.com##.adtech-section
 www.stakingrewards.com##.asset-links
 www.stakingrewards.com##.headerBanner
@@ -823,13 +806,6 @@ dailywire.com##+js(rc, css-160lw9c)
 gitlab.com##.trial-link
 www.insidermonkey.com###advertorial-container
 www.insidermonkey.com###shadow
-www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
-www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
-www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
-www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
-www.tipranks.com##.client-components-experts-sideBar-side__newletter
-www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo
-www.tipranks.com##.hideOnpremium
 www.yahoo.com###notification-container
 puck.news##.paywall
 puck.news##+js(rc, paywall-active, body)
@@ -915,3 +891,44 @@ cryptoslate.com##.top-sticky
 cryptoslate.com##.code-block-3.code-block
 cryptoslate.com##.code-block-9.code-block
 cryptoslate.com##.code-block-14.code-block
+www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
+www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
+www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
+www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
+www.tipranks.com##.client-components-experts-sideBar-side__newletter
+www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo
+www.tipranks.com##.hideOnpremium
+www.tipranks.com##div.mobile_w12.mobile_pl0.mobile_pr0.ipad_pl2.pl4.mb7.z0.minHmedium.displayflex.w6.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo:nth-of-type(5)
+languagetool.org##.dock__item--premium.dock__item
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+www.amazon.com###cart-item-recs
+www.amazon.com##.maple-banner
+www.amazon.com###prime-pda-type-box-ad
+www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
+www.amazon.com###customer-survey_feature_div
+www.amazon.com###sims-consolidated-2_feature_div
+www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
+www.amazon.com##.s-widget-padding-bottom
+www.amazon.com###huc-first-upsell-row
+www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
+www.amazon.com##div.s-widget-spacing-large.s-widget
+www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
+||events-collector.spot.im^
+www.artfultea.com##.visible.sqs-popup-overlay
+account.protonmail.com##.topnav-link--blackfriday.relative
+||statics-marketingsites-eus-ms-com.akamaized.net^
+||statics-marketingsites-neu-ms-com.akamaized.net^
+appgrooves.com##.transitions-enabled.sticky-signup-section
+appgrooves.com##.mg-b-16.app-deals-wrapper
+appgrooves.com##.hidden-sm.hidden-xs.leftnav-menus-container > div > .mg-b-16.bordered-radius.page-section
+finbold.com###ba200ba7ef5e1
+finbold.com##.mid-include
+decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
+decrypt.co##.adbutler-inline-ad
+decrypt.co##.bHGkbV.sc-13hse52-0
+decrypt.co##.pfVfn.sc-13hse52-0
+decrypt.co##.gJejSD.iTqRUR.sc-15vdjcx-1.sc-1lyao0r-0 > .unreset
+decrypt.co##.fqsKrT.sc-gzqtco-0
+ipsoa.it##+js(ra, style, div.paywall)
+||printoperatelanguage.top^
+
