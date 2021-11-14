@@ -113,7 +113,6 @@ www.mediafire.com##.CookieAcceptance
 news.gallup.com##.gcb_35556
 www.nerdwallet.com##p > div
 www.nerdwallet.com##p > ._2dyIi
-www.autoblog.com###spotim-specific
 cosmos.network##.banner-wrapper
 www.accuweather.com##.privacy-policy-banner
 www.niche.com##.scatterplot__logged-out-messages
@@ -448,7 +447,6 @@ selfhacked.com##.end-of-post
 selfhacked.com##.post-ratings-wrapper
 selfhacked.com##.sponsored-full-width.sponsored
 staking.harmony.one###bar-container
-finance.yahoo.com##.caas-body > div
 benchmarks.ul.com##.clearfix.defaultbox
 www.investopedia.com###performance-marketing_3-0
 www.investopedia.com###fin-billboard1-sticky-dynamic_3-0
@@ -555,8 +553,6 @@ datamish.com##.hidden-xs.text-right.col-sm-12.col-md-6
 datamish.com##.sidebar-scroll > div
 p2pfoundation.ning.com##.signedOut.chatFooter.xg_chat
 www.vox.com#@#.c-tab-bar
-ambcrypto.com##.ub-sticky-ad-containerdesk
-ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
 cryptowat.ch##._3To4aljoTY054zJj-UPJSD
 21shares.com###legal-disclaimer
 21shares.com###how-to-buy
@@ -566,14 +562,6 @@ cryptopro.app##.show.fade.modal-backdrop
 app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
 www.chegg.com##.SsZyJ.CallToAction__CTAWrapper-ieaghs-3
-www.fool.com##.alert-info.page-alert
-www.fool.com###market_performance
-www.fool.com##.special-message
-||cdn.userway.org^
-www.fool.com###best-next-section
-www.fool.com###services-section
-www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
-www.fool.com##.art__pitch
 starwars.fandom.com###WikiaBar
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##.leaderboard-container
@@ -689,22 +677,12 @@ coinmarketcap.com##.bKmQGi.sc-16r8icm-0
 coinmarketcap.com##.buyAdButtonSection
 coinmarketcap.com##.carousel-items-wrapper
 coinmarketcap.com##.ivGjzC.mhbkgs-0
-humbledollar.com##.show-detected
 ||quotefancy.com/frontend/img/studio/promo/quotefancy_studio_*0_optim.jpg$image
 www.suzuki.com###cookieAck
-www.newsbtc.com###menu-item-458696
-www.newsbtc.com###menu-item-470793
-www.newsbtc.com###menu-item-446940
-www.newsbtc.com##.litespeed-loaded.size-full.attachment-full
-www.newsbtc.com##.widget_text.svecc-widget-title.widget
 www.cinemablend.com##.mobile-leaderboard-320-50
 www.cinemablend.com##div:nth-of-type(24)
 softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.kfrPy.Modal__ModalPortalStyled-sc-9h204v-1.needsclick
 softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.gTXIIp.Modal__ModalPortalStyled-sc-9h204v-1.needsclick
-www.wsj.com##div.wsj-modern-ad-container
-www.wsj.com##.dynamic-inset-overflow
-www.wsj.com###cx-what-to-read-next
-www.wsj.com###cx-join-the-conversation
 www.timeanddate.com###mpo
 ||grabify.link^$important,all
 www.bsc.news##.ad-block-3-side-page
@@ -815,7 +793,6 @@ www.qmee.com##.show-0-2-15.prerender-0-2-14
 ||app.conversiobot.com^
 news.yahoo.com###close-button-section
 news.yahoo.com###module-monalixaRightRail
-finance.yahoo.com##._yb_aco1l._yb_1becu
 mail.protonmail.com##.topnav-link--blackfriday
 zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
@@ -859,18 +836,6 @@ www.bizjournals.com##.u-flex-justify-start.secondary\@lg
 forkast.news##div.spaced-group
 forkast.news##.alert-bar
 @@||dcf.espn.com^
-||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
-seekingalpha.com##.banner-image
-seekingalpha.com###paywall_dynamic_ticker
-seekingalpha.com###px-captcha-wrapper
-seekingalpha.com###news-left-slot-1
-seekingalpha.com###article-left-slot-2
-seekingalpha.com##.in.fade.modal-backdrop
-seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com##[data-test-id="ad-slot-list"]
-seekingalpha.com###krux-container
-seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
-seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 ||apps.elfsight.com^
 ||app.helphero.co^
 www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
@@ -891,14 +856,6 @@ cryptoslate.com##.top-sticky
 cryptoslate.com##.code-block-3.code-block
 cryptoslate.com##.code-block-9.code-block
 cryptoslate.com##.code-block-14.code-block
-www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
-www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
-www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
-www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
-www.tipranks.com##.client-components-experts-sideBar-side__newletter
-www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo
-www.tipranks.com##.hideOnpremium
-www.tipranks.com##div.mobile_w12.mobile_pl0.mobile_pr0.ipad_pl2.pl4.mb7.z0.minHmedium.displayflex.w6.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo:nth-of-type(5)
 languagetool.org##.dock__item--premium.dock__item
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 www.amazon.com###cart-item-recs
@@ -921,8 +878,6 @@ account.protonmail.com##.topnav-link--blackfriday.relative
 appgrooves.com##.transitions-enabled.sticky-signup-section
 appgrooves.com##.mg-b-16.app-deals-wrapper
 appgrooves.com##.hidden-sm.hidden-xs.leftnav-menus-container > div > .mg-b-16.bordered-radius.page-section
-finbold.com###ba200ba7ef5e1
-finbold.com##.mid-include
 decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.bHGkbV.sc-13hse52-0
@@ -931,4 +886,73 @@ decrypt.co##.gJejSD.iTqRUR.sc-15vdjcx-1.sc-1lyao0r-0 > .unreset
 decrypt.co##.fqsKrT.sc-gzqtco-0
 ipsoa.it##+js(ra, style, div.paywall)
 ||printoperatelanguage.top^
+||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
+seekingalpha.com##.banner-image
+seekingalpha.com###paywall_dynamic_ticker
+seekingalpha.com###px-captcha-wrapper
+seekingalpha.com###news-left-slot-1
+seekingalpha.com###article-left-slot-2
+seekingalpha.com##.in.fade.modal-backdrop
+seekingalpha.com##section[data-test-id="recommended-section"]
+seekingalpha.com##[data-test-id="ad-slot-list"]
+seekingalpha.com###krux-container
+seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
+seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
+seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
+www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
+www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
+www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
+www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
+www.tipranks.com##.client-components-experts-sideBar-side__newletter
+www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex
+www.tipranks.com##.hideOnpremium
+www.tipranks.com##.h_px9.positionrelative.hoverCursorpointer
+www.tipranks.com##div.mobile_w12.mobile_pl0.mobile_pr0.ipad_pl2.pl4.mb7.z0.minHmedium.displayflex.w6.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo:nth-of-type(5)
+www.newsbtc.com##.widget_svecc_reviews.widget
+www.newsbtc.com##.widget_media_image.left.premium-partner.widget
+www.newsbtc.com##.widget_media_image.right.premium-partner.widget
+www.fool.com###topnav-picks
+www.fool.com##.alert-info.page-alert
+www.fool.com###market_performance
+www.fool.com##.special-message
+www.fool.com###best-next-section
+www.fool.com###services-section
+www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
+www.fool.com##.art__pitch
+||cdn.userway.org^
+ambcrypto.com##.ub-sticky-ad-containerdesk
+ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
+ambcrypto.com##.ambcr-widget
+finbold.com###ba200ba7ef5e1
+finbold.com##.mid-include
+finbold.com##.mt-4.order-lg-3.order-xl-2.col-xl-12.col-lg-6
+www.autoblog.com###spotim-specific
+www.autoblog.com###autoblog-daily-digest
+www.automotivelogistics.media##.leaderboard
+www.newsbtc.com###menu-item-458696
+www.newsbtc.com###menu-item-470793
+www.newsbtc.com###menu-item-446940
+www.newsbtc.com##.litespeed-loaded.size-full.attachment-full
+www.newsbtc.com##.widget_text.svecc-widget-title.widget
+www.newsbtc.com##.vertical-center.flex.header-price-container
+www.newsbtc.com###menu-item-473245
+www.newsbtc.com###menu-item-473760
+humbledollar.com##.show-detected
+humbledollar.com##.top-bar
+humbledollar.com##.in-story-subscribe
+grayscale.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-9dbfc30.elementor-element.elementor-top-section.elementor-section
+www.fxstreet.com###brokersfooter_6446754c-68ff-43f0-9190-ed9c704b321e
+www.fxstreet.com##.fxs_tradingStudio
+www.fxstreet.com##.fxs_post_detail_subscribe_premium_bar
+www.fxstreet.com##.fxs_col_dismissible
+www.fxstreet.com###Content_C312_Col00 > div.fxs_row > .fxs_flex_ad_col
+finance.yahoo.com##.caas-body > div
+finance.yahoo.com##._yb_aco1l._yb_1becu
+finance.yahoo.com##.LREC-status-ok
+finance.yahoo.com##[href^="https://finance.yahoo.com/premium-marketing"]
+www.wsj.com##div.wsj-modern-ad-container
+www.wsj.com##.dynamic-inset-overflow
+www.wsj.com###cx-what-to-read-next
+www.wsj.com###cx-join-the-conversation
+www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h
 
