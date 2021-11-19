@@ -129,8 +129,6 @@ www.dell.com##.ask-question-banner-wrapper
 www.jewage.org##.family_search_popup
 brainly.com##.js-react-brainly-plus-box-aside
 expressdigest.com##.code-block-2.code-block
-investorplace.com##.widget_ipm_sidebar_ad.widgetcontainer
-www.independent.co.uk##.video-hero-wrapper
 www.popularmechanics.com##.gallery-module.embed
 www.nydailynews.com##.full.pb-c-sticky-chain.pb-chain.pb-layout-item.trb-flt-cont
 www.automobilemag.com##._2I-e5
@@ -249,16 +247,6 @@ steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-co
 kids.nationalgeographic.com###tou-message
 bittrex.com##.banner--container
 www.123rf.com##.showTNC.tnc-padding.tnc-container
-www.benzinga.com##.page-sidebar-placement.bz3-widget-container
-www.benzinga.com##.article-content > .lead-form.form
-www.benzinga.com##.primary-placeholder.placeholder
-www.benzinga.com##.secondary-placeholder.placeholder
-www.benzinga.com##.shadow-border.crypto-sidebar-table
-www.benzinga.com##.table-flex-wrap
-www.benzinga.com##.bz-campaign-text-top
-www.benzinga.com##.bz-campaign-text-middle
-www.benzinga.com##.bz-campaign-text-bottom
-www.benzinga.com###data-licensing-ad-right-rail
 www.tennis-warehouse.com###data_protection
 coingeek.com##.my-3.overflow-hidden.cg__radius.advertising__image
 coingeek.com##.acabnnr-39.gcabnnr-single > [href]
@@ -350,8 +338,6 @@ www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox.cnw_ads_300.
 www.celebritynetworth.com###single__bar
 ||chatwidget.ruby.com^
 ||api.sjpf.io^
-www.yahoo.com###applet_p
-www.yahoo.com##.Mb-20.subscriptiontdv2
 creatoracademy.youtube.com###google-hats-survey
 support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
@@ -365,8 +351,6 @@ www.theatlantic.com###paywall
 www.theatlantic.com##.BottomLeaflets_root__RjVTY
 www.medpagetoday.com##.leaderboard-region
 www.medpagetoday.com###right-rail-frame
-www.spotify.com##.hzeuvL.sc-cxFLnm
-www.spotify.com#@#div > div[aria-live="polite"]
 ||staging.api.telemetry.watchabc.go.com^
 ||cdn1.edgedatg.com/aws/apps/datg/web-js-telemetry-service/1.0.0.6/production/js/datgts.js$script
 secure.bankofamerica.com##.cardlytics-transaction-offer
@@ -686,13 +670,6 @@ softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.gTXIIp.Modal__ModalP
 www.timeanddate.com###mpo
 ||grabify.link^$important,all
 www.bsc.news##.ad-block-3-side-page
-live94today.com##.enter.floating-chat
-live94today.com##.js-demo-avd.demo-avd
-live94today.com##.pull-left.profile-nav.hide-from-mobile.dropdown
-live94today.com##[href^="https://go.nordvpn.net/aff_c"]
-live94today.com##.watch-video-description
-live94today.com##[href^="https://www.purevpn.com/order-now.php"]
-||tracker.123tv.live^
 www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
 www.entrepreneur.com##div.transparent.container
 www.entrepreneur.com###F20WidgetContainer
@@ -722,7 +699,6 @@ www.wcostream.com##td > div > span
 www.wcostream.com##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
 www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
 www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
-live94today.com##[href="http://ustv2.com"]
 www.tennisrecruiting.net##[href^="http://www.tennis-warehouse.com/"]
 www.tennisrecruiting.net###leftnav > div
 www.tennisrecruiting.net##.websitebox
@@ -773,11 +749,6 @@ www.cryptodaily.co.uk##.ad-bottom-spacing
 money.usnews.com###bfad-slot
 notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
 account.microsoft.com###feedback-button
-cryptopotato.com##.ai-viewport-1.code-block-6.code-block
-cryptopotato.com##.widget_pojo_image.widget
-cryptopotato.com##.widget_text.widget
-cryptopotato.com##.code-block-12.code-block
-cryptopotato.com##.aos-animate
 dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
 ||harpocrates.ethyca.com^
@@ -798,6 +769,11 @@ zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
 zycrypto.com###custom_html-13
 zycrypto.com##.widget_custom_html.custom_html-14.widget.td_block_template_5.widget_text
+cryptopotato.com##.ai-viewport-1.code-block-6.code-block
+cryptopotato.com##.widget_pojo_image.widget
+cryptopotato.com##.widget_text.widget
+cryptopotato.com##.code-block-12.code-block
+cryptopotato.com##.aos-animate
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
 ||casinobonusesnow.com^
@@ -827,10 +803,6 @@ bitcoinist.com##.play-games
 bitcoinist.com##.header__sponsored-logo
 bitcoinist.com##.svecc-header-price
 ||nyyuhifa.xyz^
-www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
-www.fxstreet.com###globalalert
-www.fxstreet.com##.fxs_extra-bottom
-www.fxstreet.com###BottomSecond_C016_Col01
 issueexplorer.com##.con-carbon-noti
 www.bizjournals.com##.u-flex-justify-start.secondary\@lg
 forkast.news##div.spaced-group
@@ -911,14 +883,6 @@ www.tipranks.com##div.mobile_w12.mobile_pl0.mobile_pr0.ipad_pl2.pl4.mb7.z0.minHm
 www.newsbtc.com##.widget_svecc_reviews.widget
 www.newsbtc.com##.widget_media_image.left.premium-partner.widget
 www.newsbtc.com##.widget_media_image.right.premium-partner.widget
-www.fool.com###topnav-picks
-www.fool.com##.alert-info.page-alert
-www.fool.com###market_performance
-www.fool.com##.special-message
-www.fool.com###best-next-section
-www.fool.com###services-section
-www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
-www.fool.com##.art__pitch
 ||cdn.userway.org^
 ambcrypto.com##.ub-sticky-ad-containerdesk
 ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
@@ -941,6 +905,10 @@ humbledollar.com##.show-detected
 humbledollar.com##.top-bar
 humbledollar.com##.in-story-subscribe
 grayscale.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-9dbfc30.elementor-element.elementor-top-section.elementor-section
+www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
+www.fxstreet.com###globalalert
+www.fxstreet.com##.fxs_extra-bottom
+www.fxstreet.com###BottomSecond_C016_Col01
 www.fxstreet.com###brokersfooter_6446754c-68ff-43f0-9190-ed9c704b321e
 www.fxstreet.com##.fxs_tradingStudio
 www.fxstreet.com##.fxs_post_detail_subscribe_premium_bar
@@ -955,4 +923,73 @@ www.wsj.com##.dynamic-inset-overflow
 www.wsj.com###cx-what-to-read-next
 www.wsj.com###cx-join-the-conversation
 www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h
+www.capitalgazette.com###zephr-overlay
+||blnbajmdxydnp.xyz^
+series9.me##.play-notice
+investorplace.com##.widget_ipm_sidebar_ad.widgetcontainer
+investorplace.com##.countdown-banner
+||accessibilityserver.org^
+||airrrxggfafnbl.xyz^
+||tracker.idocdn.com^
+www.findagrave.com##.d-print-none.mr-md-0.mr-3.col-lg-12.col-sm-6.overview-panel.native
+||lhehadqlsxh.xyz^
+||app.frase.io^
+www.independent.co.uk##.video-hero-wrapper
+www.independent.co.uk##div.jUAgro.sc-eiBcMB
+www.independent.co.uk##.iQqWaS.sc-jeURIA
+conversations.indy100.com##.bottom-strip
+||gadget.pico.tools^
+www.fool.com###topnav-picks
+www.fool.com##.alert-info.page-alert
+www.fool.com###market_performance
+www.fool.com##.special-message
+www.fool.com###best-next-section
+www.fool.com###services-section
+www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
+www.fool.com##.art__pitch
+www.fool.com###hp-sa-splash
+www.spotify.com##.hzeuvL.sc-cxFLnm
+www.spotify.com#@#div > div[aria-live="polite"]
+www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
+www.yahoo.com###applet_p
+www.yahoo.com##.Mb-20.subscriptiontdv2
+www.yahoo.com###module-monalixaRightRail
+www.yahoo.com##.LREC-status-ok
+coinquora.com##.coinq-widget.widget
+coinquora.com##.py-1.coins-stream
+www.benzinga.com##.page-sidebar-placement.bz3-widget-container
+www.benzinga.com##.article-content > .lead-form.form
+www.benzinga.com##.primary-placeholder.placeholder
+www.benzinga.com##.secondary-placeholder.placeholder
+www.benzinga.com##.shadow-border.crypto-sidebar-table
+www.benzinga.com##.table-flex-wrap
+www.benzinga.com##.bz-campaign-text-top
+www.benzinga.com##.bz-campaign-text-middle
+www.benzinga.com##.bz-campaign-text-bottom
+www.benzinga.com###data-licensing-ad-right-rail
+www.benzinga.com##.w-full.sidebar-inner-primary > [href]
+www.benzinga.com##.quote-card-wrapper
+www.benzinga.com##.bz3-widget-container
+www.benzinga.com###crypto-widget-CoinList
+www.benzinga.com##.trading-school.hdVZXL.Header__MenuItemLink-sc-5xz2fi-8
+www.benzinga.com##.cEQHvc.CompareProducts__CompareProductsWrapper-muby2a-0
+www.benzinga.com##.sidebar-wrapper.hViBmI.HomePageSidebar__SidebarWrapper-sc-11o9bvg-0 > div:nth-of-type(2)
+www.benzinga.com##.signup-box.zEaUI.SignUpBox__SignupBoxWrapper-s7vvbm-0
+||rapidzebra.io^
+blog.horizen.io##.widget_custom_html.widget.widget_text
+finviz.com##.modal-elite-ad
+trading-education.com##.news-card__header-btn
+trading-education.com##.news-video-list.no-padding.col-lg-4.col-md-4.col-sm-12.col-xs-12
+||sdk.mediamelon.com^
+||privacy-mgmt.com^
+live94today.com##.enter.floating-chat
+live94today.com##.js-demo-avd.demo-avd
+live94today.com##.pull-left.profile-nav.hide-from-mobile.dropdown
+live94today.com##[href^="https://go.nordvpn.net/aff_c"]
+live94today.com##.watch-video-description
+live94today.com##[href^="https://www.purevpn.com/order-now.php"]
+live94today.com##[href="http://ustv2.com"]
+live94today.com##.row.footer-container > .col-md-12
+||tracker.123tv.live^
+https://cdn.jsdelivr.net/npm/js-cookie@2/
 
