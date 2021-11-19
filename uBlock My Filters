@@ -497,8 +497,6 @@ www.finder.com.au##.hide-mobile.nps-feedbackModal__teaser
 www.finder.com.au###intercomChatButton
 www.dividend.com###header-survey-container
 ||firebaseinstallations.googleapis.com^
-twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
-twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
 www.intowindows.com##div.\32 25e8008c70a1c7498d64714d951c985
 www.intowindows.com##.widget_custom_html.widget.widget_text
 www.healthline.com###modal-host
@@ -992,4 +990,8 @@ live94today.com##[href="http://ustv2.com"]
 live94today.com##.row.footer-container > .col-md-12
 ||tracker.123tv.live^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+||nuance.com^
+||inq.com^
 
