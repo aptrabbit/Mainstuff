@@ -47,9 +47,9 @@ extensions.webextensions.restrictedDomains; ""
 geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
-gfx.downloadable_fonts.fallback_delay; 0
+gfx.downloadable_fonts.fallback_delay; 50
 gfx.downloadable_fonts.fallback_delay_short; 50
-gfx.font_loader.delay; 0
+gfx.font_loader.delay; 50
 gfx.offscreencanvas.enabled; true
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
 image.decode-immediately.enabled; true
