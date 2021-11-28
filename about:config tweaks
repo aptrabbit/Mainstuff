@@ -34,6 +34,7 @@ browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 device.sensors.enabled; false
+dom.animations.offscreen-throttling; false
 dom.battery.enabled; false
 dom.disable_open_during_load; false (disables popup blocker)
 dom.ipc.plugins.reportCrashURL; false
