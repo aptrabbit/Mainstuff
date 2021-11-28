@@ -994,4 +994,10 @@ twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
 ||nuance.com^
 ||inq.com^
+www.bestbuy.com##.shop-blue-assist
+laptopsdeals.net##.sgpb-popup-overlay.sgpb-popup-overlay
+laptopsdeals.net##.sgpb-popup-dialog-main-div-wrapper
+www.bestbuy.com##.shop-search-survey
+www.bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
+
 
