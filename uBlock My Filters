@@ -1,5 +1,5 @@
-My personal list for garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. It isn't the most organized. 
-90% plus percent are safe rules that should not break anything, but there are a few domains on here that you may need. 
+My personal list for garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. 
+90% + are safe rules that should not break anything, but there are a few domains on here that I don't need that you may.
 Whitelist as needed and use at your own risk.
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1017,5 +1017,6 @@ www.cspracing.com##.affirm-site-modal
 ||sd-tagging.azurefd.net^
 www.hotdeals.com##.feedback
 www.hotdeals.com##.afsstyle
+||tt.omtrdc.net^
 
 
