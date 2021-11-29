@@ -212,7 +212,6 @@ www.afar.com###topPortal
 www.doxchannel.com###appBarHeaderContainer
 www.wallstreetoasis.com##.show.modal
 www.wallstreetoasis.com##.show.modal-backdrop
-www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
 bravenewcoin.com##app-content-block-component > div > app-content-markdown > .markdown-content > div
 mail.protonmail.com##.latest-upgrade.text-center
 mail.protonmail.com##section:nth-of-type(2)
@@ -331,8 +330,6 @@ www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-o
 ||opticalanalytics.io^
 ||collect.igodigital.com^
 dentacoin.com##.dcn-privacy-policy-cookie
-www.coindesk.com##.newsletter-module-wrapper
-www.coindesk.com##.false.article-com-wrapper
 www.celebritynetworth.com###skyline
 www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox.cnw_ads_300.block
 www.celebritynetworth.com###single__bar
@@ -1003,5 +1000,10 @@ www.lmaxdigital.com###lmax-cookie-bar
 ||block.lmaxdigital.io^
 ||min-api.cryptocompare.com^
 www.lawinsider.com##.padding-1.light-blue-bordered-card
+||price-api.crypto.com^
+www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
+www.coindesk.com##.newsletter-module-wrapper
+www.coindesk.com##.false.article-com-wrapper
+www.coindesk.com##[href="/sponsored-content/"
 
 
