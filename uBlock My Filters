@@ -750,8 +750,6 @@ dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
 ||harpocrates.ethyca.com^
 gitlab.com##.trial-link
-www.insidermonkey.com###advertorial-container
-www.insidermonkey.com###shadow
 www.yahoo.com###notification-container
 puck.news##.paywall
 puck.news##+js(rc, paywall-active, body)
@@ -1020,5 +1018,8 @@ www.hotdeals.com##.afsstyle
 ||tt.omtrdc.net^
 ||js.hscollectedforms.net^
 europe.autonews.com##.block-region-content-right
+www.insidermonkey.com###advertorial-container
+www.insidermonkey.com###shadow
+www.insidermonkey.com###premium-resource-center
 
 
