@@ -711,7 +711,6 @@ www.terro.com##.center
 www.terro.com##.right.ws-spr
 www.terro.com##.widget-product-grid.product-items
 www.terro.com##h2:nth-of-type(2)
-||connect.livechatinc.com^
 www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
 ||static.whisbi.com^
 ||bicugesi.xyz^
@@ -1004,7 +1003,14 @@ www.lawinsider.com##.padding-1.light-blue-bordered-card
 www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
 www.coindesk.com##.newsletter-module-wrapper
 www.coindesk.com##.false.article-com-wrapper
-www.coindesk.com##[href="/sponsored-content/"
+www.coindesk.com##[href="/sponsored-content/"]
 www.roadandtrack.com##.ad-container
+||static.olark.com^
+||static.klaviyo.com^
+www.cspracing.com##.affirm-site-modal
+||connect.livechatinc.com^
+||cdn.livechatinc.com^
+||cdn1.affirm.com^
+||sd-tagging.azurefd.net^
 
 
