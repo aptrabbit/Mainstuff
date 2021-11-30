@@ -776,14 +776,6 @@ www.lasfit.com###soundest-forms-container
 www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
 ||diagnostics.redditmedia.com^
-cointelegraph.com##.price-indexes-widget
-cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
-cointelegraph.com###vue-footer
-cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
-cointelegraph.com##.post__content-shares
-cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
-cointelegraph.com##div.sidebar__widget:nth-of-type(2)
-cointelegraph.com##.sidebar__promo-button
 u.today##.something--fixed
 u.today##a.card--something.card
 u.today##.container.something--wide
@@ -811,18 +803,6 @@ www.cnn.com##.el-entitlement-.el-entitlement
 nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
-cryptoslate.com##.image.sticky-footer
-cryptoslate.com##div.widget
-cryptoslate.com##.right.sidebar
-cryptoslate.com##.buy-crypto.btn
-cryptoslate.com##.header-strip
-cryptoslate.com##.edge-cta
-cryptoslate.com##.leaderboard.placement
-cryptoslate.com##.ftx-news-button
-cryptoslate.com##.top-sticky
-cryptoslate.com##.code-block-3.code-block
-cryptoslate.com##.code-block-9.code-block
-cryptoslate.com##.code-block-14.code-block
 languagetool.org##.dock__item--premium.dock__item
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 www.amazon.com###cart-item-recs
@@ -1024,5 +1004,30 @@ www.insidermonkey.com###premium-resource-center
 myanimelist.net##.btn-mal-service
 ||graph.facebook.com^
 ||player.propervideo.io^
+||metrics.beyondwords.io^
+||assets.memberful.com^
+cryptoslate.com##.image.sticky-footer
+cryptoslate.com##div.widget
+cryptoslate.com##.right.sidebar
+cryptoslate.com##.buy-crypto.btn
+cryptoslate.com##.header-strip
+cryptoslate.com##.edge-cta
+cryptoslate.com##.leaderboard.placement
+cryptoslate.com##.ftx-news-button
+cryptoslate.com##.top-sticky
+cryptoslate.com##.code-block-3.code-block
+cryptoslate.com##.code-block-9.code-block
+cryptoslate.com##.code-block-14.code-block
+cryptoslate.com##.edge
+cointelegraph.com##.price-indexes-widget
+cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
+cointelegraph.com###vue-footer
+cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
+cointelegraph.com##.post__content-shares
+cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
+cointelegraph.com##div.sidebar__widget:nth-of-type(2)
+cointelegraph.com##.sidebar__promo-button
+||widgetdata.tradingview.com^
+||s.tradingview.com/mediumwidgetembed/$subdocument
 
 
