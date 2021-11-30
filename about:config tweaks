@@ -51,7 +51,6 @@ gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webren
 image.decode-immediately.enabled; true
 media.video_stats.enabled; false
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
-network.http.max-persistent-connections-per-server; 10
 network.http.speculative-parallel-limit; 0
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
 network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
