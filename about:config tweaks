@@ -1,7 +1,7 @@
 If "hidden preference" is noted, you must type in the parameter and select "Boolean" and click the "+" indicator to create the parameter.
 (listed in alphabetical order)
 
-accesibility.force_enabled; 1 (turns off accessiblity services; could break some sites that launch external tools)
+accessibility.force_disabled; 1 (turns off accessiblity services; could break some sites that launch external tools)
 app.normandy.enabled; false
 app.normandy.first_run; false
 app.shield.optoutstudies.enabled; false
@@ -28,7 +28,7 @@ browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and cl
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking/losing sensitive work)
 browser.tabs.tabMinWidth; 100
-browser.urlbar.formatting.enabled (hidden preference; removes grey font in url bar)
+browser.urlbar.formatting.enabled; true (hidden preference; removes grey font in url bar)
 browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
