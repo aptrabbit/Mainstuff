@@ -30,7 +30,6 @@ browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 device.sensors.enabled; false
-dom.animations.offscreen-throttling; false
 dom.battery.enabled; false
 dom.disable_open_during_load; false (disables popup blocker)
 dom.ipc.plugins.reportCrashURL; false
@@ -44,16 +43,12 @@ extensions.webextensions.restrictedDomains; ""
 geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
-gfx.downloadable_fonts.fallback_delay; 50
+gfx.downloadable_fonts.fallback_delay; 100
 gfx.downloadable_fonts.fallback_delay_short; 50
 gfx.font_loader.delay; 0
 gfx.offscreencanvas.enabled; true
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
 image.decode-immediately.enabled; true
-media.peerconnection.ice.default_address_only; true
-media.peerconnection.ice.no_host; true
-media.peerconnection.ice.proxy_only_if_behind_proxy; true
-media.peerconnection.identity.timeout; 1
 media.video_stats.enabled; false
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
 network.http.max-persistent-connections-per-server; 10
