@@ -61,7 +61,7 @@
     /* ALWAYS SHOW PAGE ACTIONS END */
 }
 /* REMOVE MEGABAR END */
-#urlbar-background{ border-color: silver !important; }
+#urlbar-background{ border-color: #d6d6d6 !important; }
 #context-back image,
 #context-forward image,
 #context-reload image,
@@ -83,3 +83,80 @@
 {
 	box-shadow: none !important;
 }
+@supports -moz-bool-pref("userchrome.menupopups.force-light"){
+  menupopup{
+    --menuitem-hover-background-color: #e0e0e6 !important;
+    --menu-background-color: #FFFFFF !important;
+    --menu-color: #15141a !important;
+    --menuitem-disabled-hover-background-color: rgba(224, 224, 230, 0.4) !important;
+    --menu-disabled-color: rgba(21, 20, 26, 0.4) !important;
+    --menu-border-color: #cfcfd8!important;
+    --menu-icon-opacity: 0.7 !important;
+  }
+/*** Proton Tabs Tweaks ***/
+
+/* Adjust tab corner shape, optionally remove space below tabs */
+
+#tabbrowser-tabs {
+    --user-tab-rounding: 6px;
+}
+
+.tab-background {
+    border-radius: var(--user-tab-rounding) var(--user-tab-rounding) 0px 0px !important;
+    margin-block: 1px 0 !important;
+}
+#scrollbutton-up, #scrollbutton-down { /* 6/10/2021 */
+    border-top-width: 1px !important;
+    border-bottom-width: 0 !important;
+}
+/* Container color bar visibility */
+.tabbrowser-tab[usercontextid] > .tab-stack > .tab-background > .tab-context-line {
+    margin: 0px max(calc(var(--user-tab-rounding) - 3px), 0px) !important;
+}
+menupopup > menuitem, menupopup > menu {
+  padding-block: 2px !important;
+}
+#appMenu-fxa-status2[fxastatus] > toolbarbutton::before,
+#appMenu-protonMainView > .panel-subview-body > toolbarbutton > image{
+  fill: currentColor;
+  -moz-context-properties: fill;
+  margin-inline: 0 8px !important;
+}
+#appMenu-new-tab-button2{ list-style-image: url("chrome://browser/skin/new-tab.svg") }
+#appMenu-new-window-button2{ list-style-image: url("chrome://browser/skin/window.svg") }
+#appMenu-new-private-window-button2{ list-style-image: url("chrome://browser/skin/privateBrowsing.svg") }
+#appMenu-bookmarks-button{ list-style-image: url("chrome://browser/skin/bookmark-star-on-tray.svg") }
+#appMenu-history-button{ list-style-image: url("chrome://browser/skin/history.svg") }
+#appMenu-downloads-button{ list-style-image: url("chrome://browser/skin/downloads/downloads.svg") }
+#appMenu-passwords-button{ list-style-image: url("chrome://browser/skin/login.svg") }
+#appMenu-extensions-themes-button{ list-style-image: url("chrome://mozapps/skin/extensions/extension.svg") }
+#appMenu-print-button2{ list-style-image: url("chrome://global/skin/icons/print.svg") }
+#appMenu-save-file-button2{ list-style-image: url("chrome://browser/skin/save.svg") }
+#appMenu-find-button2{ list-style-image: url("chrome://global/skin/icons/search-glass.svg") }
+#appMenu-settings-button{ list-style-image: url("chrome://global/skin/icons/settings.svg") }
+#appMenu-more-button2{ list-style-image: url("chrome://browser/skin/developer.svg") }
+#appMenu-help-button2{ list-style-image: url(chrome://global/skin/icons/info.svg) }
+#appMenu-quit-button2{ list-style-image: url(chrome://browser/skin/quit.svg) }
+
+/* Use account-button icon for signed in sync item */
+#appMenu-fxa-status2[fxastatus] > toolbarbutton::before{
+  display: -moz-box;
+  content: "";
+  width: 16px;
+  height: 16px;
+  background-image: var(--avatar-image-url)
+}
+/* Add somewhat hacky separator to zoom controls so it looks consistent */
+#appMenu-protonMainView > .panel-subview-body::after{
+  content: "";
+  display: -moz-box;
+  border-bottom: 1px solid var(--panel-separator-color);
+  margin: var(--panel-separator-margin);
+}
+
+#appMenu-find-button2 ~ *{
+  -moz-box-ordinal-group: 2;
+}
+#navigator-toolbox { border-color: #d9d9d9 !important;}
+#pageAction-urlbar-_testpilot-containers {display: none !important}
+#nav-bar{ --toolbar-field-focus-border-color: transparent !important; }
