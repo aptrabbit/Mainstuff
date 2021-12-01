@@ -60,8 +60,8 @@ network.predictor.enabled; false (uBlock Origin setting: "Disable pre-fetching (
 network.prefetch-next; false (uBlock Origin setting: "Disable pre-fetching (to prevent any connection for blocked network requests)")
 network.protocol-handler.external.mailto; false (Removes annoying "mailto" notification when using a mail application on the web)
 network.trr.confirmation_telemetry_enabled; false
-nglayout.initialpaint.delay; 0
-nglayout.initialpaint.delay_in_oopif; 0
+nglayout.initialpaint.delay; 2
+nglayout.initialpaint.delay_in_oopif; 2
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
 reader.parse-on-load.enabled; false (depends on user; setting this to false disables "reader mode")
 security.app_menu.recordEventTelemetry; false
