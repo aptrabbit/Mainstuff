@@ -71,7 +71,7 @@ security.identitypopup.recordEventTelemetry; false
 security.protectionspopup.recordEventTelemetry; false
 security.dialog_enable_delay; 0
 toolkit.coverage.endpoint.base; ""
-toolkit.coverage.opt-out; true
+toolkit.coverage.opt-out; true (hidden)
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
 toolkit.telemetry.enabled; false (locked preference)
 toolkit.telemetry.archive.enabled; false
