@@ -18,8 +18,10 @@ browser.overlink-delay; 20
 browser.ping-centre.telemetry; false
 browser.send_pings.require_same_host; true
 browser.sessionstore.interval; 60000
+browser.startup.preXulSkeletonUI; false
 browser.shell.checkDefaultBrowser; false
 browser.startup.blankWindow; false
+browser.startup.upgradeDialog.enabled; false
 browser.tabs.closeWindowWithLastTab; false (if you have only one tab open and clinck then exit button on the tab rectangle, Firefox won't close)
 browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking/losing sensitive work)
