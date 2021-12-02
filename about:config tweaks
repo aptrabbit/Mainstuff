@@ -42,6 +42,7 @@ extensions.webextensions.restrictedDomains; ""
 full-screen-api.transition-duration.enter; "0 0"
 full-screen-api.transition-duration.leave "0 0"
 full-screen-api.warning.delay; -1
+full-screen-api.warning.timeout; 0
 geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
