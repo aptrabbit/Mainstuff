@@ -39,6 +39,9 @@ dom.webnotifications.enabled; false (depends on user; setting to false will bloc
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in Microsoft Edge; this uses extra CPU power)
 extensions.webextensions.restrictedDomains; ""
+full-screen-api.transition-duration.enter; "0 0"
+full-screen-api.transition-duration.leave "0 0"
+full-screen-api.warning.delay; -1
 geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
