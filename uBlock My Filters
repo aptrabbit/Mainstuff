@@ -2,6 +2,7 @@ My personal list for garbage I encounter on the web grabbed by using uBlock Orig
 90% + are safe rules that should not break anything, but there are a few domains on here that I don't need that you may.
 Whitelist as needed and use at your own risk.
 
+
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
