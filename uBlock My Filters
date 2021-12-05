@@ -1,7 +1,6 @@
 My personal list for garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. 
 90% + are safe rules that should not break anything, but there are a few domains on here that I don't need that you may.
 Whitelist as needed and use at your own risk.
-
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -365,8 +364,6 @@ blockonomi.com##.cf.share-float-a.post-share-float
 rvn.2miners.com##.btn-support
 rvn.2miners.com##.banner
 www.mayoclinic.org##.warning.globalnotice
-||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
-www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 miningpoolstats.stream###mainpage_right [href] > .lozad
 miningpoolstats.stream###links_panel > div.box-comment.box > .table-condensed.table > tbody > tr > td > div
 hunter.io###support-notification
@@ -913,15 +910,6 @@ www.independent.co.uk##div.jUAgro.sc-eiBcMB
 www.independent.co.uk##.iQqWaS.sc-jeURIA
 conversations.indy100.com##.bottom-strip
 ||gadget.pico.tools^
-www.fool.com###topnav-picks
-www.fool.com##.alert-info.page-alert
-www.fool.com###market_performance
-www.fool.com##.special-message
-www.fool.com###best-next-section
-www.fool.com###services-section
-www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
-www.fool.com##.art__pitch
-www.fool.com###hp-sa-splash
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
@@ -1052,3 +1040,21 @@ web.archive.org###donato
 u.today##.something
 www.google.com##.rLrQHf
 ||dashboard.tinypass.com^
+||xewarycy.xyz^
+||api.xewarycy.xyz^
+||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
+www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
+www.twitch.tv###twilight-sticky-footer-root
+www.fool.com###topnav-picks
+www.fool.com##.alert-info.page-alert
+www.fool.com###market_performance
+www.fool.com##.special-message
+www.fool.com###best-next-section
+www.fool.com###services-section
+www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
+www.fool.com##.art__pitch
+www.fool.com###hp-sa-splash
+www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.sm\:mt-36px.mt-16px.article-redesign-cta-banner.shadow-md.border
+www.fool.com###invest-smarter-sidebar-wrapper
+www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
+www.fool.com###sa-returns-sidebar-wrapper
