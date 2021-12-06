@@ -28,7 +28,6 @@ browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 device.sensors.enabled; false
-dom.animations.offscreen-throttling; false
 dom.battery.enabled; false
 dom.disable_open_during_load; false (disables popup blocker)
 dom.ipc.plugins.reportCrashURL; false
@@ -50,7 +49,6 @@ geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key
 gfx.downloadable_fonts.fallback_delay; 100
 gfx.downloadable_fonts.fallback_delay_short; 50
 gfx.font_loader.delay; 0
-gfx.offscreencanvas.enabled; true
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
 image.decode-immediately.enabled; true
 media.autoplay.default; 5
