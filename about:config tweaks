@@ -36,6 +36,7 @@ dom.security.unexpected_system_load_telemetry_enabled; false
 dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 dom.webnotifications.enabled; false (depends on user; setting to false will block all web notifications and save some CPU)
 extensions.getAddons.showPane; false (hidden preference, removes "recommended" extensions pane on about:addons)
+extensions.htmlaboutaddons.recommendations.enabled; false
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in Microsoft Edge; this uses extra CPU power)
 extensions.webextensions.restrictedDomains; ""
 fission.autostart; true
