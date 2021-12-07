@@ -1,6 +1,7 @@
 My personal list for garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. 
 90% + are safe rules that should not break anything, but there are a few domains on here that I don't need that you may.
 Whitelist as needed and use at your own risk.
+
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -65,9 +66,6 @@ gw.geneanet.org###subscribe-incite-modal
 www.fix.com##.modal-body
 www.fix.com##.in.fade.modal-backdrop
 connect.recsports.vt.edu###gdpr-cookie-message
-www.motor1.com##.widget-wrapper
-www.motor1.com##.msrp-stripe
-www.motor1.com##.msrp-body
 www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
 ||analytics.trinikid.com^
 www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
@@ -198,7 +196,6 @@ fulltip.net##.penci-wrap-gprd-law
 www.privacyend.com##.widget_media_image.inner-padding.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
 stackshare.io##.css-17kwd5z
 myanimelist.net##.banner-header-anime-straming
-celo.org##.r-13qz1uu.r-1xcajam.r-1pcd2l5.r-1hsi953.r-1777fci.r-6koalj.r-1p0dtai.r-ltq0in.r-1awozwy.css-1dbjc4n
 neilpatel.com###bottom-box
 www.thewindowsclub.com##[href^="http://www.restoro.com/includes/route.php"]
 www.crunchyroll.com###showmedia_free_trial_signup
@@ -541,8 +538,6 @@ app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
 www.chegg.com##.SsZyJ.CallToAction__CTAWrapper-ieaghs-3
 starwars.fandom.com###WikiaBar
-www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
-www.bloomberg.com##.leaderboard-container
 ||static.ada.support^
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
@@ -781,10 +776,6 @@ u.today##.promoted__mark
 reelrundown.com##.mm-detail-header--image-size-full-bleed.m-detail-header
 www.forbes.com##.ad-rail
 www.forbes.com##.ng-scope.rtb-top-wrapper
-bitcoinist.com##.text-banner
-bitcoinist.com##.play-games
-bitcoinist.com##.header__sponsored-logo
-bitcoinist.com##.svecc-header-price
 ||nyyuhifa.xyz^
 issueexplorer.com##.con-carbon-noti
 www.bizjournals.com##.u-flex-justify-start.secondary\@lg
@@ -1021,6 +1012,9 @@ www.producthunt.com##.style_mb-5__1YdhG.style_py-5__P_IRO.style_flex-row-gap-4__
 tech-latest.com###cookie-notice
 tech-latest.com##.td-post-title > .entry-title
 tech-latest.com###lates-177212927
+www.motor1.com##.widget-wrapper
+www.motor1.com##.msrp-stripe
+www.motor1.com##.msrp-body
 www.motor1.com##.top-banner-placeholder.m1-header-ad
 ||cpkshop.com^
 petri.com##.contentHighlight
@@ -1062,3 +1056,18 @@ www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY > div
 healthfully.com##.sticky.video-player-wrapper
 ||videocdn.studiod.cc^
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
+tzkt.io##.text--secondary.text-sm-body-2.text-subtitle-3
+celo.org##.r-13qz1uu.r-1xcajam.r-1pcd2l5.r-1hsi953.r-1777fci.r-6koalj.r-1p0dtai.r-ltq0in.r-1awozwy.css-1dbjc4n
+celo.org##.css-1a9sb48
+www.streetinsider.com###top_text_ad
+www.streetinsider.com###ad_space
+www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
+www.bloomberg.com##.leaderboard-container
+www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
+bitcoinist.com##.text-banner
+bitcoinist.com##.play-games
+bitcoinist.com##.header__sponsored-logo
+bitcoinist.com##.svecc-header-price
+bitcoinist.com##[href="https://bitcoinist.com/trade/"]
+bitcoinist.com##[href="https://bs.direct/bee3846d1"]
+bitcoinist.com##[href^="https://www.trkbt.com/"]
