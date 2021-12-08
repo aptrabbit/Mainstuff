@@ -185,7 +185,6 @@ www.theguardian.com###sp_message_container_414202
 invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0.mb-4.p-4.relative.inv-sidebar-widget
 invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
-uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
 cryptojobslist.com##._1Oy_ehtA_ibqvuiauHvH6P
 support.microsoft.com###supWrapperToPreventFeedbackFlickering
 www.perlego.com##.eMbzNt.sc-hqGPoI
@@ -800,7 +799,6 @@ www.amazon.com##.s-widget-padding-bottom
 www.amazon.com###huc-first-upsell-row
 www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
 www.amazon.com##div.s-widget-spacing-large.s-widget
-www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
 ||events-collector.spot.im^
 www.artfultea.com##.visible.sqs-popup-overlay
 account.protonmail.com##.topnav-link--blackfriday.relative
@@ -1071,3 +1069,8 @@ bitcoinist.com##[href^="https://www.trkbt.com/"]
 www.cnbc.com##.pro-feedback-fixed
 www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
 cnbc.com#@#.SocialShare-socialShare
+www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
+support.kraken.com##.kraken-cookies-warning-wrapper
+uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
+uphold.com##.eTbgNl.sc-21f56367-2
+||cdn-cookieyes.com^
