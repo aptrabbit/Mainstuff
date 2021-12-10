@@ -1063,9 +1063,6 @@ bitcoinist.com##.svecc-header-price
 bitcoinist.com##[href="https://bitcoinist.com/trade/"]
 bitcoinist.com##[href="https://bs.direct/bee3846d1"]
 bitcoinist.com##[href^="https://www.trkbt.com/"]
-www.cnbc.com##.pro-feedback-fixed
-www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
-cnbc.com#@#.SocialShare-socialShare
 www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
 support.kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
@@ -1076,3 +1073,8 @@ www.bestbuy.com##.shop-blue-assist
 www.bestbuy.com##.shop-search-survey
 www.bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
 www.bestbuy.com##.ninja-carousel
+||home-c36.nice-incontact.com^
+www.cnbc.com##.pro-feedback-fixed
+www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
+cnbc.com#@#.SocialShare-socialShare
+www.cnbc.com##.ProHub-outerContainer
