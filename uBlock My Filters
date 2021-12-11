@@ -112,8 +112,6 @@ www.masculinedevelopment.com##.right.sAs
 www.realclearpolitics.com##.fark-header
 www.mediafire.com##.CookieAcceptance
 news.gallup.com##.gcb_35556
-www.nerdwallet.com##p > div
-www.nerdwallet.com##p > ._2dyIi
 cosmos.network##.banner-wrapper
 www.accuweather.com##.privacy-policy-banner
 www.niche.com##.scatterplot__logged-out-messages
@@ -701,7 +699,6 @@ www.terro.com##.center
 www.terro.com##.right.ws-spr
 www.terro.com##.widget-product-grid.product-items
 www.terro.com##h2:nth-of-type(2)
-www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
 ||static.whisbi.com^
 ||bicugesi.xyz^
 www.originpc.com##.show.fade.modal-backdrop
@@ -1078,3 +1075,12 @@ www.cnbc.com##.pro-feedback-fixed
 www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
 cnbc.com#@#.SocialShare-socialShare
 www.cnbc.com##.ProHub-outerContainer
+www.nerdwallet.com##p > div
+www.nerdwallet.com##p > ._2dyIi
+www.nerdwallet.com##div.FTDQoV:nth-of-type(29)
+west-games.com#@##cookie-law-info-bar
+||media.evolv.ai^
+||cdn.schemaapp.com^
+||solutions.invocacdn.com^
+www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
+secure.verizon.com###divhomebot
