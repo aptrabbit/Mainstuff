@@ -186,7 +186,6 @@ www.view.atdmt.com
 www.watson.live.com
 www.watson.ppe.telemetry.microsoft.com
 www.wes.df.telemetry.microsoft.com
-geo.prod.do.dsp.mp.microsoft.com
 sb.scorecardresearch.com
 incoming.telemetry.mozilla.org
 telemetry.malwarebytes.com
@@ -226,3 +225,9 @@ geolocation.onetrust.com
 arc.msn.com
 events.gfe.nvidia.com
 nexusrules.officeapps.live.com
+www.mozorg.moz.works
+ad-delivery.net
+pixel.quantserve.com
+global.px.quantserve.com
+vitals.vercel-insights.com
+smetrics.discover.com
