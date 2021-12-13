@@ -708,11 +708,6 @@ okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
 financefeeds.com###aside
 www.wsls.com##.top-wide.fdhXUI.sc-bdVaJa
 www.wsls.com##.hxaReX.dist__StackBase-sc-1fnzlkn-6.sc-bdVaJa
-www.publish0x.com##div.post.row:nth-of-type(9)
-www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
-www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
-www.publish0x.com###registerPopup
-||himateca.xyz^
 freebitco.in###bottom_user_ads_container
 freebitco.in###premium_membership_msg
 freebitco.in##.premium_buy_more_tokens
@@ -1112,3 +1107,11 @@ https://seekingalpha.com/samw/static/js/c.rollBarEntry-W.9937a8c4.js
 www.merriam-webster.com##.cafemedia-ad-slot-top
 www.merriam-webster.com###subscribe-unabridged
 ezil.me##.ex4y4l56.css-zjlttn
+||himateca.xyz^
+||faluhupo.xyz^
+||www.publish0x.com/images/nexo/borrow-now-button.svg$image
+www.publish0x.com##div.post.row:nth-of-type(9)
+www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
+www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
+www.publish0x.com###registerPopup
+www.publish0x.com##.text-center.pb-2.offset-lg-2.col-lg-8
