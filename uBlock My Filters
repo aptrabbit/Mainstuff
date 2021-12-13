@@ -1109,3 +1109,6 @@ seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 https://seekingalpha.com/samw/static/js/c.rollBarEntry-W.9937a8c4.js
+www.merriam-webster.com##.cafemedia-ad-slot-top
+www.merriam-webster.com###subscribe-unabridged
+ezil.me##.ex4y4l56.css-zjlttn
