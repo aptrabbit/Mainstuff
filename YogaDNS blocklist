@@ -4,6 +4,7 @@ name configuration "blacklist"
 Resolve host names as 0.0.0.0
 Copy list into "hostnames:" 
 
+file://pihole
 a.ads1.msn.com
 a.ads2.msads.net
 a.ads2.msn.com
@@ -186,19 +187,11 @@ www.view.atdmt.com
 www.watson.live.com
 www.watson.ppe.telemetry.microsoft.com
 www.wes.df.telemetry.microsoft.com
-sb.scorecardresearch.com
 incoming.telemetry.mozilla.org
-telemetry.malwarebytes.com
-googletagmanager.com
-www.googletagmanager.com
 logx.optimizely.com
-google-analytics.com
-www.google-analytics.com
 firebaseinstallations.googleapis.com
-nexus.ensighten.com
 collections.md.mp.microsoft.com
 segment-data.zqtk.net
-s7.addthis.com
 tag.vlitag.com
 g.ezoic.net
 go.ezoic.net
@@ -207,14 +200,7 @@ sdk.mediamelon.com
 analytics.service.cryptowat.ch
 graph.facebook.com
 ssl.google-analytics.com
-googleads.g.doubleclick.net
-stats.g.doubleclick.net
-partnerad.l.doubleclick.net
-l.evidon.com
 privacycollector-prod-evidon-1122372851.us-east-1.elb.amazonaws.com
-securepubads.g.doubleclick.net
-www.googletagservices.com
-c.amazon-adsystem.com
 forcesafesearch.google.com
 restrict.youtube.com
 restrictmoderate.youtube.com
@@ -226,10 +212,5 @@ arc.msn.com
 events.gfe.nvidia.com
 nexusrules.officeapps.live.com
 www.mozorg.moz.works
-ad-delivery.net
-pixel.quantserve.com
-global.px.quantserve.com
-vitals.vercel-insights.com
-smetrics.discover.com
-servedbyadbutler.com
-app-lon03.marketo.com 
+js.monitor.azure.com
+
