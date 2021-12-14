@@ -1,9 +1,3 @@
-YogaDNS blocklist for windows telemetry, basic telemetry used by various programs and some ads
-name configuration "blacklist"
-"Action: Block"
-Resolve host names as 0.0.0.0
-Copy list into "hostnames:" 
-
 file://pihole
 a.ads1.msn.com
 a.ads2.msads.net
