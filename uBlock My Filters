@@ -1090,6 +1090,17 @@ cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
 cointelegraph.com##div.sidebar__widget:nth-of-type(2)
 cointelegraph.com##.sidebar__promo-button
 cointelegraph.com##.article-subscription-widget
+www.merriam-webster.com##.cafemedia-ad-slot-top
+www.merriam-webster.com###subscribe-unabridged
+ezil.me##.ex4y4l56.css-zjlttn
+||himateca.xyz^
+||faluhupo.xyz^
+||www.publish0x.com/images/nexo/borrow-now-button.svg$image
+www.publish0x.com##div.post.row:nth-of-type(9)
+www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
+www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
+www.publish0x.com###registerPopup
+www.publish0x.com##.text-center.pb-2.offset-lg-2.col-lg-8
 ||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
 seekingalpha.com##.banner-image
 seekingalpha.com###paywall_dynamic_ticker
@@ -1103,15 +1114,4 @@ seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
-https://seekingalpha.com/samw/static/js/c.rollBarEntry-W.9937a8c4.js
-www.merriam-webster.com##.cafemedia-ad-slot-top
-www.merriam-webster.com###subscribe-unabridged
-ezil.me##.ex4y4l56.css-zjlttn
-||himateca.xyz^
-||faluhupo.xyz^
-||www.publish0x.com/images/nexo/borrow-now-button.svg$image
-www.publish0x.com##div.post.row:nth-of-type(9)
-www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
-www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
-www.publish0x.com###registerPopup
-www.publish0x.com##.text-center.pb-2.offset-lg-2.col-lg-8
+seekingalpha.com##.pjA
