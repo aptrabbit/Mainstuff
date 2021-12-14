@@ -187,14 +187,8 @@ www.view.atdmt.com
 www.watson.live.com
 www.watson.ppe.telemetry.microsoft.com
 www.wes.df.telemetry.microsoft.com
-incoming.telemetry.mozilla.org
-logx.optimizely.com
 firebaseinstallations.googleapis.com
 collections.md.mp.microsoft.com
-segment-data.zqtk.net
-tag.vlitag.com
-g.ezoic.net
-go.ezoic.net
 tracker.123tv.live
 sdk.mediamelon.com
 analytics.service.cryptowat.ch
@@ -210,6 +204,6 @@ cdn.taggbox.com
 geolocation.onetrust.com
 arc.msn.com
 events.gfe.nvidia.com
-nexusrules.officeapps.live.com
 www.mozorg.moz.works
 js.monitor.azure.com
+push.services.mozilla.com
