@@ -312,8 +312,6 @@ manofmany.com##.header_banner_wrap
 manofmany.com##div.incontent-ad-banner.middle-banner
 manofmany.com##.single-post.banners
 adguard.com##.flash-wrapper--en.flash-wrapper
-pro.coinbase.com##.hdzUHW.sc-fzoXWK
-www.coinbase.com##.ismrKK.sc-fzoLsD
 hostadvice.com##.banner-popup
 www.g2.com##aside.product-listing--banner.product-listing--competitor
 editor.zyro.com##.nps
@@ -1081,15 +1079,6 @@ secure.verizon.com###divhomebot
 ||lightboxcdn.com^$third-party
 /coil-web-monetization/*
 ||taboola.com^$third-party
-cointelegraph.com##.price-indexes-widget
-cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
-cointelegraph.com###vue-footer
-cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
-cointelegraph.com##.post__content-shares
-cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
-cointelegraph.com##div.sidebar__widget:nth-of-type(2)
-cointelegraph.com##.sidebar__promo-button
-cointelegraph.com##.article-subscription-widget
 www.merriam-webster.com##.cafemedia-ad-slot-top
 www.merriam-webster.com###subscribe-unabridged
 ezil.me##.ex4y4l56.css-zjlttn
@@ -1115,3 +1104,15 @@ seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 seekingalpha.com##.pjA
+defipulse.com##.ad-svg
+cointelegraph.com##.price-indexes-widget
+cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
+cointelegraph.com###vue-footer
+cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
+cointelegraph.com##.post__content-shares
+cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
+cointelegraph.com##div.sidebar__widget:nth-of-type(2)
+cointelegraph.com##.sidebar__promo-button
+cointelegraph.com##.article-subscription-widget
+https://cointelegraph.com/adsense/ads.js
+||zoa.cointelegraph.com^
