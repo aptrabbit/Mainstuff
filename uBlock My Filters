@@ -2,6 +2,10 @@ My personal list for garbage I encounter on the web grabbed by using uBlock Orig
 90% + are safe rules that should not break anything, but there are a some domains on here that I block (like chat bots and buy now pay later domains) that you may not want to block.
 Whitelist as needed and use at your own risk.
 
+|My personal list for garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. 
+90% + are safe rules that should not break anything, but there are a some domains on here that I block (like chat bots and buy now pay later domains) that you may not want to block.
+Whitelist as needed and use at your own risk.
+
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -435,8 +439,6 @@ www.ratemyprofessors.com##.reveal-modal-bg
 www.ratemyprofessors.com##.hidden.ccpa-footer.ccpa-modal
 www.ratemyprofessors.com##div.dQpRnT.FullPageModal__StyledFullPageModal-sc-1tziext-1:nth-of-type(5)
 www.ratemyprofessors.com##.ldUQse.HeaderLeaderboard__StyledHeaderLeaderboard-nduhbl-0
-crypto.com##.top-banner-module--wrapper--dTrdt
-crypto.com##.ekkiox40.css-5383u1
 2cryptocalc.com##.static
 www.fastcompany.com##.w56438
 www.ngpf.org###site-use-footerm
@@ -927,7 +929,6 @@ www.lmaxdigital.com###lmax-cookie-bar
 ||block.lmaxdigital.io^
 ||min-api.cryptocompare.com^
 www.lawinsider.com##.padding-1.light-blue-bordered-card
-||price-api.crypto.com^
 www.coindesk.com##.long-form.has-media.article-body > .newsletter-module-wrapper
 www.coindesk.com##.newsletter-module-wrapper
 www.coindesk.com##.false.article-com-wrapper
@@ -1118,3 +1119,4 @@ https://cointelegraph.com/adsense/ads.js
 ||zoa.cointelegraph.com^
 ||app.secureprivacy.ai^
 ||acsbapp.com^
+crypto.com##.swiper-container-pointer-events
