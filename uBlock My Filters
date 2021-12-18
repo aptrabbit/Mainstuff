@@ -2,10 +2,6 @@ My personal list for garbage I encounter on the web grabbed by using uBlock Orig
 90% + are safe rules that should not break anything, but there are a some domains on here that I block (like chat bots and buy now pay later domains) that you may not want to block.
 Whitelist as needed and use at your own risk.
 
-|My personal list for garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. 
-90% + are safe rules that should not break anything, but there are a some domains on here that I block (like chat bots and buy now pay later domains) that you may not want to block.
-Whitelist as needed and use at your own risk.
-
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -636,14 +632,6 @@ cryptobriefing.com##.extra.sidebar-info
 cryptobriefing.com#@#.newsletter-modal
 cryptobriefing.com##.ub-emb-container
 cryptobriefing.com##.ai-rotate
-coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.empty.email-signup
-coinmarketcap.com##.kCVvHP.xahu3l-2
-coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
-coinmarketcap.com##.bKmQGi.sc-16r8icm-0
-coinmarketcap.com##.buyAdButtonSection
-coinmarketcap.com##.carousel-items-wrapper
-coinmarketcap.com##.ivGjzC.mhbkgs-0
 ||quotefancy.com/frontend/img/studio/promo/quotefancy_studio_*0_optim.jpg$image
 www.suzuki.com###cookieAck
 www.cinemablend.com##.mobile-leaderboard-320-50
@@ -1120,3 +1108,14 @@ https://cointelegraph.com/adsense/ads.js
 ||app.secureprivacy.ai^
 ||acsbapp.com^
 crypto.com##.swiper-container-pointer-events
+convertio.co##.rate-us
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.empty.email-signup
+coinmarketcap.com##.kCVvHP.xahu3l-2
+coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
+coinmarketcap.com##.bKmQGi.sc-16r8icm-0
+coinmarketcap.com##.buyAdButtonSection
+coinmarketcap.com##.carousel-items-wrapper
+coinmarketcap.com##.ivGjzC.mhbkgs-0
+coinmarketcap.com##.jgmyvX.t4voxl-0
+||entitlements.jwplayer.com^
