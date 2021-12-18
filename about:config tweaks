@@ -31,6 +31,8 @@ device.sensors.enabled; false
 dom.battery.enabled; false
 dom.disable_open_during_load; false (disables popup blocker)
 dom.ipc.plugins.reportCrashURL; false
+dom.push.enabled; false
+dom.push.serverURL; ""
 dom.security.https_only_mode_send_http_background_request; false
 dom.security.unexpected_system_load_telemetry_enabled; false
 dom.serviceWorkers.enabled; false (will cause site breakage, I personally have no use for them, however, service workers are used extensively for web notifications and other functionality, for more info, see https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
