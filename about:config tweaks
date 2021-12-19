@@ -9,7 +9,6 @@ beacon.enabled; false
 browser.display.show_image_placeholders; false
 browser.meta_refresh_when_inactive.disabled; true
 browser.overlink-delay; 50
-browser.send_pings.require_same_host; true
 browser.sessionstore.interval; 60000
 browser.startup.preXulSkeletonUI; false
 browser.shell.checkDefaultBrowser; false
@@ -35,7 +34,6 @@ extensions.getAddons.showPane; false (hidden preference, removes "recommended" e
 extensions.htmlaboutaddons.recommendations.enabled; false
 extensions.pocket.enabled; false (pocket is equivalent to "MSN" in Microsoft Edge; this uses extra CPU power)
 extensions.webextensions.restrictedDomains; ""
-fission.autostart; true
 full-screen-api.transition-duration.enter; "0 0"
 full-screen-api.transition-duration.leave "0 0"
 full-screen-api.warning.delay; -1
