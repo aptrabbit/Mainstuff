@@ -6,7 +6,6 @@ app.normandy.enabled; false
 app.normandy.first_run; false
 app.shield.optoutstudies.enabled; false
 beacon.enabled; false
-browser.display.show_image_placeholders; false
 browser.meta_refresh_when_inactive.disabled; true
 browser.overlink-delay; 50
 browser.sessionstore.interval; 60000
@@ -24,7 +23,6 @@ datareporting.healthreport.uploadEnabled; false
 datareporting.policy.dataSubmissionEnabled; false
 device.sensors.enabled; false
 dom.battery.enabled; false
-dom.disable_open_during_load; false (disables popup blocker)
 dom.ipc.plugins.reportCrashURL; false
 dom.push.enabled; false
 dom.security.https_only_mode_send_http_background_request; false
@@ -56,7 +54,6 @@ network.protocol-handler.external.mailto; false (Removes annoying "mailto" notif
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
 reader.parse-on-load.enabled; false (depends on user; setting this to false disables "reader mode")
 security.dialog_enable_delay; 0
-toolkit.coverage.endpoint.base; ""
 toolkit.coverage.opt-out; true (hidden)
 toolkit.legacyUserProfileCustomizations.stylesheets; true (must enable if you want to use CSS to customize Firefox, see https://www.userchrome.org/)
 toolkit.telemetry.coverage.opt-out; true (hidden preference)
