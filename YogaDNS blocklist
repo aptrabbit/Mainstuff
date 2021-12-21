@@ -184,6 +184,7 @@ www.wes.df.telemetry.microsoft.com
 firebaseinstallations.googleapis.com
 collections.md.mp.microsoft.com
 tracker.123tv.live
+sdk.mediamelon.com
 analytics.service.cryptowat.ch
 graph.facebook.com
 ssl.google-analytics.com
@@ -195,10 +196,16 @@ widget.taggbox.com
 api.taggbox.com
 cdn.taggbox.com
 geolocation.onetrust.com
-arc.msn.com
 events.gfe.nvidia.com
 www.mozorg.moz.works
 js.monitor.azure.com
-push.services.mozilla.com
 sdk.mediamelon.com
 sdk.mediamelon.comd
+cdn.sprig.com
+trlocationmanager.azurewebsites.net
+apps.elfsight.com
+storage.elfsight.com
+wchat.freshchat.com
+assetscdn-wchat.freshchat.com
+cdn.cookielaw.org
+arc.msn.com
