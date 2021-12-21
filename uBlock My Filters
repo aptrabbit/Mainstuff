@@ -988,19 +988,6 @@ www.google.com##.rLrQHf
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
 www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 www.twitch.tv###twilight-sticky-footer-root
-www.fool.com###topnav-picks
-www.fool.com##.alert-info.page-alert
-www.fool.com###market_performance
-www.fool.com##.special-message
-www.fool.com###best-next-section
-www.fool.com###services-section
-www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
-www.fool.com##.art__pitch
-www.fool.com###hp-sa-splash
-www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.sm\:mt-36px.mt-16px.article-redesign-cta-banner.shadow-md.border
-www.fool.com###invest-smarter-sidebar-wrapper
-www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
-www.fool.com###sa-returns-sidebar-wrapper
 www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY > div
 healthfully.com##.sticky.video-player-wrapper
 ||videocdn.studiod.cc^
@@ -1079,20 +1066,6 @@ www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
 www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
 www.publish0x.com###registerPopup
 www.publish0x.com##.text-center.pb-2.offset-lg-2.col-lg-8
-||static.seekingalpha.com/images/widgets/paywall/mc_paywall.svg$image
-seekingalpha.com##.banner-image
-seekingalpha.com###paywall_dynamic_ticker
-seekingalpha.com###px-captcha-wrapper
-seekingalpha.com###news-left-slot-1
-seekingalpha.com###article-left-slot-2
-seekingalpha.com##.in.fade.modal-backdrop
-seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com##[data-test-id="ad-slot-list"]
-seekingalpha.com###krux-container
-seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
-seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
-seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
-seekingalpha.com##.pjA
 defipulse.com##.ad-svg
 cointelegraph.com##.price-indexes-widget
 cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
@@ -1119,3 +1092,34 @@ coinmarketcap.com##.carousel-items-wrapper
 coinmarketcap.com##.ivGjzC.mhbkgs-0
 coinmarketcap.com##.jgmyvX.t4voxl-0
 ||entitlements.jwplayer.com^
+getpublii.com##.promo
+www.fool.com###topnav-picks
+www.fool.com##.alert-info.page-alert
+www.fool.com###market_performance
+www.fool.com##.special-message
+www.fool.com###best-next-section
+www.fool.com###services-section
+www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
+www.fool.com##.art__pitch
+www.fool.com###hp-sa-splash
+www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.sm\:mt-36px.mt-16px.article-redesign-cta-banner.shadow-md.border
+www.fool.com###invest-smarter-sidebar-wrapper
+www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
+www.fool.com###sa-returns-sidebar-wrapper
+www.fool.com##.py-3
+docs.amptoken.org###portals-root
+seekingalpha.com##.banner-image
+seekingalpha.com###paywall_dynamic_ticker
+seekingalpha.com###px-captcha-wrapper
+seekingalpha.com###news-left-slot-1
+seekingalpha.com###article-left-slot-2
+seekingalpha.com##.in.fade.modal-backdrop
+seekingalpha.com##section[data-test-id="recommended-section"]
+seekingalpha.com##[data-test-id="ad-slot-list"]
+seekingalpha.com###krux-container
+seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
+seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
+seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
+||collector-pxxgcxm9by.cl6.px-cloud.net^
+||static.seekingalpha.com/uploads/202*_sa_connec*$image
+||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
