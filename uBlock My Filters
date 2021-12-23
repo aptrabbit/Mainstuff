@@ -587,39 +587,6 @@ www.stakingrewards.com##.asset_asset-links__UIoL4.assetHeader_asset-links__2FSQV
 cryptonews.com##.cookieConsentWrapper
 cryptonews.com##.mb-40.d-lg-block.d-none.dslot
 cryptonews.com###widget_container
-google.*##div[id^="eob"]
-www.google.com##.KGl2dd.fl
-www.google.com##.xtBRad
-www.google.com##.Zes0Mc
-www.google.com##.pWCvWb
-www.google.com##.dobdf.nPDigc
-www.google.com##.z2QsLb.VjDLd
-www.google.com##div.J3Tg1d.PNCib.isv-r
-www.google.com##.LEKZTd
-www.google.com##.vcsi.l8pIW.a5mgdf
-www.google.com##.InNVqc
-www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
-www.google.com##.f0FBcf
-www.google.com###brs
-www.google.com###bres
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
-www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
-www.google.com##.hI5uQc.VjDLd
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-www.google.com##.gVqDn
-www.google.com##.SfSHIf
-www.google.com###w3bYAd
-www.google.com##.g4peUd.V88cHc.ynRric
-www.google.com##li.sbre.ZCOBRd
-www.google.com##.MjfBXe.VjDLd
-www.google.com##.cUnQKe.AuVD
-www.google.com##.kno-ftr.rpBMYb
-www.google.com##.YfftMc
-www.google.com##li.sbre.IDVnvc
-www.google.com##.K2P9Ob.V88cHc.ynRric
-www.google.com##.PnU5cd.fwsf4b.fHIdc
-www.google.com##.vcsi.a5mgdf
-www.google.com##div.cLjAic.TzHB6b > .sATSHe > .wp-ms.gsrt.JNkvid
 imgur.com##.masthead.BannerTop3
 ||aptrinsic.com^
 www.docsity.com##.dsy-advertising
@@ -707,9 +674,6 @@ freebitco.in##.deposit_promo_message_content
 freebitco.in##.daily_jackpot_main_container_div
 www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.welcome-popup
 www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.exit-intent-popup
-www.cryptodaily.co.uk##.leaderboard-top-ad.row
-www.cryptodaily.co.uk##.fixed-sidebar-ad
-www.cryptodaily.co.uk##.ad-bottom-spacing
 money.usnews.com###bfad-slot
 notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
 account.microsoft.com###feedback-button
@@ -758,8 +722,6 @@ www.bizjournals.com##.u-flex-justify-start.secondary\@lg
 forkast.news##div.spaced-group
 forkast.news##.alert-bar
 @@||dcf.espn.com^
-||apps.elfsight.com^
-||app.helphero.co^
 www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
 www.cnn.com##.el-entitlement-.el-entitlement
 ||steadfastseat.com^
@@ -795,15 +757,6 @@ decrypt.co##.gJejSD.iTqRUR.sc-15vdjcx-1.sc-1lyao0r-0 > .unreset
 decrypt.co##.fqsKrT.sc-gzqtco-0
 ipsoa.it##+js(ra, style, div.paywall)
 ||printoperatelanguage.top^
-www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
-www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
-www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
-www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
-www.tipranks.com##.client-components-experts-sideBar-side__newletter
-www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex
-www.tipranks.com##.hideOnpremium
-www.tipranks.com##.h_px9.positionrelative.hoverCursorpointer
-www.tipranks.com##div.mobile_w12.mobile_pl0.mobile_pr0.ipad_pl2.pl4.mb7.z0.minHmedium.displayflex.w6.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo:nth-of-type(5)
 www.newsbtc.com##.widget_svecc_reviews.widget
 www.newsbtc.com##.widget_media_image.left.premium-partner.widget
 www.newsbtc.com##.widget_media_image.right.premium-partner.widget
@@ -982,6 +935,39 @@ www.vox.com###toaster
 ||archive.org/includes/donate.php$subdocument
 web.archive.org###donato
 u.today##.something
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+google.*##div[id^="eob"]
+www.google.com##.KGl2dd.fl
+www.google.com##.xtBRad
+www.google.com##.Zes0Mc
+www.google.com##.pWCvWb
+www.google.com##.dobdf.nPDigc
+www.google.com##.z2QsLb.VjDLd
+www.google.com##div.J3Tg1d.PNCib.isv-r
+www.google.com##.LEKZTd
+www.google.com##.vcsi.l8pIW.a5mgdf
+www.google.com##.InNVqc
+www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
+www.google.com##.f0FBcf
+www.google.com###brs
+www.google.com###bres
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##.hI5uQc.VjDLd
+www.google.com##.gVqDn
+www.google.com##.SfSHIf
+www.google.com###w3bYAd
+www.google.com##.g4peUd.V88cHc.ynRric
+www.google.com##li.sbre.ZCOBRd
+www.google.com##.MjfBXe.VjDLd
+www.google.com##.cUnQKe.AuVD
+www.google.com##.kno-ftr.rpBMYb
+www.google.com##.YfftMc
+www.google.com##li.sbre.IDVnvc
+www.google.com##.K2P9Ob.V88cHc.ynRric
+www.google.com##.PnU5cd.fwsf4b.fHIdc
+www.google.com##.vcsi.a5mgdf
+www.google.com##div.cLjAic.TzHB6b > .sATSHe > .wp-ms.gsrt.JNkvid
 www.google.com##.rLrQHf
 ||xewarycy.xyz^
 ||api.xewarycy.xyz^
@@ -1018,10 +1004,6 @@ www.bestbuy.com##.shop-search-survey
 www.bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
 www.bestbuy.com##.ninja-carousel
 ||home-c36.nice-incontact.com^
-www.cnbc.com##.pro-feedback-fixed
-www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
-cnbc.com#@#.SocialShare-socialShare
-www.cnbc.com##.ProHub-outerContainer
 www.nerdwallet.com##p > div
 www.nerdwallet.com##p > ._2dyIi
 www.nerdwallet.com##div.FTDQoV:nth-of-type(29)
@@ -1120,6 +1102,32 @@ seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
+||apps.elfsight.com^
+||app.helphero.co^
 ||collector-pxxgcxm9by.cl6.px-cloud.net^
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
+www.cnbc.com##.pro-feedback-fixed
+www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
+cnbc.com#@#.SocialShare-socialShare
+www.cnbc.com##.ProHub-outerContainer
+||geo.cnbc.com^
+enfusion.com##.bg-gradient-12
+cryptodaily.co.uk##.leaderboard-top-ad.row
+cryptodaily.co.uk##.braking-right
+cryptodaily.co.uk##.fixed-sidebar-ad
+cryptodaily.co.uk##div.side-block:nth-of-type(3)
+cryptodaily.co.uk##div.side-block:nth-of-type(5)
+cryptodaily.co.uk##.ad-bottom-spacing
+www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
+www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
+www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
+www.tipranks.com##.client-components-experts-sideBar-side__NewsletterWidgetSpecial
+www.tipranks.com##.client-components-experts-sideBar-side__newletter
+www.tipranks.com##.mb7.hideOnultimate.z0.minHauto.displayflex
+www.tipranks.com##.hideOnpremium
+www.tipranks.com##.h_px9.positionrelative.hoverCursorpointer
+www.tipranks.com##div.mobile_w12.mobile_pl0.mobile_pr0.ipad_pl2.pl4.mb7.z0.minHmedium.displayflex.w6.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo:nth-of-type(5)
+www.tipranks.com##._1uW4yWM42aC1TTllUyZimb
+www.tipranks.com###top_ribbon
+||p.typekit.net^
