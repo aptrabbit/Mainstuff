@@ -277,16 +277,6 @@ quizlet.com##.SiteUpgradeButton
 www.ringcentral.com##.rc-notibar
 www.ccleaner.com###main-content > .text-center
 www.ccleaner.com##.download-notification--top.download-notification
-carbuzz.com##.ad-placement_desktop-top-sticky.ad-placement
-carbuzz.com##div.cb-sidebar__item.ad-placement
-carbuzz.com##.cb-sidebar__sticky-ad.cb-sidebar__item.ad-placement
-carbuzz.com##.cb-container__sidebar > div.ad-placement
-carbuzz.com##div.cb-post-block-ad-banner.cb-post-block.cb-content-block.ad-placement
-carbuzz.com##.cb-post__gallery-preview > .ad-slot-full-width
-carbuzz.com##.margin-top-40.gtm-cb-post-related-reviews.cb-posts-preview > .ad-slot-full-width.ad-placement
-carbuzz.com##.ad-slot-full-width.cb-post__sponsered-consideration.ad-placement
-carbuzz.com##div.ad-slot-full-width.ad-placement
-carbuzz.com##.cb-post-share-toolbar-top
 blog.hootsuite.com##._popupVariantContentUpgrade.content-upgrade--popup-variant.content-upgrade
 blog.hootsuite.com##.fade-in.exit-intent-modal
 socialtipster.co##.flexright.hidden-xs.hidden-sm.th-col-right.to-flex-col
@@ -825,24 +815,6 @@ www.yahoo.com###module-monalixaRightRail
 www.yahoo.com##.LREC-status-ok
 coinquora.com##.coinq-widget.widget
 coinquora.com##.py-1.coins-stream
-www.benzinga.com##.page-sidebar-placement.bz3-widget-container
-www.benzinga.com##.article-content > .lead-form.form
-www.benzinga.com##.primary-placeholder.placeholder
-www.benzinga.com##.secondary-placeholder.placeholder
-www.benzinga.com##.shadow-border.crypto-sidebar-table
-www.benzinga.com##.table-flex-wrap
-www.benzinga.com##.bz-campaign-text-top
-www.benzinga.com##.bz-campaign-text-middle
-www.benzinga.com##.bz-campaign-text-bottom
-www.benzinga.com###data-licensing-ad-right-rail
-www.benzinga.com##.w-full.sidebar-inner-primary > [href]
-www.benzinga.com##.quote-card-wrapper
-www.benzinga.com##.bz3-widget-container
-www.benzinga.com###crypto-widget-CoinList
-www.benzinga.com##.trading-school.hdVZXL.Header__MenuItemLink-sc-5xz2fi-8
-www.benzinga.com##.cEQHvc.CompareProducts__CompareProductsWrapper-muby2a-0
-www.benzinga.com##.sidebar-wrapper.hViBmI.HomePageSidebar__SidebarWrapper-sc-11o9bvg-0 > div:nth-of-type(2)
-www.benzinga.com##.signup-box.zEaUI.SignUpBox__SignupBoxWrapper-s7vvbm-0
 ||rapidzebra.io^
 blog.horizen.io##.widget_custom_html.widget.widget_text
 finviz.com##.modal-elite-ad
@@ -1119,6 +1091,35 @@ cryptodaily.co.uk##.fixed-sidebar-ad
 cryptodaily.co.uk##div.side-block:nth-of-type(3)
 cryptodaily.co.uk##div.side-block:nth-of-type(5)
 cryptodaily.co.uk##.ad-bottom-spacing
+||p.typekit.net^
+pro.coinbase.com##.gNNMVp
+www.r-studio.com###pp-info
+carbuzz.com##.ad-placement
+carbuzz.com##.ad-slot
+www.benzinga.com##.page-sidebar-placement.bz3-widget-container
+www.benzinga.com##.article-content > .lead-form.form
+www.benzinga.com##.primary-placeholder.placeholder
+www.benzinga.com##.secondary-placeholder.placeholder
+www.benzinga.com##.shadow-border.crypto-sidebar-table
+www.benzinga.com##.table-flex-wrap
+www.benzinga.com##.bz-campaign
+www.benzinga.com###data-licensing-ad-right-rail
+www.benzinga.com##.w-full.sidebar-inner-primary > [href]
+www.benzinga.com##.quote-card-wrapper
+www.benzinga.com##.bz3-widget-container
+www.benzinga.com###crypto-widget-CoinList
+www.benzinga.com##.trading-school.hdVZXL.Header__MenuItemLink-sc-5xz2fi-8
+www.benzinga.com##.cEQHvc.CompareProducts__CompareProductsWrapper-muby2a-0
+www.benzinga.com##.sidebar-wrapper.hViBmI.HomePageSidebar__SidebarWrapper-sc-11o9bvg-0 > div:nth-of-type(2)
+www.benzinga.com##.signup-box.zEaUI.SignUpBox__SignupBoxWrapper-s7vvbm-0
+www.benzinga.com###crypto-widget-CoinMarquee
+www.benzinga.com##.placement
+www.benzinga.com##.medium-8.small-12.cell > p
+||js.hsforms.net^
+||cdn.equalweb.com^
+medium.com##.wn
+viewblock.io##.gaoScI
+priceprediction.net##center
 www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
 www.tipranks.com##.client-components-tabbed-page-promotional__premium.client-components-tabbed-page-promotional__promotional
 www.tipranks.com##.client-components-stock-research-analysts-style__topStocks
@@ -1130,4 +1131,7 @@ www.tipranks.com##.h_px9.positionrelative.hoverCursorpointer
 www.tipranks.com##div.mobile_w12.mobile_pl0.mobile_pr0.ipad_pl2.pl4.mb7.z0.minHmedium.displayflex.w6.flexc__.tr-box-ui._1HABim5jz41fqgmk1lBtqo:nth-of-type(5)
 www.tipranks.com##._1uW4yWM42aC1TTllUyZimb
 www.tipranks.com###top_ribbon
-||p.typekit.net^
+www.tipranks.com##.mb5
+www.tomsguide.com##aside.hawk-processed
+www.tomsguide.com##.jwplayer__widthsetter
+||cdn.knightlab.com^
