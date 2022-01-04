@@ -436,7 +436,6 @@ www.monstersandcritics.com##.pw-ph-leaderboard.leaderboard-ad-size
 www.monstersandcritics.com##.pw-ph-med-rect
 www.monstersandcritics.com###custom_html-4
 www.monstersandcritics.com##.comments-area > .related-posts-column
-dappradar.com##.entry--wide
 www.getfilecloud.com##.textwidget
 www.mayoclinic.org###leftNavigation
 www.mayoclinic.org##.mayoad
@@ -1117,7 +1116,6 @@ www.benzinga.com##.placement
 www.benzinga.com##.medium-8.small-12.cell > p
 ||js.hsforms.net^
 ||cdn.equalweb.com^
-medium.com##.wn
 viewblock.io##.gaoScI
 priceprediction.net##center
 www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
@@ -1135,3 +1133,9 @@ www.tipranks.com##.mb5
 www.tomsguide.com##aside.hawk-processed
 www.tomsguide.com##.jwplayer__widthsetter
 ||cdn.knightlab.com^
+dappradar.com##.entry--wide
+dappradar.com###article-banner
+www.nasdaq.com##.watchlist
+news.spacconference.com##.ng-scope.ml-landscape-ad-container
+news.spacconference.com##.ng-scope.ml-square-ad-container
+medium.com##[data-popper-reference-hidden]
