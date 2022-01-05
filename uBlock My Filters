@@ -231,7 +231,6 @@ smallbusiness.chron.com##.s2nBelowViewport.s2nContainer.k-VtBBB6Nk.s2nPlayer
 www.aarp.org##.parsys.iparsys.everywhere-page-header > div.section.parbase.textimage
 www.psychologytoday.com##.pt-ad-show-text.pt-ad--container
 dude-hack.com##.et_pb_code_0.et_pb_code.et_pb_module.et_pb_with_border
-www.wired.com##.persistent-aside--align-left.persistent-aside.cRaImu.sc-iWFSnp
 www.rentcafe.com##picture
 www.youtube.com###offer-module
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
@@ -1145,3 +1144,5 @@ medium.com##[data-popper-reference-hidden]
 ||cdn.convertbox.com^
 ||share.hsforms.com^
 ||repuso.com^
+www.wired.com##.should-hold-space
+www.wired.com##.social-icons
