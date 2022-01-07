@@ -1151,3 +1151,10 @@ zycrypto.com###block-2
 zycrypto.com###custom_html-13
 zycrypto.com##.widget_custom_html
 zycrypto.com###coinmarketcap-widget-marquee
+moneymorning.com##.slide.carousel
+moneymorning.com##[href="https://pro.moneymappressinfo.com/m/1919602"]
+moneymorning.com##h2.nitro-offscreen
+moneymorning.com##p.nitro-offscreen:nth-of-type(25)
+moneymorning.com##p.nitro-offscreen:nth-of-type(26)
+moneymorning.com##p.nitro-offscreen:nth-of-type(27)
+moneymorning.com###profit_alerts-2
