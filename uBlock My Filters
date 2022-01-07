@@ -478,7 +478,6 @@ www.healthline.com##.css-1pnad6
 www.healthline.com##.css-1uycmzq
 www.healthline.com##.css-fextg5
 www.healthline.com##li.css-1m7x7vu
-www.healthline.com##.md\:justify-between.md\:flex.md\:rounded-2xl.bg-cyan-600.z-50.md\:-translate-x-1\/2.md\:transform.md\:left-1\/2.left-0.md\:bottom-6.bottom-0.md\:max-w-3xl.w-full.p-6.md\:fixed.sticky
 www.historic-uk.com###hu
 ||www.techpowerup.com/thlknzrjbv/*.jpg$image
 dailyhodl.com##.widget_custom_html.widget.widget_text
@@ -679,10 +678,6 @@ www.qmee.com##.show-0-2-15.prerender-0-2-14
 news.yahoo.com###close-button-section
 news.yahoo.com###module-monalixaRightRail
 mail.protonmail.com##.topnav-link--blackfriday
-zycrypto.com##.td-header-sp-recs
-zycrypto.com###block-2
-zycrypto.com###custom_html-13
-zycrypto.com##.widget_custom_html.custom_html-14.widget.td_block_template_5.widget_text
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
 cryptopotato.com##.widget_text.widget
@@ -717,18 +712,6 @@ nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
 languagetool.org##.dock__item--premium.dock__item
-www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
-www.amazon.com###cart-item-recs
-www.amazon.com##.maple-banner
-www.amazon.com###prime-pda-type-box-ad
-www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
-www.amazon.com###customer-survey_feature_div
-www.amazon.com###sims-consolidated-2_feature_div
-www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
-www.amazon.com##.s-widget-padding-bottom
-www.amazon.com###huc-first-upsell-row
-www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
-www.amazon.com##div.s-widget-spacing-large.s-widget
 ||events-collector.spot.im^
 www.artfultea.com##.visible.sqs-popup-overlay
 account.protonmail.com##.topnav-link--blackfriday.relative
@@ -1146,3 +1129,25 @@ medium.com##[data-popper-reference-hidden]
 ||repuso.com^
 www.wired.com##.should-hold-space
 www.wired.com##.social-icons
+||cm-api.contact-module.ibm.com^
+||liveperson.net^
+||lpcdn.lpsnmedia.net^
+www.fakespot.com##.bottom-box
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+www.amazon.com###cart-item-recs
+www.amazon.com##.maple-banner
+www.amazon.com###prime-pda-type-box-ad
+www.amazon.com##.aui-desktop-map.image-map.a-text-center.a-section
+www.amazon.com###customer-survey_feature_div
+www.amazon.com###sims-consolidated-2_feature_div
+www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
+www.amazon.com##.s-widget-padding-bottom
+www.amazon.com###huc-first-upsell-row
+www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
+www.amazon.com##div.s-widget-spacing-large.s-widget
+www.amazon.com###promotions_feature_div
+zycrypto.com##.td-header-sp-recs
+zycrypto.com###block-2
+zycrypto.com###custom_html-13
+zycrypto.com##.widget_custom_html
+zycrypto.com###coinmarketcap-widget-marquee
