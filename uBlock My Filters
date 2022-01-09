@@ -1,5 +1,5 @@
-My personal list for garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. 
-90% + are safe rules that should not break anything, but there are a some domains on here that I block (like chat bots and buy now pay later domains) that you may not want to block.
+This list contains garbage I encounter on the web grabbed by using uBlock Origin's element blocker and my own knowledge, organized by domain. 
+90% + of the rules listed are safe and should not break anything, but there are a some domains on here that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Whitelist as needed and use at your own risk.
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
