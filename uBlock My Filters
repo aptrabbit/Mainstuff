@@ -176,7 +176,6 @@ patook.com##.cookies_subtext
 www.pdfdrive.com##.show.fade.modal
 www.pdfdrive.com##.show.fade.modal-backdrop
 www.pdfdrive.com###alternatives > div > .form-inline
-www.speedtest.net##.eot-info-audience.u-c.pure-u-1-2
 www.theguardian.com##.css-9aekbr
 www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
@@ -728,9 +727,6 @@ decrypt.co##.gJejSD.iTqRUR.sc-15vdjcx-1.sc-1lyao0r-0 > .unreset
 decrypt.co##.fqsKrT.sc-gzqtco-0
 ipsoa.it##+js(ra, style, div.paywall)
 ||printoperatelanguage.top^
-www.newsbtc.com##.widget_svecc_reviews.widget
-www.newsbtc.com##.widget_media_image.left.premium-partner.widget
-www.newsbtc.com##.widget_media_image.right.premium-partner.widget
 ||cdn.userway.org^
 ambcrypto.com##.ub-sticky-ad-containerdesk
 ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
@@ -741,14 +737,6 @@ finbold.com##.mt-4.order-lg-3.order-xl-2.col-xl-12.col-lg-6
 www.autoblog.com###spotim-specific
 www.autoblog.com###autoblog-daily-digest
 www.automotivelogistics.media##.leaderboard
-www.newsbtc.com###menu-item-458696
-www.newsbtc.com###menu-item-470793
-www.newsbtc.com###menu-item-446940
-www.newsbtc.com##.litespeed-loaded.size-full.attachment-full
-www.newsbtc.com##.widget_text.svecc-widget-title.widget
-www.newsbtc.com##.vertical-center.flex.header-price-container
-www.newsbtc.com###menu-item-473245
-www.newsbtc.com###menu-item-473760
 humbledollar.com##.show-detected
 humbledollar.com##.top-bar
 humbledollar.com##.in-story-subscribe
@@ -1158,3 +1146,17 @@ moneymorning.com##p.nitro-offscreen:nth-of-type(25)
 moneymorning.com##p.nitro-offscreen:nth-of-type(26)
 moneymorning.com##p.nitro-offscreen:nth-of-type(27)
 moneymorning.com###profit_alerts-2
+www.newsbtc.com##.widget_svecc_reviews
+www.newsbtc.com##.widget_media_image
+www.newsbtc.com##.litespeed-loaded.size-full.attachment-full
+www.newsbtc.com##.widget_text.svecc-widget-title
+www.newsbtc.com##.vertical-center.flex.header-price-container
+www.newsbtc.com##.widget_custom_html
+www.newsbtc.com##.single-post-hero-ad
+www.newsbtc.com###menu-item-458696
+www.newsbtc.com###menu-item-470793
+www.newsbtc.com###menu-item-446940
+www.newsbtc.com###menu-item-473245
+www.newsbtc.com###menu-item-473760
+www.newsbtc.com###menu-item-480135
+www.speedtest.net##.eot-box-wrapper
