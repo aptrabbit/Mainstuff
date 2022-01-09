@@ -168,7 +168,6 @@ genius.com##apple-music-player
 mail.yahoo.com###modal-outer
 www.swipehelper.com###tysixjhbu-blanket
 www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
-||accounts.google.com/gsi/*$xhr,script,3p
 www.vidaselect.com##.cpro-open.cp-module-modal_popup.cp_style_19364.cp-popup-live-wrap.cp-popup-container
 www.zoosk.com##.interesting-info-header-div.interesting-info-div.text-center.small-12.columns
 chrome.google.com##.Yb
@@ -191,7 +190,6 @@ www.allposters.com##.slide.close-v1.email-lb-bg
 fulltip.net##.penci-wrap-gprd-law
 www.privacyend.com##.widget_media_image.inner-padding.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
 stackshare.io##.css-17kwd5z
-myanimelist.net##.banner-header-anime-straming
 neilpatel.com###bottom-box
 www.thewindowsclub.com##[href^="http://www.restoro.com/includes/route.php"]
 www.crunchyroll.com###showmedia_free_trial_signup
@@ -828,9 +826,7 @@ www.hotdeals.com##.afsstyle
 ||tt.omtrdc.net^
 ||js.hscollectedforms.net^
 europe.autonews.com##.block-region-content-right
-www.insidermonkey.com###advertorial-container
-www.insidermonkey.com###shadow
-www.insidermonkey.com###premium-resource-center
+myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.btn-mal-service
 ||graph.facebook.com^
 ||player.propervideo.io^
@@ -1016,20 +1012,6 @@ coinmarketcap.com##.ivGjzC.mhbkgs-0
 coinmarketcap.com##.jgmyvX.t4voxl-0
 ||entitlements.jwplayer.com^
 getpublii.com##.promo
-www.fool.com###topnav-picks
-www.fool.com##.alert-info.page-alert
-www.fool.com###market_performance
-www.fool.com##.special-message
-www.fool.com###best-next-section
-www.fool.com###services-section
-www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
-www.fool.com##.art__pitch
-www.fool.com###hp-sa-splash
-www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.sm\:mt-36px.mt-16px.article-redesign-cta-banner.shadow-md.border
-www.fool.com###invest-smarter-sidebar-wrapper
-www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
-www.fool.com###sa-returns-sidebar-wrapper
-www.fool.com##.py-3
 docs.amptoken.org###portals-root
 seekingalpha.com##.banner-image
 seekingalpha.com###paywall_dynamic_ticker
@@ -1165,3 +1147,24 @@ www.autolist.com##.jsx-2866408628
 www.autolist.com##.warranty-promo
 www.autolist.com##.carfax
 ||events-prod.autolist.com^
+||loox.io^
+www.sapphiretech.com##.cookies
+www.fool.com###topnav-picks
+www.fool.com##.alert-info.page-alert
+www.fool.com###market_performance
+www.fool.com##.special-message
+www.fool.com###best-next-section
+www.fool.com###services-section
+www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
+www.fool.com##.art__pitch
+www.fool.com###hp-sa-splash
+www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.sm\:mt-36px.mt-16px.article-redesign-cta-banner.shadow-md.border
+www.fool.com###invest-smarter-sidebar-wrapper
+www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
+www.fool.com###sa-returns-sidebar-wrapper
+www.fool.com##.py-3
+www.fool.com##.modal
+www.insidermonkey.com###advertorial-container
+www.insidermonkey.com###shadow
+www.insidermonkey.com###premium-resource-center
+www.insidermonkey.com#@#.newsletter-promo
