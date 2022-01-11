@@ -42,7 +42,6 @@ geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key
 gfx.downloadable_fonts.fallback_delay; 100
 gfx.font_loader.delay; 0
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
-image.decode-immediately.enabled; true
 media.autoplay.default; 5
 media.autoplay.block-event.enabled; true
 media.hardwaremediakeys.enabled; false
