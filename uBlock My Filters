@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 09 Jan 2022
+Last modified: 18 Jan 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -560,15 +560,6 @@ www.coingecko.com##.mb-2.mt-1.text-sm
 www.coingecko.com##.mt-md-0.tw-mt-3.flex-wrap.tw-flex.lg\:tw-ml-3
 www.coingecko.com##.tw-ads-btn-md.btn-success.btn
 www.esports.com##.adtech-section
-www.stakingrewards.com##.asset-links
-www.stakingrewards.com##.headerBanner
-www.stakingrewards.com##div.rt-tr-group:nth-of-type(1)
-www.stakingrewards.com##div.rt-tr-group:nth-of-type(2)
-www.stakingrewards.com##.banner_native-ad-container-small__2w7l4.banner_native-ad-container__3X3VA
-www.stakingrewards.com###top-bar-section
-www.stakingrewards.com###header-banner
-www.stakingrewards.com##.ticker_animate__3RcNO.ticker_ticker-list__1XKhW
-www.stakingrewards.com##.asset_asset-links__UIoL4.assetHeader_asset-links__2FSQV
 cryptonews.com##.cookieConsentWrapper
 cryptonews.com##.mb-40.d-lg-block.d-none.dslot
 cryptonews.com###widget_container
@@ -1169,3 +1160,16 @@ www.insidermonkey.com###advertorial-container
 www.insidermonkey.com###shadow
 www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
+www.medicalnewstoday.com##.css-1vcjrad
+www.medicalnewstoday.com##.css-rjh5b
+www.medicalnewstoday.com##.css-1cg0byz
+www.cryptonewsz.com##.stream-item-top-wrapper
+www.cryptonewsz.com##.widget_block
+www.cnbc.com##.TopBanner-styles-makeit-container--jXi8P
+cartesi.io##.footer-module--gdprBlock--2ms5n
+www.mycointainer.com##.cookieModal_wrapper__1LIJB
+www.mycointainer.com##.cookieModal_wrapper__1GJkY
+www.stakingrewards.com##.ticker_ticker__9Jcrk
+www.stakingrewards.com##.asset_asset-links__IgmZ6
+www.stakingrewards.com##.banner_native-ad-container-small__q_jmD
+icoholder.com##.top-binance
