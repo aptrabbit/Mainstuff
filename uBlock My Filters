@@ -497,13 +497,12 @@ cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
 app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
-www.chegg.com##.SsZyJ.CallToAction__CTAWrapper-ieaghs-3
 starwars.fandom.com###WikiaBar
 ||static.ada.support^
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
-www.chegg.com##.kTTapc.CallToAction__CTAWrapper-sc-ieaghs-3
+www.chegg.com##.CallToAction__CTAWrapper-sc-ieaghs-3
 ||sports24.site^
 ||bckfnohmg.com^
 ||iqkfplsez.com^
