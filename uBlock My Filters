@@ -409,9 +409,6 @@ selfhacked.com##.post-ratings-wrapper
 selfhacked.com##.sponsored-full-width.sponsored
 staking.harmony.one###bar-container
 benchmarks.ul.com##.clearfix.defaultbox
-www.investopedia.com###performance-marketing_3-0
-www.investopedia.com###fin-billboard1-sticky-dynamic_3-0
-www.investopedia.com###partnerlinks_21-0
 www.virginiaent.com##.hide
 www.aetv.com###signup-popup
 www.precisiononcologynews.com##.footer__ads-footer
@@ -451,17 +448,6 @@ www.nasdaq.com##div.body--no-ads.body:nth-of-type(5)
 www.nasdaq.com##.inside-container
 www.nasdaq.com##.video-placeholder
 kusama.subscan.io##.banner
-www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
-www.foxnews.com##.collection-trending.collection
-www.foxnews.com##.is-programming.alert-banner
-www.foxnews.com##.js-on-now.has-live-stream.promo-watch-live.promo
-www.foxnews.com##.js-promo.promo-image.promo
-www.foxnews.com##.has-load-more.collection-fox-nation.collection
-www.foxnews.com##.video-player.m > [href="http://video.foxnews.com/v/6245703562001"]
-www.foxnews.com##.article-social
-www.foxnews.com##[href] > strong
-www.foxnews.com##strong > [href]
-www.foxnews.com##.sticky-region
 www.finder.com##.hide-mobile.nps-feedbackModal__teaser
 www.finder.com###intercomChatButton
 www.finder.com.au##.hide-mobile.nps-feedbackModal__teaser
@@ -993,15 +979,6 @@ https://cointelegraph.com/adsense/ads.js
 ||acsbapp.com^
 crypto.com##.swiper-container-pointer-events
 convertio.co##.rate-us
-coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.empty.email-signup
-coinmarketcap.com##.kCVvHP.xahu3l-2
-coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
-coinmarketcap.com##.bKmQGi.sc-16r8icm-0
-coinmarketcap.com##.buyAdButtonSection
-coinmarketcap.com##.carousel-items-wrapper
-coinmarketcap.com##.ivGjzC.mhbkgs-0
-coinmarketcap.com##.jgmyvX.t4voxl-0
 ||entitlements.jwplayer.com^
 getpublii.com##.promo
 docs.amptoken.org###portals-root
@@ -1177,7 +1154,27 @@ digitalcoinprice.com##.ads-90
 digitalcoinprice.com##.cmc-btn-grp
 www.thisismoney.co.uk##.watermark
 www.thisismoney.co.uk##.sticky-container
+www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
+www.foxnews.com##.collection-trending.collection
+www.foxnews.com##.is-programming.alert-banner
+www.foxnews.com##.js-on-now.has-live-stream.promo-watch-live.promo
+www.foxnews.com##.js-promo.promo-image.promo
+www.foxnews.com##.has-load-more.collection-fox-nation.collection
+www.foxnews.com##.video-player.m > [href="http://video.foxnews.com/v/6245703562001"]
+www.foxnews.com##.article-social
+www.foxnews.com##[href] > strong
+www.foxnews.com##strong > [href]
+www.foxnews.com##.sticky-region
 www.foxnews.com###spotim-specific > div > div > [src]
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.empty.email-signup
+coinmarketcap.com##.kCVvHP.xahu3l-2
+coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
+coinmarketcap.com##.bKmQGi.sc-16r8icm-0
+coinmarketcap.com##.buyAdButtonSection
+coinmarketcap.com##.carousel-items-wrapper
+coinmarketcap.com##.ivGjzC.mhbkgs-0
+coinmarketcap.com##.jgmyvX.t4voxl-0
 coinmarketcap.com##.honaLr
 ||app.purechat.com^
 research.binance.com##.jsx-1018176719
@@ -1187,4 +1184,12 @@ www.fxempire.com##.Closeable-sc-8mib5k-0
 www.fxempire.com##.gLLMYa
 www.fxempire.com##.ioklmO
 www.fxempire.com##.gHfuSK
+www.fxempire.com##.kAWqQZ
 www.fxempire.com##.eaSVEj
+thecoinperspective.com##.border-2.mt-md-4.mt-3.bg-highlight
+walletinvestor.com##div:nth-of-type(4)
+walletinvestor.com##.btn-loan
+walletinvestor.com##.ticker-highlight
+www.investopedia.com###fin-billboard1-sticky-dynamic_3-0
+www.investopedia.com###partnerlinks_21-0
+www.investopedia.com##.performance-marketing
