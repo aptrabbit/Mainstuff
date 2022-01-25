@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 23 Jan 2022
+Last modified: 24 Jan 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -822,7 +822,6 @@ cryptoslate.com##.code-block-3.code-block
 cryptoslate.com##.code-block-9.code-block
 cryptoslate.com##.code-block-14.code-block
 cryptoslate.com##.edge
-||widgetdata.tradingview.com^
 ||s.tradingview.com/mediumwidgetembed/$subdocument
 www.daytrading.com##.bottombar.text-center
 www.producthunt.com##.style_mb-5__1YdhG.style_py-5__P_IRO.style_flex-row-gap-4__2fXy2.style_direction-row__FnG5T.style_flex__3fKcB
