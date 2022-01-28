@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 25 Jan 2022
+Last modified: 27 Jan 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -776,8 +776,6 @@ live94today.com##[href="http://ustv2.com"]
 live94today.com##.row.footer-container > .col-md-12
 ||tracker.123tv.live^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
-twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
-twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
 ||nuance.com^
 ||inq.com^
 laptopsdeals.net##.sgpb-popup-overlay.sgpb-popup-overlay
@@ -1180,9 +1178,6 @@ www.fxempire.com##.gHfuSK
 www.fxempire.com##.kAWqQZ
 www.fxempire.com##.eaSVEj
 thecoinperspective.com##.border-2.mt-md-4.mt-3.bg-highlight
-walletinvestor.com##div:nth-of-type(4)
-walletinvestor.com##.btn-loan
-walletinvestor.com##.ticker-highlight
 www.investopedia.com###fin-billboard1-sticky-dynamic_3-0
 www.investopedia.com###partnerlinks_21-0
 www.investopedia.com##.performance-marketing
@@ -1198,3 +1193,19 @@ www.stakingrewards.com##.asset_asset-links__IgmZ6
 www.stakingrewards.com##.banner_native-ad-container-small__q_jmD
 www.stakingrewards.com##.stickyFooter_stickyFooter__6_MC_
 www.stakingrewards.com##.undefined
+sports.yahoo.com##.wafer-beacon
+sports.yahoo.com###postArticle
+sports.yahoo.com###module-spotIm
+sports.yahoo.com###module-moreStories
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+twitter.com##.r-gtdqiz.r-494qqr
+walletinvestor.com##.btn-loan
+walletinvestor.com##.ticker-highlight
+walletinvestor.com##.sticky-show
+walletinvestor.com##.etheal-text
+walletinvestor.com##.homepage-text
+walletinvestor.com##[href^="https://premium.walletinvestor.com/"]
+||walletinvestor.com/static/frontend/images/nys/1920x150$subdocument
+||medium-widget-api.pixelpoint.io^
+capital.com##.shares
