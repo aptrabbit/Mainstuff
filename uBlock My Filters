@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 27 Jan 2022
+Last modified: 28 Jan 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -897,13 +897,6 @@ www.streetinsider.com###ad_space
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##.leaderboard-container
 www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
-bitcoinist.com##.text-banner
-bitcoinist.com##.play-games
-bitcoinist.com##.header__sponsored-logo
-bitcoinist.com##.svecc-header-price
-bitcoinist.com##[href="https://bitcoinist.com/trade/"]
-bitcoinist.com##[href="https://bs.direct/bee3846d1"]
-bitcoinist.com##[href^="https://www.trkbt.com/"]
 www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
 support.kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
@@ -1209,3 +1202,13 @@ walletinvestor.com##[href^="https://premium.walletinvestor.com/"]
 ||walletinvestor.com/static/frontend/images/nys/1920x150$subdocument
 ||medium-widget-api.pixelpoint.io^
 capital.com##.shares
+||bitcoinist.com/cryptocom-iframe.html$subdocument
+bitcoinist.com##.text-banner
+bitcoinist.com##.play-games
+bitcoinist.com##.header__sponsored-logo
+bitcoinist.com##.svecc-header-price
+bitcoinist.com##.single-post-hero-ad
+bitcoinist.com##.light-mode__stuff
+bitcoinist.com###menu-item-167788
+bitcoinist.com###menu-item-148791
+bitcoinist.com###menu-item-112011
