@@ -24,7 +24,6 @@ windowsreport.com##.qc-cmp-cleanslate.cumIXu.sc-htoDjs
 mediabiasfactcheck.com##[href="https://mediabiasfactcheck.com/advertising-disclaimer/"]
 mediabiasfactcheck.com###text-4 > .textwidget > center:nth-of-type(2)
 sourceforge.net###dlp-voip-quote
-client.schwab.com##.closed.feedbackLink
 www.wcoanimedub.tv##.anti-ad
 www.wcoanimedub.tv###hide-anime-video
 www.coursehero.com##.ch-aaq-widget
@@ -170,7 +169,6 @@ www.swipehelper.com###tysixjhbu-blanket
 www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
 www.vidaselect.com##.cpro-open.cp-module-modal_popup.cp_style_19364.cp-popup-live-wrap.cp-popup-container
 www.zoosk.com##.interesting-info-header-div.interesting-info-div.text-center.small-12.columns
-chrome.google.com##.Yb
 patook.com##.cookies_subtext
 www.pdfdrive.com##.show.fade
 www.pdfdrive.com###alternatives > div > .form-inline
@@ -195,7 +193,6 @@ www.crunchyroll.com###showmedia_free_trial_signup
 caliva.com###ccpa-app
 www.softwaresuggest.com##.visible.exit-intent-popup
 ||*.animenewsnetwork.com/assets/*.png$subdocument
-scholar.google.com##.gs_r.gs_qsuggest_wrap
 news.bitcoin.com##.custom-html-widget.textwidget > p
 news.bitcoin.com##.sticky-down.bn_desktop_widgets > .bitcoin-widget
 www.digitalrealty.com##.js-show.uk-alert.uk-animation-fade.CookieNotice
@@ -279,6 +276,7 @@ socialtipster.co###socia-1030937160
 socialtipster.co##.socia-after-content
 neilpatel.com##.mfp-ready.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 smallbusiness.chron.com##.article-right-col-container
+client.schwab.com##.closed.feedbackLink
 www.schwab.com###Login-Logout-slot-1
 www.schwab.com###Login-Logout-slot-2
 homebusinessmag.com##.widget_media_image.widget.td_block_template_1
@@ -313,9 +311,6 @@ www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox
 www.celebritynetworth.com###single__bar
 ||chatwidget.ruby.com^
 ||api.sjpf.io^
-creatoracademy.youtube.com###google-hats-survey
-support.google.com##.user-feedback-link
-support.google.com##sc-client-feedback-inline-feedback-link
 ||assetscdn-wchat.au.freshchat.com^
 ||api.solvvy.com^
 www.verywellhealth.com###mntl-leaderboard-spacer_1-0
@@ -382,8 +377,6 @@ login.aol.com##.login-bg-inner > .darla
 membernotifications.aol.com###content
 mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
 mail.aol.com##.inforOfferDlg.WSModalPane
-||ogs.google.com/u/0/widget/callout/sid$subdocument
-mail.google.com###google-hats-survey
 wetransfer.com##.banner__animations-enter-done.banner__container
 www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
 ||quantumdex.io^
@@ -793,7 +786,7 @@ www.cspracing.com##.affirm-site-modal
 ||sd-tagging.azurefd.net^
 www.hotdeals.com##.feedback
 www.hotdeals.com##.afsstyle
-||tt.omtrdc.net^
+||tt.omtrdc.net^important
 ||js.hscollectedforms.net^
 europe.autonews.com##.block-region-content-right
 myanimelist.net##.banner-header-anime-straming
@@ -840,6 +833,14 @@ www.vox.com###toaster
 ||archive.org/includes/donate.php$subdocument
 web.archive.org###donato
 u.today##.something
+chrome.google.com##.Yb
+scholar.google.com##.gs_r.gs_qsuggest_wrap
+creatoracademy.youtube.com###google-hats-survey
+support.google.com##.user-feedback-link
+support.google.com##sc-client-feedback-inline-feedback-link
+||ogs.google.com/u/0/widget/callout/sid$subdocument
+mail.google.com###google-hats-survey
+||contributor.google.com
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##div[id^="eob"]
 www.google.com##.KGl2dd.fl
@@ -994,7 +995,7 @@ cryptodaily.co.uk##.fixed-sidebar-ad
 cryptodaily.co.uk##div.side-block:nth-of-type(3)
 cryptodaily.co.uk##div.side-block:nth-of-type(5)
 cryptodaily.co.uk##.ad-bottom-spacing
-||p.typekit.net^
+||p.typekit.net^important
 pro.coinbase.com##.gNNMVp
 www.r-studio.com###pp-info
 carbuzz.com##.ad-placement
@@ -1018,7 +1019,7 @@ www.benzinga.com##.signup-box.zEaUI.SignUpBox__SignupBoxWrapper-s7vvbm-0
 www.benzinga.com###crypto-widget-CoinMarquee
 www.benzinga.com##.placement
 www.benzinga.com##.medium-8.small-12.cell > p
-||js.hsforms.net^
+||js.hsforms.net^important
 ||cdn.equalweb.com^
 viewblock.io##.gaoScI
 priceprediction.net##center
@@ -1047,7 +1048,7 @@ medium.com##[data-popper-reference-hidden]
 ||static.botsrv.com^
 ||static.botsrv2.com^
 ||cdn.convertbox.com^
-||share.hsforms.com^
+||share.hsforms.com^important
 ||repuso.com^
 www.wired.com##.should-hold-space
 www.wired.com##.social-icons
@@ -1212,6 +1213,5 @@ www.foxnews.com##.sticky-region
 ||pix.pub^$important
 ||launcher.spot.im^$important
 ||js.taplytics.com^$important
-||contributor.google.com^$important
 ||try.nation.foxnews.com^$important
 www.instadp.com##center.ad
