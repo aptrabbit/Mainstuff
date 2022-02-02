@@ -995,7 +995,7 @@ cryptodaily.co.uk##.fixed-sidebar-ad
 cryptodaily.co.uk##div.side-block:nth-of-type(3)
 cryptodaily.co.uk##div.side-block:nth-of-type(5)
 cryptodaily.co.uk##.ad-bottom-spacing
-||p.typekit.net^important
+||p.typekit.net^
 pro.coinbase.com##.gNNMVp
 www.r-studio.com###pp-info
 carbuzz.com##.ad-placement
@@ -1215,3 +1215,4 @@ www.foxnews.com##.sticky-region
 ||js.taplytics.com^$important
 ||try.nation.foxnews.com^$important
 www.instadp.com##center.ad
+||widget.portis.io/$subdocument
