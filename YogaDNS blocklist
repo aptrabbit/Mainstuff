@@ -243,3 +243,5 @@ mew.twitch.tv
 spade.twitch.tv
 firebaseremoteconfig.googleapis.com
 connect.facebook.net
+notifier-configs.airbrake.io
+collector.github.com
