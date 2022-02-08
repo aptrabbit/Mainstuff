@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 6 Feb 2022
+Last modified: 8 Feb 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -243,11 +243,10 @@ www.cointracker.io##.performance-chart-upgrade
 www.cointracker.io##tbody > .d-flex
 functionpoint.com##.ub-emb-container
 functionpoint.com###featured-image
-www.mindtools.com##.banner-article-horizonatal.responsive-ad-container
+www.mindtools.com##.responsive-ad-container
 www.mindtools.com##.display-on-load
 www.mindtools.com##div.panel.banner-vertical-article.banner-vertical.banner.advert
 www.g2.com##.hide-for-small-only.bg-midnight-100.border-color--medium-gray.border-bottom
-blog.hubspot.com###slidebox
 www.greekrank.com###main-container > .container > div:nth-of-type(1)
 www.greekrank.com#@#.like-box
 wwatchseries.com##div:nth-of-type(5)
@@ -521,8 +520,8 @@ en.chessbase.com###askForCookiesBackground
 polkadot.subscan.io##.banner
 www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
 www.cryptoninjas.net##.widget_text.widget
-cryptopanic.com##.news-row-sponsored.sponsored.news-row
-cryptopanic.com##.text-ad-item.flex-col.mb-3
+cryptopanic.com##.news-row-sponsored
+cryptopanic.com##.text-ad-item
 cryptopanic.com#@#.social-login
 thekrazycouponlady.com#@#.share-buttons
 enotes.com##+js(rc, is-paywalled)
@@ -558,7 +557,7 @@ softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.gTXIIp.Modal__ModalP
 www.timeanddate.com###mpo
 ||grabify.link^$important,all
 www.bsc.news##.ad-block-3-side-page
-www.entrepreneur.com##.xxl.gutter-top.clearfix.relative.article-subscribe
+www.entrepreneur.com##.article-subscribe
 www.entrepreneur.com##div.transparent.container
 www.entrepreneur.com###F20WidgetContainer
 www.entrepreneur.com##.show
@@ -1119,16 +1118,6 @@ digitalcoinprice.com##.ads-90
 digitalcoinprice.com##.cmc-btn-grp
 www.thisismoney.co.uk##.watermark
 www.thisismoney.co.uk##.sticky-container
-coinmarketcap.com##.trending-sponsored
-coinmarketcap.com##.empty.email-signup
-coinmarketcap.com##.kCVvHP.xahu3l-2
-coinmarketcap.com##.bWvWZr.sc-1mg9v8z-0
-coinmarketcap.com##.bKmQGi.sc-16r8icm-0
-coinmarketcap.com##.buyAdButtonSection
-coinmarketcap.com##.carousel-items-wrapper
-coinmarketcap.com##.ivGjzC.mhbkgs-0
-coinmarketcap.com##.jgmyvX.t4voxl-0
-coinmarketcap.com##.honaLr
 ||app.purechat.com^
 research.binance.com##.jsx-1018176719
 www.fxempire.com##.jfOYJb > .kpqgMJ.Card-sc-1ib64vn-0
@@ -1226,3 +1215,16 @@ freetools.seobility.net###cookieoptinoverlay
 stackshare.io###Cta_stackbot-react-component-4d4e77d0-3589-4748-a496-63c93594414e
 stackshare.io###HeaderNotice-react-component-adf3b206-0ede-47ba-b0aa-453f595c7398
 ezil.me##.ezil-zjlttn
+coinmarketcap.com##.trending-sponsored
+coinmarketcap.com##.email-signup
+coinmarketcap.com##.kCVvHP
+coinmarketcap.com##.bWvWZr
+coinmarketcap.com##.bKmQGi
+coinmarketcap.com##.buyAdButtonSection
+coinmarketcap.com##.carousel-items-wrapper
+coinmarketcap.com##.ivGjzC
+coinmarketcap.com##.jgmyvX
+coinmarketcap.com##.honaLr
+coinmarketcap.com##.iMyvIy
+blog.hubspot.com###slidebox
+app.hubspot.com###chat-widget
