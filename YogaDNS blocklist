@@ -106,7 +106,6 @@ deals-assets-cdn.razerzone.com
 js.impressions.mediagamma.com
 e.reddit.com
 etl.tindersparks.com
-sentry.io
 ui.powerreviews.com
 cdns.gigya.com
 consent.trustarc.com
@@ -139,7 +138,6 @@ api.livechatinc.com
 cdn.livechatinc.com
 pandata-events.prod-iad.inshosteddata.com
 pixall.esm1.net
-browser.sentry-cdn.com
 api.ibeat-analytics.com
 rtbtrack.com
 letmessagenow.com
@@ -159,4 +157,6 @@ monasawaw.com
 octaplajaggar.casa
 geo.privacymanager.io
 skadsdkless.appsflyer.com
+sentry.io
+browser.sentry-cdn.com
 o308222.ingest.sentry.io
