@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 16 Feb 2022
+Last modified: 17 Feb 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -187,7 +187,6 @@ www.allposters.com##.slide.close-v1.email-lb-bg
 fulltip.net##.penci-wrap-gprd-law
 www.privacyend.com##.widget_media_image.inner-padding.widget.extendedwopts-mobile.extendedwopts-tablet.extendedwopts-hide
 stackshare.io##.css-17kwd5z
-neilpatel.com###bottom-box
 www.thewindowsclub.com##[href^="http://www.restoro.com/includes/route.php"]
 www.crunchyroll.com###showmedia_free_trial_signup
 caliva.com###ccpa-app
@@ -273,7 +272,6 @@ blog.hootsuite.com##.fade-in.exit-intent-modal
 socialtipster.co##.flexright.hidden-xs.hidden-sm.th-col-right.to-flex-col
 socialtipster.co###socia-1030937160
 socialtipster.co##.socia-after-content
-neilpatel.com##.mfp-ready.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 smallbusiness.chron.com##.article-right-col-container
 client.schwab.com##.closed.feedbackLink
 www.schwab.com###Login-Logout-slot-1
@@ -1234,3 +1232,6 @@ seositecheckup.com##.sidebar-promo
 www.iclicker.com#@#.pum[data-popmake*="cookies"]
 ahrefs.com##.intercom-icon-container
 ||jwpsrv.com^$important
+neilpatel.com###bottom-box-cta
+neilpatel.com###topbar
+neilpatel.com##.widget-analyzer
