@@ -179,7 +179,6 @@ invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0
 invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
 cryptojobslist.com##._1Oy_ehtA_ibqvuiauHvH6P
-support.microsoft.com###supWrapperToPreventFeedbackFlickering
 www.perlego.com##.eMbzNt.sc-hqGPoI
 www.crypto-news-flash.com##.cpro-open.cp-module-modal_popup.cp_style_33446.cp-popup-live-wrap.cp-popup-container
 www.sparknotes.com##.partner__pw__header
@@ -210,7 +209,6 @@ www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
 www.startengine.com###drift-frame-controller
 winaero.com##.entry-content > div
 winaero.com###dfsfsdfs-asdasd-2
-docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border-bottom.feedback-verbatim
 www.producthunt.com##.styles_promotedSection__1fAUW
 instadp.org##.text1.container
 instadp.org##div:nth-of-type(4)
@@ -623,6 +621,8 @@ www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.
 www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.exit-intent-popup
 money.usnews.com###bfad-slot
 notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
+support.microsoft.com###supWrapperToPreventFeedbackFlickering
+docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border-bottom.feedback-verbatim
 account.microsoft.com###feedback-button
 dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
