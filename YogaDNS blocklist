@@ -71,6 +71,7 @@ experiments.apple.com
 firebaseinstallations.googleapis.com
 forcesafesearch.google.com
 www.googleoptimize.com
+www.google-analytics.com
 id.google.com
 firebaseremoteconfig.googleapis.com
 device-provisioning.googleapis.com
@@ -99,7 +100,6 @@ storage.elfsight.com
 wchat.freshchat.com
 assetscdn-wchat.freshchat.com
 cdn.cookielaw.org
-events.gfe.nvidia.com
 nvidia.tt.omtrdc.net
 apimon.de
 deals-assets-cdn.razerzone.com
