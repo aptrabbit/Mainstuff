@@ -18,6 +18,7 @@ browser.tabs.crashReporting.sendReport; false
 browser.tabs.loadBookmarksInTabs; true (loads bookmarks in a new tab and therefore prevents tab hijacking/losing sensitive work)
 browser.tabs.tabMinWidth; 100
 browser.urlbar.formatting.enabled; false (hidden preference; removes grey font in url bar)
+browser.urlbar.maxRichResults; 8
 browser.urlbar.speculativeConnect.enabled; false
 browser.urlbar.trimURLs; false (shows the http/https header always)
 datareporting.healthreport.uploadEnabled; false
