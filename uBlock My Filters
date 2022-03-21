@@ -972,7 +972,6 @@ seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
-||apps.elfsight.com^
 ||app.helphero.co^
 ||collector-pxxgcxm9by.cl6.px-cloud.net^
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
@@ -1265,3 +1264,4 @@ academy.bit2me.com##.widget_media_image
 www.scienceabc.com##.custom-html-widget
 cleartax.in###glossary-save-top-cta
 cleartax.in###glossary-save-side-cta
+later.com##.o--cookieBanner
