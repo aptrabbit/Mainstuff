@@ -255,13 +255,6 @@ wwatchseries.com##.MuiPaper-elevation0
 wwatchseries.com##.MuiGrid-justify-xs-center
 wwatchseries.com##.MuiContainer-maxWidthLg.MuiContainer-root > .MuiPaper-rounded.MuiPaper-elevation1.MuiPaper-root > .MuiGrid-justify-xs-space-between
 www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
-quizlet.com##.site > .HurricaneBannerWrapper
-quizlet.com##.SignupWallInline-overlay
-quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
-quizlet.com##.SetPageStudyModesBanner-body
-quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
-quizlet.com##.is-visible.is-included.UIModal-backdrop
-quizlet.com##.SiteUpgradeButton
 www.ringcentral.com##.rc-notibar
 www.ccleaner.com###main-content > .text-center
 www.ccleaner.com##.download-notification--top.download-notification
@@ -1265,5 +1258,12 @@ www.scienceabc.com##.custom-html-widget
 cleartax.in###glossary-save-top-cta
 cleartax.in###glossary-save-side-cta
 later.com##.o--cookieBanner
+quizlet.com##.site > .HurricaneBannerWrapper
+quizlet.com##.SignupWallInline-overlay
+quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
+quizlet.com##.SetPageStudyModesBanner-body
+quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
+quizlet.com##.is-visible.is-included.UIModal-backdrop
+quizlet.com##.SiteUpgradeButton
 quizlet.com###UniversalUpsellTarget
 quizlet.com##.SetPageEmbeddedAd-wrapper
