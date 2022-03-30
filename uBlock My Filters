@@ -525,13 +525,6 @@ imgur.com##.masthead.BannerTop3
 www.docsity.com##.dsy-advertising
 www.banklesstimes.com##.tipi-xs-0.rotatable.secondary-navigation
 www.banklesstimes.com##.tipi-xs-0.sb-with-border.tipi-col.tipi-l-4.tipi-xs-12.sb-wrap-skin-1.sidebar-wrap.clearfix.block
-cryptobriefing.com##.bottom.ad-sticky-banner
-cryptobriefing.com##.article-sidebar-items
-cryptobriefing.com##.top-adv-content
-cryptobriefing.com##.extra.sidebar-info
-cryptobriefing.com#@#.newsletter-modal
-cryptobriefing.com##.ub-emb-container
-cryptobriefing.com##.ai-rotate
 ||quotefancy.com/frontend/img/studio/promo/quotefancy_studio_*0_optim.jpg$image
 www.suzuki.com###cookieAck
 www.cinemablend.com##.mobile-leaderboard-320-50
@@ -1267,3 +1260,11 @@ quizlet.com##.is-visible.is-included.UIModal-backdrop
 quizlet.com##.SiteUpgradeButton
 quizlet.com###UniversalUpsellTarget
 quizlet.com##.SetPageEmbeddedAd-wrapper
+cryptobriefing.com##.ad-sticky-banner
+cryptobriefing.com##.article-sidebar-items
+cryptobriefing.com##.top-adv-content
+cryptobriefing.com##.extra.sidebar-info
+cryptobriefing.com#@#.newsletter-modal
+cryptobriefing.com##.ub-emb-container
+cryptobriefing.com##.ai-rotate
+cryptobriefing.com##.ad-container
