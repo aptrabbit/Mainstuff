@@ -246,14 +246,6 @@ www.mindtools.com##div.panel.banner-vertical-article.banner-vertical.banner.adve
 www.g2.com##.hide-for-small-only.bg-midnight-100.border-color--medium-gray.border-bottom
 www.greekrank.com###main-container > .container > div:nth-of-type(1)
 www.greekrank.com#@#.like-box
-wwatchseries.com##div:nth-of-type(5)
-wwatchseries.com##.watch_content-tags__2tI5p
-wwatchseries.com##.watch_similar-title__1D8e2
-wwatchseries.com##.watch_player-bar__24I_s
-wwatchseries.com##li:nth-of-type(6)
-wwatchseries.com##.MuiPaper-elevation0
-wwatchseries.com##.MuiGrid-justify-xs-center
-wwatchseries.com##.MuiContainer-maxWidthLg.MuiContainer-root > .MuiPaper-rounded.MuiPaper-elevation1.MuiPaper-root > .MuiGrid-justify-xs-space-between
 www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
 www.ringcentral.com##.rc-notibar
 www.ccleaner.com###main-content > .text-center
@@ -1259,7 +1251,7 @@ cryptobriefing.com##.ai-rotate
 cryptobriefing.com##.ad-container
 www.seobility.net###help-container
 cointelegraph.com##.price-indexes-widget
-cointelegraph.com##.sidebar__promo-button.promo-button-nexo_with-popover.promo-button-nexo
+cointelegraph.com##.sidebar__promo-button
 cointelegraph.com###vue-footer
 cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
 cointelegraph.com##.post__content-shares
