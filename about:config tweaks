@@ -9,6 +9,7 @@ beacon.enabled; false
 browser.download.alwaysOpenPanel; removes annoying news download popup
 browser.meta_refresh_when_inactive.disabled; true
 browser.overlink-delay; 20
+browser.places.speculativeConnect.enabled; false
 browser.sessionstore.interval; 60000
 browser.startup.preXulSkeletonUI; false
 browser.shell.checkDefaultBrowser; false
