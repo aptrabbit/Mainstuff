@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 28 Apr 2022
+Last modified: 04 May 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1067,9 +1067,6 @@ www.insidermonkey.com###advertorial-container
 www.insidermonkey.com###shadow
 www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
-www.medicalnewstoday.com##.css-1vcjrad
-www.medicalnewstoday.com##.css-rjh5b
-www.medicalnewstoday.com##.css-1cg0byz
 www.cryptonewsz.com##.stream-item-top-wrapper
 www.cryptonewsz.com##.widget_block
 www.cnbc.com##.TopBanner-styles-makeit-container--jXi8P
@@ -1271,3 +1268,10 @@ termly.io###termly-code-snippet-support
 www.businessofbusiness.com##.visible
 www.space.com##.trendingbar
 www.theblockcrypto.com##.modal-container
+cryptogoat.net##.elementor-hidden-phone
+www.enginemailer.com##.proactiveChat
+www.enginemailer.com##.SecCookieBar
+www.medicalnewstoday.com##.css-1vcjrad
+www.medicalnewstoday.com##.css-rjh5b
+www.medicalnewstoday.com##.css-1cg0byz
+www.medicalnewstoday.com##.css-1hu1ip
