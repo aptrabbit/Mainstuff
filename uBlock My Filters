@@ -602,9 +602,6 @@ dailywire.com##+js(rc, css-160lw9c)
 ||harpocrates.ethyca.com^
 gitlab.com##.trial-link
 www.yahoo.com###notification-container
-puck.news##.paywall
-puck.news##+js(rc, paywall-active, body)
-puck.news##+js(ra, style, body)
 ||theglobeandmail.com/pf/dist/engine/react.js$script,1p
 www.qmee.com##.show-0-2-15.prerender-0-2-14
 ||app.conversiobot.com^
@@ -659,7 +656,6 @@ decrypt.co##.bHGkbV.sc-13hse52-0
 decrypt.co##.pfVfn.sc-13hse52-0
 decrypt.co##.gJejSD.iTqRUR.sc-15vdjcx-1.sc-1lyao0r-0 > .unreset
 decrypt.co##.fqsKrT.sc-gzqtco-0
-ipsoa.it##+js(ra, style, div.paywall)
 ||printoperatelanguage.top^
 ||cdn.userway.org^
 ambcrypto.com##.ub-sticky-ad-containerdesk
