@@ -885,20 +885,13 @@ secure.verizon.com###divhomebot
 ||news.google.com/swg/$script,third-party
 ||accounts.google.com/gsi/$~script
 ||smartlock.google.com^
-/amp-access-$script
-||tinypass.com^$third-party
-@@||experience.tinypass.com/xbuilder/$script,3p
 ||mediapass.com^$third-party
 ||scroll.com^$third-party
 ||wallkit.net^$third-party
-||evolok.com^$third-party
-||evolok.net^$third-party
 ||piano.io^$third-party
 ||qiota.com^$third-party,important
-||poool.fr^$third-party
 ||onecount.net^$third-party
 ||profitwell.com^$third-party
-||pelcro.com^$third-party
 ||mppapi.io^$third-party
 ||mppglobal.com^$third-party
 ||batch.com^$third-party
@@ -939,11 +932,6 @@ seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 ||collector-pxxgcxm9by.cl6.px-cloud.net^
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
-www.cnbc.com##.pro-feedback-fixed
-www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
-cnbc.com#@#.SocialShare-socialShare
-www.cnbc.com##.ProHub-outerContainer
-||geo.cnbc.com^
 enfusion.com##.bg-gradient-12
 cryptodaily.co.uk##.leaderboard-top-ad.row
 cryptodaily.co.uk##.braking-right
@@ -1065,7 +1053,6 @@ www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
 www.cryptonewsz.com##.stream-item-top-wrapper
 www.cryptonewsz.com##.widget_block
-www.cnbc.com##.TopBanner-styles-makeit-container--jXi8P
 cartesi.io##.footer-module--gdprBlock--2ms5n
 icoholder.com##.top-binance
 digitalcoinprice.com##.ads-90
@@ -1277,3 +1264,10 @@ coinmarketcap.com##.iMyvIy
 coinmarketcap.com##.ixZvdc
 coinmarketcap.com##.kXmtVc
 coinmarketcap.com##.modalOpened
+www.cnbc.com##.pro-feedback-fixed
+www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
+cnbc.com#@#.SocialShare-socialShare
+www.cnbc.com##.ProHub-outerContainer
+||geo.cnbc.com^
+www.cnbc.com##.TopBanner-styles-makeit-container--jXi8P
+www.cnbc.com###Market\ Data_LiveTVTempPass
