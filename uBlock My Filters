@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 27 May 2022
+Last modified: 04 June 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -799,51 +799,6 @@ www.vox.com###toaster
 ||archive.org/includes/donate.php$subdocument
 web.archive.org###donato
 u.today##.something
-chrome.google.com##.Yb
-scholar.google.com##.gs_r.gs_qsuggest_wrap
-creatoracademy.youtube.com###google-hats-survey
-support.google.com##.user-feedback-link
-support.google.com##sc-client-feedback-inline-feedback-link
-||ogs.google.com/u/0/widget/callout/sid$subdocument
-mail.google.com###google-hats-survey
-||contributor.google.com
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-google.*##div[id^="eob"]
-www.google.com##.KGl2dd.fl
-www.google.com##.xtBRad
-www.google.com##.Zes0Mc
-www.google.com##.pWCvWb
-www.google.com##.dobdf.nPDigc
-www.google.com##.z2QsLb.VjDLd
-www.google.com##div.J3Tg1d.PNCib.isv-r
-www.google.com##.LEKZTd
-www.google.com##.vcsi.l8pIW.a5mgdf
-www.google.com##.InNVqc
-www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
-www.google.com##.f0FBcf
-www.google.com###brs
-www.google.com###bres
-www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
-www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
-www.google.com##.hI5uQc.VjDLd
-www.google.com##.gVqDn
-www.google.com##.SfSHIf
-www.google.com###w3bYAd
-www.google.com##.g4peUd.V88cHc.ynRric
-www.google.com##li.sbre.ZCOBRd
-www.google.com##.MjfBXe.VjDLd
-www.google.com##.cUnQKe.AuVD
-www.google.com##.kno-ftr.rpBMYb
-www.google.com##.YfftMc
-www.google.com##li.sbre.IDVnvc
-www.google.com##.K2P9Ob.V88cHc.ynRric
-www.google.com##.PnU5cd.fwsf4b.fHIdc
-www.google.com##.vcsi.a5mgdf
-www.google.com##div.cLjAic.TzHB6b > .sATSHe > .wp-ms.gsrt.JNkvid
-www.google.com##.rLrQHf
-google.*##.ynRric, .ynRric+ul
-@@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
-www.google.com###google-hats-survey
 ||xewarycy.xyz^
 ||api.xewarycy.xyz^
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
@@ -1267,6 +1222,52 @@ www.cnbc.com##.pro-feedback-fixed
 www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
 cnbc.com#@#.SocialShare-socialShare
 www.cnbc.com##.ProHub-outerContainer
-||geo.cnbc.com^
 www.cnbc.com##.TopBanner-styles-makeit-container--jXi8P
 www.cnbc.com###Market\ Data_LiveTVTempPass
+||geo.cnbc.com^
+chrome.google.com##.Yb
+scholar.google.com##.gs_r.gs_qsuggest_wrap
+creatoracademy.youtube.com###google-hats-survey
+support.google.com##.user-feedback-link
+support.google.com##sc-client-feedback-inline-feedback-link
+||ogs.google.com/u/0/widget/callout/sid$subdocument
+mail.google.com###google-hats-survey
+||contributor.google.com
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+google.*##div[id^="eob"]
+www.google.com##.KGl2dd.fl
+www.google.com##.xtBRad
+www.google.com##.Zes0Mc
+www.google.com##.pWCvWb
+www.google.com##.dobdf.nPDigc
+www.google.com##.z2QsLb.VjDLd
+www.google.com##div.J3Tg1d.PNCib.isv-r
+www.google.com##.LEKZTd
+www.google.com##.vcsi.l8pIW.a5mgdf
+www.google.com##.InNVqc
+www.google.com##.g-blk.mnr-c.kno-kp.g > .KFFQ0c
+www.google.com##.f0FBcf
+www.google.com###brs
+www.google.com###bres
+www.google.com##.OJXvsb.Wnoohf.cUnQKe.kp-blk
+www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
+www.google.com##.hI5uQc.VjDLd
+www.google.com##.gVqDn
+www.google.com##.SfSHIf
+www.google.com###w3bYAd
+www.google.com##.g4peUd.V88cHc.ynRric
+www.google.com##li.sbre.ZCOBRd
+www.google.com##.MjfBXe.VjDLd
+www.google.com##.cUnQKe.AuVD
+www.google.com##.kno-ftr.rpBMYb
+www.google.com##.YfftMc
+www.google.com##li.sbre.IDVnvc
+www.google.com##.K2P9Ob.V88cHc.ynRric
+www.google.com##.PnU5cd.fwsf4b.fHIdc
+www.google.com##.vcsi.a5mgdf
+www.google.com##div.cLjAic.TzHB6b > .sATSHe > .wp-ms.gsrt.JNkvid
+www.google.com##.rLrQHf
+google.*##.ynRric, .ynRric+ul
+@@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
+www.google.com###google-hats-survey
+www.google.com##.commercial-unit-desktop-top
