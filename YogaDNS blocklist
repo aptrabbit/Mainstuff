@@ -122,7 +122,6 @@ sdk.helloextend.com
 api.omappapi.com
 app.letsgoconvert.com
 builder-assets.unbounce.com
-unbouncepages.com
 0.datadog.pool.ntp.org
 3.datadog.pool.ntp.org
 combine.asnapieu.com
@@ -176,3 +175,5 @@ s.amazon-adsystem.com
 feedback.fish
 events.gfe.nvidia.com
 bespoke-analytics.razerapi.com
+events-service.coinbase.com
+cdn.opecloud.com
