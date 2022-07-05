@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 25 June 2022
+Last modified: 05 July 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -714,15 +714,6 @@ trading-education.com##.news-card__header-btn
 trading-education.com##.news-video-list.no-padding.col-lg-4.col-md-4.col-sm-12.col-xs-12
 ||sdk.mediamelon.com^
 ||privacy-mgmt.com^
-live94today.com##.enter.floating-chat
-live94today.com##.js-demo-avd.demo-avd
-live94today.com##.pull-left.profile-nav.hide-from-mobile.dropdown
-live94today.com##[href^="https://go.nordvpn.net/aff_c"]
-live94today.com##.watch-video-description
-live94today.com##[href^="https://www.purevpn.com/order-now.php"]
-live94today.com##[href="http://ustv2.com"]
-live94today.com##.row.footer-container > .col-md-12
-||tracker.123tv.live^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
 ||nuance.com^
 ||inq.com^
@@ -1282,3 +1273,17 @@ www.theblockcrypto.com##article.feedCard:nth-of-type(1)
 www.theblockcrypto.com##.daily.feedCard
 www.ncbi.nlm.nih.gov##.custom-feedback-button--base
 www.crunchbase.com##.native-magic-side
+||tracker.123tv.live^
+||ingrimera.com^
+||pbrd.co^
+live94today.com##.enter.floating-chat
+live94today.com##.js-demo-avd.demo-avd
+live94today.com##.watch-video-description
+live94today.com##.row.footer-container
+live94today.com##.pull-left.profile-nav.hide-from-mobile.dropdown
+live94today.com##[href^="https://go.nordvpn.net/aff_c"]
+live94today.com##[href^="https://www.purevpn.com/order-now.php"]
+live94today.com##[href="http://ustv2.com"]
+live94today.com##[href="http://live94today.com/best-vpn-deals/"]
+@@||go2app.org^
+@@||go2speed.org^
