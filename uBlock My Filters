@@ -503,11 +503,6 @@ thekrazycouponlady.com#@#.share-buttons
 enotes.com##+js(rc, is-paywalled)
 www.genomeweb.com##.footer__ads-footer
 www.theonion.com###js_moreFromNetwork
-www.coingecko.com##.sponsored-v2
-www.coingecko.com##div:nth-of-type(3) > div > .text-secondary
-www.coingecko.com##.mb-2.mt-1.text-sm
-www.coingecko.com##.mt-md-0.tw-mt-3.flex-wrap.tw-flex.lg\:tw-ml-3
-www.coingecko.com##.tw-ads-btn-md.btn-success.btn
 www.esports.com##.adtech-section
 cryptonews.com##.cookieConsentWrapper
 cryptonews.com##.mb-40.d-lg-block.d-none.dslot
@@ -1287,3 +1282,4 @@ live94today.com##[href="http://ustv2.com"]
 live94today.com##[href="http://live94today.com/best-vpn-deals/"]
 @@||go2app.org^
 @@||go2speed.org^
+www.coingecko.com##.tw-text-left
