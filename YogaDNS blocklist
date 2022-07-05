@@ -157,7 +157,6 @@ o308222.ingest.sentry.io
 o211375.ingest.sentry.io
 o106853.ingest.sentry.io
 browser.sentry-cdn.com
-launcher.spot.im
 dms-b631cr6a35report.wc.yahoodns.net
 dms-alyquywwtkreport.wc.yahoodns.net
 dms-mcdn-report.wc.yahoodns.net
@@ -176,3 +175,6 @@ events.gfe.nvidia.com
 bespoke-analytics.razerapi.com
 events-service.coinbase.com
 cdn.opecloud.com
+launcher.spot.im
+launcher-sa.spot.im
+ingrimera.com
