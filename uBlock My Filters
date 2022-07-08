@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 05 July 2022
+Last modified: 08 July 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1283,3 +1283,8 @@ live94today.com##[href="http://live94today.com/best-vpn-deals/"]
 @@||go2app.org^
 @@||go2speed.org^
 www.coingecko.com##.tw-text-left
+||dashboard.wheelio-app.com^
+||config.gorgias.chat^
+||config.gorgias.io^
+||cdn.judge.me^
+||cdn.hextom.com^
