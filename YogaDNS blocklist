@@ -67,6 +67,7 @@ outsideapple.apple.com
 iphonesubmissions.apple.com
 zeusmedia.apple.com
 experiments.apple.com
+csp.withgoogle.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 forcesafesearch.google.com
@@ -102,6 +103,7 @@ cdn.cookielaw.org
 nvidia.tt.omtrdc.net
 apimon.de
 js.impressions.mediagamma.com
+alb.reddit.com
 e.reddit.com
 ||w3-reporting.reddit.com^$important
 ||w3-reporting-nel.reddit.com^$important
