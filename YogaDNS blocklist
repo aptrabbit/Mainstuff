@@ -106,6 +106,7 @@ apimon.de
 js.impressions.mediagamma.com
 alb.reddit.com
 e.reddit.com
+reddit.report-uri.com
 ||w3-reporting.reddit.com^$important
 ||w3-reporting-nel.reddit.com^$important
 etl.tindersparks.com
@@ -163,6 +164,7 @@ ingest.sentry.io
 o308222.ingest.sentry.io
 o211375.ingest.sentry.io
 o106853.ingest.sentry.io
+o552333.ingest.sentry.io
 browser.sentry-cdn.com
 dms-b631cr6a35report.wc.yahoodns.net
 dms-alyquywwtkreport.wc.yahoodns.net
