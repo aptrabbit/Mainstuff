@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 08 July 2022
+Last modified: 03 August 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -172,9 +172,6 @@ www.zoosk.com##.interesting-info-header-div.interesting-info-div.text-center.sma
 patook.com##.cookies_subtext
 www.pdfdrive.com##.show.fade
 www.pdfdrive.com###alternatives > div > .form-inline
-www.theguardian.com##.css-9aekbr
-www.theguardian.com###sp_message_container_383916
-www.theguardian.com###sp_message_container_414202
 invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0.mb-4.p-4.relative.inv-sidebar-widget
 invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
@@ -1245,7 +1242,7 @@ www.google.com##li.sbre.IDVnvc
 www.google.com##.K2P9Ob.V88cHc.ynRric
 www.google.com##.PnU5cd.fwsf4b.fHIdc
 www.google.com##.vcsi.a5mgdf
-www.google.com##div.cLjAic.TzHB6b > .sATSHe > .wp-ms.gsrt.JNkvid
+www.google.com##div.cLjAic.TzHB6b .sATSHe > .wp-ms.gsrt.JNkvid
 www.google.com##.rLrQHf
 www.google.com##xe7COe
 google.*##.ynRric, .ynRric+ul
@@ -1272,20 +1269,28 @@ www.crunchbase.com##.native-magic-side
 ||tracker.123tv.live^
 ||ingrimera.com^
 ||pbrd.co^
-live94today.com##.enter.floating-chat
-live94today.com##.js-demo-avd.demo-avd
-live94today.com##.watch-video-description
-live94today.com##.row.footer-container
-live94today.com##.pull-left.profile-nav.hide-from-mobile.dropdown
-live94today.com##[href^="https://go.nordvpn.net/aff_c"]
-live94today.com##[href^="https://www.purevpn.com/order-now.php"]
-live94today.com##[href="http://ustv2.com"]
-live94today.com##[href="http://live94today.com/best-vpn-deals/"]
+123tv.live##.enter.floating-chat
+123tv.live##.js-demo-avd.demo-avd
+123tv.live##.watch-video-description
+123tv.live##.row.footer-container
+123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
+123tv.live##[href^="https://go.nordvpn.net/aff_c"]
+123tv.live##[href^="https://www.purevpn.com/order-now.php"]
+123tv.live##[href="http://ustv2.com"]
+123tv.live##[href="http://live94today.com/best-vpn-deals/"]
+123tv.live##[href="http://live94today.com/nfl-streams/"]
 @@||go2app.org^
 @@||go2speed.org^
-www.coingecko.com##.tw-text-left
 ||dashboard.wheelio-app.com^
 ||config.gorgias.chat^
 ||config.gorgias.io^
 ||cdn.judge.me^
 ||cdn.hextom.com^
+||cdns.gigya.com^
+www.theguardian.com##.css-9aekbr
+www.theguardian.com###sp_message_container_383916
+www.theguardian.com###sp_message_container_414202
+www.coingecko.com###geckoFloat
+www.nerdwallet.com###reg-modal-wrapper
+123tv.live##.publisher-name
+||txt.me^
