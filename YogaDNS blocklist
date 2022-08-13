@@ -165,6 +165,7 @@ o308222.ingest.sentry.io
 o211375.ingest.sentry.io
 o106853.ingest.sentry.io
 o552333.ingest.sentry.io
+o118392.ingest.sentry.io
 browser.sentry-cdn.com
 dms-b631cr6a35report.wc.yahoodns.net
 dms-alyquywwtkreport.wc.yahoodns.net
@@ -199,3 +200,4 @@ liveperson.teridion.systems
 na.iso.postaffiliatepro.com
 personalization.bloomberg.com
 api.saasexch.com
+cdn.rollbar.com
