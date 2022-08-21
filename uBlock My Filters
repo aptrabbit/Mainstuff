@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 08 August 2022
+Last modified: 21 August 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -188,8 +188,6 @@ www.crunchyroll.com###showmedia_free_trial_signup
 caliva.com###ccpa-app
 www.softwaresuggest.com##.visible.exit-intent-popup
 ||*.animenewsnetwork.com/assets/*.png$subdocument
-news.bitcoin.com##.custom-html-widget.textwidget > p
-news.bitcoin.com##.sticky-down.bn_desktop_widgets > .bitcoin-widget
 www.digitalrealty.com##.js-show.uk-alert.uk-animation-fade.CookieNotice
 www.space.com##.Campaign--css.CampaignType--popup.Campaign.portland-campaign.exit-intent__dark-background.exit-intent
 www.space.com##.dfp-leaderboard-container
@@ -1296,3 +1294,10 @@ www.nerdwallet.com###reg-modal-wrapper
 ||txt.me^
 check-host.net##div.athold11wr
 fortune.com###Leaderboard0
+www.paypal.com##.inv-feedback
+||kaisaimy.net^
+||pouneeso.com^
+||vlqjjcakn.com^
+news.bitcoin.com##.custom-html-widget
+news.bitcoin.com##.sticky-down.bn_desktop_widgets 
+www.bitcoin.com###bitcoincom-wgt-footer
