@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 21 August 2022
+Last modified: 26 August 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1264,20 +1264,8 @@ www.theblockcrypto.com##article.feedCard:nth-of-type(1)
 www.theblockcrypto.com##.daily.feedCard
 www.ncbi.nlm.nih.gov##.custom-feedback-button--base
 www.crunchbase.com##.native-magic-side
-||tracker.123tv.live^
 ||ingrimera.com^
 ||pbrd.co^
-123tv.live##.enter.floating-chat
-123tv.live##.js-demo-avd.demo-avd
-123tv.live##.watch-video-description
-123tv.live##.row.footer-container
-123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
-123tv.live##[href^="https://go.nordvpn.net/aff_c"]
-123tv.live##[href^="https://www.purevpn.com/order-now.php"]
-123tv.live##[href="http://ustv2.com"]
-123tv.live##[href="http://live94today.com/best-vpn-deals/"]
-123tv.live##[href="http://live94today.com/nfl-streams/"]
-123tv.live##.video-likes
 @@||go2app.org^
 @@||go2speed.org^
 ||dashboard.wheelio-app.com^
@@ -1302,3 +1290,16 @@ www.paypal.com##.inv-feedback
 news.bitcoin.com##.custom-html-widget
 news.bitcoin.com##.sticky-down.bn_desktop_widgets 
 www.bitcoin.com###bitcoincom-wgt-footer
+||tracker.123tv.live^
+123tv.live##.enter.floating-chat
+123tv.live##.js-demo-avd.demo-avd
+123tv.live##.watch-video-description
+123tv.live##.row.footer-container
+123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
+123tv.live##[href^="https://go.nordvpn.net/aff_c"]
+123tv.live##[href^="https://www.purevpn.com/order-now.php"]
+123tv.live##[href="http://ustv2.com"]
+123tv.live##[href="http://123tv.live/best-vpn-deals/"]
+123tv.live##.video-likes
+www.blockchain.com##.dKFNB
+www.blockchain.com##.cgSUhY
