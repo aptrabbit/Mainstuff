@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 26 August 2022
+Last modified: 28 August 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -238,7 +238,7 @@ functionpoint.com###featured-image
 www.mindtools.com##.responsive-ad-container
 www.mindtools.com##.display-on-load
 www.mindtools.com##div.panel.banner-vertical-article.banner-vertical.banner.advert
-www.g2.com##.hide-for-small-only.bg-midnight-100.border-color--medium-gray.border-bottom
+www.g2.com##.border-bottom
 www.greekrank.com###main-container > .container > div:nth-of-type(1)
 www.greekrank.com#@#.like-box
 www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
@@ -1229,7 +1229,7 @@ www.google.com##.OJXvsb.Wnoohf.nGydZ.kp-blk
 www.google.com##.hI5uQc.VjDLd
 www.google.com##.gVqDn
 www.google.com##.SfSHIf
-www.google.com###w3bYAd
+www.google.com##w3bYAd
 www.google.com##.g4peUd.V88cHc.ynRric
 www.google.com##li.sbre.ZCOBRd
 www.google.com##.MjfBXe.VjDLd
@@ -1243,10 +1243,11 @@ www.google.com##.vcsi.a5mgdf
 www.google.com##div.cLjAic.TzHB6b .sATSHe > .wp-ms.gsrt.JNkvid
 www.google.com##.rLrQHf
 www.google.com##xe7COe
-google.*##.ynRric, .ynRric+ul
+www.google.com##.ynRric
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
+https://accounts.google.com/gsi/client
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
@@ -1303,3 +1304,6 @@ www.bitcoin.com###bitcoincom-wgt-footer
 123tv.live##.video-likes
 www.blockchain.com##.dKFNB
 www.blockchain.com##.cgSUhY
+||footprint.net^
+||cdn.branch.io^$important
+||cdn.sprig.com^
