@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 28 August 2022
+Last modified: 29 August 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -83,11 +83,6 @@ thepostmillennial.com##.lazyload.content.publicity
 www.barchart.com##.in.auth-no-modal-ref-class.authentication-modal.register-modal.fade.reveal-modal
 www.barchart.com##.in.fade.reveal-modal-bg
 civilwartalk.com##font > center
-www.studocu.com##.pop-up--21ihD
-www.studocu.com##.preview-banner--1fHJL
-www.studocu.com##.fade-in-enter-done.overlay
-www.studocu.com##.support-button--1wdGm.ic-text
-www.studocu.com###wrapper-all > div > .bar--1Rnih
 www.ecstuning.com##.show.fade.hide.modal
 www.bremboparts.com##.tooltip-newsletter
 www.pelicanparts.com##.simplemodal2-container
@@ -1147,17 +1142,6 @@ cryptobriefing.com##.ub-emb-container
 cryptobriefing.com##.ai-rotate
 cryptobriefing.com##.ad-container
 www.seobility.net###help-container
-cointelegraph.com##.price-indexes-widget
-cointelegraph.com###vue-footer
-cointelegraph.com##div.affix-sidebar__widget:nth-of-type(2)
-cointelegraph.com##.post__content-shares
-cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde._2rV5LIJ7plLuPI3tsFD4I
-cointelegraph.com##div.sidebar__widget:nth-of-type(2)
-cointelegraph.com##.sidebar__promo-button
-cointelegraph.com##.article-subscription-widget
-cointelegraph.com##._2IxeML686SESUEKn8x0jHv
-https://cointelegraph.com/adsense/ads.js
-||zoa.cointelegraph.com^
 thenftunicorn.com##.tickercontainer
 coincodex.com##.StickyTop
 coincodex.com##.StickyBottom
@@ -1308,6 +1292,22 @@ www.blockchain.com##.cgSUhY
 ||cdn.sprig.com^
 ||js.hsforms.net^
 ||throttled.ovp.peacocktv.com^
+www.studocu.com##.pop-up--21ihD
+www.studocu.com##.preview-banner--1fHJL
+www.studocu.com##.fade-in-enter-done
+www.studocu.com##.support-button--1wdGm
+www.studocu.com##.bar--1Rnih
 www.studocu.com##._cbad9bafd417
 ||eesysoft.com^
 ||evaluationkit.com^
+||mktossl.com^
+cointelegraph.com##.price-indexes-widget
+cointelegraph.com###vue-footer
+cointelegraph.com##.post__content-shares
+cointelegraph.com##.sidebar__promo-button
+cointelegraph.com##.article-subscription-widget
+cointelegraph.com##div.sidebar__widget:nth-of-type(2)
+cointelegraph.com##div.sidebar__widget:nth-of-type(3)
+cointelegraph.com##.header-zone__banners
+https://cointelegraph.com/adsense/ads.js
+||zoa.cointelegraph.com^
