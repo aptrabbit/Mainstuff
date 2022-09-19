@@ -1,4 +1,4 @@
-events.mapbox.comThis list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
+This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
 Last modified: 19 Sep 2022
@@ -1198,7 +1198,6 @@ www.google.com##.hI5uQc.VjDLd
 www.google.com##.gVqDn
 www.google.com##.SfSHIf
 www.google.com##w3bYAd
-www.google.com##.ynRric
 www.google.com##li.sbre.ZCOBRd
 www.google.com##.MjfBXe.VjDLd
 www.google.com##.cUnQKe.AuVD
@@ -1207,10 +1206,10 @@ www.google.com##.YfftMc
 www.google.com##li.sbre.IDVnvc
 www.google.com##.PnU5cd.fwsf4b.fHIdc
 www.google.com##.vcsi.a5mgdf
-www.google.com##.wp-ms
 www.google.com##.rLrQHf
 www.google.com##xe7COe
 www.google.com##.ynRric
+www.google.com##.oIk2Cb
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
