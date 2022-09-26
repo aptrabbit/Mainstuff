@@ -55,6 +55,8 @@ vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
 watson.live.com
 watson.ppe.telemetry.microsoft.com
+www-www.bing.com.trafficmanager.net
+ts-inq-us1.trafficmanager.net
 outside.apple.com
 xp.apple.com
 basejumper.apple.com
@@ -211,3 +213,4 @@ x.ss2.us
 www.yext-pixel.com
 tonicpow.com
 events.mapbox.com
+relay-iad.sentry.insops.net
