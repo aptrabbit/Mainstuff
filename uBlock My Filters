@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 23 Sep 2022
+Last modified: 29 Sep 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1193,7 +1193,6 @@ www.google.com##.KFFQ0c
 www.google.com##.f0FBcf
 www.google.com###brs
 www.google.com###bres
-www.google.com##.OJXvsb.Wnoohf
 www.google.com##.hI5uQc.VjDLd
 www.google.com##.gVqDn
 www.google.com##.SfSHIf
@@ -1316,3 +1315,19 @@ www.usatoday.com##.gnt_xbr
 www.kraken.com##.fc-ea86f4fb-7
 www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
+www.designpieces.com##.widget_custom_html
+cryptoslate.com##.clickout-banner-native_table_box-bottom
+www.svgrepo.com##.style-module--flexbar--WT2ii
+www.svgrepo.com##.style-module--nativeInline--1pnni
+switchnutrition.com.au##.js-toggle-slide-nav
+||prod.purechatcdn.com^
+||api.purechat.com^
+||scripttags.jst.ai^
+||js.smile.io^
+shopbestnaturals.com###sro-popup
+||cdn.codeblackbelt.com^
+||widget.dovetale.com^
+||cdn1.stamped.io^
+||app.avada.io^
+||seo.apps.avada.io^
+||www.goldendev.win^
