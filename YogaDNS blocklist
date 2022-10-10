@@ -222,4 +222,5 @@ aws-cf.api.snapchat.com
 euw.adserver.snapads.com
 ads-interfaces.sc-cdn.net
 europe-west1-gcp.api.snapchat.com
-aws.duplex.snapchat.com
+gcp.api.snapchat.com
+app.snapchat.com
