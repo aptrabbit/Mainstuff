@@ -217,9 +217,10 @@ relay-iad.sentry.insops.net
 consent.cookiebot.com
 res.lassomarketing.io
 adsapi.snapchat.com
-asia-southeast1-gcp.api.snapchat.com
 aws-cf.api.snapchat.com
 euw.adserver.snapads.com
 ads-interfaces.sc-cdn.net
+asia-southeast1-gcp.api.snapchat.com
 europe-west1-gcp.api.snapchat.com
 us-central1-gcp.api.snapchat.com
+us-east4-gcp.api.snapchat.com
