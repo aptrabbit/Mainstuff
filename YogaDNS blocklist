@@ -225,4 +225,5 @@ asia-southeast1-gcp.api.snapchat.com
 europe-west1-gcp.api.snapchat.com
 us-central1-gcp.api.snapchat.com
 us-east1-aws.api.snapchat.com
+us-east1-aws-cf.api.snapchat.com
 aws-proxy-gcp.api.snapchat.com
