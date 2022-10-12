@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 29 Sep 2022
+Last modified: 12 Oct 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1094,12 +1094,6 @@ www.thejakartapost.com##.ads-large-leaderboard
 www.thejakartapost.com##.ad-v-box
 developers.facebook.com###devsite_dock
 @@||d2gdx5nv84sdx2.cloudfront.net^
-pixabay.com##.container--1MiV3
-pixabay.com##.container--Ir0yq
-pixabay.com##.viewMore--1odRT
-pixabay.com##.sponsoredWithResults--1tY
-pixabay.com##.show-gtty-item
-pixabay.com##.present-gtty-item
 ||hyperlinq.user.com^
 www.tronweekly.com##.widget_media_image
 fontawesome.com##.wrap-ad
@@ -1269,7 +1263,6 @@ www.bitcoin.com###bitcoincom-wgt-footer
 123tv.live##.video-likes
 www.blockchain.com##.dKFNB
 www.blockchain.com##.cgSUhY
-||footprint.net^
 ||cdn.branch.io^$important
 ||cdn.sprig.com^
 ||js.hsforms.net^
@@ -1321,6 +1314,14 @@ www.svgrepo.com##.style-module--flexbar--WT2ii
 www.svgrepo.com##.style-module--nativeInline--1pnni
 switchnutrition.com.au##.js-toggle-slide-nav
 shopbestnaturals.com###sro-popup
+pixabay.com##.container--1MiV3
+pixabay.com##.container--Ir0yq
+pixabay.com##.viewMore--1odRT
+pixabay.com##.sponsoredWithResults--1tY
+pixabay.com##.show-gtty-item
+pixabay.com##.present-gtty-item
+pixabay.com##.present-g-item
+pixabay.com##.affil_medias
 ||prod.purechatcdn.com^
 ||api.purechat.com^
 ||scripttags.jst.ai^
@@ -1332,3 +1333,4 @@ shopbestnaturals.com###sro-popup
 ||seo.apps.avada.io^
 ||www.goldendev.win^
 ||pitchleads.com^
+||events.mapbox.com^
