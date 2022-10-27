@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 12 Oct 2022
+Last modified: 27 Oct 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -159,7 +159,6 @@ www.techradar.com##.slot-double-height-6-566
 www.techradar.com##.slot-double-height-image-6
 www.techradar.com###affiliateDisclaimer
 genius.com##apple-music-player
-mail.yahoo.com###modal-outer
 www.swipehelper.com###tysixjhbu-blanket
 www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
 www.vidaselect.com##.cpro-open.cp-module-modal_popup.cp_style_19364.cp-popup-live-wrap.cp-popup-container
@@ -628,12 +627,6 @@ account.protonmail.com##.topnav-link--blackfriday.relative
 appgrooves.com##.transitions-enabled.sticky-signup-section
 appgrooves.com##.mg-b-16.app-deals-wrapper
 appgrooves.com##.hidden-sm.hidden-xs.leftnav-menus-container > div > .mg-b-16.bordered-radius.page-section
-decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
-decrypt.co##.adbutler-inline-ad
-decrypt.co##.bHGkbV.sc-13hse52-0
-decrypt.co##.pfVfn.sc-13hse52-0
-decrypt.co##.gJejSD.iTqRUR.sc-15vdjcx-1.sc-1lyao0r-0 > .unreset
-decrypt.co##.fqsKrT.sc-gzqtco-0
 ||printoperatelanguage.top^
 ||cdn.userway.org^
 ambcrypto.com##.ub-sticky-ad-containerdesk
@@ -932,8 +925,7 @@ www.amazon.com###sims-consolidated-2_feature_div
 www.amazon.com##.sc-java-remote-feature.a-spacing-medium.a-section
 www.amazon.com##.s-widget-padding-bottom
 www.amazon.com###huc-first-upsell-row
-www.amazon.com##.sg-col-12-of-16.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item
-www.amazon.com##div.s-widget-spacing-large.s-widget
+www.amazon.com##.sg-col-12-of-16.sg-col.s-widget
 www.amazon.com###promotions_feature_div
 zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
@@ -1334,3 +1326,21 @@ pixabay.com##.affil_medias
 ||www.goldendev.win^
 ||pitchleads.com^
 ||events.mapbox.com^
+1movies.life###_asdhj234esdfgds
+1movies.life##.notif
+1movies.life##.desk_option
+1movies.life###add_margin_1
+1movies.life##[href^="/user/premiummembership"]
+1movies.life##.auth
+1movies.life###actor_preview
+1movies.life##.footer_content
+decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
+decrypt.co##.adbutler-inline-ad
+decrypt.co##.bHGkbV
+decrypt.co##.pfVfn
+decrypt.co##.gJejSD
+decrypt.co##.fqsKrT
+decrypt.co##.mt-8
+||edge.marker.io^
+||app.octaneai.com^
+||social-login.oxiapps.com^
