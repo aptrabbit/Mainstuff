@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 1 Nov 2022
+Last modified: 7 Nov 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1349,3 +1349,5 @@ decrypt.co##.mt-8
 projects.fivethirtyeight.com###ad
 www.snopes.com##.banner_ad_between_sections
 www.snopes.com##.become_member_section
+www.realclearpolitics.com###distro_right_rail
+||apps.rokt.com^
