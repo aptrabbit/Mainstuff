@@ -1351,3 +1351,12 @@ www.snopes.com##.banner_ad_between_sections
 www.snopes.com##.become_member_section
 www.realclearpolitics.com###distro_right_rail
 ||apps.rokt.com^
+www.startpage.com##.css-54mn9i
+www.startpage.com##.css-1pducxn
+www.startpage.com##.css-1o12sfa
+||www.startpage.com^$removeparam=pl
+||www.startpage.com^$removeparam=language
+||www.startpage.com^$removeparam=extVersion
+||www.startpage.com^$removeparam=sc
+||www.startpage.com^$removeparam=t
+||www.startpage.com^$removeparam=lui
