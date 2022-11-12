@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 7 Nov 2022
+Last modified: 11 Nov 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1242,17 +1242,6 @@ www.paypal.com##.inv-feedback
 news.bitcoin.com##.custom-html-widget
 news.bitcoin.com##.sticky-down.bn_desktop_widgets 
 www.bitcoin.com###bitcoincom-wgt-footer
-||tracker.123tv.live^
-123tv.live##.enter.floating-chat
-123tv.live##.js-demo-avd.demo-avd
-123tv.live##.watch-video-description
-123tv.live##.row.footer-container
-123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
-123tv.live##[href^="https://go.nordvpn.net/aff_c"]
-123tv.live##[href^="https://www.purevpn.com/order-now.php"]
-123tv.live##[href="http://ustv2.com"]
-123tv.live##[href="http://123tv.live/best-vpn-deals/"]
-123tv.live##.video-likes
 www.blockchain.com##.dKFNB
 www.blockchain.com##.cgSUhY
 ||cdn.branch.io^$important
@@ -1354,9 +1343,31 @@ www.realclearpolitics.com###distro_right_rail
 www.startpage.com##.css-54mn9i
 www.startpage.com##.css-1pducxn
 www.startpage.com##.css-1o12sfa
+www.startpage.com##.block-display
+www.startpage.com##.footer__links
 ||www.startpage.com^$removeparam=pl
 ||www.startpage.com^$removeparam=language
 ||www.startpage.com^$removeparam=extVersion
 ||www.startpage.com^$removeparam=sc
 ||www.startpage.com^$removeparam=t
 ||www.startpage.com^$removeparam=lui
+||yahoo.com^$removeparam=src
+||yahoo.com^$removeparam=.done
+||yahoo.com^$removeparam=activity
+||yahoo.com^$removeparam=pspid
+||yahoo.com^$removeparam=done
+||yahoo.com^$removeparam=guccounter
+||yahoo.com^$removeparam=guce_referrer
+||yahoo.com^$removeparam=guce_referrer_sig
+||tracker.123tv.live
+||9live.club^
+123tv.live##.enter.floating-chat
+123tv.live##.js-demo-avd.demo-avd
+123tv.live##.watch-video-description
+123tv.live##.row.footer-container
+123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
+123tv.live##[href^="https://go.nordvpn.net/aff_c"]
+123tv.live##[href^="https://www.purevpn.com/order-now.php"]
+123tv.live##[href="http://ustv2.com"]
+123tv.live##[href="https://123tv.live/best-vpn-deals/"]
+123tv.live##.video-likes
