@@ -1,7 +1,7 @@
 This list contains filters from using uBlock Origin's element blocker, other filter lists, and my own knowledge, organized by domain.
 90% + of this list should be safe and not break anything, but there are some filters that I block (like chat bots and buy now, pay later domains) that you may not want to block.
 Use at your own risk and whitelist as needed.
-Last modified: 11 Nov 2022
+Last modified: 12 Nov 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -525,18 +525,6 @@ www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
 www.linkedin.com##.show.cta-modal
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
-www.wcostream.com###reklam_adscat > table
-www.wcostream.com###star-watch-on
-www.wcostream.com##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
-www.wcostream.com##.larkax table
-www.wcostream.com##.anti-ad
-www.wcostream.com##.alert
-www.wcostream.com##.iltext > table
-www.wcostream.com##[href="https://user.wco.tv"]
-||www.wcostream.com/wp-content/themes/animewp78712/images/bg.jpg$image
-www.wcostream.com###close-this-ad
-www.wcostream.com##td > div > span
-www.wcostream.com##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
 www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
 www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
 www.tennisrecruiting.net##[href^="http://www.tennis-warehouse.com/"]
@@ -1004,9 +992,6 @@ sports.yahoo.com##.wafer-beacon
 sports.yahoo.com###postArticle
 sports.yahoo.com###module-spotIm
 sports.yahoo.com###module-moreStories
-twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
-twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
-twitter.com##.r-gtdqiz.r-494qqr
 walletinvestor.com##.btn-loan
 walletinvestor.com##.ticker-highlight
 walletinvestor.com##.sticky-show
@@ -1371,3 +1356,25 @@ www.startpage.com##.footer__links
 123tv.live##[href="http://ustv2.com"]
 123tv.live##[href="https://123tv.live/best-vpn-deals/"]
 123tv.live##.video-likes
+||ups.com^$removeparam=SourceCode
+||ups.com^$removeparam=dtm_em
+||ups.com^$removeparam=message_id
+||ups.com^$removeparam=lp
+||ups.com^$removeparam=requester
+||r.bing.com^$third-party
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+||twitter.com^$removeparam=s
+www.wcostream.net###reklam_adscat > table
+www.wcostream.net###star-watch-on
+www.wcostream.net##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
+www.wcostream.net##.larkax table
+www.wcostream.net##.anti-ad
+www.wcostream.net##.alert
+www.wcostream.net##.iltext > table
+www.wcostream.net##[href="https://user.wco.tv"]
+||www.wcostream.net/wp-content/themes/animewp78712/images/bg.jpg$image
+www.wcostream.net###close-this-ad
+www.wcostream.net##td > div > span
+www.wcostream.net##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
+www.wcostream.net##[href^="https://user.wco.tv/wp-login.php"]
