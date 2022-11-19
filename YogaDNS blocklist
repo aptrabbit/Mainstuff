@@ -167,6 +167,7 @@ o106853.ingest.sentry.io
 o552333.ingest.sentry.io
 o118392.ingest.sentry.io
 o1158452.ingest.sentry.io
+o418887.ingest.sentry.io
 browser.sentry-cdn.com
 dms-b631cr6a35report.wc.yahoodns.net
 dms-alyquywwtkreport.wc.yahoodns.net
@@ -250,3 +251,6 @@ global.imrworldwide.com
 sdk.iad-03.braze.com
 vid.kinja.com
 ads.resetsrv.com
+widget.trustpilot.com
+home-c36.nice-incontact.com
+api-na1.niceincontact.com
