@@ -1,4 +1,4 @@
-Last modified: 30 Nov 2022
+Last modified: 03 Dec 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1337,6 +1337,7 @@ www.startpage.com##.footer__links
 123tv.live##[href="http://ustv2.com"]
 123tv.live##[href="https://123tv.live/best-vpn-deals/"]
 123tv.live##.video-likes
+123tv.live##.video-views
 ||ups.com^$removeparam=SourceCode
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id
@@ -1390,3 +1391,4 @@ coinmarketcap.com##.WrRkp
 https://tonewithough.com
 www.w3schools.com###right
 www.seobility.net###sale_sidebar_content
+||cdn.reamaze.com^
