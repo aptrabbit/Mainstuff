@@ -1,4 +1,4 @@
-Last modified: 07 Dec 2022
+Last modified: 08 Dec 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -578,9 +578,6 @@ cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
 ||casinobonusesnow.com^
 www.lasfit.com###soundest-forms-container
-www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
-reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-||diagnostics.redditmedia.com^
 u.today##.something--fixed
 u.today##a.card--something.card
 u.today##.container.something--wide
@@ -750,7 +747,6 @@ u.today##.something
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
 www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 www.twitch.tv###twilight-sticky-footer-root
-www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY > div
 healthfully.com##.sticky.video-player-wrapper
 ||videocdn.studiod.cc^
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
@@ -1396,7 +1392,18 @@ www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
 ||content.shoprunner.com^
 ||medallia.com^$third-party
+www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+||diagnostics.redditmedia.com^
+www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
 www.reddit.com###Carousel-0b100a78-4d3c-469e-992e-dac8779ed5a9
+trailsoffroad.com##.paywall
 ||corover.ai^
 ||truenotify.co.in^
 ||momagic.com^$third-party
+||getgoogletagmanager.com^
+||sdk.loyaltylion.net^
+||admin.revenuehunt.com^
+||app.backinstock.org^
+||readspeaker.com^
+||preferences.trustarc.com^
