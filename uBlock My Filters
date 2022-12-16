@@ -1,4 +1,4 @@
-Last modified: 08 Dec 2022
+Last modified: 15 Dec 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -569,11 +569,6 @@ www.qmee.com##.show-0-2-15.prerender-0-2-14
 news.yahoo.com###close-button-section
 news.yahoo.com###module-monalixaRightRail
 mail.protonmail.com##.topnav-link--blackfriday
-cryptopotato.com##.ai-viewport-1.code-block-6.code-block
-cryptopotato.com##.widget_pojo_image.widget
-cryptopotato.com##.widget_text.widget
-cryptopotato.com##.code-block-12.code-block
-cryptopotato.com##.aos-animate
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
 ||casinobonusesnow.com^
@@ -907,6 +902,7 @@ www.amazon.com##.s-widget-padding-bottom
 www.amazon.com###huc-first-upsell-row
 www.amazon.com##.sg-col-12-of-16.sg-col.s-widget
 www.amazon.com###promotions_feature_div
+||www.amazon.com^$removeparam=ref
 zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
 zycrypto.com###custom_html-13
@@ -1176,6 +1172,16 @@ www.google.com##.oIk2Cb
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
 https://accounts.google.com/gsi/client
+||www.google.com^$removeparam=client
+||www.google.com^$removeparam=-b-d
+||www.google.com^$removeparam=rldimm
+||www.google.com^$removeparam=lqi
+||www.google.com^$removeparam=tbs
+||www.google.com^$removeparam=rflfq
+||www.google.com^$removeparam=phdesc
+||www.google.com^$removeparam=ved
+||www.google.com^$removeparam=num
+||www.google.com^$removeparam=dpr
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
@@ -1398,6 +1404,8 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
 www.reddit.com###Carousel-0b100a78-4d3c-469e-992e-dac8779ed5a9
 trailsoffroad.com##.paywall
+www.allure.com##.ad-stickyhero-enable-mobile
+www.inchcalculator.com##.results-ad-container
 ||corover.ai^
 ||truenotify.co.in^
 ||momagic.com^$third-party
@@ -1408,3 +1416,13 @@ trailsoffroad.com##.paywall
 ||readspeaker.com^
 ||preferences.trustarc.com^
 ||choices.trustarc.com^
+||aspire-svcs.xyzmedia.net^
+||bandar-logger.prezi.com^
+||trace.popin.cc^
+||ip-api.io^
+cryptopotato.com##.ai-viewport-1.code-block-6.code-block
+cryptopotato.com##.widget_pojo_image.widget
+cryptopotato.com##.widget_text.widget
+cryptopotato.com##.code-block-12.code-block
+cryptopotato.com##.aos-animate
+www.mediaite.com##.adthrive-footer-message
