@@ -1,4 +1,4 @@
-Last modified: 15 Dec 2022
+Last modified: 25 Dec 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1398,11 +1398,6 @@ www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
 ||content.shoprunner.com^
 ||medallia.com^$third-party
-www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
-reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-||diagnostics.redditmedia.com^
-www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
-www.reddit.com###Carousel-0b100a78-4d3c-469e-992e-dac8779ed5a9
 trailsoffroad.com##.paywall
 www.allure.com##.ad-stickyhero-enable-mobile
 www.inchcalculator.com##.results-ad-container
@@ -1414,15 +1409,20 @@ www.inchcalculator.com##.results-ad-container
 ||admin.revenuehunt.com^
 ||app.backinstock.org^
 ||readspeaker.com^
-||preferences.trustarc.com^
-||choices.trustarc.com^
 ||aspire-svcs.xyzmedia.net^
 ||bandar-logger.prezi.com^
 ||trace.popin.cc^
 ||ip-api.io^
+||metadata.video.meredithcorp.io^
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
 cryptopotato.com##.widget_text.widget
 cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
+www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
+www.reddit.com###Carousel-0b100a78-4d3c-469e-992e-dac8779ed5a9
+www.reddit.com###Carousel-80636763-26c0-4464-93e7-77bfd0596332
+||diagnostics.redditmedia.com^
