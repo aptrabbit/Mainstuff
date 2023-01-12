@@ -1,4 +1,4 @@
-Last modified: 10 Jan 2022
+Last modified: 12 Jan 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1083,15 +1083,6 @@ www.scienceabc.com##.custom-html-widget
 cleartax.in###glossary-save-top-cta
 cleartax.in###glossary-save-side-cta
 later.com##.o--cookieBanner
-quizlet.com##.site > .HurricaneBannerWrapper
-quizlet.com##.SignupWallInline-overlay
-quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
-quizlet.com##.SetPageStudyModesBanner-body
-quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
-quizlet.com##.is-visible.is-included.UIModal-backdrop
-quizlet.com##.SiteUpgradeButton
-quizlet.com###UniversalUpsellTarget
-quizlet.com##.SetPageEmbeddedAd-wrapper
 cryptobriefing.com##.ad-sticky-banner
 cryptobriefing.com##.article-sidebar-items
 cryptobriefing.com##.top-adv-content
@@ -1441,4 +1432,14 @@ cointelegraph.com##.top-100-people-footer_ads
 ||yotpo.com^$3p
 ||master-shopify-tracker.s3.amazonaws.com^
 ||cdn.richpanel.com^
-||cdn.piano.io^
+quizlet.com##.site > .HurricaneBannerWrapper
+quizlet.com##.SignupWallInline-overlay
+quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
+quizlet.com##.SetPageStudyModesBanner-body
+quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
+quizlet.com##.is-visible.is-included.UIModal-backdrop
+quizlet.com##.SiteUpgradeButton
+quizlet.com###UniversalUpsellTarget
+quizlet.com##.SetPageEmbeddedAd-wrapper
+quizlet.com###onetrust-consent-sdk
+||cdns.us1.gigya.com^
