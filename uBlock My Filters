@@ -1,4 +1,4 @@
-Last modified: 12 Jan 2022
+Last modified: 13 Jan 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -580,8 +580,6 @@ u.today##.something--leaderboard
 u.today##.card--something-md
 u.today##.promoted__mark
 reelrundown.com##.mm-detail-header--image-size-full-bleed.m-detail-header
-www.forbes.com##.ad-rail
-www.forbes.com##.ng-scope.rtb-top-wrapper
 ||nyyuhifa.xyz^
 issueexplorer.com##.con-carbon-noti
 www.bizjournals.com##.u-flex-justify-start.secondary\@lg
@@ -1443,3 +1441,6 @@ quizlet.com###UniversalUpsellTarget
 quizlet.com##.SetPageEmbeddedAd-wrapper
 quizlet.com###onetrust-consent-sdk
 ||cdns.us1.gigya.com^
+||signaler-pa.youtube.com^
+www.forbes.com##.ad-rail
+www.forbes.com##.ng-scope.rtb-top-wrapper
