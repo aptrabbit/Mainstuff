@@ -1,4 +1,4 @@
-Last modified: 25 Jan 2022
+Last modified: 02 Feb 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -830,7 +830,6 @@ cryptodaily.co.uk##div.side-block:nth-of-type(3)
 cryptodaily.co.uk##div.side-block:nth-of-type(5)
 cryptodaily.co.uk##.ad-bottom-spacing
 ||p.typekit.net^
-pro.coinbase.com##.gNNMVp
 www.r-studio.com###pp-info
 carbuzz.com##.ad-placement
 carbuzz.com##.ad-slot
@@ -1432,9 +1431,9 @@ cointelegraph.com##.top-100-people-footer_ads
 ||cdn.richpanel.com^
 quizlet.com##.site > .HurricaneBannerWrapper
 quizlet.com##.SignupWallInline-overlay
-quizlet.com###SetPageSidebarAdz > .SetPage-adzWrapper
+quizlet.com###SetPageSidebarAdz
 quizlet.com##.SetPageStudyModesBanner-body
-quizlet.com##.StudyValueUpsellModal.is-open.is-white.UIModal-container.UIModal
+quizlet.com##.StudyValueUpsellModal
 quizlet.com##.is-visible.is-included.UIModal-backdrop
 quizlet.com##.SiteUpgradeButton
 quizlet.com###UniversalUpsellTarget
@@ -1446,3 +1445,11 @@ www.forbes.com##.ad-rail
 www.forbes.com##.ng-scope.rtb-top-wrapper
 www.mskcc.org###msk-modal-dialog
 ||widget.affordably.me^
+||localization.thdws.com^
+homemetry.com###topads
+homemetry.com##.adsense-responsive-bottom
+homemetry.com###main > div.spinner
+homemetry.com##.ads
+www.coinbase.com##.kuposl
+www.relaxium.com###partial_form
+||app.five9.com^
