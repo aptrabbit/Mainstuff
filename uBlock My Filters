@@ -1,4 +1,4 @@
-Last modified: 03 Feb 2022
+Last modified: 07 Feb 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -198,8 +198,6 @@ winaero.com###dfsfsdfs-asdasd-2
 www.producthunt.com##.styles_promotedSection__1fAUW
 instadp.org##.text1.container
 instadp.org##div:nth-of-type(4)
-www.startpage.com##.footer__blog-widget
-www.startpage.com###feedback-button-container
 consensys.net##.notificationBar__visible--2U7sn.notificationBar__wrapper--378uN
 www.wbur.org##.uw--sponsorships
 www.monster.com##.lilo3746-wrapper
@@ -1284,17 +1282,6 @@ www.snopes.com##.banner_ad_between_sections
 www.snopes.com##.become_member_section
 www.realclearpolitics.com###distro_right_rail
 ||apps.rokt.com^
-www.startpage.com##.css-54mn9i
-www.startpage.com##.css-1pducxn
-www.startpage.com##.css-1o12sfa
-www.startpage.com##.block-display
-www.startpage.com##.footer__links
-||www.startpage.com^$removeparam=pl
-||www.startpage.com^$removeparam=language
-||www.startpage.com^$removeparam=extVersion
-||www.startpage.com^$removeparam=sc
-||www.startpage.com^$removeparam=t
-||www.startpage.com^$removeparam=lui
 ||yahoo.com^$removeparam=src
 ||yahoo.com^$removeparam=.done
 ||yahoo.com^$removeparam=activity
@@ -1459,3 +1446,18 @@ gab.com##a._2RKDs
 ||analytics.talentegy.com^
 ||sitestats.ttcportals.com^
 ||apply.talemetry.com.cdn.cloudflare.net^
+worldpopulationreview.com##.my-2.center
+||www.startpage.com^$removeparam=pl
+||www.startpage.com^$removeparam=language
+||www.startpage.com^$removeparam=extVersion
+||www.startpage.com^$removeparam=sc
+||www.startpage.com^$removeparam=t
+||www.startpage.com^$removeparam=lui
+www.startpage.com##.css-54mn9i
+www.startpage.com##.css-1pducxn
+www.startpage.com##.css-1o12sfa
+www.startpage.com##.block-display
+www.startpage.com##.footer__links
+www.startpage.com##.footer__blog-widget
+www.startpage.com###feedback-button-container
+www.startpage.com##.footer__social
