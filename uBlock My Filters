@@ -1,4 +1,4 @@
-Last modified: 07 Feb 2022
+Last modified: 11 Feb 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -165,7 +165,6 @@ www.pdfdrive.com##.show.fade
 www.pdfdrive.com###alternatives > div > .form-inline
 invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0.mb-4.p-4.relative.inv-sidebar-widget
 invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
-||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
 cryptojobslist.com##._1Oy_ehtA_ibqvuiauHvH6P
 www.perlego.com##.eMbzNt.sc-hqGPoI
 www.crypto-news-flash.com##.cpro-open.cp-module-modal_popup.cp_style_33446.cp-popup-live-wrap.cp-popup-container
@@ -190,7 +189,6 @@ bravenewcoin.com##app-content-block-component > div > app-content-markdown > .ma
 mail.protonmail.com##.latest-upgrade
 mail.protonmail.com##section:nth-of-type(2)
 mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
-||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
 www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
 www.startengine.com###drift-frame-controller
 winaero.com##.entry-content > div
@@ -727,8 +725,6 @@ www.hwinfo.com##.xds
 www.nytimes.com##.css-1wspfld
 www.nytimes.com##.efw9frv0.css-3fbowa.standard.shown.MAG_web_all_Monthly-Sale-dock
 ||embed.simplifeye.co^
-www.vox.com#@#.c-tab-bar
-www.vox.com###toaster
 ||shrm.org/*/design/js/paywall.js$script,1p
 ||archive.org/includes/donate.php$subdocument
 web.archive.org###donato
@@ -1461,3 +1457,17 @@ www.startpage.com##.footer__links
 www.startpage.com##.footer__blog-widget
 www.startpage.com###feedback-button-container
 www.startpage.com##.footer__social
+www.researchgate.net##.rg-us-cookie-banner
+supplements.selfdecode.com##.sidebar-bio
+||api.moonpay.io^
+||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
+||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
+||concertads-configs.vox-cdn.com^
+www.vox.com#@#.c-tab-bar
+www.vox.com###toaster
+||preferences.trustarc.com^
+||app-ab30.marketo.com^
+www.shrm.org##.HP-v2 > .row
+www.shrm.org##.shrm-widget
+www.shrm.org##.metteredHolder
+www.shrm.org##.tile-ad
