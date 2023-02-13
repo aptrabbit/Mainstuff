@@ -1360,7 +1360,6 @@ www.swansonvitamins.com###talkable-offer
 ||content.shoprunner.com^
 ||medallia.com^$third-party
 trailsoffroad.com##.paywall
-www.allure.com##.ad-stickyhero-enable-mobile
 www.inchcalculator.com##.results-ad-container
 ||corover.ai^
 ||truenotify.co.in^
@@ -1446,7 +1445,6 @@ worldpopulationreview.com##.my-2.center
 ||www.startpage.com^$removeparam=pl
 ||www.startpage.com^$removeparam=language
 ||www.startpage.com^$removeparam=extVersion
-||www.startpage.com^$removeparam=sc
 ||www.startpage.com^$removeparam=t
 ||www.startpage.com^$removeparam=lui
 www.startpage.com##.css-54mn9i
@@ -1479,3 +1477,7 @@ www.stylecraze.com###viewdeos-player
 www.stylecraze.com##.flying-carpet-wrapper
 www.stylecraze.com##.advertinside
 www.stylecraze.com##.advert
+www.allure.com##.ad-stickyhero-enable-mobile
+www.allure.com##.journey-unit__container
+nordiqnutrition.com##.wt-cli-cookie-bar
+nordiqnutrition.com##.et_bloom_animated
