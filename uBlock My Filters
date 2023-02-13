@@ -1458,12 +1458,12 @@ www.startpage.com##.footer__social
 www.startpage.com##.css-bxdaet
 www.researchgate.net##.rg-us-cookie-banner
 supplements.selfdecode.com##.sidebar-bio
+www.vox.com#@#.c-tab-bar
+www.vox.com###toaster
 ||api.moonpay.io^
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
 ||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
 ||concertads-configs.vox-cdn.com^
-www.vox.com#@#.c-tab-bar
-www.vox.com###toaster
 ||preferences.trustarc.com^
 ||app-ab30.marketo.com^
 ||nxst.megpxs.com^
@@ -1481,3 +1481,4 @@ www.allure.com##.ad-stickyhero-enable-mobile
 www.allure.com##.journey-unit__container
 nordiqnutrition.com##.wt-cli-cookie-bar
 nordiqnutrition.com##.et_bloom_animated
+www.mayoclinichealthsystem.org##.widget--cta-image-link
