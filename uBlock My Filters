@@ -773,14 +773,11 @@ secure.verizon.com###divhomebot
 ||mediapass.com^$third-party
 ||scroll.com^$third-party
 ||wallkit.net^$third-party
-||qiota.com^$third-party,important
-||onecount.net^$third-party
 ||profitwell.com^$third-party
 ||mppapi.io^$third-party
 ||mppglobal.com^$third-party
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
-/coil-web-monetization/*
 ||taboola.com^$third-party
 www.merriam-webster.com##.cafemedia-ad-slot-top
 www.merriam-webster.com###subscribe-unabridged
