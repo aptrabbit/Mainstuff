@@ -1,4 +1,4 @@
-Last modified: 14 Feb 2022
+Last modified: 17 Feb 2022
 
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
@@ -1320,10 +1320,6 @@ www.wcostream.net##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > 
 www.wcostream.net##[href^="https://user.wco.tv/wp-login.php"]
 longevity.technology##.addvertisment
 prezi.com###onetrust-consent-sdk
-||www.indeed.com^$removeparam=spon
-||www.indeed.com^$removeparam=ad
-||www.indeed.com^$removeparam=astse
-||www.indeed.com^$removeparam=assa
 ||thumbs24.de^
 ww.watchseriesfree.co###not_logged_in
 ww.watchseriesfree.co##.menu-footer-menu-container
@@ -1466,6 +1462,8 @@ www.vox.com###toaster
 ||nxst.megpxs.com^
 ||api.condenast.io^
 ||cdn.fyrebox.com^
+||dni.logmycalls.com^
+||ip.convirza.com^$important
 www.shrm.org##.HP-v2 > .row
 www.shrm.org##.shrm-widget
 www.shrm.org##.metteredHolder
@@ -1480,3 +1478,9 @@ www.allure.com##.journey-unit__container
 nordiqnutrition.com##.wt-cli-cookie-bar
 nordiqnutrition.com##.et_bloom_animated
 www.mayoclinichealthsystem.org##.widget--cta-image-link
+https://www.youtube.com/youtubei/v1/live_chat/get_live_chat
+||www.indeed.com^$removeparam=spon
+||www.indeed.com^$removeparam=ad
+||www.indeed.com^$removeparam=astse
+||www.indeed.com^$removeparam=assa
+www.indeed.com##.google-Only-Modal
