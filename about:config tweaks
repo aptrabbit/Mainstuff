@@ -42,8 +42,9 @@ full-screen-api.warning.timeout; 0
 geo.enabled; false
 geo.provider.ms-windows-location; false
 geo.provider.network.url; https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%
-gfx.downloadable_fonts.fallback_delay; 100
-gfx.font_loader.delay; 100
+gfx.downloadable_fonts.fallback_delay; 50
+gfx.downloadable_fonts.fallback_delay_short; 25
+gfx.font_loader.delay; 50
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
 media.autoplay.default; 5
 media.autoplay.block-event.enabled; true
