@@ -1487,3 +1487,5 @@ https://www.youtube.com/youtubei/v1/live_chat/get_live_chat
 ||www.indeed.com^$removeparam=astse
 ||www.indeed.com^$removeparam=assa
 www.indeed.com##.google-Only-Modal
+||a-z-animals.com^$removeparam=from
+||app.slickstream.com^
