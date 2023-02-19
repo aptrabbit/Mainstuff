@@ -1,5 +1,6 @@
-Last modified: 18 Feb 2022
+Last modified: 19 Feb 2022
 
+*$websocket
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -1161,6 +1162,7 @@ https://accounts.google.com/gsi/client
 ||www.google.com^$removeparam=ved
 ||www.google.com^$removeparam=num
 ||www.google.com^$removeparam=dpr
+||www.google.com^$removeparam=google_abuse
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
