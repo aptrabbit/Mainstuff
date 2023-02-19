@@ -53,8 +53,8 @@ media.video_stats.enabled; false
 network.dns.echconfig.enabled; true (ECH, replaced ESNI)
 network.http.speculative-parallel-limit; 0
 network.IDN_show_punycode; true (for phishing attacks; see https://www.ghacks.net/2017/04/17/punycode-phishing-attack-fools-even-die-hard-internet-veterans/)
-nglayout.initialpaint.delay; 1
-nglayout.initialpaint.delay_in_oopif; 1
+nglayout.initialpaint.delay; 2
+nglayout.initialpaint.delay_in_oopif; 2
 privacy.query_stripping.enabled; true
 privacy.query_stripping.enabled.pbmode; true
 privacy.resistFingerprinting.block_mozAddonManager; true (hidden preference to allow extensions to run on Mozilla websites)
