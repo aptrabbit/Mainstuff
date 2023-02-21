@@ -1,6 +1,22 @@
-Last modified: 19 Feb 2022
+Last modified: 21 Feb 2022
 
-*$websocket
+$removeparam=aff_sub
+$removeparam=aff_sub2
+||experience.tinypass.com^
+||dashboard.tinypass.com^
+||cdn.tinypass.com^
+||news.google.com/swg/$script,third-party
+||accounts.google.com/gsi/$~script
+||smartlock.google.com^
+||mediapass.com^$third-party
+||scroll.com^$third-party
+||wallkit.net^$third-party
+||profitwell.com^$third-party
+||mppapi.io^$third-party
+||mppglobal.com^$third-party
+||batch.com^$third-party
+||lightboxcdn.com^$third-party
+||taboola.com^$third-party
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -205,7 +221,6 @@ www.aarp.org##.parsys.iparsys.everywhere-page-header > div.section.parbase.texti
 www.psychologytoday.com##.pt-ad-show-text.pt-ad--container
 dude-hack.com##.et_pb_code_0.et_pb_code.et_pb_module.et_pb_with_border
 www.rentcafe.com##picture
-www.youtube.com###offer-module
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 careerkarma.com##.design1.wmpci-popup-wrp.splash
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
@@ -647,9 +662,6 @@ www.independent.co.uk##div.jUAgro.sc-eiBcMB
 www.independent.co.uk##.iQqWaS.sc-jeURIA
 conversations.indy100.com##.bottom-strip
 ||gadget.pico.tools^
-www.spotify.com##.hzeuvL.sc-cxFLnm
-www.spotify.com#@#div > div[aria-live="polite"]
-www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 www.yahoo.com###applet_p
 www.yahoo.com##.Mb-20.subscriptiontdv2
 www.yahoo.com###module-monalixaRightRail
@@ -766,20 +778,6 @@ west-games.com#@##cookie-law-info-bar
 ||solutions.invocacdn.com^
 www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
 secure.verizon.com###divhomebot
-||experience.tinypass.com^
-||dashboard.tinypass.com^
-||news.google.com/swg/$script,third-party
-||accounts.google.com/gsi/$~script
-||smartlock.google.com^
-||mediapass.com^$third-party
-||scroll.com^$third-party
-||wallkit.net^$third-party
-||profitwell.com^$third-party
-||mppapi.io^$third-party
-||mppglobal.com^$third-party
-||batch.com^$third-party
-||lightboxcdn.com^$third-party
-||taboola.com^$third-party
 www.merriam-webster.com##.cafemedia-ad-slot-top
 www.merriam-webster.com###subscribe-unabridged
 ||himateca.xyz^
@@ -1416,7 +1414,6 @@ quizlet.com###UniversalUpsellTarget
 quizlet.com##.SetPageEmbeddedAd-wrapper
 quizlet.com###onetrust-consent-sdk
 ||cdns.us1.gigya.com^
-||signaler-pa.youtube.com^
 www.forbes.com##.ad-rail
 www.forbes.com##.ng-scope.rtb-top-wrapper
 www.mskcc.org###msk-modal-dialog
@@ -1454,10 +1451,10 @@ www.researchgate.net##.rg-us-cookie-banner
 supplements.selfdecode.com##.sidebar-bio
 www.vox.com#@#.c-tab-bar
 www.vox.com###toaster
-||api.moonpay.io^
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
 ||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
 ||concertads-configs.vox-cdn.com^
+||api.moonpay.io^
 ||preferences.trustarc.com^
 ||app-ab30.marketo.com^
 ||nxst.megpxs.com^
@@ -1465,6 +1462,8 @@ www.vox.com###toaster
 ||cdn.fyrebox.com^
 ||dni.logmycalls.com^
 ||dashboard.relecart.com^
+||app.slickstream.com^
+||ccpa.sp-prod.net^
 ||ip.convirza.com^$important
 ||api.ipstack.com^$important
 ||everlytic.net^$3p,important
@@ -1482,11 +1481,19 @@ www.allure.com##.journey-unit__container
 nordiqnutrition.com##.wt-cli-cookie-bar
 nordiqnutrition.com##.et_bloom_animated
 www.mayoclinichealthsystem.org##.widget--cta-image-link
-https://www.youtube.com/youtubei/v1/live_chat/get_live_chat
 ||www.indeed.com^$removeparam=spon
 ||www.indeed.com^$removeparam=ad
 ||www.indeed.com^$removeparam=astse
 ||www.indeed.com^$removeparam=assa
 www.indeed.com##.google-Only-Modal
 ||a-z-animals.com^$removeparam=from
-||app.slickstream.com^
+||signaler-pa.youtube.com^
+www.youtube.com###offer-module
+www.youtube.com##yt-related-chip-cloud-renderer
+ww1.watchseriesfree.co##.support
+www.google.com##.cUnQKe
+www.consumeraffairs.com##.sticky-aside__dyn--vsbl
+www.spotify.com##.hzeuvL.sc-cxFLnm
+www.spotify.com#@#div > div[aria-live="polite"]
+www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
+||adeventtracker.spotify.com^
