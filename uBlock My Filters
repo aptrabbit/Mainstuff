@@ -17,6 +17,7 @@ $removeparam=aff_sub2
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
 ||taboola.com^$third-party
+https://cdn.jsdelivr.net/npm/js-cookie@2/
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -675,7 +676,6 @@ trading-education.com##.news-card__header-btn
 trading-education.com##.news-video-list.no-padding.col-lg-4.col-md-4.col-sm-12.col-xs-12
 ||sdk.mediamelon.com^
 ||privacy-mgmt.com^
-https://cdn.jsdelivr.net/npm/js-cookie@2/
 ||nuance.com^
 ||inq.com^
 laptopsdeals.net##.sgpb-popup-overlay.sgpb-popup-overlay
@@ -1282,7 +1282,7 @@ www.realclearpolitics.com###distro_right_rail
 ||yahoo.com^$removeparam=guccounter
 ||yahoo.com^$removeparam=guce_referrer
 ||yahoo.com^$removeparam=guce_referrer_sig
-||tracker.123tv.live
+||tracker.123tv.live^
 ||9live.club^
 123tv.live##.enter.floating-chat
 123tv.live##.js-demo-avd.demo-avd
@@ -1503,4 +1503,3 @@ www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 ||tracing.spotify.com^
 https://spclient.wg.spotify.com/metadata/4/track/
 https://open.spotify.com/recaptcha/fraud
-https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js
