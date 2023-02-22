@@ -1295,6 +1295,7 @@ www.realclearpolitics.com###distro_right_rail
 123tv.live##[href="https://123tv.live/best-vpn-deals/"]
 123tv.live##.video-likes
 123tv.live##.video-views
+https://www.youtube.com/live_chat?v=O_lXseHjStA&embed_domain=123tv.live
 ||ups.com^$removeparam=SourceCode
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id
@@ -1497,4 +1498,9 @@ www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 ||adeventtracker.spotify.com^
-||seektables.scdn.co^
+||mosaic.scdn.co^
+||wwwmarketing.scdn.co^
+||tracing.spotify.com^
+https://spclient.wg.spotify.com/metadata/4/track/
+https://open.spotify.com/recaptcha/fraud
+https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js
