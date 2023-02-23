@@ -1507,6 +1507,8 @@ https://open.spotify.com/recaptcha/fraud
 ||geolocation-recommendations.shopifyapps.com^
 ||experiments.shopify.com^
 ||cdn.parameter1.com^
+||sf.ezoiccdn.com^
+||location.postscript.io^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
