@@ -1,4 +1,4 @@
-Last modified: 21 Feb 2022
+Last modified: 22 Feb 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -1504,3 +1504,13 @@ www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://spclient.wg.spotify.com/metadata/4/track/
 https://open.spotify.com/recaptcha/fraud
 ||report.dfs.glassboxdigital.io^
+||geolocation-recommendations.shopifyapps.com^
+||experiments.shopify.com^
+||cdn.parameter1.com^
+www.cosmeticsandtoiletries.com##.node--text-ad-content-type
+www.cosmeticsandtoiletries.com##.ad-container--template-lb1
+www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
+www.cosmeticsandtoiletries.com##.card-deck-flow__node--position-before
+www.cosmeticsandtoiletries.com##div.card-deck-flow__node:nth-of-type(5)
+www.cosmeticsandtoiletries.com##.social-sharing
+www.cosmeticsandtoiletries.com##.page-rail.col-lg-4
