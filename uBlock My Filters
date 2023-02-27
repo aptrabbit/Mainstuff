@@ -18,6 +18,7 @@ $removeparam=aff_sub2
 ||lightboxcdn.com^$third-party
 ||taboola.com^$third-party
 ||ls.chatid.com^
+||tags.tiqcdn.com^
 ||cta-service-cms2.hubspot.com^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
 https://cdn.jsdelivr.net/npm/js-cookie@rc/
