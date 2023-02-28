@@ -18,6 +18,7 @@ $removeparam=visitToken
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
 ||taboola.com^$third-party
+||r.bing.com^$third-party
 ||tags.tiqcdn.com^$important
 ||ls.chatid.com^
 ||popsads.net^
@@ -1305,10 +1306,8 @@ www.realclearpolitics.com###distro_right_rail
 https://www.youtube.com/live_chat?v=O_lXseHjStA&embed_domain=123tv.live
 ||ups.com^$removeparam=SourceCode
 ||ups.com^$removeparam=dtm_em
-||ups.com^$removeparam=message_id
+||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
-||ups.com^$removeparam=requester
-||r.bing.com^$third-party
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
 ||twitter.com^$removeparam=s
