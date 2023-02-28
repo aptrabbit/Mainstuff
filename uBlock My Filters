@@ -1,7 +1,8 @@
-Last modified: 27 Feb 2022
+Last modified: 28 Feb 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
+$removeparam=visitToken
 ||experience.tinypass.com^
 ||dashboard.tinypass.com^
 ||cdn.tinypass.com^
@@ -17,9 +18,11 @@ $removeparam=aff_sub2
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
 ||taboola.com^$third-party
+||tags.tiqcdn.com^$important
 ||ls.chatid.com^
-||tags.tiqcdn.com^
+||popsads.net^
 ||cta-service-cms2.hubspot.com^
+||st.chatango.com^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
 https://cdn.jsdelivr.net/npm/js-cookie@rc/
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -1522,6 +1525,9 @@ https://open.spotify.com/recaptcha/fraud
 ||emotivecdn.io^
 ||app.simple-affiliate.com^
 ||cdn.rebuyengine.com^
+||apps.bazaarvoice.com^
+||dudair.com^
+||edwate.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
@@ -1529,3 +1535,17 @@ www.cosmeticsandtoiletries.com##.card-deck-flow__node--position-before
 www.cosmeticsandtoiletries.com##div.card-deck-flow__node:nth-of-type(5)
 www.cosmeticsandtoiletries.com##.social-sharing
 www.cosmeticsandtoiletries.com##.page-rail.col-lg-4
+www.kidney.org###footer-sticky
+iptvwire.com##.mysticky-welcomebar-animation
+iptvwire.com##.code-block-4
+iptvwire.com##.widget-area
+tv247us.com##.entry-content > p
+tv247us.com##.jp-relatedposts
+tv247us.com##.entry-content > h2
+daddylivehd.sx##center > p
+daddylivehd.sx###sidebar
+daddylivehd.sx##[href="#"]
+daddylivehd.sx##[href="/contact-us.php"]
+daddylivehd.sx##[href="https://discord.gg/vwEucnFza6"]
+daddylivehd.sx##[href="https://t.me/daddyhd"]
+daddylivehd.sx##[href="/qatar2022-worldcup.php"]
