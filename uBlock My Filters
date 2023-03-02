@@ -1,8 +1,9 @@
-Last modified: 28 Feb 2022
+Last modified: 02 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||static-na.payments-amazon.com^
 ||experience.tinypass.com^
 ||dashboard.tinypass.com^
 ||cdn.tinypass.com^
@@ -22,6 +23,8 @@ $removeparam=visitToken
 ||tags.tiqcdn.com^$important
 ||ls.chatid.com^
 ||popsads.net^
+||mediacpm.pl^
+||syndicate.adsteer.com^
 ||cta-service-cms2.hubspot.com^
 ||st.chatango.com^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
@@ -233,6 +236,7 @@ www.rentcafe.com##picture
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 careerkarma.com##.design1.wmpci-popup-wrp.splash
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
+||recommendation-newsletter.wpdigital.net^
 www.berkeleywellness.com##.lazy.adbox
 www.laweekly.com##.sponsor-wrap
 steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
@@ -1528,6 +1532,16 @@ https://open.spotify.com/recaptcha/fraud
 ||dudair.com^
 ||edwate.com^
 ||aywikhsw.xyz^
+||oqxkomjnuulbwc.xyz^
+||fhvabdiebmxxok.xyz^
+||rbljoyvsvtj.xyz^
+||pwbmdalngizhz.com^
+||zheevmmvlwg.com^
+||misnes.com^
+||mighly.com^
+||paghai.com^
+||spokeoaffiliates.com^
+||4584051c57da007007c6-68efb418da7bd7ec341101e06a5cd8ed.ssl.cf1.rackcdn.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
