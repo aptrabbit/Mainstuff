@@ -3,7 +3,10 @@ Last modified: 03 Mar 2022
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||spot.im^
+||om.ordergroove.com^
 ||static-na.payments-amazon.com^
+||content.shoprunner.com^
 ||experience.tinypass.com^
 ||dashboard.tinypass.com^
 ||cdn.tinypass.com^
@@ -603,8 +606,6 @@ www.yahoo.com###notification-container
 ||theglobeandmail.com/pf/dist/engine/react.js$script,1p
 www.qmee.com##.show-0-2-15.prerender-0-2-14
 ||app.conversiobot.com^
-news.yahoo.com###close-button-section
-news.yahoo.com###module-monalixaRightRail
 mail.protonmail.com##.topnav-link--blackfriday
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
@@ -1373,7 +1374,6 @@ examine.com##.m-1.relative
 www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
 ||4584051c57da007007c6-68efb418da7bd7ec341101e06a5cd8ed.ssl.cf1.rackcdn.com^
-||content.shoprunner.com^
 ||medallia.com^$third-party
 trailsoffroad.com##.paywall
 www.inchcalculator.com##.results-ad-container
@@ -1563,6 +1563,7 @@ https://open.spotify.com/recaptcha/fraud
 ||vsmfwsjvy.xyz^
 ||cgyhsyvm.xyz^
 ||asifiwoeryesterda.xyz^
+||gxhbsapkkdni.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
@@ -1601,3 +1602,7 @@ daddylivehd.sx##[href="/qatar2022-worldcup.php"]
 www.washingtonpost.com##.bb.b.overflow-hidden
 www.outlookindia.com##.ads
 www.outlookindia.com###coverLatest
+news.yahoo.com###close-button-section
+news.yahoo.com###module-monalixaRightRail
+news.yahoo.com###sda-MON
+news.yahoo.com###module-spotIm
