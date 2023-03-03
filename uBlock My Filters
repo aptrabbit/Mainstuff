@@ -1401,12 +1401,14 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
 www.reddit.com###Carousel-0b100a78-4d3c-469e-992e-dac8779ed5a9
 www.reddit.com###Carousel-80636763-26c0-4464-93e7-77bfd0596332
+https://www.redditstatic.com/js/tags-slim.js
+https://www.reddit.com/counters/
 https://www.reddit.com/errors
 https://www.reddit.com/user/redditads/
 https://www.reddit.com/account/sso/one_tap/
 https://www.redditstatic.com/desktop2x/vendors~Avatar~ChatPost~MarketplaceClaimModal~MarketplaceInFeedUnit~NftProfileUnit~RealtimeGQLSubscr~bfab320d.a668d51b1ce27b994b5f.js
 https://www.redditstatic.com/desktop2x/webvitals.f626f135e0d2366368b7.js
-https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA.d12c4ecb0879402fd4f5.js
+https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 https://www.redditstatic.com/desktop2x/PushNotifications.82d5622615ca4aae0785.js
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
