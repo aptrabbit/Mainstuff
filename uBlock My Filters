@@ -1,4 +1,4 @@
-Last modified: 02 Mar 2022
+Last modified: 03 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -21,12 +21,21 @@ $removeparam=visitToken
 ||taboola.com^$third-party
 ||r.bing.com^$third-party
 ||tags.tiqcdn.com^$important
+||swymrelay.com^
 ||ls.chatid.com^
+||lovely-app.com^
+||widgets.goaffpro.app^
+||my.profitmetrics.io^
+||assets.dailykarma.io^
+||boldapps.net^
+||static.edgeme.sh^
+||app.getbeamer.com^
 ||popsads.net^
 ||mediacpm.pl^
 ||syndicate.adsteer.com^
 ||cta-service-cms2.hubspot.com^
 ||st.chatango.com^
+||i.ibb.co^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
 https://cdn.jsdelivr.net/npm/js-cookie@rc/
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -1388,6 +1397,13 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
 www.reddit.com###Carousel-0b100a78-4d3c-469e-992e-dac8779ed5a9
 www.reddit.com###Carousel-80636763-26c0-4464-93e7-77bfd0596332
+https://www.reddit.com/errors
+https://www.reddit.com/user/redditads/
+https://www.reddit.com/account/sso/one_tap/
+https://www.redditstatic.com/desktop2x/vendors~Avatar~ChatPost~MarketplaceClaimModal~MarketplaceInFeedUnit~NftProfileUnit~RealtimeGQLSubscr~bfab320d.a668d51b1ce27b994b5f.js
+https://www.redditstatic.com/desktop2x/webvitals.f626f135e0d2366368b7.js
+https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA.d12c4ecb0879402fd4f5.js
+https://www.redditstatic.com/desktop2x/PushNotifications.82d5622615ca4aae0785.js
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
 www.dontpayfull.com##.sponsored
@@ -1531,15 +1547,24 @@ https://open.spotify.com/recaptcha/fraud
 ||apps.bazaarvoice.com^
 ||dudair.com^
 ||edwate.com^
+||operch.com^
 ||aywikhsw.xyz^
 ||oqxkomjnuulbwc.xyz^
 ||fhvabdiebmxxok.xyz^
 ||rbljoyvsvtj.xyz^
+||oxxktfrx.xyz^
+||bcerlnrxdyqw.xyz^
+||vsmfwsjvy.xyz^
+||cgyhsyvm.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
+||wdeyuqjmlsl.com^
+||xnfmbejucgoldi.com^
 ||misnes.com^
 ||mighly.com^
 ||paghai.com^
+||mongbo.com^
+||phoebb.com^
 ||spokeoaffiliates.com^
 ||4584051c57da007007c6-68efb418da7bd7ec341101e06a5cd8ed.ssl.cf1.rackcdn.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
@@ -1564,3 +1589,6 @@ daddylivehd.sx##[href="/contact-us.php"]
 daddylivehd.sx##[href="https://discord.gg/vwEucnFza6"]
 daddylivehd.sx##[href="https://t.me/daddyhd"]
 daddylivehd.sx##[href="/qatar2022-worldcup.php"]
+www.washingtonpost.com##.bb.b.overflow-hidden
+www.outlookindia.com##.ads
+www.outlookindia.com###coverLatest
