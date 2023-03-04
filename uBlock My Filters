@@ -1,8 +1,9 @@
-Last modified: 03 Mar 2022
+Last modified: 04 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||sf.ezoiccdn.com^
 ||spot.im^
 ||om.ordergroove.com^
 ||static-na.payments-amazon.com^
@@ -1539,7 +1540,6 @@ https://open.spotify.com/recaptcha/fraud
 ||geolocation-recommendations.shopifyapps.com^
 ||experiments.shopify.com^
 ||cdn.parameter1.com^
-||sf.ezoiccdn.com^
 ||location.postscript.io^
 ||cdn.emoryday-analytics.com^
 ||ponos.zeronaught.com^
@@ -1551,9 +1551,6 @@ https://open.spotify.com/recaptcha/fraud
 ||app.simple-affiliate.com^
 ||cdn.rebuyengine.com^
 ||apps.bazaarvoice.com^
-||dudair.com^
-||edwate.com^
-||operch.com^
 ||aywikhsw.xyz^
 ||oqxkomjnuulbwc.xyz^
 ||fhvabdiebmxxok.xyz^
@@ -1564,15 +1561,23 @@ https://open.spotify.com/recaptcha/fraud
 ||cgyhsyvm.xyz^
 ||asifiwoeryesterda.xyz^
 ||gxhbsapkkdni.xyz^
+||xejblbcwffcxfja.xyz^
+||qimxpkyrohagqhb.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
 ||xnfmbejucgoldi.com^
+||wgsxteihr.com
+||dxxcjydd.com^
 ||misnes.com^
 ||mighly.com^
 ||paghai.com^
 ||mongbo.com^
 ||phoebb.com^
+||dudair.com^
+||edwate.com^
+||operch.com^
+||staung.com^
 |hesatinaco.com^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
@@ -1606,3 +1611,4 @@ news.yahoo.com###close-button-section
 news.yahoo.com###module-monalixaRightRail
 news.yahoo.com###sda-MON
 news.yahoo.com###module-spotIm
+www.mskcc.org###cassie-widget
