@@ -46,6 +46,7 @@ gfx.downloadable_fonts.fallback_delay; 50
 gfx.downloadable_fonts.fallback_delay_short; 25
 gfx.font_loader.delay; 50
 gfx.webrender.all; true (may expreience some bugs, but enables Mozilla's "webrender," which increases peformance significantly)
+layout.css.color-mix.enabled; true
 media.autoplay.default; 5
 media.autoplay.block-event.enabled; true
 media.hardwaremediakeys.enabled; false
