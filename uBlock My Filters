@@ -1,10 +1,16 @@
-Last modified: 04 Mar 2022
+Last modified: 07 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
+||cdn.privado.ai^
+@@||client-api.arkoselabs.com^
+||config-security.com^
+||shopify-gtm-suite.getelevar.com^
 ||sf.ezoiccdn.com^
 ||spot.im^
+||odb.outbrain.com^$important
 ||om.ordergroove.com^
 ||static-na.payments-amazon.com^
 ||content.shoprunner.com^
@@ -43,6 +49,8 @@ $removeparam=visitToken
 ||simkl.in^
 ||api.country.is^
 ||isuseaches.cc^
+||triplewhale-pixel.web.app^
+||id-shop.govx.com^
 https://cdn.jsdelivr.net/npm/js-cookie@2/
 https://cdn.jsdelivr.net/npm/js-cookie@rc/
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -770,9 +778,6 @@ web.archive.org###donato
 u.today##.something
 ||xewarycy.xyz^
 ||api.xewarycy.xyz^
-||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
-www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
-www.twitch.tv###twilight-sticky-footer-root
 healthfully.com##.sticky.video-player-wrapper
 ||videocdn.studiod.cc^
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
@@ -1075,7 +1080,6 @@ developers.facebook.com###devsite_dock
 ||hyperlinq.user.com^
 www.tronweekly.com##.widget_media_image
 fontawesome.com##.wrap-ad
-supplements.selfdecode.com##.sponsored
 blockchair.com##.page-address__promo
 blockchair.com##.top-buttons--right
 blockchair.com##.lh-auto
@@ -1132,6 +1136,10 @@ www.cnbc.com##.ProHub-outerContainer
 www.cnbc.com##.TopBanner-styles-makeit-container--jXi8P
 www.cnbc.com###Market\ Data_LiveTVTempPass
 ||geo.cnbc.com^
+||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
+www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
+www.twitch.tv###twilight-sticky-footer-root
+twitch.tv##+js(twitch-videoad)
 chrome.google.com##.Yb
 scholar.google.com##.gs_r.gs_qsuggest_wrap
 creatoracademy.youtube.com###google-hats-survey
@@ -1400,8 +1408,6 @@ www.mediaite.com##.adthrive-footer-message
 www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
 www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
-www.reddit.com###Carousel-0b100a78-4d3c-469e-992e-dac8779ed5a9
-www.reddit.com###Carousel-80636763-26c0-4464-93e7-77bfd0596332
 https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
 https://www.reddit.com/errors
@@ -1415,7 +1421,6 @@ https://www.redditstatic.com/desktop2x/PushNotifications.82d5622615ca4aae0785.js
 holisticprimarycare.net##.qc-cmp2-container
 www.dontpayfull.com##.sponsored
 @@||blogger.com^$removeparam=bpli
-||staging-drugsselfdecode.kinsta.cloud^
 ||salesforceliveagent.com^
 ||service.force.com^
 www.pressplay.top##.dvr-728
@@ -1482,7 +1487,6 @@ www.startpage.com###feedback-button-container
 www.startpage.com##.footer__social
 www.startpage.com##.css-bxdaet
 www.researchgate.net##.rg-us-cookie-banner
-supplements.selfdecode.com##.sidebar-bio
 www.vox.com#@#.c-tab-bar
 www.vox.com###toaster
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
@@ -1563,6 +1567,9 @@ https://open.spotify.com/recaptcha/fraud
 ||gxhbsapkkdni.xyz^
 ||xejblbcwffcxfja.xyz^
 ||qimxpkyrohagqhb.xyz^
+||tnkafnxam.xyz^
+||xntiucwoj.xyz^
+||egqteiwvytsowfu.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
@@ -1578,7 +1585,15 @@ https://open.spotify.com/recaptcha/fraud
 ||edwate.com^
 ||operch.com^
 ||staung.com^
-|hesatinaco.com^
+||boroup.com^
+||eaglic.com^
+||cologu.com^
+||hqtfjugceattb.com^
+||hesatinaco.com^
+||zglxqljvfa.com^
+||qyowjhyyckraps.com^
+||aezgnctgfqn.com^
+||46-105-201-240.any.cdn.anycast.me^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
 ||analytics.yugeanime.ro^
@@ -1611,4 +1626,10 @@ news.yahoo.com###close-button-section
 news.yahoo.com###module-monalixaRightRail
 news.yahoo.com###sda-MON
 news.yahoo.com###module-spotIm
+currently.att.yahoo.com###module-spotIm
+currently.att.yahoo.com###sda-MON
 www.mskcc.org###cassie-widget
+||staging-drugsselfdecode.kinsta.cloud^
+supplements.selfdecode.com##.sponsored
+supplements.selfdecode.com##.sidebar-bio
+supplements.selfdecode.com##.affiliate-toggle
