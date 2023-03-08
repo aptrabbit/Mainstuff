@@ -1,9 +1,9 @@
-Last modified: 07 Mar 2022
+Last modified: 08 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
-https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
+||zephr.com^
 ||cdn.privado.ai^
 @@||client-api.arkoselabs.com^
 ||config-security.com^
@@ -45,12 +45,13 @@ https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
 ||syndicate.adsteer.com^
 ||cta-service-cms2.hubspot.com^
 ||st.chatango.com^
-||i.ibb.co^
+||i.ibb.co^$important
 ||simkl.in^
 ||api.country.is^
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
 https://cdn.jsdelivr.net/npm/js-cookie@2/
 https://cdn.jsdelivr.net/npm/js-cookie@rc/
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -1307,6 +1308,8 @@ projects.fivethirtyeight.com###ad
 www.snopes.com##.banner_ad_between_sections
 www.snopes.com##.become_member_section
 www.realclearpolitics.com###distro_right_rail
+||tracker.123tv.live^
+||9live.club^
 ||apps.rokt.com^
 ||yahoo.com^$removeparam=src
 ||yahoo.com^$removeparam=.done
@@ -1316,20 +1319,6 @@ www.realclearpolitics.com###distro_right_rail
 ||yahoo.com^$removeparam=guccounter
 ||yahoo.com^$removeparam=guce_referrer
 ||yahoo.com^$removeparam=guce_referrer_sig
-||tracker.123tv.live^
-||9live.club^
-123tv.live##.enter.floating-chat
-123tv.live##.js-demo-avd.demo-avd
-123tv.live##.watch-video-description
-123tv.live##.row.footer-container
-123tv.live##.pull-left.profile-nav.hide-from-mobile.dropdown
-123tv.live##[href^="https://go.nordvpn.net/aff_c"]
-123tv.live##[href^="https://www.purevpn.com/order-now.php"]
-123tv.live##[href="http://ustv2.com"]
-123tv.live##[href="https://123tv.live/best-vpn-deals/"]
-123tv.live##.video-likes
-123tv.live##.video-views
-https://www.youtube.com/live_chat?v=O_lXseHjStA&embed_domain=123tv.live
 ||ups.com^$removeparam=SourceCode
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
@@ -1405,7 +1394,6 @@ cryptopotato.com##.widget_text.widget
 cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
-www.reddit.com##._1WeE65WSCbzzCKAEgP5ZFk
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
 www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
 https://www.redditstatic.com/js/tags-slim.js
@@ -1413,10 +1401,9 @@ https://www.reddit.com/counters/
 https://www.reddit.com/errors
 https://www.reddit.com/user/redditads/
 https://www.reddit.com/account/sso/one_tap/
-https://www.redditstatic.com/desktop2x/vendors~Avatar~ChatPost~MarketplaceClaimModal~MarketplaceInFeedUnit~NftProfileUnit~RealtimeGQLSubscr~bfab320d.a668d51b1ce27b994b5f.js
-https://www.redditstatic.com/desktop2x/webvitals.f626f135e0d2366368b7.js
+https://www.redditstatic.com/desktop2x/webvitals
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
-https://www.redditstatic.com/desktop2x/PushNotifications.82d5622615ca4aae0785.js
+https://www.redditstatic.com/desktop2x/PushNotifications
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
 www.dontpayfull.com##.sponsored
@@ -1570,6 +1557,11 @@ https://open.spotify.com/recaptcha/fraud
 ||tnkafnxam.xyz^
 ||xntiucwoj.xyz^
 ||egqteiwvytsowfu.xyz^
+||pwsnjyye.xyz^
+||jvgsjchrxrf.xyz^
+||qhxturwtar.xyz^
+||qchilnnyfhcvoc.xyz^
+||grjplmgbpqtll.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
@@ -1593,6 +1585,8 @@ https://open.spotify.com/recaptcha/fraud
 ||zglxqljvfa.com^
 ||qyowjhyyckraps.com^
 ||aezgnctgfqn.com^
+||ggqygkaunot.com^
+||bspcpfxbkxgd.com^
 ||46-105-201-240.any.cdn.anycast.me^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
@@ -1633,3 +1627,6 @@ www.mskcc.org###cassie-widget
 supplements.selfdecode.com##.sponsored
 supplements.selfdecode.com##.sidebar-bio
 supplements.selfdecode.com##.affiliate-toggle
+www.doctorkiltz.com###popup
+www.doctorkiltz.com##div.post__banner--inside
+www.doctorkiltz.com##aside
