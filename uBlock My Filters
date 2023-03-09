@@ -3,9 +3,12 @@ Last modified: 09 Mar 2022
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||addshoppers.s3.amazonaws.com^
 ||jnn-pa.googleapis.com^
+||sa.getroster.com^
 ||p.typekit.net^
 ||zephr.com^
+||api.userleap.com^
 ||cdn.privado.ai^
 ||cdn.rollbar.com^
 @@||client-api.arkoselabs.com^
@@ -199,7 +202,6 @@ vidcloud.siteunblocked.info##iframe[src="https://www.jstatic.org/y/u/index4.php"
 vidcloud.siteunblocked.info###header-social
 www.npr.org###global-modal-mount
 jimstennis.com###ac-wrapper
-||api.userleap.com^
 www.businessnewsdaily.com##.e15dejzw0.css-md5sep-TransparentContainer
 www.imyfone.com##.left-list
 www.imyfone.com##.m-hidden-769.activity-aside.activity-aside-pc
