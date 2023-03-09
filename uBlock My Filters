@@ -4,6 +4,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 ||jnn-pa.googleapis.com^
+||p.typekit.net^
 ||zephr.com^
 ||cdn.privado.ai^
 ||cdn.rollbar.com^
@@ -12,7 +13,21 @@ $removeparam=visitToken
 ||shopify-gtm-suite.getelevar.com^
 ||sf.ezoiccdn.com^
 ||spot.im^
+||widgets.vcdnita.com^
+||static.botsrv.com^
+||static.botsrv2.com^
+||cdn.convertbox.com^
+||repuso.com^
+||tags.tiqcdn.com^$important
+||pix.pub^$important
+||i.ibb.co^$important
+||share.hsforms.com^$important
+||launcher.spot.im^$important
+||js.taplytics.com^$important
 ||odb.outbrain.com^$important
+||ip.convirza.com^$important
+||api.ipstack.com^$important
+||everlytic.net^$3p,important
 ||om.ordergroove.com^
 ||static-na.payments-amazon.com^
 ||content.shoprunner.com^
@@ -31,7 +46,6 @@ $removeparam=visitToken
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
 ||taboola.com^$third-party
-||tags.tiqcdn.com^$important
 ||r.bing.com
 ||swymrelay.com^
 ||ls.chatid.com^
@@ -47,7 +61,6 @@ $removeparam=visitToken
 ||syndicate.adsteer.com^
 ||cta-service-cms2.hubspot.com^
 ||st.chatango.com^
-||i.ibb.co^$important
 ||simkl.in^
 ||api.country.is^
 ||isuseaches.cc^
@@ -59,10 +72,10 @@ https://cdn.jsdelivr.net/npm/js-cookie
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
-heimdalsecurity.com###ulp-layer-200
 ||heimdalsecurity.com/blog/wp-content/plugins/layered-popups/images/default/city.jpg$image
-heimdalsecurity.com###ulp-layer-199
 heimdalsecurity.com##.ulp-content
+heimdalsecurity.com###ulp-layer-199
+heimdalsecurity.com###ulp-layer-200
 heimdalsecurity.com###ulp-fd4QboHjgB2v9vvM-overlay
 heimdalsecurity.com##.playht-custom-audio__playFloatingBtn.__play-listen-floating-btn
 www.ghacks.net###ghacks_ad_code-2 > .pb--6.mb--10.border--bottom--gray.heading--tiny
@@ -844,7 +857,6 @@ cryptodaily.co.uk##.fixed-sidebar-ad
 cryptodaily.co.uk##div.side-block:nth-of-type(3)
 cryptodaily.co.uk##div.side-block:nth-of-type(5)
 cryptodaily.co.uk##.ad-bottom-spacing
-||p.typekit.net^
 www.r-studio.com###pp-info
 carbuzz.com##.ad-placement
 carbuzz.com##.ad-slot
@@ -890,12 +902,6 @@ www.nasdaq.com##.watchlist
 news.spacconference.com##.ng-scope.ml-landscape-ad-container
 news.spacconference.com##.ng-scope.ml-square-ad-container
 medium.com##[data-popper-reference-hidden]
-||widgets.vcdnita.com^
-||static.botsrv.com^
-||static.botsrv2.com^
-||cdn.convertbox.com^
-||share.hsforms.com^important
-||repuso.com^
 www.wired.com##.should-hold-space
 www.wired.com##.social-icons
 ||cm-api.contact-module.ibm.com^
@@ -1026,9 +1032,6 @@ www.foxnews.com##.article-social
 www.foxnews.com##[href] > strong
 www.foxnews.com##strong > [href]
 www.foxnews.com##.sticky-region
-||pix.pub^$important
-||launcher.spot.im^$important
-||js.taplytics.com^$important
 ||try.nation.foxnews.com^$important
 www.instadp.com##center.ad
 ||widget.portis.io/$subdocument
@@ -1479,9 +1482,6 @@ www.vox.com###toaster
 ||dashboard.relecart.com^
 ||app.slickstream.com^
 ||ccpa.sp-prod.net^
-||ip.convirza.com^$important
-||api.ipstack.com^$important
-||everlytic.net^$3p,important
 www.shrm.org##.HP-v2 > .row
 www.shrm.org##.shrm-widget
 www.shrm.org##.metteredHolder
