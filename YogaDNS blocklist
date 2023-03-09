@@ -86,6 +86,8 @@ id.google.com
 firebaseremoteconfig.googleapis.com
 device-provisioning.googleapis.com
 ampcid.google.com
+suggestqueries.google.com
+suggestqueries.l.google.com
 restrict.youtube.com
 restrictmoderate.youtube.com
 graph.instagram.com
