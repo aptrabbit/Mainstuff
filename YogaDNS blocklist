@@ -108,7 +108,6 @@ cdn.sprig.com
 trlocationmanager.azurewebsites.net
 wchat.freshchat.com
 assetscdn-wchat.freshchat.com
-nvidia.tt.omtrdc.net
 apimon.de
 js.impressions.mediagamma.com
 alb.reddit.com
@@ -225,8 +224,6 @@ prod.purechatcdn.com
 api.purechat.com
 stamped.io
 pitchleads.com
-telemetry.gfe.nvidia.com
-lightstep.kaizen.nvidia.com
 relay-iad.sentry.insops.net
 consent.cookiebot.com
 res.lassomarketing.io
@@ -280,7 +277,10 @@ readspeaker.com
 preferences.trustarc.com
 choices.trustarc.com
 telemetry-in.battle.net
+nvidia.tt.omtrdc.net
 ls.dtrace.nvidia.com
+telemetry.gfe.nvidia.com
+lightstep.kaizen.nvidia.com
 ip-api.io
 9live.club
 staging-drugsselfdecode.kinsta.cloud
