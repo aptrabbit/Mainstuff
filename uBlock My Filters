@@ -5,6 +5,7 @@ $removeparam=aff_sub2
 $removeparam=visitToken
 ||zephr.com^
 ||cdn.privado.ai^
+||cdn.rollbar.com^
 @@||client-api.arkoselabs.com^
 ||config-security.com^
 ||shopify-gtm-suite.getelevar.com^
@@ -52,8 +53,7 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
-https://cdn.jsdelivr.net/npm/js-cookie@2/
-https://cdn.jsdelivr.net/npm/js-cookie@rc/
+https://cdn.jsdelivr.net/npm/js-cookie
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -1256,7 +1256,6 @@ www.studocu.com##._cbad9bafd417
 www.thehansindia.com##.hocal_hide_on_mobile
 www.thehansindia.com###home-mid-wrap1
 draxe.com##.ads
-www.usatoday.com##.gnt_xbr
 www.kraken.com##.fc-ea86f4fb-7
 www.designpieces.com##.widget_custom_html
 cryptoslate.com##.clickout-banner-native_table_box-bottom
@@ -1562,6 +1561,8 @@ https://open.spotify.com/recaptcha/fraud
 ||qhxturwtar.xyz^
 ||qchilnnyfhcvoc.xyz^
 ||grjplmgbpqtll.xyz^
+||tlgywqncn.xyz^
+||ccieoqej.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
@@ -1587,6 +1588,7 @@ https://open.spotify.com/recaptcha/fraud
 ||aezgnctgfqn.com^
 ||ggqygkaunot.com^
 ||bspcpfxbkxgd.com^
+||cczjcammpj.com^
 ||46-105-201-240.any.cdn.anycast.me^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
@@ -1630,3 +1632,7 @@ supplements.selfdecode.com##.affiliate-toggle
 www.doctorkiltz.com###popup
 www.doctorkiltz.com##div.post__banner--inside
 www.doctorkiltz.com##aside
+ww1.watchseriesfree.co###not_logged_in
+ww1.watchseriesfree.co##.bottom-menu-container
+www.usatoday.com##.gnt_xbr
+www.usatoday.com##a.gnt_cw_sl
