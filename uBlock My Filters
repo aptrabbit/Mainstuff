@@ -1,8 +1,16 @@
-Last modified: 09 Mar 2022
+Last modified: 11 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||login.live.com^
+||login.microsoftonline.com^$3p
+||vendorlist.dmcdn.net^
+||mem.gfx.ms^
+||js.hs-scripts.com^
+||js-na1.hs-scripts.com^
+||consumersiteimages.trustpilot.net^
+||static.iris.informa.com^
 ||api.saasexch.com^
 ||syndication.twitter.com^
 ||cdn.dynamicyield.com^
@@ -96,8 +104,6 @@ windowsreport.com##.qc-cmp-cleanslate.cumIXu.sc-htoDjs
 mediabiasfactcheck.com##[href="https://mediabiasfactcheck.com/advertising-disclaimer/"]
 mediabiasfactcheck.com###text-4 > .textwidget > center:nth-of-type(2)
 sourceforge.net###dlp-voip-quote
-www.wcoanimedub.tv##.anti-ad
-www.wcoanimedub.tv###hide-anime-video
 www.coursehero.com##.ch-aaq-widget
 www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
 ||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
@@ -172,8 +178,6 @@ cenualepil.pl.tl###selfpromotionOverlay
 payments.jagex.com##.ng-scope.messages--inline.cookies.messages
 userstyles.org##.android_button_button
 capital.com##.footer-site-inner
-www.msn.com##.rcc.rc.recommendedSearch
-www.msn.com##.show.floatingfeedback
 www.masculinedevelopment.com##.right.sAs
 www.realclearpolitics.com##.fark-header
 www.mediafire.com##.CookieAcceptance
@@ -780,7 +784,6 @@ www.motor1.com##.msrp-body
 www.motor1.com##.top-banner-placeholder.m1-header-ad
 ||cpkshop.com^
 petri.com##.contentHighlight
-||js.hs-scripts.com^
 www.windowscentral.com##div.article-body__section--wide-desktop.article-body__section
 www.wilderssecurity.com##.noticeContent
 www.torproject.org##.justify-content-center.d-flex.align-middle.banner.banner__containter
@@ -1339,6 +1342,8 @@ www.wcostream.net###close-this-ad
 www.wcostream.net##td > div > span
 www.wcostream.net##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
 www.wcostream.net##[href^="https://user.wco.tv/wp-login.php"]
+https://embed.watchanimesub.net/inc/embed/premium.html
+https://embed.watchanimesub.net/inc/embed/report.js
 longevity.technology##.addvertisment
 prezi.com###onetrust-consent-sdk
 ||thumbs24.de^
@@ -1569,6 +1574,7 @@ https://open.spotify.com/recaptcha/fraud
 ||faluhupo.xyz^
 ||qcfehuoucrtsm.xyz^
 ||pndbseeqrbrfdss.xyz^
+||cardwtcic.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
@@ -1647,3 +1653,9 @@ ww1.watchseriesfree.co##.support
 ww1.watchseriesfree.co###not_logged_in
 ww1.watchseriesfree.co##.bottom-menu-container
 ww1.watchseriesfree.co##[href="/contact"]
+www.msn.com##.recommendedSearch
+www.msn.com##.floatingfeedback
+www.msn.com###modernRightRail_container_0 > div
+www.msn.com###modernRightRail_container_0 > fluent-design-system-provider
+www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
+www.msn.com##div:nth-of-type(4)
