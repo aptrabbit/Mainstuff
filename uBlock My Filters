@@ -3,12 +3,17 @@ Last modified: 11 Mar 2022
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
-||login.live.com^
+||login.live.com^$3p
 ||login.microsoftonline.com^$3p
 ||vendorlist.dmcdn.net^
 ||mem.gfx.ms^
+||firebaseinstallations.googleapis.com^
 ||js.hs-scripts.com^
 ||js-na1.hs-scripts.com^
+||js.hscollectedforms.net^
+||js.hubspotfeedback.com^
+||js.hsforms.net^
+||salesiq.zoho.com^
 ||consumersiteimages.trustpilot.net^
 ||static.iris.informa.com^
 ||api.saasexch.com^
@@ -22,6 +27,7 @@ $removeparam=visitToken
 ||api.userleap.com^
 ||cdn.privado.ai^
 ||cdn.rollbar.com^
+||cdn.knightlab.com^
 @@||client-api.arkoselabs.com^
 ||config-security.com^
 ||shopify-gtm-suite.getelevar.com^
@@ -32,6 +38,31 @@ $removeparam=visitToken
 ||static.botsrv2.com^
 ||cdn.convertbox.com^
 ||repuso.com^
+||sdk.mediamelon.com^
+||privacy-mgmt.com^
+||nuance.com^
+||inq.com^
+||static.olark.com^
+||static.klaviyo.com^
+||events-collector.spot.im^
+||app.helphero.co^
+||cdn.equalweb.com^
+||apex.live^
+||static.ada.support^
+||collector.github.com^
+||widget.freshworks.com^
+||ai.ocelotbot.com^
+||accessibilityserver.org^
+||tracker.idocdn.com^
+||cdn.sprig.com^
+||static.whisbi.com^
+||dashboard.wheelio-app.com^
+||config.gorgias.chat^
+||config.gorgias.io^
+||cdn.judge.me^
+||cdn.hextom.com^
+||cdns.gigya.com^
+||cdn.branch.io^$important
 ||tags.tiqcdn.com^$important
 ||pix.pub^$important
 ||i.ibb.co^$important
@@ -41,7 +72,11 @@ $removeparam=visitToken
 ||odb.outbrain.com^$important
 ||ip.convirza.com^$important
 ||api.ipstack.com^$important
+||tt.omtrdc.net^$important
+||jssdkcdns.mparticle.com^$important
+||identity.mparticle.com^$important
 ||everlytic.net^$3p,important
+||grabify.link^$important,all
 ||om.ordergroove.com^
 ||static-na.payments-amazon.com^
 ||content.shoprunner.com^
@@ -424,8 +459,6 @@ www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
 www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
 xx.network##.is-active.cookie.modal
-||widget.freshworks.com^
-||ai.ocelotbot.com^
 www.nimh.nih.gov##.sidebar_section.sidebar_child.share_links_wrap
 coinguides.org##.q2w3-fixed-widget-container.theiaStickySidebar
 cryptocoin.news##.ccpw-header-ticker-fixedbar.ccpw-ticker-cont.style-1-2
@@ -481,7 +514,6 @@ www.finder.com###intercomChatButton
 www.finder.com.au##.hide-mobile.nps-feedbackModal__teaser
 www.finder.com.au###intercomChatButton
 www.dividend.com###header-survey-container
-||firebaseinstallations.googleapis.com^
 www.intowindows.com##div.\32 25e8008c70a1c7498d64714d951c985
 www.intowindows.com##.widget_custom_html.widget.widget_text
 www.healthline.com###modal-host
@@ -526,7 +558,6 @@ cryptopro.app##.show.fade.modal-backdrop
 app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
 starwars.fandom.com###WikiaBar
-||static.ada.support^
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
@@ -575,10 +606,8 @@ www.banklesstimes.com##.tipi-xs-0.sb-with-border.tipi-col.tipi-l-4.tipi-xs-12.sb
 www.suzuki.com###cookieAck
 www.cinemablend.com##.mobile-leaderboard-320-50
 www.cinemablend.com##div:nth-of-type(24)
-softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.kfrPy.Modal__ModalPortalStyled-sc-9h204v-1.needsclick
-softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form.gTXIIp.Modal__ModalPortalStyled-sc-9h204v-1.needsclick
+softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form
 www.timeanddate.com###mpo
-||grabify.link^$important,all
 www.bsc.news##.ad-block-3-side-page
 www.entrepreneur.com##.article-subscribe
 www.entrepreneur.com##div.transparent.container
@@ -607,7 +636,6 @@ www.terro.com##.center
 www.terro.com##.right.ws-spr
 www.terro.com##.widget-product-grid.product-items
 www.terro.com##h2:nth-of-type(2)
-||static.whisbi.com^
 www.originpc.com##.show.fade.modal-backdrop
 ||medicarebenefits.us^
 okmagazine.com##.visible.igyrAv.sc-1fe8uuu-0
@@ -663,7 +691,6 @@ nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
 languagetool.org##.dock__item--premium.dock__item
-||events-collector.spot.im^
 www.artfultea.com##.visible.sqs-popup-overlay
 account.protonmail.com##.topnav-link--blackfriday.relative
 ||statics-marketingsites-eus-ms-com.akamaized.net^
@@ -708,8 +735,6 @@ www.capitalgazette.com###zephr-overlay
 series9.me##.play-notice
 investorplace.com##.widget_ipm_sidebar_ad.widgetcontainer
 investorplace.com##.countdown-banner
-||accessibilityserver.org^
-||tracker.idocdn.com^
 www.findagrave.com##.d-print-none.mr-md-0.mr-3.col-lg-12.col-sm-6.overview-panel.native
 ||app.frase.io^
 www.independent.co.uk##.video-hero-wrapper
@@ -728,10 +753,6 @@ blog.horizen.io##.widget_custom_html.widget.widget_text
 finviz.com##.modal-elite-ad
 trading-education.com##.news-card__header-btn
 trading-education.com##.news-video-list.no-padding.col-lg-4.col-md-4.col-sm-12.col-xs-12
-||sdk.mediamelon.com^
-||privacy-mgmt.com^
-||nuance.com^
-||inq.com^
 laptopsdeals.net##.sgpb-popup-overlay.sgpb-popup-overlay
 laptopsdeals.net##.sgpb-popup-dialog-main-div-wrapper
 www.lmaxdigital.com###lmax-cookie-bar
@@ -742,8 +763,6 @@ www.coindesk.com##.newsletter-module-wrapper
 www.coindesk.com##.false.article-com-wrapper
 www.coindesk.com##[href="/sponsored-content/"]
 www.roadandtrack.com##.ad-container
-||static.olark.com^
-||static.klaviyo.com^
 www.cspracing.com##.affirm-site-modal
 ||connect.livechatinc.com^
 ||cdn.livechatinc.com^
@@ -751,8 +770,6 @@ www.cspracing.com##.affirm-site-modal
 ||sd-tagging.azurefd.net^
 www.hotdeals.com##.feedback
 www.hotdeals.com##.afsstyle
-||tt.omtrdc.net^important
-||js.hscollectedforms.net^
 europe.autonews.com##.block-region-content-right
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.btn-mal-service
@@ -854,7 +871,6 @@ seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
-||app.helphero.co^
 ||collector-pxxgcxm9by.cl6.px-cloud.net^
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
@@ -887,7 +903,6 @@ www.benzinga.com##.signup-box.zEaUI.SignUpBox__SignupBoxWrapper-s7vvbm-0
 www.benzinga.com###crypto-widget-CoinMarquee
 www.benzinga.com##.placement
 www.benzinga.com##.medium-8.small-12.cell > p
-||cdn.equalweb.com^
 viewblock.io##.gaoScI
 priceprediction.net##center
 www.tipranks.com##.mxauto.mb4.hideOnultimate._3dJLXQIbS437vFwhYR5cMn
@@ -903,7 +918,6 @@ www.tipranks.com###top_ribbon
 www.tipranks.com##.mb5
 www.tomsguide.com##aside.hawk-processed
 www.tomsguide.com##.jwplayer__widthsetter
-||cdn.knightlab.com^
 dappradar.com##.entry--wide
 dappradar.com###article-banner
 www.nasdaq.com##.watchlist
@@ -1059,8 +1073,6 @@ www.newsbtc.com###menu-item-473245
 www.newsbtc.com###menu-item-473760
 www.newsbtc.com###menu-item-480135
 www.newsbtc.com###menu-item-481720
-||apex.live^
-||collector.github.com^
 www.dapp.com##.general-ad2
 www.seobility.net###cookieoptinoverlay
 freetools.seobility.net###cookieoptinoverlay
@@ -1069,8 +1081,6 @@ stackshare.io###HeaderNotice-react-component-adf3b206-0ede-47ba-b0aa-453f595c739
 ezil.me##.ezil-zjlttn
 blog.hubspot.com###slidebox
 app.hubspot.com###chat-widget
-||salesiq.zoho.com^
-||js.hubspotfeedback.com^
 seositecheckup.com##.sidebar-promo
 www.iclicker.com#@#.pum[data-popmake*="cookies"]
 ahrefs.com##.intercom-icon-container
@@ -1220,12 +1230,6 @@ www.crunchbase.com##.native-magic-side
 ||pbrd.co^
 @@||go2app.org^
 @@||go2speed.org^
-||dashboard.wheelio-app.com^
-||config.gorgias.chat^
-||config.gorgias.io^
-||cdn.judge.me^
-||cdn.hextom.com^
-||cdns.gigya.com^
 www.theguardian.com##.css-9aekbr
 www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
@@ -1237,16 +1241,11 @@ check-host.net##div.athold11wr
 fortune.com###Leaderboard0
 www.paypal.com##.inv-feedback
 ||kaisaimy.net^
-||pouneeso.com^
-||vlqjjcakn.com^
 news.bitcoin.com##.custom-html-widget
 news.bitcoin.com##.sticky-down.bn_desktop_widgets 
 www.bitcoin.com###bitcoincom-wgt-footer
 www.blockchain.com##.dKFNB
 www.blockchain.com##.cgSUhY
-||cdn.branch.io^$important
-||cdn.sprig.com^
-||js.hsforms.net^
 ||throttled.ovp.peacocktv.com^
 www.studocu.com##.pop-up--21ihD
 www.studocu.com##.preview-banner--1fHJL
@@ -1397,7 +1396,7 @@ cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-www.reddit.com##._1Wq_iiOCv9Zlu6GiZmzuEY
+www.reddit.com##._2vEf-C2keJaBMY9qk_BxVn
 https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
 https://www.reddit.com/errors
@@ -1455,8 +1454,6 @@ homemetry.com##.ads
 www.coinbase.com##.kuposl
 www.relaxium.com###partial_form
 ||app.five9.com^
-||jssdkcdns.mparticle.com^$important
-||identity.mparticle.com^
 gab.com##a._2RKDs
 ||analytics.talentegy.com^
 ||sitestats.ttcportals.com^
@@ -1604,6 +1601,8 @@ https://open.spotify.com/recaptcha/fraud
 ||cczjcammpj.com^
 ||qmxgkgykaex.com^
 ||mnjhrleahonkq.com^
+||pouneeso.com^
+||vlqjjcakn.com^
 ||46-105-201-240.any.cdn.anycast.me^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
