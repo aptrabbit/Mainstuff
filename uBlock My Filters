@@ -1,8 +1,9 @@
-Last modified: 11 Mar 2022
+Last modified: 13 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||cmp.quantcast.com^
 ||login.live.com^$3p
 ||login.microsoftonline.com^$3p
 ||vendorlist.dmcdn.net^
@@ -1572,6 +1573,7 @@ https://open.spotify.com/recaptcha/fraud
 ||qcfehuoucrtsm.xyz^
 ||pndbseeqrbrfdss.xyz^
 ||cardwtcic.xyz^
+||cnkapolr.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
@@ -1603,6 +1605,8 @@ https://open.spotify.com/recaptcha/fraud
 ||mnjhrleahonkq.com^
 ||pouneeso.com^
 ||vlqjjcakn.com^
+||ldehffofpeqr.com^
+||yhbngqpiag.com^
 ||46-105-201-240.any.cdn.anycast.me^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
