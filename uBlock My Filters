@@ -3,6 +3,8 @@ Last modified: 14 Mar 2022
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||sdk.customfit.ai^
+||vmrcommunications.com^
 ||cmp.quantcast.com^
 ||login.live.com^$3p
 ||login.microsoftonline.com^$3p
@@ -13,6 +15,7 @@ $removeparam=visitToken
 ||mem.gfx.ms^
 ||firebaseinstallations.googleapis.com^
 ||cdn-cookieyes.com^
+||forms.hsforms.com^
 ||js.hs-scripts.com^
 ||js-na1.hs-scripts.com^
 ||js.hscollectedforms.net^
