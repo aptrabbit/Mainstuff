@@ -1,4 +1,4 @@
-Last modified: 13 Mar 2022
+Last modified: 14 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -7,8 +7,12 @@ $removeparam=visitToken
 ||login.live.com^$3p
 ||login.microsoftonline.com^$3p
 ||vendorlist.dmcdn.net^
+||printoperatelanguage.top^
+||cdn.userway.org^
+||app.conversiobot.com^
 ||mem.gfx.ms^
 ||firebaseinstallations.googleapis.com^
+||cdn-cookieyes.com^
 ||js.hs-scripts.com^
 ||js-na1.hs-scripts.com^
 ||js.hscollectedforms.net^
@@ -25,30 +29,65 @@ $removeparam=visitToken
 ||sa.getroster.com^
 ||p.typekit.net^
 ||zephr.com^
+||harpocrates.ethyca.com^
+||opticalanalytics.io^
+||collect.igodigital.com^
+||widget.tidiochat.com^
 ||api.userleap.com^
 ||cdn.privado.ai^
 ||cdn.rollbar.com^
 ||cdn.knightlab.com^
-@@||client-api.arkoselabs.com^
 ||config-security.com^
 ||shopify-gtm-suite.getelevar.com^
+||tracking.recommend.pro^
 ||sf.ezoiccdn.com^
 ||spot.im^
 ||widgets.vcdnita.com^
 ||static.botsrv.com^
 ||static.botsrv2.com^
 ||cdn.convertbox.com^
+||recs.richrelevance.com^
+||westelm.quiq-api.com^
+||match.collectandgather.com^
 ||repuso.com^
 ||sdk.mediamelon.com^
 ||privacy-mgmt.com^
+||report.dfs.glassboxdigital.io^
+||geolocation-recommendations.shopifyapps.com^
+||experiments.shopify.com^
+||cdn.parameter1.com^
+||location.postscript.io^
+||cdn.emoryday-analytics.com^
+||ponos.zeronaught.com^
+||contentorigin.bazaarvoice.com^
+||microapps.bigcommerce.com^
+||arttrk.com^
+||app.electricsms.com^
+||emotivecdn.io^
+||app.simple-affiliate.com^
+||cdn.rebuyengine.com^
+||apps.bazaarvoice.com^
 ||nuance.com^
 ||inq.com^
 ||static.olark.com^
 ||static.klaviyo.com^
 ||events-collector.spot.im^
+||app.purechat.com^
 ||app.helphero.co^
 ||cdn.equalweb.com^
 ||apex.live^
+||prod.purechatcdn.com^
+||api.purechat.com^
+||scripttags.jst.ai^
+||js.smile.io^
+||cdn.codeblackbelt.com^
+||widget.dovetale.com^
+||stamped.io^
+||app.avada.io^
+||seo.apps.avada.io^
+||www.goldendev.win^
+||pitchleads.com^
+||events.mapbox.com^
 ||static.ada.support^
 ||collector.github.com^
 ||widget.freshworks.com^
@@ -63,6 +102,16 @@ $removeparam=visitToken
 ||cdn.judge.me^
 ||cdn.hextom.com^
 ||cdns.gigya.com^
+||statics-marketingsites-eus-ms-com.akamaized.net^
+||statics-marketingsites-neu-ms-com.akamaized.net^
+||steadfastseat.com^
+||quantumdex.io^
+||id.sharedid.org^
+@@||go2app.org^
+@@||go2speed.org^
+@@||dcf.espn.com^
+@@||client-api.arkoselabs.com^
+||jwpsrv.com^$important
 ||cdn.branch.io^$important
 ||tags.tiqcdn.com^$important
 ||pix.pub^$important
@@ -379,8 +428,6 @@ coinpedia.org##.footer-popup-ad
 coinpedia.org##.widget_custom_html.widget.container-wrapper.widget_text
 www.mercedes-amg.com##.amg-e-social-share-buttons
 www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
-||opticalanalytics.io^
-||collect.igodigital.com^
 dentacoin.com##.dcn-privacy-policy-cookie
 www.celebritynetworth.com###skyline
 www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox
@@ -440,7 +487,6 @@ www.cryptocompare.com##div.ng-scope.featured-mining-guide.well-guide:nth-of-type
 www.cryptocompare.com##.ng-scope.featured-mining-guide.well-coin-page
 www.cryptocompare.com##.ci-trigger > .ng-isolate-scope
 www.wikihow.com##.show
-||tracking.recommend.pro^
 www.statnews.com##.dfp-ad-midbreaker-wrap
 www.statnews.com##.stat-plus-article-cta.widget-default.widget
 healthtechmagazine.net##.ui-front.ui-widget-overlay
@@ -455,8 +501,6 @@ mail.aol.com###dijit__WidgetsInTemplateMixin_1bg
 mail.aol.com##.inforOfferDlg.WSModalPane
 wetransfer.com##.banner__animations-enter-done.banner__container
 www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
-||quantumdex.io^
-||id.sharedid.org^
 www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
 xx.network##.is-active.cookie.modal
@@ -499,7 +543,6 @@ www.kiplinger.com##.-sponsored-row-sidebar-enabled.-sponsored-row
 www.gmx.com##.dialogOverlay
 www.autoevolution.com###swipebox-action
 www.autoevolution.com###swipebox-right
-||widget.tidiochat.com^
 us20.admin.mailchimp.com##.root-35Mg8
 www.nasdaq.com##div.ads__inline
 www.nasdaq.com##.article-header__railAd
@@ -537,9 +580,6 @@ www.ibtimes.com##.wf2-bg-dark.grwf2_backdrop
 www.ibtimes.com##.discussion
 robbreport.com##.sister-links
 www.nccih.nih.gov##footer
-||recs.richrelevance.com^
-||westelm.quiq-api.com^
-||match.collectandgather.com^
 www.trustnodes.com#@#.simple-share
 beincrypto.com##.with-promo
 beincrypto.com##.col-md-3
@@ -662,12 +702,10 @@ docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border
 account.microsoft.com###feedback-button
 dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
-||harpocrates.ethyca.com^
 gitlab.com##.trial-link
 www.yahoo.com###notification-container
 ||theglobeandmail.com/pf/dist/engine/react.js$script,1p
 www.qmee.com##.show-0-2-15.prerender-0-2-14
-||app.conversiobot.com^
 mail.protonmail.com##.topnav-link--blackfriday
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
@@ -684,23 +722,17 @@ issueexplorer.com##.con-carbon-noti
 www.bizjournals.com##.u-flex-justify-start.secondary\@lg
 forkast.news##div.spaced-group
 forkast.news##.alert-bar
-@@||dcf.espn.com^
 www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
 www.cnn.com##.el-entitlement-.el-entitlement
-||steadfastseat.com^
 nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
 languagetool.org##.dock__item--premium.dock__item
 www.artfultea.com##.visible.sqs-popup-overlay
 account.protonmail.com##.topnav-link--blackfriday.relative
-||statics-marketingsites-eus-ms-com.akamaized.net^
-||statics-marketingsites-neu-ms-com.akamaized.net^
 appgrooves.com##.transitions-enabled.sticky-signup-section
 appgrooves.com##.mg-b-16.app-deals-wrapper
 appgrooves.com##.hidden-sm.hidden-xs.leftnav-menus-container > div > .mg-b-16.bordered-radius.page-section
-||printoperatelanguage.top^
-||cdn.userway.org^
 ambcrypto.com##.ub-sticky-ad-containerdesk
 ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
 ambcrypto.com##.ambcr-widget
@@ -828,7 +860,6 @@ www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
 support.kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
 uphold.com##.eTbgNl.sc-21f56367-2
-||cdn-cookieyes.com^
 downloads.digitaltrends.com##.roof-ad
 www.bestbuy.com##.shop-blue-assist
 www.bestbuy.com##.shop-search-survey
@@ -991,7 +1022,6 @@ digitalcoinprice.com##.ads-90
 digitalcoinprice.com##.cmc-btn-grp
 www.thisismoney.co.uk##.watermark
 www.thisismoney.co.uk##.sticky-container
-||app.purechat.com^
 research.binance.com##.jsx-1018176719
 www.fxempire.com##.jfOYJb > .kpqgMJ.Card-sc-1ib64vn-0
 www.fxempire.com##[src="/assets/btt-button.svg"]
@@ -1085,7 +1115,6 @@ app.hubspot.com###chat-widget
 seositecheckup.com##.sidebar-promo
 www.iclicker.com#@#.pum[data-popmake*="cookies"]
 ahrefs.com##.intercom-icon-container
-||jwpsrv.com^$important
 neilpatel.com###bottom-box-cta
 neilpatel.com###topbar
 neilpatel.com##.widget-analyzer
@@ -1229,8 +1258,6 @@ www.ncbi.nlm.nih.gov##.custom-feedback-button--base
 www.crunchbase.com##.native-magic-side
 ||ingrimera.com^
 ||pbrd.co^
-@@||go2app.org^
-@@||go2speed.org^
 www.theguardian.com##.css-9aekbr
 www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
@@ -1275,18 +1302,6 @@ pixabay.com##.show-gtty-item
 pixabay.com##.present-gtty-item
 pixabay.com##.present-g-item
 pixabay.com##.affil_medias
-||prod.purechatcdn.com^
-||api.purechat.com^
-||scripttags.jst.ai^
-||js.smile.io^
-||cdn.codeblackbelt.com^
-||widget.dovetale.com^
-||stamped.io^
-||app.avada.io^
-||seo.apps.avada.io^
-||www.goldendev.win^
-||pitchleads.com^
-||events.mapbox.com^
 1movies.life###_asdhj234esdfgds
 1movies.life##.notif
 1movies.life##.desk_option
@@ -1397,7 +1412,6 @@ cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-www.reddit.com##._2vEf-C2keJaBMY9qk_BxVn
 https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
 https://www.reddit.com/errors
@@ -1524,21 +1538,6 @@ www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 ||tracing.spotify.com^
 https://spclient.wg.spotify.com/metadata/4/track/
 https://open.spotify.com/recaptcha/fraud
-||report.dfs.glassboxdigital.io^
-||geolocation-recommendations.shopifyapps.com^
-||experiments.shopify.com^
-||cdn.parameter1.com^
-||location.postscript.io^
-||cdn.emoryday-analytics.com^
-||ponos.zeronaught.com^
-||contentorigin.bazaarvoice.com^
-||microapps.bigcommerce.com^
-||arttrk.com^
-||app.electricsms.com^
-||emotivecdn.io^
-||app.simple-affiliate.com^
-||cdn.rebuyengine.com^
-||apps.bazaarvoice.com^
 ||api.xewarycy.xyz^
 ||xewarycy.xyz^
 ||aywikhsw.xyz^
@@ -1574,6 +1573,7 @@ https://open.spotify.com/recaptcha/fraud
 ||pndbseeqrbrfdss.xyz^
 ||cardwtcic.xyz^
 ||cnkapolr.xyz^
+||wlfcwkijsknted.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
@@ -1607,6 +1607,7 @@ https://open.spotify.com/recaptcha/fraud
 ||vlqjjcakn.com^
 ||ldehffofpeqr.com^
 ||yhbngqpiag.com^
+||vltwoizzckpp.com^
 ||46-105-201-240.any.cdn.anycast.me^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
@@ -1662,3 +1663,4 @@ www.msn.com###modernRightRail_container_0 > div
 www.msn.com###modernRightRail_container_0 > fluent-design-system-provider
 www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
 www.msn.com##div:nth-of-type(4)
+blog.logrocket.com##.typescript-popup
