@@ -1,8 +1,9 @@
-Last modified: 14 Mar 2022
+Last modified: 17 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||graph-fallback.instagram.com^
 ||sdk.customfit.ai^
 ||vmrcommunications.com^
 ||cmp.quantcast.com^
@@ -1576,6 +1577,7 @@ https://open.spotify.com/recaptcha/fraud
 ||pndbseeqrbrfdss.xyz^
 ||cardwtcic.xyz^
 ||cnkapolr.xyz^
+||ofbgqtkl.xyz^
 ||wlfcwkijsknted.xyz^
 ||pwbmdalngizhz.com^
 ||zheevmmvlwg.com^
@@ -1596,6 +1598,7 @@ https://open.spotify.com/recaptcha/fraud
 ||eaglic.com^
 ||cologu.com^
 ||thruss.com^
+||colanx.com^
 ||hqtfjugceattb.com^
 ||hesatinaco.com^
 ||zglxqljvfa.com^
@@ -1667,3 +1670,4 @@ www.msn.com###modernRightRail_container_0 > fluent-design-system-provider
 www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
 www.msn.com##div:nth-of-type(4)
 blog.logrocket.com##.typescript-popup
+hbr.org##.advertising
