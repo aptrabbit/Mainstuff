@@ -1,10 +1,11 @@
-Last modified: 17 Mar 2022
+Last modified: 18 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 ||graph-fallback.instagram.com^
 ||sdk.customfit.ai^
+||rneroftheparlor.com^
 ||vmrcommunications.com^
 ||cmp.quantcast.com^
 ||login.live.com^$3p
@@ -1599,6 +1600,8 @@ https://open.spotify.com/recaptcha/fraud
 ||cologu.com^
 ||thruss.com^
 ||colanx.com^
+||jewisk.com^
+||gjnrtzqz.com^
 ||hqtfjugceattb.com^
 ||hesatinaco.com^
 ||zglxqljvfa.com^
