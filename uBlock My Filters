@@ -1,4 +1,4 @@
-Last modified: 18 Mar 2022
+Last modified: 19 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -33,8 +33,19 @@ $removeparam=visitToken
 ||jnn-pa.googleapis.com^
 ||sa.getroster.com^
 ||p.typekit.net^
+||chatwidget.ruby.com^
+||api.sjpf.io^
+||assetscdn-wchat.au.freshchat.com^
+||api.solvvy.com^
 ||zephr.com^
 ||harpocrates.ethyca.com^
+||connect.livechatinc.com^
+||cdn.livechatinc.com^
+||cm-api.contact-module.ibm.com^
+||liveperson.net^
+||lpcdn.lpsnmedia.net^
+||cdn1.affirm.com^
+||sd-tagging.azurefd.net^
 ||opticalanalytics.io^
 ||collect.igodigital.com^
 ||widget.tidiochat.com^
@@ -375,6 +386,7 @@ www.rentcafe.com##picture
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 careerkarma.com##.design1.wmpci-popup-wrp.splash
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
+||recommendation-hybrid.wpdigital.net^
 ||recommendation-newsletter.wpdigital.net^
 www.berkeleywellness.com##.lazy.adbox
 www.laweekly.com##.sponsor-wrap
@@ -437,10 +449,6 @@ dentacoin.com##.dcn-privacy-policy-cookie
 www.celebritynetworth.com###skyline
 www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox
 www.celebritynetworth.com###single__bar
-||chatwidget.ruby.com^
-||api.sjpf.io^
-||assetscdn-wchat.au.freshchat.com^
-||api.solvvy.com^
 www.verywellhealth.com###mntl-leaderboard-spacer_1-0
 azdailysun.com##.has-promotiom.hidden-print.show-after-loaded.lee-subscription-article-link
 azdailysun.com##div.subscriber-ad.asset-breakout-container.hidden-print
@@ -802,10 +810,6 @@ www.coindesk.com##.false.article-com-wrapper
 www.coindesk.com##[href="/sponsored-content/"]
 www.roadandtrack.com##.ad-container
 www.cspracing.com##.affirm-site-modal
-||connect.livechatinc.com^
-||cdn.livechatinc.com^
-||cdn1.affirm.com^
-||sd-tagging.azurefd.net^
 www.hotdeals.com##.feedback
 www.hotdeals.com##.afsstyle
 europe.autonews.com##.block-region-content-right
@@ -963,9 +967,6 @@ news.spacconference.com##.ng-scope.ml-square-ad-container
 medium.com##[data-popper-reference-hidden]
 www.wired.com##.should-hold-space
 www.wired.com##.social-icons
-||cm-api.contact-module.ibm.com^
-||liveperson.net^
-||lpcdn.lpsnmedia.net^
 www.fakespot.com##.bottom-box
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 www.amazon.com###cart-item-recs
