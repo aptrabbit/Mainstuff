@@ -22,6 +22,7 @@ corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
 df.telemetry.microsoft.com
+ecs.office.com
 events.data.microsoft.com
 fe2.update.microsoft.com.akadns.net
 g.msn.com
@@ -45,7 +46,6 @@ ssw.live.com
 statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
-support.content.office.net
 survey.watson.microsoft.com
 tele.trafficmanager.net
 telemetry.appex.bing.net
