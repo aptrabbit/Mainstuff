@@ -3,6 +3,9 @@ Last modified: 21 Mar 2022
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||spokeoaffiliates.com^
+||moderningvigil.org^
+||analytics.yugeanime.ro^
 ||graph-fallback.instagram.com^
 ||sdk.customfit.ai^
 ||rneroftheparlor.com^
@@ -716,7 +719,6 @@ account.microsoft.com###feedback-button
 dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
 gitlab.com##.trial-link
-www.yahoo.com###notification-container
 ||theglobeandmail.com/pf/dist/engine/react.js$script,1p
 www.qmee.com##.show-0-2-15.prerender-0-2-14
 mail.protonmail.com##.topnav-link--blackfriday
@@ -768,10 +770,6 @@ www.fxstreet.com##.fxs_tradingStudio
 www.fxstreet.com##.fxs_post_detail_subscribe_premium_bar
 www.fxstreet.com##.fxs_col_dismissible
 www.fxstreet.com###Content_C312_Col00 > div.fxs_row > .fxs_flex_ad_col
-finance.yahoo.com##.caas-body > div
-finance.yahoo.com##._yb_aco1l._yb_1becu
-finance.yahoo.com##.LREC-status-ok
-finance.yahoo.com##[href^="https://finance.yahoo.com/premium-marketing"]
 www.wsj.com##div.wsj-modern-ad-container
 www.wsj.com##.dynamic-inset-overflow
 www.wsj.com###cx-what-to-read-next
@@ -788,10 +786,25 @@ www.independent.co.uk##div.jUAgro.sc-eiBcMB
 www.independent.co.uk##.iQqWaS.sc-jeURIA
 conversations.indy100.com##.bottom-strip
 ||gadget.pico.tools^
+www.yahoo.com###notification-container
 www.yahoo.com###applet_p
 www.yahoo.com##.Mb-20.subscriptiontdv2
 www.yahoo.com###module-monalixaRightRail
 www.yahoo.com##.LREC-status-ok
+||yahoo.com^$removeparam=activity
+||yahoo.com^$removeparam=pspid
+||yahoo.com^$removeparam=done
+||yahoo.com^$removeparam=guccounter
+||yahoo.com^$removeparam=guce_referrer
+||yahoo.com^$removeparam=guce_referrer_sig
+sports.yahoo.com##.wafer-beacon
+sports.yahoo.com###postArticle
+sports.yahoo.com###module-spotIm
+sports.yahoo.com###module-moreStories
+finance.yahoo.com##.caas-body > div
+finance.yahoo.com##._yb_aco1l._yb_1becu
+finance.yahoo.com##.LREC-status-ok
+finance.yahoo.com##[href^="https://finance.yahoo.com/premium-marketing"]
 coinquora.com##.coinq-widget.widget
 coinquora.com##.py-1.coins-stream
 ||rapidzebra.io^
@@ -1053,10 +1066,6 @@ www.stakingrewards.com##.asset_asset-links__IgmZ6
 www.stakingrewards.com##.banner_native-ad-container-small__q_jmD
 www.stakingrewards.com##.stickyFooter_stickyFooter__6_MC_
 www.stakingrewards.com##.undefined
-sports.yahoo.com##.wafer-beacon
-sports.yahoo.com###postArticle
-sports.yahoo.com###module-spotIm
-sports.yahoo.com###module-moreStories
 walletinvestor.com##.btn-loan
 walletinvestor.com##.ticker-highlight
 walletinvestor.com##.sticky-show
@@ -1335,14 +1344,6 @@ www.realclearpolitics.com###distro_right_rail
 ||tracker.123tv.live^
 ||9live.club^
 ||apps.rokt.com^
-||yahoo.com^$removeparam=src
-||yahoo.com^$removeparam=.done
-||yahoo.com^$removeparam=activity
-||yahoo.com^$removeparam=pspid
-||yahoo.com^$removeparam=done
-||yahoo.com^$removeparam=guccounter
-||yahoo.com^$removeparam=guce_referrer
-||yahoo.com^$removeparam=guce_referrer_sig
 ||ups.com^$removeparam=SourceCode
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
@@ -1538,7 +1539,6 @@ www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
-||edge-web.dual-gslb.spotify.com^
 ||adeventtracker.spotify.com^
 ||mosaic.scdn.co^
 ||wwwmarketing.scdn.co^
@@ -1582,6 +1582,7 @@ https://open.spotify.com/recaptcha/fraud
 ||cardwtcic.xyz^
 ||cnkapolr.xyz^
 ||ofbgqtkl.xyz^
+||vgeucforjo.xyz^
 ||evcnxaiisqqfqfe.xyz^
 ||wlfcwkijsknted.xyz^
 ||hqtfjugceattb.com^
@@ -1624,10 +1625,10 @@ https://open.spotify.com/recaptcha/fraud
 ||thruss.com^
 ||colanx.com^
 ||jewisk.com^
+||aqdha.com^
 ||gjnrtzqz.com^
-||spokeoaffiliates.com^
-||moderningvigil.org^
-||analytics.yugeanime.ro^
+||gpttuucg.com^
+||fplnfqem.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
@@ -1681,3 +1682,7 @@ www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
 www.msn.com##div:nth-of-type(4)
 blog.logrocket.com##.typescript-popup
 hbr.org##.advertising
+www.prolific.co###klaro
+app.prolific.co###klaro
+www.firesticktricks.com##.mysticky-welcomebar-animation
+www.firesticktricks.com##.warning
