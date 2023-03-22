@@ -1,4 +1,4 @@
-Last modified: 21 Mar 2022
+Last modified: 22 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -1428,6 +1428,7 @@ https://www.redditstatic.com/desktop2x/webvitals
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 https://www.redditstatic.com/desktop2x/PushNotifications
 https://www.redditstatic.com/shreddit/en-US/w3-report
+||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
 www.dontpayfull.com##.sponsored
@@ -1583,6 +1584,7 @@ https://open.spotify.com/recaptcha/fraud
 ||cnkapolr.xyz^
 ||ofbgqtkl.xyz^
 ||vgeucforjo.xyz^
+||kqyywvok.xyz^
 ||evcnxaiisqqfqfe.xyz^
 ||wlfcwkijsknted.xyz^
 ||hqtfjugceattb.com^
