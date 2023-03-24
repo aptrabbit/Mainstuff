@@ -3,6 +3,7 @@ Last modified: 23 Mar 2022
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||analytics.codedeploy.io^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
 ||analytics.yugeanime.ro^
@@ -614,6 +615,7 @@ cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
 app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
+||id.nbc.com^
 starwars.fandom.com###WikiaBar
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
@@ -1589,6 +1591,7 @@ https://open.spotify.com/recaptcha/fraud
 ||rssrqecohagbk.xyz^
 ||evcnxaiisqqfqfe.xyz^
 ||wlfcwkijsknted.xyz^
+||wydtxpctgipa.xyz^
 ||hqtfjugceattb.com^
 ||hesatinaco.com^
 ||zglxqljvfa.com^
@@ -1693,3 +1696,4 @@ www.prolific.co###klaro
 app.prolific.co###klaro
 www.firesticktricks.com##.mysticky-welcomebar-animation
 www.firesticktricks.com##.warning
+www.idropnews.com##.post_sponsorship
