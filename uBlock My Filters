@@ -1,4 +1,4 @@
-Last modified: 26 Mar 2022
+Last modified: 28 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -623,13 +623,6 @@ study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
 www.chegg.com##.CallToAction__CTAWrapper-sc-ieaghs-3
-||sports24.site^
-||bckfnohmg.com^
-||iqkfplsez.com^
-||cdnjs.buymeacoffee.com^
-||adieusyaktop.com^
-||algoply.com^
-||adipolo.com^
 www.tennisexpress.com##.show.cookieTextDisplay
 www.dickssportinggoods.com###kampyleButtonContainer
 coupons.cnet.com##.SnackBar_root_active__3IYDm.SnackBar_root_info__1bH3Q.SnackBar_root__37aha
@@ -1258,6 +1251,9 @@ https://accounts.google.com/gsi/client
 ||www.google.com^$removeparam=ved
 ||www.google.com^$removeparam=num
 ||www.google.com^$removeparam=dpr
+||www.google.com^$removeparam=csf
+||www.google.com^$removeparam=ct
+||www.google.com^$removeparam=rct
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
@@ -1550,6 +1546,13 @@ www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 ||tracing.spotify.com^
 https://spclient.wg.spotify.com/metadata/4/track/
 https://open.spotify.com/recaptcha/fraud
+||sports24.site^
+||bckfnohmg.com^
+||iqkfplsez.com^
+||adieusyaktop.com^
+||algoply.com^
+||adipolo.com^
+||1376341044.rsc.cdn77.org^
 ||46-105-201-240.any.cdn.anycast.me^
 ||api.xewarycy.xyz^
 ||xewarycy.xyz^
@@ -1590,8 +1593,10 @@ https://open.spotify.com/recaptcha/fraud
 ||ofbgqtkl.xyz^
 ||vgeucforjo.xyz^
 ||kqyywvok.xyz^
+||nbidqsoy.xyz^
 ||lsuoaeqmubc.xyz^
 ||nnnfqegwes.xyz^
+||qyfkarotggyk.xyz^
 ||rssrqecohagbk.xyz^
 ||evcnxaiisqqfqfe.xyz^
 ||wlfcwkijsknted.xyz^
@@ -1602,6 +1607,7 @@ https://open.spotify.com/recaptcha/fraud
 ||fdokosbvp.xyz^
 ||cbyjpnjua.xyz^
 ||hyvmflsclweae.xyz^
+||dgoyegeervubty.xyz^
 ||hqtfjugceattb.com^
 ||dffhncwicaqm.com^
 ||hesatinaco.com^
@@ -1618,11 +1624,13 @@ https://open.spotify.com/recaptcha/fraud
 ||ldehffofpeqr.com^
 ||yhbngqpiag.com^
 ||vltwoizzckpp.com^
+||ldbboacmenwy.com^
 ||sqydhgubsy.com^
 ||wedxuaksargvlf.com^
 ||evzxlgstwcai.com^
 ||yrumdfslwabv.com^
 ||pwbmdalngizhz.com^
+||bqypgubvupcg.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
 ||xnfmbejucgoldi.com^
