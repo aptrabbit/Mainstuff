@@ -29,6 +29,7 @@ fe2.update.microsoft.com.akadns.net
 g.msn.com
 h1.msn.com
 h2.msn.com
+iriscoremetadataprod.blob.core.windows.net
 login.live.com
 metadata.templates.cdn.office.net
 mktdplp102cdn.azureedge.net
@@ -50,6 +51,7 @@ statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
 survey.watson.microsoft.com
 tele.trafficmanager.net
+telecommand.telemetry.microsoft.com
 telemetry.appex.bing.net
 telemetry.remoteapp.windowsazure.com
 telemetry.urs.microsoft.com
