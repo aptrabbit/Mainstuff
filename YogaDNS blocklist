@@ -21,6 +21,7 @@ compatexchange1.trafficmanager.net
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
+cs11.wpc.v0cdn.net
 df.telemetry.microsoft.com
 ecs.office.com
 events.data.microsoft.com
@@ -62,6 +63,7 @@ vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
 watson.live.com
 watson.ppe.telemetry.microsoft.com
+wpc.v0cdn.net
 outside.apple.com
 xp.apple.com
 basejumper.apple.com
