@@ -135,6 +135,7 @@ $removeparam=visitToken
 @@||go2speed.org^
 @@||dcf.espn.com^
 @@||client-api.arkoselabs.com^
+||contributor.google.com^
 ||jwpsrv.com^$important
 ||cdn.branch.io^$important
 ||tags.tiqcdn.com^$important
@@ -1207,7 +1208,6 @@ support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com###google-hats-survey
-||contributor.google.com
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##div[id^="eob"]
 www.google.com##.KGl2dd.fl
@@ -1597,6 +1597,7 @@ https://open.spotify.com/recaptcha/fraud
 ||vgeucforjo.xyz^
 ||kqyywvok.xyz^
 ||nbidqsoy.xyz^
+||mcysukba.xyz^
 ||lsuoaeqmubc.xyz^
 ||nnnfqegwes.xyz^
 ||qyfkarotggyk.xyz^
@@ -1635,6 +1636,7 @@ https://open.spotify.com/recaptcha/fraud
 ||wedxuaksargvlf.com^
 ||evzxlgstwcai.com^
 ||yrumdfslwabv.com^
+||gnzfwmnfiy.com^
 ||pwbmdalngizhz.com^
 ||bqypgubvupcg.com^
 ||zheevmmvlwg.com^
