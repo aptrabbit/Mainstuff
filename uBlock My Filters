@@ -3,6 +3,8 @@ Last modified: 28 Mar 2022
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||events.launchdarkly.com^
+||app-sj31.marketo.com^
 ||trustspot.io^
 ||hjk00trk.com^
 ||analytics.codedeploy.io^
@@ -188,6 +190,7 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 azureedge.net/scripts/sdt1.js
+https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ODCN
 https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
 https://cdn.jsdelivr.net/npm/js-cookie
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -1608,6 +1611,8 @@ https://open.spotify.com/recaptcha/fraud
 ||cbyjpnjua.xyz^
 ||hyvmflsclweae.xyz^
 ||dgoyegeervubty.xyz^
+||dpfchqsiksjuyjc.xyz^
+||agbyrgwqveddgm.com^
 ||hqtfjugceattb.com^
 ||dffhncwicaqm.com^
 ||hesatinaco.com^
@@ -1623,6 +1628,7 @@ https://open.spotify.com/recaptcha/fraud
 ||vlqjjcakn.com^
 ||ldehffofpeqr.com^
 ||yhbngqpiag.com^
+||ckyjapugk.com^
 ||vltwoizzckpp.com^
 ||ldbboacmenwy.com^
 ||sqydhgubsy.com^
