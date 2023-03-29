@@ -1,8 +1,9 @@
-Last modified: 28 Mar 2022
+Last modified: 29 Mar 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||api.sprig.com^
 ||events.launchdarkly.com^
 ||app-sj31.marketo.com^
 ||trustspot.io^
@@ -191,13 +192,16 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 azureedge.net/scripts/sdt1.js
-https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ODCN
-https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
-https://cdn.jsdelivr.net/npm/js-cookie
+||https://app-measurement.com/sdk-exp$important
+||https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ODCN^
+||https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events^
+||https://cdn.jsdelivr.net/npm/js-cookie^
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
 ||heimdalsecurity.com/blog/wp-content/plugins/layered-popups/images/default/city.jpg$image
+www.coinbase.com##.kuposl
+www.coinbase.com#@#[class*="cds-fixed-"]
 heimdalsecurity.com##.ulp-content
 heimdalsecurity.com###ulp-layer-199
 heimdalsecurity.com###ulp-layer-200
@@ -1477,7 +1481,6 @@ homemetry.com###topads
 homemetry.com##.adsense-responsive-bottom
 homemetry.com###main > div.spinner
 homemetry.com##.ads
-www.coinbase.com##.kuposl
 www.relaxium.com###partial_form
 ||app.five9.com^
 gab.com##a._2RKDs
@@ -1602,6 +1605,8 @@ https://open.spotify.com/recaptcha/fraud
 ||lsuoaeqmubc.xyz^
 ||nnnfqegwes.xyz^
 ||qyfkarotggyk.xyz^
+||ysapwusywocfsjm.xyz^
+||beekwyrorndmv.xyz^
 ||rssrqecohagbk.xyz^
 ||evcnxaiisqqfqfe.xyz^
 ||wlfcwkijsknted.xyz^
