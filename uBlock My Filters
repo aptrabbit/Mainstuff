@@ -1,8 +1,9 @@
-Last modified: 31 Mar 2022
+Last modified: 01 Apr 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||a.disquscdn.com^
 ||sdk.postscript.io^
 ||api.sprig.com^
 ||events.launchdarkly.com^
@@ -1547,13 +1548,15 @@ www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
-||tls130rtt.spotifycdn.map.fastly.net^
+https://api-partner.spotify.com/ads/
+https://spclient.wg.spotify.com/metadata/4/track/
+https://open.spotify.com/recaptcha/fraud
+https://gue1-spclient.spotify.com/gabo-receiver-service/v3/events
+https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events
 ||adeventtracker.spotify.com^
 ||mosaic.scdn.co^
 ||wwwmarketing.scdn.co^
 ||tracing.spotify.com^
-https://spclient.wg.spotify.com/metadata/4/track/
-https://open.spotify.com/recaptcha/fraud
 ||sports24.site^
 ||bckfnohmg.com^
 ||iqkfplsez.com^
@@ -1566,6 +1569,7 @@ https://open.spotify.com/recaptcha/fraud
 ||xewarycy.xyz^
 ||aywikhsw.xyz^
 ||bicugesi.xyz^
+||tnaowooruaxkqtr.xyz^
 ||oqxkomjnuulbwc.xyz^
 ||fhvabdiebmxxok.xyz^
 ||rjigblotustcgvp.xyz^
@@ -1644,7 +1648,9 @@ https://open.spotify.com/recaptcha/fraud
 ||ckyjapugk.com^
 ||vltwoizzckpp.com^
 ||ldbboacmenwy.com^
+||ieamsbpzu.com^
 ||sqydhgubsy.com^
+||rlmcegsrhuspsq.com^
 ||wedxuaksargvlf.com^
 ||evzxlgstwcai.com^
 ||yrumdfslwabv.com^
