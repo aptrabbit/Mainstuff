@@ -197,10 +197,11 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 azureedge.net/scripts/sdt1.js
-||https://app-measurement.com/sdk-exp$important
-||https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ODCN^
-||https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events^
-||https://cdn.jsdelivr.net/npm/js-cookie^
+https://app-measurement.com/sdk-exp$important
+https://cdn.cookielaw.org/opt-out/otCCPAiab.js
+https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ODCN
+https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
+https://cdn.jsdelivr.net/npm/js-cookie
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -1552,9 +1553,11 @@ www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
+https://spclient.wg.spotify.com/metadata/4/track/
 https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events
 https://gue1-spclient.spotify.com/gabo-receiver-service/v3/events
 https://open.spotify.com/recaptcha/fraud
+https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||adeventtracker.spotify.com^
 ||mosaic.scdn.co^
 ||wwwmarketing.scdn.co^
