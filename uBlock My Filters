@@ -197,11 +197,12 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 azureedge.net/scripts/sdt1.js
-https://app-measurement.com/sdk-exp$important
 https://cdn.cookielaw.org/opt-out/otCCPAiab.js
+https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
 https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ODCN
 https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
 https://cdn.jsdelivr.net/npm/js-cookie
+https://app-measurement.com/sdk-exp$important
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
@@ -442,11 +443,6 @@ client.schwab.com##.closed.feedbackLink
 www.schwab.com###Login-Logout-slot-1
 www.schwab.com###Login-Logout-slot-2
 homebusinessmag.com##.widget_media_image.widget.td_block_template_1
-www2.watchserieshd.ru###user
-www2.watchserieshd.ru##.bl-2
-www2.watchserieshd.ru##.bl-1 > .bl
-www2.watchserieshd.ru###md-share
-www2.watchserieshd.ru##.show.fade.modal-backdrop
 www.binance.us##.css-1iq0xlp
 markets.businessinsider.com##.htl-ad
 markets.businessinsider.com##div.mobile-spacer-25.spacer-50
