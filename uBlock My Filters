@@ -1552,10 +1552,9 @@ www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
-https://spclient.wg.spotify.com/metadata/4/track/
-https://open.spotify.com/recaptcha/fraud
-https://gue1-spclient.spotify.com/gabo-receiver-service/v3/events
 https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events
+https://gue1-spclient.spotify.com/gabo-receiver-service/v3/events
+https://open.spotify.com/recaptcha/fraud
 ||adeventtracker.spotify.com^
 ||mosaic.scdn.co^
 ||wwwmarketing.scdn.co^
@@ -1566,9 +1565,6 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events
 ||adieusyaktop.com^
 ||algoply.com^
 ||adipolo.com^
-||1278313086.rsc.cdn77.org^
-||1928993396.rsc.cdn77.org^
-||1376341044.rsc.cdn77.org^
 ||46-105-201-240.any.cdn.anycast.me^
 ||api.xewarycy.xyz^
 ||xewarycy.xyz^
