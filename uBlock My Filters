@@ -1,10 +1,11 @@
-Last modified: 03 Apr 2022
+Last modified: 04 Apr 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||concord.tech^$all
+||cdn.landbot.io^
 ||footer.wrbm.com^
-||target.microsoft.com^
 ||img.lb.staging.wbmdstatic.com^
 ||a.disquscdn.com^
 ||sdk.postscript.io^
@@ -197,6 +198,9 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 azureedge.net/scripts/sdt1.js
+https://www.youtube.com/generate_204
+https://i.ytimg.com/generate_204
+https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js
 https://cdn.cookielaw.org/opt-out/otCCPAiab.js
 https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
 https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ODCN
@@ -1565,6 +1569,7 @@ https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||algoply.com^
 ||adipolo.com^
 ||46-105-201-240.any.cdn.anycast.me^
+||sexeecmo.xyz^
 ||api.xewarycy.xyz^
 ||xewarycy.xyz^
 ||aywikhsw.xyz^
@@ -1626,6 +1631,7 @@ https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||tqepqvpjgbbdh.xyz^
 ||mebfylxqbhjbx.xyz^
 ||apsoacou.xyz^
+||xmoqegmllcwj.xyz^
 ||fdokosbvp.xyz^
 ||cbyjpnjua.xyz^
 ||hyvmflsclweae.xyz^
@@ -1669,6 +1675,7 @@ https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||pwbmdalngizhz.com^
 ||etccdvfodthhc.com^
 ||bqypgubvupcg.com^
+||fzdpvjatkwpg.com^
 ||zheevmmvlwg.com^
 ||wdeyuqjmlsl.com^
 ||xnfmbejucgoldi.com^
@@ -1699,6 +1706,7 @@ https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||jewisk.com^
 ||aqdha.com^
 ||vancip.com^
+||givill.com^
 ||lahobexy.com^
 ||gjnrtzqz.com^
 ||gpttuucg.com^
