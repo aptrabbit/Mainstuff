@@ -1,4 +1,4 @@
-Last modified: 04 Apr 2022
+Last modified: 05 Apr 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -13,6 +13,16 @@ $removeparam=visitToken
 ||events.launchdarkly.com^
 ||app-sj31.marketo.com^
 ||trustspot.io^
+||api.moonpay.io^
+||preferences.trustarc.com^
+||app-ab30.marketo.com^
+||nxst.megpxs.com^
+||api.condenast.io^
+||cdn.fyrebox.com^
+||dni.logmycalls.com^
+||dashboard.relecart.com^
+||app.slickstream.com^
+||ccpa.sp-prod.net^
 ||hjk00trk.com^
 ||analytics.codedeploy.io^
 ||spokeoaffiliates.com^
@@ -25,7 +35,6 @@ $removeparam=visitToken
 ||cmp.quantcast.com^
 ||login.live.com^$3p
 ||login.microsoftonline.com^$3p
-||vendorlist.dmcdn.net^
 ||printoperatelanguage.top^
 ||cdn.userway.org^
 ||app.conversiobot.com^
@@ -201,6 +210,7 @@ https://ntuplay.xyz/blast.js
 azureedge.net/scripts/sdt1.js
 https://www.youtube.com/generate_204
 https://i.ytimg.com/generate_204
+https://trck.pix.twitch.prod-na.turntable.sonic.advertising
 https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js
 https://cdn.cookielaw.org/opt-out/otCCPAiab.js
 https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
@@ -1515,16 +1525,6 @@ www.vox.com###toaster
 ||cdn.concert.io/lib/adblock/vox_support_concise.html$subdocument
 ||cdn.concert.io/lib/adblock/vox_support_explanatory.html$subdocument
 ||concertads-configs.vox-cdn.com^
-||api.moonpay.io^
-||preferences.trustarc.com^
-||app-ab30.marketo.com^
-||nxst.megpxs.com^
-||api.condenast.io^
-||cdn.fyrebox.com^
-||dni.logmycalls.com^
-||dashboard.relecart.com^
-||app.slickstream.com^
-||ccpa.sp-prod.net^
 www.shrm.org##.HP-v2 > .row
 www.shrm.org##.shrm-widget
 www.shrm.org##.metteredHolder
@@ -1554,7 +1554,6 @@ www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
-https://gew4-spclient.spotify.com/quicksilver/v2/triggers
 https://gew4-spclient.spotify.com/gabo-receiver-service/v3/events
 https://gue1-spclient.spotify.com/gabo-receiver-service/v3/events
 https://gew4-spclient.spotify.com/gabo-receiver-service/public/v3/events
@@ -1624,6 +1623,7 @@ https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||xxaparfuel.xyz^
 ||lsuoaeqmubc.xyz^
 ||nnnfqegwes.xyz^
+||fjxywodkypt.xyz^
 ||qyfkarotggyk.xyz^
 ||ysapwusywocfsjm.xyz^
 ||beekwyrorndmv.xyz^
@@ -1647,6 +1647,8 @@ https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||dffhncwicaqm.com^
 ||hesatinaco.com^
 ||zglxqljvfa.com^
+||piplavwci.com^
+||vextjoexig.com^
 ||rlivhtenqapsew.com^
 ||qyowjhyyckraps.com^
 ||aezgnctgfqn.com^
