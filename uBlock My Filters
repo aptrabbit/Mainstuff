@@ -1,4 +1,4 @@
-Last modified: 05 Apr 2022
+Last modified: 06 Apr 2022
 
 $removeparam=aff_sub
 $removeparam=aff_sub2
@@ -206,6 +206,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://no-cache.hubspot.com/cta/
 https://ntuplay.xyz/blast.js
 azureedge.net/scripts/sdt1.js
 https://www.youtube.com/generate_204
@@ -1559,7 +1560,6 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/v3/events
 https://gew4-spclient.spotify.com/gabo-receiver-service/public/v3/events
 https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events
 https://open.spotify.com/recaptcha/fraud
-https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en
 ||adeventtracker.spotify.com^
 ||mosaic.scdn.co^
 ||wwwmarketing.scdn.co^
