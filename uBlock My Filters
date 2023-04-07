@@ -1,5 +1,7 @@
-Last modified: 06 Apr 2022
+Last modified: 07 Apr 2022
 
+$removeparam=fromjk
+$removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
