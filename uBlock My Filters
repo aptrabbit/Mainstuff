@@ -10,6 +10,7 @@ $removeparam=originalreferer
 ||salesmanago.es^
 ||chat01.salesmanago.com^
 ||www.marketing-automation.pl^
+||home-c36.nice-incontact.com^
 ||cdn.landbot.io^
 ||footer.wrbm.com^
 ||img.lb.staging.wbmdstatic.com^
@@ -663,8 +664,6 @@ hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
 hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
 coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
 delta.app##.cOWINi.sc-iBPRYJ
-blog.coincodecap.com##.ct-advertisement-widget.ct-widget
-blog.coincodecap.com###blocksy_ct_socials-3
 app.santiment.net##.Intercom_wrapper__2vK2L
 app.santiment.net#@#div[class^="SocialTool"]
 insights.santiment.net##.svelte-1ezhlqq.wrapper.SAN-panel_context.SAN-panel
@@ -907,6 +906,8 @@ www.streetinsider.com###ad_space
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##.leaderboard-container
 www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
+||location.bloomberg.com^
+||personalization.bloomberg.com^
 www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
 support.kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
@@ -916,7 +917,6 @@ www.bestbuy.com##.shop-blue-assist
 www.bestbuy.com##.shop-search-survey
 www.bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
 www.bestbuy.com##.ninja-carousel
-||home-c36.nice-incontact.com^
 www.nerdwallet.com##p > div
 www.nerdwallet.com##p > ._2dyIi
 www.nerdwallet.com##div.FTDQoV:nth-of-type(29)
@@ -1791,3 +1791,6 @@ www.nutraingredients-usa.com##.Section:nth-of-type(2)
 https://www.nutraingredients-usa.com/gtm/neolane_user_data
 www.nutraingredients-usa.com/xhr/news/anti_copy/
 www.nutraingredients-usa.com/js/e3f07a2.js
+blog.coincodecap.com##.ct-advertisement-widget.ct-widget
+blog.coincodecap.com###blocksy_ct_socials-3
+coincodecap.com##.ai-close-fit
