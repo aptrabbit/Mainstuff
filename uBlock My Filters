@@ -1,4 +1,4 @@
-Last modified: 11 Apr 2022
+Last modified: 12 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||notifications.viafoura.co^
 ||salesmanago.pl^
 ||salesmanago.es^
 ||chat01.salesmanago.com^
