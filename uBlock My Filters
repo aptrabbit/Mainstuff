@@ -1,4 +1,4 @@
-Last modified: 12 Apr 2022
+Last modified: 14 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -103,7 +103,6 @@ $removeparam=originalreferer
 ||report.dfs.glassboxdigital.io^
 ||geolocation-recommendations.shopifyapps.com^
 ||experiments.shopify.com^
-||cdn.parameter1.com^
 ||location.postscript.io^
 ||cdn.emoryday-analytics.com^
 ||ponos.zeronaught.com^
