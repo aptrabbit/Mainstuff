@@ -1,4 +1,4 @@
-Last modified: 16 Apr 2022
+Last modified: 17 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||mydatascript.bubbleup.com^
 ||api.bitspincasino.com^
 ||jiosaavn.com^
 ||notifications.viafoura.co^
