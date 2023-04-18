@@ -6,6 +6,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||message.maven.io^
+||uid.mavencoalition.io^
 ||mydatascript.bubbleup.com^
 ||api.bitspincasino.com^
 ||jiosaavn.com^
@@ -1219,7 +1221,6 @@ www.medicalnewstoday.com##.css-1vcjrad
 www.medicalnewstoday.com##.css-rjh5b
 www.medicalnewstoday.com##.css-1cg0byz
 www.medicalnewstoday.com##.css-1hu1ip
-www.urbandictionary.com###leaderboard
 www.history.com##phoenix-balloon-header
 blackbeltmag.com###top_leaderboard
 www.cnbc.com##.pro-feedback-fixed
@@ -1634,6 +1635,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||mcysukba.xyz^
 ||xxaparfuel.xyz^
 ||lsuoaeqmubc.xyz^
+||xfflmuxvghgnvns.xyz^
 ||qocgvmsftgitw.xyz^
 ||nnnfqegwes.xyz^
 ||goevyqdlo.xyz^
@@ -1717,6 +1719,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||lpnjcnigcfuk.com^
 ||mjtwoqupix.com^
 ||csrmohcym.com^
+||wseojloda.com^
 ||misnes.com^
 ||mighly.com^
 ||paghai.com^
@@ -1806,3 +1809,5 @@ www.nutraingredients-usa.com/js/e3f07a2.js
 blog.coincodecap.com##.ct-advertisement-widget.ct-widget
 blog.coincodecap.com###blocksy_ct_socials-3
 coincodecap.com##.ai-close-fit
+www.urbandictionary.com###leaderboard
+www.urbandictionary.com##.flex.mb-8 > div
