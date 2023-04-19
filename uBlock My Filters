@@ -6,6 +6,11 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cardratings.com^
+||clarkdeals.com^
+||nextinsure.com^
+||p.zjptg.com^
+||production-cmp.isgprivacy.cbsi.com^
 ||api.userway.org^
 ||cdn.userway.org^
 ||cdn.solvvy.com^
@@ -169,7 +174,6 @@ $removeparam=originalreferer
 ||concord.tech^$all
 ||jwpsrv.com^$important
 ||cdn.branch.io^$important
-||tags.tiqcdn.com^$important
 ||pix.pub^$important
 ||i.ibb.co^$important
 ||share.hsforms.com^$important
@@ -1278,6 +1282,7 @@ www.google.com##.oIk2Cb
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
+https://www.google.com/recaptcha/enterprise/webworker.js$important
 https://accounts.google.com/gsi/client
 ||www.google.com^$removeparam=client
 ||www.google.com^$removeparam=-b-d
@@ -1569,6 +1574,7 @@ www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
+https://spclient.wg.spotify.com/metadata/$important
 https://spclient.wg.spotify.com/gabo-receiver-service/
 https://gew4-spclient.spotify.com/quicksilver/v2/triggers
 https://guc3-spclient.spotify.com/quicksilver/v2/triggers
@@ -1814,3 +1820,4 @@ blog.coincodecap.com###blocksy_ct_socials-3
 coincodecap.com##.ai-close-fit
 www.urbandictionary.com###leaderboard
 www.urbandictionary.com##.flex.mb-8 > div
+play.xumo.com##.privacyConsent
