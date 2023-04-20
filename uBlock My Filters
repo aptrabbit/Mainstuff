@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||valencia-beacons.xumo.com^
 ||cardratings.com^
 ||clarkdeals.com^
 ||nextinsure.com^
@@ -223,6 +224,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://c1ac63.optinmonster.com/app/campaign-views/
 https://no-cache.hubspot.com/cta/
 https://ntuplay.xyz/blast.js
 azureedge.net/scripts/sdt1.js
@@ -451,7 +453,6 @@ www.123rf.com##.showTNC.tnc-padding.tnc-container
 www.tennis-warehouse.com###data_protection
 coingeek.com##.my-3.overflow-hidden.cg__radius.advertising__image
 coingeek.com##.acabnnr-39.gcabnnr-single > [href]
-https://c1ac63.optinmonster.com/app/campaign-views/
 www.cointracker.io##.performance-chart-upgrade
 www.cointracker.io##tbody > .d-flex
 functionpoint.com##.ub-emb-container
