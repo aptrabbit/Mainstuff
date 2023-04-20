@@ -1,4 +1,4 @@
-Last modified: 19 Apr 2022
+Last modified: 20 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -61,12 +61,10 @@ $removeparam=originalreferer
 ||mem.gfx.ms^
 ||firebaseinstallations.googleapis.com^
 ||cdn-cookieyes.com^
-||forms.hsforms.com^
 ||js.hs-scripts.com^
 ||js-na1.hs-scripts.com^
 ||js.hscollectedforms.net^
 ||js.hubspotfeedback.com^
-||js.hsforms.net^
 ||salesiq.zoho.com^
 ||consumersiteimages.trustpilot.net^
 ||static.iris.informa.com^
@@ -520,7 +518,6 @@ blockonomi.com###bottom
 blockonomi.com##.cf.share-float-a.post-share-float
 rvn.2miners.com##.btn-support
 rvn.2miners.com##.banner
-www.mayoclinic.org##.warning.globalnotice
 miningpoolstats.stream###mainpage_right [href] > .lozad
 miningpoolstats.stream###links_panel > div.box-comment.box > .table-condensed.table > tbody > tr > td > div
 hunter.io###support-notification
@@ -601,8 +598,6 @@ www.monstersandcritics.com##.pw-ph-med-rect
 www.monstersandcritics.com###custom_html-4
 www.monstersandcritics.com##.comments-area > .related-posts-column
 www.getfilecloud.com##.textwidget
-www.mayoclinic.org###leftNavigation
-www.mayoclinic.org##.mayoad
 www.kiplinger.com##.-sponsored-row-sidebar-enabled.-sponsored-row
 www.gmx.com##.dialogOverlay
 www.autoevolution.com###swipebox-action
@@ -1821,3 +1816,8 @@ coincodecap.com##.ai-close-fit
 www.urbandictionary.com###leaderboard
 www.urbandictionary.com##.flex.mb-8 > div
 play.xumo.com##.privacyConsent
+play.xumo.com##.cmp-revoke
+www.mayoclinic.org##.warning.globalnotice
+www.mayoclinic.org###leftNavigation
+www.mayoclinic.org##.mayoad
+www.mayoclinic.org##.myc-subscription-form
