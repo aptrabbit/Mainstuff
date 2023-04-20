@@ -86,8 +86,14 @@ experiments.apple.com
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 prd-usw2-requestattribution-iad.apple.com
+adservice.google.com
 ad.doubleclick.net
 csp.withgoogle.com
+tpc.googlesyndication.com
+partner.googleadservices.com
+partner46.googleadservices.com 
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 forcesafesearch.google.com
@@ -385,3 +391,4 @@ xadsmart.com
 cueistratting.com
 bocoyoutage.com
 logs.browser-intake-datadoghq.com
+analytics.twitter.com
