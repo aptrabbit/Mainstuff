@@ -1,4 +1,4 @@
-Last modified: 20 Apr 2022
+Last modified: 21 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -127,6 +127,7 @@ $removeparam=originalreferer
 ||apps.bazaarvoice.com^
 ||nuance.com^
 ||inq.com^
+||loox.io^
 ||static.olark.com^
 ||static.klaviyo.com^
 ||events-collector.spot.im^
@@ -154,6 +155,11 @@ $removeparam=originalreferer
 ||tracker.idocdn.com^
 ||cdn.sprig.com^
 ||static.whisbi.com^
+||throttled.ovp.peacocktv.com^
+||vtech.eesysoft.com^
+||eesysoft.com^
+||mktossl.com^
+||tonicpow.com^
 ||dashboard.wheelio-app.com^
 ||config.gorgias.chat^
 ||config.gorgias.io^
@@ -963,7 +969,6 @@ seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
-||collector-pxxgcxm9by.cl6.px-cloud.net^
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
 enfusion.com##.bg-gradient-12
@@ -1050,7 +1055,6 @@ www.autolist.com##.jsx-2866408628
 www.autolist.com##.warranty-promo
 www.autolist.com##.carfax
 ||events-prod.autolist.com^
-||loox.io^
 www.sapphiretech.com##.cookies
 www.fool.com###topnav-picks
 www.fool.com##.alert-info.page-alert
@@ -1329,16 +1333,12 @@ news.bitcoin.com##.sticky-down.bn_desktop_widgets
 www.bitcoin.com###bitcoincom-wgt-footer
 www.blockchain.com##.dKFNB
 www.blockchain.com##.cgSUhY
-||throttled.ovp.peacocktv.com^
 www.studocu.com##.pop-up--21ihD
 www.studocu.com##.preview-banner--1fHJL
 www.studocu.com##.fade-in-enter-done
 www.studocu.com##.support-button--1wdGm
 www.studocu.com##.bar--1Rnih
 www.studocu.com##._cbad9bafd417
-||eesysoft.com^
-||mktossl.com^
-||tonicpow.com^
 www.thehansindia.com##.hocal_hide_on_mobile
 www.thehansindia.com###home-mid-wrap1
 draxe.com##.ads
@@ -1583,11 +1583,6 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||wwwmarketing.scdn.co^
 ||tracing.spotify.com^
 ||sports24.site^
-||bckfnohmg.com^
-||iqkfplsez.com^
-||adieusyaktop.com^
-||algoply.com^
-||adipolo.com^
 ||46-105-201-240.any.cdn.anycast.me^
 ||sexeecmo.xyz^
 ||api.xewarycy.xyz^
@@ -1635,6 +1630,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||cnkapolr.xyz^
 ||ofbgqtkl.xyz^
 ||vgeucforjo.xyz^
+||dtfpojexbory.xyz^
 ||kqyywvok.xyz^
 ||nbidqsoy.xyz^
 ||ewkjfwwld.xyz^
@@ -1647,6 +1643,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||goevyqdlo.xyz^
 ||fjxywodkypt.xyz^
 ||qyfkarotggyk.xyz^
+||ccmwigksgiwwke.wyz^
 ||ysapwusywocfsjm.xyz^
 ||beekwyrorndmv.xyz^
 ||rssrqecohagbk.xyz^
@@ -1662,12 +1659,12 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||tcjyhblfmcl.xyz^
 ||xmoqegmllcwj.xyz^
 ||fdokosbvp.xyz^
+||chaiptut.xyz^
 ||cbyjpnjua.xyz^
 ||hyvmflsclweae.xyz^
 ||dgoyegeervubty.xyz^
 ||dpfchqsiksjuyjc.xyz^
 ||eoaktaposh.com^
-||ubsjyqfek.com^
 ||agbyrgwqveddgm.com^
 ||hqtfjugceattb.com^
 ||dffhncwicaqm.com^
@@ -1683,6 +1680,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||ggqygkaunot.com^
 ||ikaehscsyvmc.com^
 ||bspcpfxbkxgd.com^
+||bcffkvpjqferl.com^
 ||cczjcammpj.com^
 ||bskhdiylrnxdp.com^
 ||qtzedmrehcvpe.com^
@@ -1709,6 +1707,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||ywlmkpgknkte.com^
 ||yrumdfslwabv.com^
 ||gnzfwmnfiy.com^
+||csvlgqsanwry.com^
 ||pwbmdalngizhz.com^
 ||etccdvfodthhc.com^
 ||bqypgubvupcg.com^
@@ -1728,6 +1727,13 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||mjtwoqupix.com^
 ||csrmohcym.com^
 ||wseojloda.com^
+||bckfnohmg.com^
+||iqkfplsez.com^
+||adieusyaktop.com^
+||algoply.com^
+||adipolo.com^
+||zrwpporp.com^
+||blaneo.com^
 ||misnes.com^
 ||mighly.com^
 ||paghai.com^
