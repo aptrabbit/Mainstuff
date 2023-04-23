@@ -1,4 +1,4 @@
-Last modified: 21 Apr 2022
+Last modified: 23 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||web.pypestream.com^
 ||valencia-beacons.xumo.com^
 ||cardratings.com^
 ||clarkdeals.com^
@@ -230,6 +231,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://mssdk.us.tiktok.com/web/common?msToken
 https://c1ac63.optinmonster.com/app/campaign-views/
 https://no-cache.hubspot.com/cta/
 https://ntuplay.xyz/blast.js
@@ -1468,6 +1470,7 @@ https://www.redditstatic.com/desktop2x/webvitals
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 https://www.redditstatic.com/desktop2x/PushNotifications
 https://www.redditstatic.com/shreddit/en-US/w3-report
+||www.reddit.com^$removeparam=source
 ||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
@@ -1730,6 +1733,8 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||bckfnohmg.com^
 ||iqkfplsez.com^
 ||adieusyaktop.com^
+||bsjusnip.com^
+||yclost.com^
 ||algoply.com^
 ||adipolo.com^
 ||zrwpporp.com^
@@ -1829,3 +1834,7 @@ www.mayoclinic.org##.warning.globalnotice
 www.mayoclinic.org###leftNavigation
 www.mayoclinic.org##.mayoad
 www.mayoclinic.org##.myc-subscription-form
+www.tiktok.com##.eyt76ed0
+movie-web.app##.max-w-xs
+www.nhmagazine.com##.background.popup_canvas
+www.nhmagazine.com##.robly-overlay
