@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||versusgame.com^
 ||ads-pd.nbcuni.com^
 ||web.pypestream.com^
 ||valencia-beacons.xumo.com^
@@ -179,6 +180,7 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||cdn.onesignal.com^$important
 ||jwpsrv.com^$important
 ||cdn.branch.io^$important
 ||pix.pub^$important
@@ -691,6 +693,8 @@ www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
 www.cryptoninjas.net##.widget_text.widget
 cryptopanic.com##.news-row-sponsored
 cryptopanic.com##.text-ad-item
+cryptopanic.com##.pane-inner
+cryptopanic.com##div:nth-of-type(1) > .section-heading
 cryptopanic.com#@#.social-login
 thekrazycouponlady.com#@#.share-buttons
 enotes.com##+js(rc, is-paywalled)
@@ -1839,3 +1843,4 @@ www.tiktok.com##.eyt76ed0
 movie-web.app##.max-w-xs
 www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
+www.besthealthmag.ca###cmu_right_rail_widget-3
