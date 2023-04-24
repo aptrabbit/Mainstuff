@@ -1,4 +1,4 @@
-Last modified: 23 Apr 2022
+Last modified: 24 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||ads-pd.nbcuni.com^
 ||web.pypestream.com^
 ||valencia-beacons.xumo.com^
 ||cardratings.com^
@@ -969,6 +970,7 @@ seekingalpha.com##section[data-test-id="recommended-section"]
 seekingalpha.com##[data-test-id="ad-slot-list"]
 seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
+seekingalpha.com##.hm-z
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
@@ -1574,15 +1576,14 @@ www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
-https://spclient.wg.spotify.com/metadata/$important
 https://spclient.wg.spotify.com/gabo-receiver-service/
 https://gew4-spclient.spotify.com/quicksilver/v2/triggers
 https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 https://guc3-spclient.spotify.com/gabo-receiver-service/
 https://gew4-spclient.spotify.com/gabo-receiver-service/
 https://gue1-spclient.spotify.com/gabo-receiver-service/
-||adeventtracker.spotify.com^
 ||mosaic.scdn.co^
+||adeventtracker.spotify.com^
 ||wwwmarketing.scdn.co^
 ||tracing.spotify.com^
 ||sports24.site^
