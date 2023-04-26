@@ -1,4 +1,4 @@
-Last modified: 24 Apr 2022
+Last modified: 26 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||pinpoint.espn.com^
 ||versusgame.com^
 ||ads-pd.nbcuni.com^
 ||web.pypestream.com^
@@ -180,6 +181,7 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||tags.tiqcdn.com^$important
 ||cdn.onesignal.com^$important
 ||jwpsrv.com^$important
 ||cdn.branch.io^$important
@@ -804,6 +806,7 @@ ambcrypto.com##.ambcr-widget
 finbold.com###ba200ba7ef5e1
 finbold.com##.mid-include
 finbold.com##.mt-4.order-lg-3.order-xl-2.col-xl-12.col-lg-6
+finbold.com###sub-intent
 www.autoblog.com###spotim-specific
 www.autoblog.com###autoblog-daily-digest
 www.automotivelogistics.media##.leaderboard
@@ -1044,7 +1047,6 @@ www.amazon.com##.s-widget-padding-bottom
 www.amazon.com###huc-first-upsell-row
 www.amazon.com##.sg-col-12-of-16.sg-col.s-widget
 www.amazon.com###promotions_feature_div
-||www.amazon.com^$removeparam=ref
 zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
 zycrypto.com###custom_html-13
