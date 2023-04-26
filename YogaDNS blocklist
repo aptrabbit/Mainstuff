@@ -133,6 +133,7 @@ assetscdn-wchat.freshchat.com
 apimon.de
 js.impressions.mediagamma.com
 syndication.twitter.com
+analytics.twitter.com
 alb.reddit.com
 e.reddit.com
 reddit.report-uri.com
@@ -391,5 +392,4 @@ xadsmart.com
 cueistratting.com
 bocoyoutage.com
 logs.browser-intake-datadoghq.com
-analytics.twitter.com
 tags.tiqcdn.com
