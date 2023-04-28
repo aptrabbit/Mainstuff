@@ -1,4 +1,4 @@
-Last modified: 26 Apr 2022
+Last modified: 28 Apr 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||trlocationmanager.azurewebsites.net^
 ||pinpoint.espn.com^
 ||versusgame.com^
 ||ads-pd.nbcuni.com^
@@ -1308,6 +1309,7 @@ https://accounts.google.com/gsi/client
 ||www.google.com^$removeparam=csf
 ||www.google.com^$removeparam=ct
 ||www.google.com^$removeparam=rct
+||www.google.com^$removeparam=iflsig
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
@@ -1594,6 +1596,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||tracing.spotify.com^
 ||sports24.site^
 ||lumnstoodthe.info^
+||1376341044.rsc.cdn77.org^
 ||46-105-201-240.any.cdn.anycast.me^
 ||sexeecmo.xyz^
 ||api.xewarycy.xyz^
@@ -1633,6 +1636,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||ccieoqej.xyz^
 ||himateca.xyz^
 ||faluhupo.xyz^
+||vsnpfmoxb.xyz^
 ||tfbmtwesvh.xyz^
 ||cmiyscmpbnhp.xyz^
 ||qcfehuoucrtsm.xyz^
@@ -1646,12 +1650,14 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||nbidqsoy.xyz^
 ||ewkjfwwld.xyz^
 ||mcysukba.xyz^
+||fgijincfktbguv.xyz^
 ||xxaparfuel.xyz^
 ||lsuoaeqmubc.xyz^
 ||xfflmuxvghgnvns.xyz^
 ||qocgvmsftgitw.xyz^
 ||nnnfqegwes.xyz^
 ||goevyqdlo.xyz^
+||lpyoagpjqiwpic.xyz^
 ||fjxywodkypt.xyz^
 ||qyfkarotggyk.xyz^
 ||ccmwigksgiwwke.wyz^
@@ -1698,6 +1704,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||qmxgkgykaex.com^
 ||vywoxptqyqgex.com^
 ||mnjhrleahonkq.com^
+||yusukqwlukvw.com^
 ||pouneeso.com^
 ||nnbivwzl.com^
 ||vlqjjcakn.com^
@@ -1716,6 +1723,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||wedxuaksargvlf.com^
 ||evzxlgstwcai.com^
 ||ywlmkpgknkte.com^
+||hcxbokndbhw.com^
 ||yrumdfslwabv.com^
 ||gnzfwmnfiy.com^
 ||csvlgqsanwry.com^
@@ -1740,6 +1748,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||wseojloda.com^
 ||bckfnohmg.com^
 ||iqkfplsez.com^
+||edjnkones.com^
 ||adieusyaktop.com^
 ||bsjusnip.com^
 ||yclost.com^
