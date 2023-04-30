@@ -6,6 +6,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cdn.petametrics.com^
 ||trlocationmanager.azurewebsites.net^
 ||pinpoint.espn.com^
 ||versusgame.com^
