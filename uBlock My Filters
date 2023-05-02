@@ -1,4 +1,4 @@
-Last modified: 28 Apr 2022
+Last modified: 02 May 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cdn.piano.io^
+||cdn.appdynamics.com^
+||wchat.us2.freshchat.com^
 ||cdn.petametrics.com^
 ||trlocationmanager.azurewebsites.net^
 ||pinpoint.espn.com^
@@ -177,6 +180,7 @@ $removeparam=originalreferer
 ||steadfastseat.com^
 ||quantumdex.io^
 ||id.sharedid.org^
+@@||affiliate.ledger.com^
 @@||go2app.org^
 @@||go2speed.org^
 @@||client-api.arkoselabs.com^
@@ -1596,7 +1600,9 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||wwwmarketing.scdn.co^
 ||tracing.spotify.com^
 ||sports24.site^
+||cdn.salamus1.lol^
 ||lumnstoodthe.info^
+||1041152239.rsc.cdn77.org^
 ||1376341044.rsc.cdn77.org^
 ||46-105-201-240.any.cdn.anycast.me^
 ||sexeecmo.xyz^
@@ -1645,6 +1651,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||cardwtcic.xyz^
 ||cnkapolr.xyz^
 ||ofbgqtkl.xyz^
+||onyyqqojuy.xyz^
 ||vgeucforjo.xyz^
 ||dtfpojexbory.xyz^
 ||kqyywvok.xyz^
@@ -1756,6 +1763,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||algoply.com^
 ||adipolo.com^
 ||zrwpporp.com^
+||iihcjcil.com^
 ||blaneo.com^
 ||misnes.com^
 ||gogord.com^
