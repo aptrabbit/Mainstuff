@@ -1,4 +1,4 @@
-Last modified: 04 May 2022
+Last modified: 09 May 2022
 
 $removeparam=fromjk
 $removeparam=attributionid
@@ -6,6 +6,15 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||widget.helpcrunch.com^
+||perfectapps.io^
+||cdn1.judge.me^
+||api.ipify.org^
+||player.stats.live-video.net^
+||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
+||pusher.com^
+||flavedo.io^
+||kmsmep.com^
 ||api.statsig.com^
 ||cdn.piano.io^
 ||cdn.appdynamics.com^
@@ -1487,6 +1496,7 @@ https://www.redditstatic.com/desktop2x/webvitals
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 https://www.redditstatic.com/desktop2x/PushNotifications
 https://www.redditstatic.com/shreddit/en-US/w3-report
+https://www.redditstatic.com/shreddit/en-US/shreddit-sidebar-ad
 ||www.reddit.com^$removeparam=source
 ||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
@@ -1584,6 +1594,7 @@ www.indeed.com##.google-Only-Modal
 ||signaler-pa.youtube.com^
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
+www.youtube.com##.yt-mealbar-promo-renderer
 www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
@@ -1767,6 +1778,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||yclost.com^
 ||algoply.com^
 ||adipolo.com^
+||occust.com^
 ||zrwpporp.com^
 ||iihcjcil.com^
 ||blaneo.com^
@@ -1776,6 +1788,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||simuld.com^
 ||smathe.com^
 ||paghai.com^
+||borhod.com^
 ||mongbo.com^
 ||phoebb.com^
 ||dudair.com^
@@ -1873,3 +1886,4 @@ movie-web.app##.max-w-xs
 www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
 www.besthealthmag.ca###cmu_right_rail_widget-3
+zoro.moe##.mba-block
