@@ -10,7 +10,6 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
-||dscx.akamaiedge.net
 ||bugsnag.com^
 ||data.pendo.io^
 ||cdn.pendo.io^
@@ -208,6 +207,7 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||dscx.akamaiedge.net^$important
 ||tags.tiqcdn.com^$important
 ||cdn.onesignal.com^$important
 ||jwpsrv.com^$important
