@@ -1,4 +1,4 @@
-Last modified: 17 May 2022
+Last modified: 18 May 2022
 
 $removeparam=flow_id
 $removeparam=fromjk
@@ -7,6 +7,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||bugsnag.com^
 ||data.pendo.io^
 ||cdn.pendo.io^
 ||improving.duckduckgo.com^
