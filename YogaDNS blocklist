@@ -78,6 +78,7 @@ smoot.apple.com
 api.smoot.apple.com
 cdn.smoot.apple.com
 fbs.smoot.apple.com
+amp-api-edge.apps.apple.com
 smoot-feedback.v.aaplimg.com
 outsideapple.apple.com
 iphonesubmissions.apple.com
@@ -402,4 +403,3 @@ bugsnag.com
 js.convertflow.co
 app.convertflow.co
 cdn.ziffstatic.com
-dscx.akamaiedge.net
