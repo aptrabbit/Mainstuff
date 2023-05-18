@@ -1,5 +1,8 @@
 Last modified: 18 May 2022
 
+$removeparam=ref
+$removeparam=linkCode
+$removeparam=ie
 $removeparam=flow_id
 $removeparam=fromjk
 $removeparam=attributionid
@@ -7,6 +10,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||dscx.akamaiedge.net
 ||bugsnag.com^
 ||data.pendo.io^
 ||cdn.pendo.io^
@@ -259,6 +263,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://www.amazon.com/af/feedback-link
 https://mssdk.us.tiktok.com/web/common?msToken
 https://c1ac63.optinmonster.com/app/campaign-views/
 https://no-cache.hubspot.com/cta/
