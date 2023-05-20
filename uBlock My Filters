@@ -1,5 +1,8 @@
-Last modified: 18 May 2022
+Last modified: 19 May 2022
 
+$removeparam=content-id
+$removeparam=psc
+$removeparam=smid
 $removeparam=ref
 $removeparam=linkCode
 $removeparam=ie
@@ -207,6 +210,7 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||dscx.akamaiedge.net^$important
 ||tags.tiqcdn.com^$important
 ||cdn.onesignal.com^$important
 ||jwpsrv.com^$important
@@ -1526,10 +1530,12 @@ cointelegraph.com##.article-subscription-widget
 cointelegraph.com##div.sidebar__widget:nth-of-type(2)
 cointelegraph.com##div.sidebar__widget:nth-of-type(3)
 cointelegraph.com##.header-zone__banners
-https://cointelegraph.com/adsense/ads.js
-||zoa.cointelegraph.com^
 cointelegraph.com##.top-100-details-card__poster
 cointelegraph.com##.top-100-people-footer_ads
+cointelegraph.com##.layout__header.header-zone > .container
+cointelegraph.com##.ad-slot_NjPAE
+https://cointelegraph.com/adsense/ads.js
+||zoa.cointelegraph.com^
 ||dynamics.com^$3p
 ||app-sj06.marketo.com^
 ||mktdplp102cdn.azureedge.net^
@@ -1651,6 +1657,8 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||xejblbcwffcxfja.xyz^
 ||qimxpkyrohagqhb.xyz^
 ||tnkafnxam.xyz^
+||qcmjdptyikwf.xyz^
+||wvxcdtuhcagistb.xyz^
 ||airrrxggfafnbl.xyz^
 ||xntiucwoj.xyz^
 ||anwyrxpockct.xyz^
@@ -1787,6 +1795,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||adieusyaktop.com^
 ||bsjusnip.com^
 ||yclost.com^
+||ctqwlbxq.com^
 ||algoply.com^
 ||adipolo.com^
 ||wiyqduev.com^
