@@ -1,5 +1,7 @@
-Last modified: 19 May 2022
+Last modified: 22 May 2022
 
+$removeparam=crid
+$removeparam=sr
 $removeparam=content-id
 $removeparam=psc
 $removeparam=smid
@@ -13,6 +15,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||d30qdagvt44524.cloudfront.net^
+||analytics-prd.aws.wehaa.net^
 ||bugsnag.com^
 ||data.pendo.io^
 ||cdn.pendo.io^
@@ -272,6 +276,7 @@ https://c1ac63.optinmonster.com/app/campaign-views/
 https://no-cache.hubspot.com/cta/
 https://ntuplay.xyz/blast.js
 https://ntuplay.xyz/t.salamus1.lol/
+https://main.salamus1.lol/showads.js
 azureedge.net/scripts/sdt1.js
 https://www.youtube.com/generate_204
 https://i.ytimg.com/generate_204
