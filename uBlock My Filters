@@ -1,4 +1,4 @@
-Last modified: 22 May 2022
+Last modified: 23 May 2022
 
 $removeparam=crid
 $removeparam=sr
@@ -15,6 +15,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||t.hs-growth-metrics.com^
+||ads-static.conde.digital^
 ||d30qdagvt44524.cloudfront.net^
 ||analytics-prd.aws.wehaa.net^
 ||bugsnag.com^
