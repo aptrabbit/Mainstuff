@@ -1,4 +1,4 @@
-Last modified: 23 May 2022
+Last modified: 24 May 2022
 
 $removeparam=crid
 $removeparam=sr
@@ -15,6 +15,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cdn.announcekit.app^
 ||t.hs-growth-metrics.com^
 ||ads-static.conde.digital^
 ||d30qdagvt44524.cloudfront.net^
@@ -272,6 +273,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://script.wikia.nocookie.net/fandom-ae-assets/identity-service/
 https://www.amazon.com/af/feedback-link
 https://mssdk.us.tiktok.com/web/common?msToken
 https://c1ac63.optinmonster.com/app/campaign-views/
@@ -1659,6 +1661,7 @@ https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||vsmfwsjvy.xyz^
 ||cgyhsyvm.xyz^
 ||blnbajmdxydnp.xyz^
+||opttofwaddnvpab.xyz^
 ||asifiwoeryesterda.xyz^
 ||gxhbsapkkdni.xyz^
 ||xejblbcwffcxfja.xyz^
