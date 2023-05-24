@@ -18,6 +18,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||mysterio.yahoo.com^
 ||hulu-matchmaker-staging.s3.amazonaws.com^
 ||cdn.announcekit.app^
 ||t.hs-growth-metrics.com^
@@ -1923,3 +1924,4 @@ www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
 www.besthealthmag.ca###cmu_right_rail_widget-3
 zoro.moe##.mba-block
+www.engadget.com##.M\(MarginCenter\)
