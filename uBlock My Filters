@@ -1,6 +1,7 @@
 Last modified: 24 May 2022
 
 $removeparam=INTKEY
+$removeparam=sourcedid
 $removeparam=sharedid
 $removeparam=subId2
 $removeparam=subId3
@@ -19,6 +20,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||js.recurly.com^
+||tgna-ux-ctrl.service.signalr.net^
 ||mysterio.yahoo.com^
 ||hulu-matchmaker-staging.s3.amazonaws.com^
 ||cdn.announcekit.app^
@@ -1447,7 +1450,15 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+twitter.com##[aria-label="who to follow" i]:upward(1)
+twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
+twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(border:red dotted 4px !important)
+twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(border: white 5px dotted !important)
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
+twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
+twitter.com##html:style(overflow: auto !important;)
 ||twitter.com^$removeparam=s
 www.wcostream.net###reklam_adscat > table
 www.wcostream.net###star-watch-on
