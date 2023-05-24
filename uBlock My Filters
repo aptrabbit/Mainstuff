@@ -22,6 +22,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||tv4mobile.weebly.com^
 ||js.recurly.com^
 ||tgna-ux-ctrl.service.signalr.net^
 ||mysterio.yahoo.com^
@@ -284,6 +285,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://cdn2.editmysite.com/js/site/footerSignup.js
 https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js
 https://cdn2.editmysite.com/js/wsnbn/snowday262.js
 https://script.wikia.nocookie.net/fandom-ae-assets/identity-service/
@@ -1945,3 +1947,5 @@ www.besthealthmag.ca###cmu_right_rail_widget-3
 zoro.moe##.mba-block
 www.engadget.com##.M\(MarginCenter\)
 bigbro8fan.weebly.com##.wsite-section-elements > div > div:nth-of-type(2)
+bigbro8fan.weebly.com##[href="http://r.wmt.co/v/robert_777"]
+bigbro8fan.weebly.com##[href^="https://www.amazon.com/tryprimefree"]
