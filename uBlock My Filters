@@ -1307,8 +1307,10 @@ support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com###google-hats-survey
+www.google.*##^script:has-text(consentCookiePayload)
+www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
-google.*##div[id^="eob"]
+google.*##[id^="eob_"]
 www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
 www.google.com##.Zes0Mc
@@ -1345,6 +1347,7 @@ www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
 https://www.google.com/recaptcha/enterprise/webworker.js$important
 https://accounts.google.com/gsi/client
+||accounts.google.com/gsi/*$xhr,script,3p
 ||www.google.com^$removeparam=client
 ||www.google.com^$removeparam=-b-d
 ||www.google.com^$removeparam=rldimm
