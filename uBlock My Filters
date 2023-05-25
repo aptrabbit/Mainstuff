@@ -22,6 +22,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||sitejabber.com^
+||analytics.fatmedia.io^
 ||tv4mobile.weebly.com^
 ||js.recurly.com^
 ||tgna-ux-ctrl.service.signalr.net^
@@ -1587,6 +1589,7 @@ quizlet.com##.SetPageEmbeddedAd-wrapper
 quizlet.com###onetrust-consent-sdk
 ||cdns.us1.gigya.com^
 www.forbes.com##.ad-rail
+www.forbes.com##.exclude-eds
 www.forbes.com##.ng-scope.rtb-top-wrapper
 www.mskcc.org###msk-modal-dialog
 ||widget.affordably.me^
@@ -1950,3 +1953,6 @@ bigbro8fan.weebly.com##[href^="https://www.amazon.com/tryprimefree"]
 stablediffusionweb.com##.text-gray-400.text-sm.text-left.max-w-3xl.mt-4.mx-auto
 bigbro8fan.weebly.com##[href="https://chrome.google.com/webstore/detail/avast-online-security-pri/gomekmidlodglbbmalcneegieacbdmki"]
 bigbro8fan.weebly.com##.whatsapp-link
+bigbro8fan.weebly.com##p:nth-of-type(2)
+www.flexjobs.com##.social-proof-rows
+www.flexjobs.com###page-survey
