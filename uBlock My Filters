@@ -1,5 +1,6 @@
-Last modified: 24 May 2022
+Last modified: 25 May 2022
 
+$removeparam=fc_session_id
 $removeparam=primeCampaignId
 $removeparam=tag
 $removeparam=creative
@@ -231,7 +232,6 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
-||dscx.akamaiedge.net^$important
 ||tags.tiqcdn.com^$important
 ||cdn.onesignal.com^$important
 ||jwpsrv.com^$important
@@ -1956,3 +1956,5 @@ bigbro8fan.weebly.com##.whatsapp-link
 bigbro8fan.weebly.com##p:nth-of-type(2)
 www.flexjobs.com##.social-proof-rows
 www.flexjobs.com###page-survey
+tech.hindustantimes.com##.entryPointBanner
+tech.hindustantimes.com##.shareLinks
