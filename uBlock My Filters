@@ -1,4 +1,4 @@
-Last modified: 25 May 2022
+Last modified: 26 May 2022
 
 $removeparam=fc_session_id
 $removeparam=primeCampaignId
@@ -1350,9 +1350,10 @@ www.google.com##xe7COe
 www.google.com##.ynRric
 www.google.com##.oIk2Cb
 www.google.com##.cUnQKe
-@@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
+www.google.com##div.cLjAic.TzHB6b:nth-of-type(2)
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
+@@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
 https://www.google.com/recaptcha/enterprise/webworker.js$important
 https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
