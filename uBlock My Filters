@@ -1,4 +1,4 @@
-Last modified: 26 May 2022
+Last modified: 27 May 2022
 
 $removeparam=fc_session_id
 $removeparam=primeCampaignId
@@ -23,6 +23,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||widget-api.stylitics.com^
 ||sitejabber.com^
 ||analytics.fatmedia.io^
 ||tv4mobile.weebly.com^
@@ -1369,7 +1370,6 @@ https://accounts.google.com/gsi/client
 ||www.google.com^$removeparam=dpr
 ||www.google.com^$removeparam=csf
 ||www.google.com^$removeparam=ct
-||www.google.com^$removeparam=rct
 ||www.google.com^$removeparam=iflsig
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
