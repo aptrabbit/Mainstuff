@@ -1,4 +1,4 @@
-Last modified: 29 May 2022
+Last modified: 30 May 2022
 
 $removeparam=cmd
 $removeparam=bshm
@@ -326,8 +326,14 @@ https://app-measurement.com/sdk-exp$important
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
 ||heimdalsecurity.com/blog/wp-content/plugins/layered-popups/images/default/city.jpg$image
+en.wikipedia.org##.vector-limited-width-popup
 www.coinbase.com##.kuposl
 www.coinbase.com#@#[class*="cds-fixed-"]
+www.tiktok.com##.eyt76ed0
+www.urbandictionary.com###leaderboard
+www.urbandictionary.com##.flex.mb-8 > div
+play.xumo.com##.privacyConsent
+play.xumo.com##.cmp-revoke
 heimdalsecurity.com##.ulp-content
 heimdalsecurity.com###ulp-layer-199
 heimdalsecurity.com###ulp-layer-200
@@ -1473,6 +1479,7 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
+twitter.com##.action-brave-tip
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
@@ -1947,15 +1954,10 @@ https://www.nutraingredients-usa.com/gtm/neolane_user_data
 blog.coincodecap.com##.ct-advertisement-widget.ct-widget
 blog.coincodecap.com###blocksy_ct_socials-3
 coincodecap.com##.ai-close-fit
-www.urbandictionary.com###leaderboard
-www.urbandictionary.com##.flex.mb-8 > div
-play.xumo.com##.privacyConsent
-play.xumo.com##.cmp-revoke
 www.mayoclinic.org##.warning.globalnotice
 www.mayoclinic.org###leftNavigation
 www.mayoclinic.org##.mayoad
 www.mayoclinic.org##.myc-subscription-form
-www.tiktok.com##.eyt76ed0
 movie-web.app##.max-w-xs
 www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
