@@ -1,5 +1,7 @@
-Last modified: 30 May 2022
+Last modified: 31 May 2022
 
+$removeparam=noaccount
+$removeparam=marketing
 $removeparam=cmd
 $removeparam=bshm
 $removeparam=fc_session_id
@@ -7,7 +9,7 @@ $removeparam=primeCampaignId
 $removeparam=tag
 $removeparam=creative
 $removeparam=INTKEY
-$removeparam=sourcedid
+$removeparam=sourceid
 $removeparam=sharedid
 $removeparam=subId2
 $removeparam=subId3
