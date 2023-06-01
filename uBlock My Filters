@@ -1,5 +1,8 @@
-Last modified: 31 May 2022
+Last modified: 1 June 2022
 
+$removeparam=event
+$removeparam=discount
+$removeparam=inf_id
 $removeparam=noaccount
 $removeparam=marketing
 $removeparam=cmd
