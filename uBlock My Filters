@@ -1,5 +1,8 @@
-Last modified: 1 June 2022
+Last modified: 3 June 2022
 
+$removeparam=sclient
+$removeparam=uact
+$removeparam=ved
 $removeparam=event
 $removeparam=discount
 $removeparam=inf_id
