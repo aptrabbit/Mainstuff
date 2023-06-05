@@ -1,4 +1,4 @@
-Last modified: 3 June 2022
+Last modified: 4 June 2022
 
 $removeparam=sclient
 $removeparam=uact
@@ -33,6 +33,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cdn.jst.ai^
+||player-metrics.instaread.co^
+||rum-metrics.bunny.net^
 ||f.convertkit.com^
 ||ck.page^
 ||split.io^
@@ -1575,6 +1578,7 @@ https://www.redditstatic.com/desktop2x/webvitals
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 https://www.redditstatic.com/desktop2x/PushNotifications
 https://www.redditstatic.com/shreddit/en-US/w3-report
+https://www.redditstatic.com/shreddit/sentry
 https://www.redditstatic.com/shreddit/en-US/shreddit-sidebar-ad
 ||www.reddit.com^$removeparam=source
 ||www.reddit.com^$removeparam=rdt
@@ -1982,3 +1986,5 @@ www.flexjobs.com##.social-proof-rows
 www.flexjobs.com###page-survey
 tech.hindustantimes.com##.entryPointBanner
 tech.hindustantimes.com##.shareLinks
+www.weekand.com##.pt16
+www.weekand.com###Flex1
