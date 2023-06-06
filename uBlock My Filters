@@ -1,4 +1,4 @@
-Last modified: 4 June 2022
+Last modified: 6 June 2022
 
 $removeparam=sid
 $removeparam=sclient
@@ -35,6 +35,7 @@ $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
 ||cdn.concert.io^
+||secure.marketinghub.opentext.com^
 ||segment.psg.nexstardigital.net^
 ||fast.chameleon.io^
 ||cdn.jst.ai^
