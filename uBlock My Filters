@@ -1,5 +1,6 @@
 Last modified: 4 June 2022
 
+$removeparam=sid
 $removeparam=sclient
 $removeparam=uact
 $removeparam=ved
@@ -33,6 +34,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cdn.concert.io^
+||segment.psg.nexstardigital.net^
+||fast.chameleon.io^
 ||cdn.jst.ai^
 ||player-metrics.instaread.co^
 ||rum-metrics.bunny.net^
@@ -1580,7 +1584,6 @@ https://www.redditstatic.com/desktop2x/PushNotifications
 https://www.redditstatic.com/shreddit/en-US/w3-report
 https://www.redditstatic.com/shreddit/sentry
 https://www.redditstatic.com/shreddit/en-US/shreddit-sidebar-ad
-||www.reddit.com^$removeparam=source
 ||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
@@ -1988,3 +1991,6 @@ tech.hindustantimes.com##.entryPointBanner
 tech.hindustantimes.com##.shareLinks
 www.weekand.com##.pt16
 www.weekand.com###Flex1
+workforcenow.adp.com##.hdpi.pac-container
+bestdroidplayer.com##.ulp-fadeIn
+bestdroidplayer.com##.ulp-window-container
