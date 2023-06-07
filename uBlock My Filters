@@ -1,4 +1,4 @@
-Last modified: 6 June 2022
+Last modified: 7 June 2022
 
 $removeparam=sid
 $removeparam=sclient
@@ -34,6 +34,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||identity.netlify.com^
 ||cdn.concert.io^
 ||secure.marketinghub.opentext.com^
 ||segment.psg.nexstardigital.net^
@@ -257,12 +258,10 @@ $removeparam=originalreferer
 ||concord.tech^$all
 ||tags.tiqcdn.com^$important
 ||cdn.onesignal.com^$important
-||jwpsrv.com^$important
 ||cdn.branch.io^$important
 ||pix.pub^$important
 ||i.ibb.co^$important
 ||share.hsforms.com^$important
-||launcher.spot.im^$important
 ||js.taplytics.com^$important
 ||odb.outbrain.com^$important
 ||ip.convirza.com^$important
