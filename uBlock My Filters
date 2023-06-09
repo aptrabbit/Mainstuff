@@ -35,7 +35,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||doppler-config.cbsivideo.com^
 ||doppler-tasks.cbsivideo.com^
+||flippback.com^
 ||at.cbsi.com^
 ||footprint.net^
 ||amlg.io^
