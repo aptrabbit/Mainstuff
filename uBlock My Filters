@@ -1,4 +1,4 @@
-Last modified: 7 June 2022
+Last modified: 8 June 2022
 
 $removeparam=sid
 $removeparam=sclient
@@ -34,6 +34,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||d34azmi6bxg5fz.cloudfront.net^
+||rvohealth.com^
+||onclickalgo.com^
 ||identity.netlify.com^
 ||cdn.concert.io^
 ||secure.marketinghub.opentext.com^
@@ -308,7 +311,11 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://advertising.ntuplay.xyz/showads
 https://ntuplay.xyz/t.cdnhks.lol/
+https://ntuplay.xyz/blast.js
+https://ntuplay.xyz/t.salamus1.lol/
+https://main.salamus1.lol/showads
 https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
 https://www.crunchbase.com/v4/cb/events/
 https://js.stripe.com/v3/fingerprinted/
@@ -320,9 +327,6 @@ https://www.amazon.com/af/feedback-link
 https://mssdk.us.tiktok.com/web/common?msToken
 https://c1ac63.optinmonster.com/app/campaign-views/
 https://no-cache.hubspot.com/cta/
-https://ntuplay.xyz/blast.js
-https://ntuplay.xyz/t.salamus1.lol/
-https://main.salamus1.lol/showads.js
 azureedge.net/scripts/sdt1.js
 https://www.youtube.com/generate_204
 https://i.ytimg.com/generate_204
