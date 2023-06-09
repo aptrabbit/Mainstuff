@@ -1,5 +1,6 @@
-Last modified: 8 June 2022
+Last modified: 9 June 2022
 
+$removeparam=intcid
 $removeparam=sid
 $removeparam=sclient
 $removeparam=uact
@@ -34,6 +35,15 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||at.cbsi.com^
+||footprint.net^
+||amlg.io^
+||ctr-prd.cbs-measurements.qwilted-cds.cqloud.com^
+||siloh.pluto.tv^
+||siloh-l3.plutotv.net^
+||siloh-sp.plutotv.net^
+||siloh-aka.plutotv.net^
+||siloh-fs.plutotv.net^
 ||d34azmi6bxg5fz.cloudfront.net^
 ||rvohealth.com^
 ||onclickalgo.com^
@@ -91,7 +101,6 @@ $removeparam=originalreferer
 ||clarkdeals.com^
 ||nextinsure.com^
 ||p.zjptg.com^
-||production-cmp.isgprivacy.cbsi.com^
 ||api.userway.org^
 ||cdn.userway.org^
 ||cdn.solvvy.com^
@@ -258,6 +267,7 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||siteintercept.qualtrics.com^$important
 ||tags.tiqcdn.com^$important
 ||cdn.onesignal.com^$important
 ||cdn.branch.io^$important
@@ -334,8 +344,7 @@ https://www.gstatic.com/firebasejs/
 https://recaptcha.net/recaptcha/api2/webworker
 https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js
 https://www.gstatic.com/og/_/js/k=og.qtm
-https://cdn.cookielaw.org/opt-out/otCCPAiab.js
-https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+https://cdn.cookielaw.org/opt-out/
 https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
 https://cdn.jsdelivr.net/npm/js-cookie
 https://app-measurement.com/sdk-exp$important
