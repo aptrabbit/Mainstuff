@@ -1,5 +1,6 @@
 Last modified: 9 June 2022
 
+$removeparam=mod
 $removeparam=intcid
 $removeparam=sid
 $removeparam=sclient
@@ -35,6 +36,13 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||prod.pyxis.atp.fox^
+||time.akamai.com^
+||webcontentassessor.global.ssl.fastly.net^
+||privacymanager.io^
+||wsjstream.wsj.net^
+||optimizely.barrons.com^
+||sso.accounts.dowjones.com^
 ||doppler-config.cbsivideo.com^
 ||doppler-tasks.cbsivideo.com^
 ||flippback.com^
@@ -1708,12 +1716,9 @@ www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
-https://spclient.wg.spotify.com/gabo-receiver-service/
+spotify.com/gabo-receiver-service/
 https://gew4-spclient.spotify.com/quicksilver/v2/triggers
 https://guc3-spclient.spotify.com/quicksilver/v2/triggers
-https://guc3-spclient.spotify.com/gabo-receiver-service/
-https://gew4-spclient.spotify.com/gabo-receiver-service/
-https://gue1-spclient.spotify.com/gabo-receiver-service/
 ||quicksilver.scdn.co^
 ||mosaic.scdn.co^
 ||adeventtracker.spotify.com^
