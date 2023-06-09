@@ -1,5 +1,6 @@
 Last modified: 9 June 2022
 
+$removeparam=SourceCode
 $removeparam=mod
 $removeparam=intcid
 $removeparam=sid
@@ -36,6 +37,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cmg-prod.apigee.net^
+||firestore.googleapis.com^
 ||prod.pyxis.atp.fox^
 ||time.akamai.com^
 ||webcontentassessor.global.ssl.fastly.net^
