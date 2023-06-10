@@ -1,12 +1,24 @@
-Last modified: 9 June 2022
+Last modified: 10 June 2022
 
+$removeparam=mkcid
+$removeparam=mkevt
+$removeparam=wmlspartner
+$removeparam=selectedSellerId
+$removeparam=chn
+$removeparam=ai
+$removeparam=gao
+$removeparam=gpla
+$removeparam=ust
+$removeparam=psig
+$removeparam=source
+$removeparam=ref_
+$removeparam=srsltid
 $removeparam=SourceCode
 $removeparam=mod
 $removeparam=intcid
 $removeparam=sid
 $removeparam=sclient
 $removeparam=uact
-$removeparam=ved
 $removeparam=event
 $removeparam=discount
 $removeparam=inf_id
@@ -1413,7 +1425,6 @@ www.google.com##xe7COe
 www.google.com##.ynRric
 www.google.com##.oIk2Cb
 www.google.com##.cUnQKe
-www.google.com##div.cLjAic.TzHB6b:nth-of-type(2)
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
@@ -1427,7 +1438,6 @@ https://accounts.google.com/gsi/client
 ||www.google.com^$removeparam=tbs
 ||www.google.com^$removeparam=rflfq
 ||www.google.com^$removeparam=phdesc
-||www.google.com^$removeparam=ved
 ||www.google.com^$removeparam=num
 ||www.google.com^$removeparam=dpr
 ||www.google.com^$removeparam=csf
@@ -1703,7 +1713,6 @@ www.allure.com##.ad-stickyhero-enable-mobile
 www.allure.com##.journey-unit__container
 nordiqnutrition.com##.wt-cli-cookie-bar
 nordiqnutrition.com##.et_bloom_animated
-www.mayoclinichealthsystem.org##.widget--cta-image-link
 ||www.indeed.com^$removeparam=spon
 ||www.indeed.com^$removeparam=ad
 ||www.indeed.com^$removeparam=astse
@@ -1995,6 +2004,7 @@ https://www.nutraingredients-usa.com/gtm/neolane_user_data
 blog.coincodecap.com##.ct-advertisement-widget.ct-widget
 blog.coincodecap.com###blocksy_ct_socials-3
 coincodecap.com##.ai-close-fit
+www.mayoclinichealthsystem.org##.widget--cta-image-link
 www.mayoclinic.org##.warning.globalnotice
 www.mayoclinic.org###leftNavigation
 www.mayoclinic.org##.mayoad
