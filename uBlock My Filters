@@ -1,5 +1,16 @@
 Last modified: 10 June 2022
 
+$removeparam=-b-d
+$removeparam=rldimm
+$removeparam=lqi
+$removeparam=tbs
+$removeparam=rflfq
+$removeparam=phdesc
+$removeparam=num
+$removeparam=dpr
+$removeparam=csf
+$removeparam=ct
+$removeparam=iflsig
 $removeparam=mkcid
 $removeparam=mkevt
 $removeparam=wmlspartner
@@ -1431,18 +1442,6 @@ www.google.com##.commercial-unit-desktop-top
 https://www.google.com/recaptcha/enterprise/webworker.js$important
 https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
-||www.google.com^$removeparam=client
-||www.google.com^$removeparam=-b-d
-||www.google.com^$removeparam=rldimm
-||www.google.com^$removeparam=lqi
-||www.google.com^$removeparam=tbs
-||www.google.com^$removeparam=rflfq
-||www.google.com^$removeparam=phdesc
-||www.google.com^$removeparam=num
-||www.google.com^$removeparam=dpr
-||www.google.com^$removeparam=csf
-||www.google.com^$removeparam=ct
-||www.google.com^$removeparam=iflsig
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
