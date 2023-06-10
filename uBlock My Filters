@@ -1,5 +1,6 @@
 Last modified: 10 June 2022
 
+$removeparam=sprefix
 $removeparam=-b-d
 $removeparam=rldimm
 $removeparam=lqi
@@ -21,7 +22,6 @@ $removeparam=gao
 $removeparam=gpla
 $removeparam=ust
 $removeparam=psig
-$removeparam=source
 $removeparam=ref_
 $removeparam=srsltid
 $removeparam=SourceCode
@@ -358,8 +358,8 @@ $removeparam=originalreferer
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 googlevideo.com/generate_204
-nextjs.org/_vercel/insights
 youtube.com/youtubei/v1/att/get
+nextjs.org/_vercel/insights
 https://vercel.com/status-api
 https://advertising.ntuplay.xyz/showads
 https://ntuplay.xyz/t.cdnhks.lol/
