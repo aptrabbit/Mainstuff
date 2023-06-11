@@ -1,6 +1,5 @@
 Last modified: 10 June 2022
 
-$removeparam=co
 $removeparam=ref
 $removeparam=sprefix
 $removeparam=-b-d
@@ -357,6 +356,8 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://www.youtube.com/youtubei/v1/feedback
+https://www.youtube.com/pcs/activeview
 googlevideo.com/generate_204
 youtube.com/youtubei/v1/att/get
 nextjs.org/_vercel/insights
