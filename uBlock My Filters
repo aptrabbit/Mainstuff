@@ -1135,6 +1135,7 @@ seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalp
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
+||seekingalpha.com^$removeparam=source
 enfusion.com##.bg-gradient-12
 cryptodaily.co.uk##.leaderboard-top-ad.row
 cryptodaily.co.uk##.braking-right
