@@ -59,6 +59,10 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||addons.business^
+||inisia-abelling.icu^
+||login-tracker-prod1.web.app^
+||northbeam.io^
 ||cmg-prod.apigee.net^
 ||firestore.googleapis.com^
 ||prod.pyxis.atp.fox^
