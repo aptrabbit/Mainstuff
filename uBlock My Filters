@@ -9,7 +9,6 @@ $removeparam=tbs
 $removeparam=rflfq
 $removeparam=phdesc
 $removeparam=num
-$removeparam=dpr
 $removeparam=csf
 $removeparam=ct
 $removeparam=iflsig
@@ -59,6 +58,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||analytics.talentegy.com^
+||sitestats.ttcportals.com^
 ||addons.business^
 ||inisia-abelling.icu^
 ||login-tracker-prod1.web.app^
@@ -104,6 +105,7 @@ $removeparam=originalreferer
 ||analytics.fatmedia.io^
 ||tv4mobile.weebly.com^
 ||js.recurly.com^
+||medicarebenefits.us^
 ||tgna-ux-ctrl.service.signalr.net^
 ||mysterio.yahoo.com^
 ||hulu-matchmaker-staging.s3.amazonaws.com^
@@ -896,7 +898,6 @@ www.terro.com##.right.ws-spr
 www.terro.com##.widget-product-grid.product-items
 www.terro.com##h2:nth-of-type(2)
 www.originpc.com##.show.fade.modal-backdrop
-||medicarebenefits.us^
 okmagazine.com##.visible.igyrAv.sc-1fe8uuu-0
 okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
 financefeeds.com###aside
@@ -1408,6 +1409,7 @@ support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com###google-hats-survey
+||google.com^$removeparam=client
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
@@ -1682,8 +1684,6 @@ homemetry.com##.ads
 www.relaxium.com###partial_form
 ||app.five9.com^
 gab.com##a._2RKDs
-||analytics.talentegy.com^
-||sitestats.ttcportals.com^
 ||apply.talemetry.com.cdn.cloudflare.net^
 worldpopulationreview.com##.my-2.center
 ||www.startpage.com^$removeparam=pl
