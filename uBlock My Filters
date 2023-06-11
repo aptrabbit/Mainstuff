@@ -1,5 +1,7 @@
 Last modified: 10 June 2022
 
+$removeparam=co
+$removeparam=ref
 $removeparam=sprefix
 $removeparam=-b-d
 $removeparam=rldimm
@@ -20,8 +22,6 @@ $removeparam=chn
 $removeparam=ai
 $removeparam=gao
 $removeparam=gpla
-$removeparam=ust
-$removeparam=psig
 $removeparam=ref_
 $removeparam=srsltid
 $removeparam=SourceCode
