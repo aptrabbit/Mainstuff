@@ -1,5 +1,8 @@
 Last modified: 11 June 2022
 
+$removeparam=mid
+$removeparam=sec
+$removeparam=uniqueid
 $removeparam=ref
 $removeparam=sprefix
 $removeparam=-b-d
@@ -2039,3 +2042,4 @@ www.weekand.com###Flex1
 workforcenow.adp.com##.hdpi.pac-container
 bestdroidplayer.com##.ulp-fadeIn
 bestdroidplayer.com##.ulp-window-container
+wealle.monster##.telegram-link
