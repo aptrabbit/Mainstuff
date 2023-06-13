@@ -294,7 +294,6 @@ app.backinstock.org
 readspeaker.com
 preferences.trustarc.com
 choices.trustarc.com
-telemetry-in.battle.net
 nvidia.tt.omtrdc.net
 ls.dtrace.nvidia.com
 telemetry.gfe.nvidia.com
@@ -449,3 +448,4 @@ bocoyoutage.com
 ||wsjstream.wsj.net^
 ||esnchocco.com^
 ||cometlytrack.com^
+||footprint.net^
