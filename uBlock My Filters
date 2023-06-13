@@ -1,4 +1,4 @@
-Last modified: 11 June 2022
+Last modified: 12 June 2022
 
 $removeparam=mid
 $removeparam=sec
@@ -61,6 +61,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||ipapi.co^
+||go-vip.net^
+||decider.com^
 ||esnchocco.com^
 ||cometlytrack.com^
 ||analytics.talentegy.com^
@@ -399,6 +402,7 @@ https://www.gstatic.com/firebasejs/
 https://recaptcha.net/recaptcha/api2/webworker
 https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js
 https://www.gstatic.com/og/_/js/k=og.qtm
+https://cdn.cookielaw.org/consent/
 https://cdn.cookielaw.org/opt-out/
 https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
 https://cdn.jsdelivr.net/npm/js-cookie
