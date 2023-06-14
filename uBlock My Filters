@@ -1,5 +1,6 @@
-Last modified: 12 June 2022
+Last modified: 13 June 2022
 
+$removeparam=feature
 $removeparam=mid
 $removeparam=sec
 $removeparam=uniqueid
@@ -61,7 +62,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
-||ipapi.co^
+||bazaarvoice.com^
 ||go-vip.net^
 ||decider.com^
 ||esnchocco.com^
@@ -85,7 +86,6 @@ $removeparam=originalreferer
 ||doppler-tasks.cbsivideo.com^
 ||flippback.com^
 ||at.cbsi.com^
-||footprint.net^
 ||amlg.io^
 ||ctr-prd.cbs-measurements.qwilted-cds.cqloud.com^
 ||siloh.pluto.tv^
@@ -255,14 +255,12 @@ $removeparam=originalreferer
 ||location.postscript.io^
 ||cdn.emoryday-analytics.com^
 ||ponos.zeronaught.com^
-||contentorigin.bazaarvoice.com^
 ||microapps.bigcommerce.com^
 ||arttrk.com^
 ||app.electricsms.com^
 ||emotivecdn.io^
 ||app.simple-affiliate.com^
 ||cdn.rebuyengine.com^
-||apps.bazaarvoice.com^
 ||nuance.com^
 ||inq.com^
 ||loox.io^
@@ -1633,9 +1631,9 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
 https://www.reddit.com/errors
+https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.reddit.com/user/redditads/
 https://www.reddit.com/account/sso/one_tap/
-https://www.redditstatic.com/desktop2x/webvitals
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 https://www.redditstatic.com/desktop2x/PushNotifications
 https://www.redditstatic.com/shreddit/en-US/w3-report
@@ -2047,3 +2045,4 @@ workforcenow.adp.com##.hdpi.pac-container
 bestdroidplayer.com##.ulp-fadeIn
 bestdroidplayer.com##.ulp-window-container
 wealle.monster##.telegram-link
+woodlugges.monster##.telegram-link
