@@ -7,7 +7,6 @@ $removeparam=hl
 $removeparam=ved
 $removeparam=feature
 $removeparam=mid
-$removeparam=sec
 $removeparam=uniqueid
 $removeparam=ref
 $removeparam=sprefix
@@ -67,6 +66,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||time.akamai.com^
 ||edge.gycpi.b.yahoodns.net^
 ||prod.pyxis.atp.fox^
 ||metadata.provider.plex.tv^
