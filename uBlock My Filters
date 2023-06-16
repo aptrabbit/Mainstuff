@@ -1,5 +1,10 @@
-Last modified: 13 June 2022
+Last modified: 16 June 2022
 
+$removeparam=ds
+$removeparam=qid
+$removeparam=i
+$removeparam=hl
+$removeparam=ved
 $removeparam=feature
 $removeparam=mid
 $removeparam=sec
@@ -62,6 +67,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||edge.gycpi.b.yahoodns.net^
+||prod.pyxis.atp.fox^
+||metadata.provider.plex.tv^
 ||bazaarvoice.com^
 ||go-vip.net^
 ||decider.com^
@@ -75,8 +83,6 @@ $removeparam=originalreferer
 ||northbeam.io^
 ||cmg-prod.apigee.net^
 ||firestore.googleapis.com^
-||prod.pyxis.atp.fox^
-||time.akamai.com^
 ||webcontentassessor.global.ssl.fastly.net^
 ||privacymanager.io^
 ||wsjstream.wsj.net^
@@ -369,7 +375,6 @@ $removeparam=originalreferer
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 https://www.youtube.com/api/stats/
-https://www.youtube.com/youtubei/v1/guide?key
 https://www.youtube.com/youtubei/v1/feedback
 https://www.youtube.com/pcs/activeview
 googlevideo.com/generate_204
@@ -1417,7 +1422,6 @@ support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com###google-hats-survey
-||google.com^$removeparam=client
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
@@ -1549,6 +1553,7 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
+||twitter.com^$removeparam=s
 twitter.com##.action-brave-tip
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label="who to follow" i]:upward(1)
@@ -1558,7 +1563,6 @@ twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recomme
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
 twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
 twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
-||twitter.com^$removeparam=s
 www.wcostream.net###reklam_adscat > table
 www.wcostream.net###star-watch-on
 www.wcostream.net##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
