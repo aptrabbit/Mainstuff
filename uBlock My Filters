@@ -1,4 +1,4 @@
-Last modified: 16 June 2022
+Last modified: 17 June 2022
 
 $removeparam=ds
 $removeparam=qid
@@ -66,6 +66,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||sdk.snapkit.com^
+||geoip.businessinsider.com^
 ||time.akamai.com^
 ||edge.gycpi.b.yahoodns.net^
 ||prod.pyxis.atp.fox^
