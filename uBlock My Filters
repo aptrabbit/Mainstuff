@@ -1,6 +1,10 @@
-Last modified: 17 June 2022
+Last modified: 19 June 2022
 
-$removeparam=ds
+$removeparam=_ss
+$removeparam=_pos
+$removeparam=sid
+$removeparam=_sid
+$removeparam=cId
 $removeparam=qid
 $removeparam=i
 $removeparam=hl
@@ -33,7 +37,6 @@ $removeparam=srsltid
 $removeparam=SourceCode
 $removeparam=mod
 $removeparam=intcid
-$removeparam=sid
 $removeparam=sclient
 $removeparam=uact
 $removeparam=event
@@ -53,7 +56,6 @@ $removeparam=sharedid
 $removeparam=subId2
 $removeparam=subId3
 $removeparam=crid
-$removeparam=sr
 $removeparam=content-id
 $removeparam=psc
 $removeparam=smid
@@ -66,6 +68,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||ecommplugins-trustboxsettings.trustpilot.com^
+||ecommplugins-scripts.trustpilot.com^
+||consent.truste.com^
 ||sdk.snapkit.com^
 ||geoip.businessinsider.com^
 ||time.akamai.com^
