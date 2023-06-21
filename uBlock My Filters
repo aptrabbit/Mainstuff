@@ -1,5 +1,6 @@
-Last modified: 19 June 2022
+Last modified: 21 June 2022
 
+$removeparam=shpxid
 $removeparam=_ss
 $removeparam=_pos
 $removeparam=sid
@@ -68,6 +69,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||kervinteractive.com^
 ||ecommplugins-trustboxsettings.trustpilot.com^
 ||ecommplugins-scripts.trustpilot.com^
 ||consent.truste.com^
@@ -2056,3 +2058,6 @@ bestdroidplayer.com##.ulp-fadeIn
 bestdroidplayer.com##.ulp-window-container
 wealle.monster##.telegram-link
 woodlugges.monster##.telegram-link
+cssgradient.io##.page-header_banner
+www.forbes.com##.no-close
+www.forbes.com##.zephr-backdrop
