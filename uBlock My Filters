@@ -1,5 +1,7 @@
-Last modified: 23 June 2022
+Last modified: 25 June 2022
 
+$removeparam=pasZONE
+$removeparam=pasID
 $removeparam=shpxid
 $removeparam=_ss
 $removeparam=_pos
@@ -9,7 +11,6 @@ $removeparam=icid
 $removeparam=cId
 $removeparam=qid
 $removeparam=i
-$removeparam=hl
 $removeparam=ved
 $removeparam=feature
 $removeparam=mid
@@ -70,6 +71,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||reliablesoft.net^
+||monsterinsights.com^
 ||condatis.com^
 ||kervinteractive.com^
 ||ecommplugins-trustboxsettings.trustpilot.com^
