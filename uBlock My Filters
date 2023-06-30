@@ -1,4 +1,4 @@
-Last modified: 25 June 2022
+Last modified: 30 June 2022
 
 $removeparam=pasZONE
 $removeparam=pasID
@@ -392,7 +392,6 @@ https://www.youtube.com/api/stats/
 https://www.youtube.com/youtubei/v1/feedback
 https://www.youtube.com/pcs/activeview
 googlevideo.com/generate_204
-youtube.com/youtubei/v1/att/get
 nextjs.org/_vercel/insights
 https://vercel.com/status-api
 https://advertising.ntuplay.xyz/showads
@@ -851,8 +850,6 @@ app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
 ||id.nbc.com^
 starwars.fandom.com###WikiaBar
-study.com##+js(rc, faded-content)
-study.com##+js(rc, hidden, div[ng-non-bindable])
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
 www.chegg.com##.CallToAction__CTAWrapper-sc-ieaghs-3
 www.tennisexpress.com##.show.cookieTextDisplay
@@ -944,6 +941,7 @@ notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb
 support.microsoft.com###supWrapperToPreventFeedbackFlickering
 docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border-bottom.feedback-verbatim
 account.microsoft.com###feedback-button
+www.dailywire.com##.ad-unit
 dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
 gitlab.com##.trial-link
@@ -1652,7 +1650,6 @@ https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.reddit.com/user/redditads/
 https://www.reddit.com/account/sso/one_tap/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
-https://www.redditstatic.com/desktop2x/PushNotifications
 https://www.redditstatic.com/shreddit/en-US/w3-report
 https://www.redditstatic.com/shreddit/sentry
 https://www.redditstatic.com/shreddit/en-US/shreddit-sidebar-ad
@@ -2066,3 +2063,6 @@ woodlugges.monster##.telegram-link
 cssgradient.io##.page-header_banner
 www.forbes.com##.no-close
 www.forbes.com##.zephr-backdrop
+study.com##+js(rc, faded-content)
+study.com##+js(rc, hidden, div[ng-non-bindable])
+homework.study.com##.unlockStudyAnswers
