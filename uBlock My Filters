@@ -71,6 +71,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||th.bing.com^
 ||reliablesoft.net^
 ||monsterinsights.com^
 ||condatis.com^
@@ -388,6 +389,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://www.bing.com/bnc/notifications/
 https://www.youtube.com/api/stats/
 https://www.youtube.com/youtubei/v1/feedback
 https://www.youtube.com/pcs/activeview
@@ -2018,6 +2020,7 @@ www.msn.com###modernRightRail_container_0 > div
 www.msn.com###modernRightRail_container_0 > fluent-design-system-provider
 www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
 www.msn.com##div:nth-of-type(4)
+www.msn.com##.oneFooter-DS-EntryPoint1-1
 blog.logrocket.com##.typescript-popup
 hbr.org##.advertising
 www.prolific.co###klaro
