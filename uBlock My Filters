@@ -1,5 +1,7 @@
-Last modified: 30 June 2022
+Last modified: 04 July 2022
 
+$removeparam=lever-origin
+$removeparam=lever-source
 $removeparam=pasZONE
 $removeparam=pasID
 $removeparam=shpxid
@@ -86,7 +88,6 @@ $removeparam=originalreferer
 ||prod.pyxis.atp.fox^
 ||metadata.provider.plex.tv^
 ||bazaarvoice.com^
-||go-vip.net^
 ||decider.com^
 ||esnchocco.com^
 ||cometlytrack.com^
@@ -2019,7 +2020,6 @@ www.msn.com##.floatingfeedback
 www.msn.com###modernRightRail_container_0 > div
 www.msn.com###modernRightRail_container_0 > fluent-design-system-provider
 www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
-www.msn.com##div:nth-of-type(4)
 www.msn.com##.oneFooter-DS-EntryPoint1-1
 blog.logrocket.com##.typescript-popup
 hbr.org##.advertising
