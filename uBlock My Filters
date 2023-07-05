@@ -1,4 +1,4 @@
-Last modified: 04 July 2022
+Last modified: 05 July 2022
 
 $removeparam=lever-origin
 $removeparam=lever-source
@@ -73,6 +73,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||g.ezoic.net^
+||sf.ezoiccdn.com^
+||recommendations.data.tm-awx.com^
 ||th.bing.com^
 ||reliablesoft.net^
 ||monsterinsights.com^
@@ -84,7 +87,6 @@ $removeparam=originalreferer
 ||sdk.snapkit.com^
 ||geoip.businessinsider.com^
 ||time.akamai.com^
-||edge.gycpi.b.yahoodns.net^
 ||prod.pyxis.atp.fox^
 ||metadata.provider.plex.tv^
 ||bazaarvoice.com^
@@ -260,7 +262,6 @@ $removeparam=originalreferer
 ||config-security.com^
 ||shopify-gtm-suite.getelevar.com^
 ||tracking.recommend.pro^
-||sf.ezoiccdn.com^
 ||widgets.vcdnita.com^
 ||static.botsrv.com^
 ||static.botsrv2.com^
