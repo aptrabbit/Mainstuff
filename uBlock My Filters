@@ -1,5 +1,6 @@
-Last modified: 05 July 2022
+Last modified: 08 July 2023
 
+$removeparam=ccId
 $removeparam=lever-origin
 $removeparam=lever-source
 $removeparam=pasZONE
@@ -73,6 +74,10 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||gigya.com^
+||identitytoolkit.googleapis.com^
+||firebaseio.com^
+||2.bp.blogspot.com^
 ||g.ezoic.net^
 ||sf.ezoiccdn.com^
 ||recommendations.data.tm-awx.com^
@@ -1529,14 +1534,6 @@ www.svgrepo.com##.style-module--flexbar--WT2ii
 www.svgrepo.com##.style-module--nativeInline--1pnni
 switchnutrition.com.au##.js-toggle-slide-nav
 shopbestnaturals.com###sro-popup
-pixabay.com##.container--1MiV3
-pixabay.com##.container--Ir0yq
-pixabay.com##.viewMore--1odRT
-pixabay.com##.sponsoredWithResults--1tY
-pixabay.com##.show-gtty-item
-pixabay.com##.present-gtty-item
-pixabay.com##.present-g-item
-pixabay.com##.affil_medias
 1movies.life###_asdhj234esdfgds
 1movies.life##.notif
 1movies.life##.desk_option
@@ -1971,6 +1968,12 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||gjnrtzqz.com^
 ||gpttuucg.com^
 ||fplnfqem.com^
+||pseemsee.com^
+||tsyucjwlxkgpyu.com^
+||flerap.com^
+||fleraprt.com^
+||tzegilo.com^
+||datatechonert.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
@@ -2070,3 +2073,13 @@ www.forbes.com##.zephr-backdrop
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
 homework.study.com##.unlockStudyAnswers
+www.startpage.com##.ay-eo-tpcl--device
+pixabay.com##.container--1MiV3
+pixabay.com##.container--Ir0yq
+pixabay.com##.viewMore--1odRT
+pixabay.com##.sponsoredWithResults--1tY
+pixabay.com##.show-gtty-item
+pixabay.com##.present-gtty-item
+pixabay.com##.present-g-item
+pixabay.com##.affil_medias
+pixabay.com##div.container--t3k85
