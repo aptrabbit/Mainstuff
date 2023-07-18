@@ -1,4 +1,4 @@
-Last modified: 17 July 2023
+Last modified: 18 July 2023
 
 $removeparam=ccId
 $removeparam=lever-origin
@@ -74,6 +74,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||yengo.com^
 ||gigya.com^
 ||identitytoolkit.googleapis.com^
 ||firebaseio.com^
@@ -86,6 +87,8 @@ $removeparam=originalreferer
 ||monsterinsights.com^
 ||condatis.com^
 ||kervinteractive.com^
+||simplicity.trustpilot.com^
+||consumersiteimages.trustpilot.net^
 ||ecommplugins-trustboxsettings.trustpilot.com^
 ||ecommplugins-scripts.trustpilot.com^
 ||consent.truste.com^
@@ -235,7 +238,6 @@ $removeparam=originalreferer
 ||js.hscollectedforms.net^
 ||js.hubspotfeedback.com^
 ||salesiq.zoho.com^
-||consumersiteimages.trustpilot.net^
 ||static.iris.informa.com^
 ||api.saasexch.com^
 ||syndication.twitter.com^
