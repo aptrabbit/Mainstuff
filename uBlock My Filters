@@ -1,4 +1,4 @@
-Last modified: 11 July 2023
+Last modified: 17 July 2023
 
 $removeparam=ccId
 $removeparam=lever-origin
@@ -404,6 +404,8 @@ googlevideo.com/generate_204
 nextjs.org/_vercel/insights
 https://vercel.com/status-api
 https://advertising.ntuplay.xyz/showads
+https://qwebplay.xyz/blast.js
+https://qwebplay.xyz/t.cdnhks.lol/
 https://ntuplay.xyz/t.cdnhks.lol/
 https://ntuplay.xyz/blast.js
 https://ntuplay.xyz/t.salamus1.lol/
@@ -1723,6 +1725,7 @@ www.startpage.com##.footer__blog-widget
 www.startpage.com###feedback-button-container
 www.startpage.com##.footer__social
 www.startpage.com##.css-bxdaet
+www.startpage.com##.ay-eo-tpcl
 www.researchgate.net##.rg-us-cookie-banner
 www.vox.com#@#.c-tab-bar
 www.vox.com###toaster
@@ -2076,7 +2079,6 @@ www.forbes.com##.zephr-backdrop
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
 homework.study.com##.unlockStudyAnswers
-www.startpage.com##.ay-eo-tpcl--device
 pixabay.com##.container--1MiV3
 pixabay.com##.container--Ir0yq
 pixabay.com##.viewMore--1odRT
