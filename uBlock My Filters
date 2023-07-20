@@ -1,4 +1,4 @@
-Last modified: 18 July 2023
+Last modified: 20 July 2023
 
 $removeparam=ccId
 $removeparam=lever-origin
@@ -74,6 +74,14 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||afterpay.com^
+||opinew.cloud^
+||opinew.com^
+||a.klaviyo.com^
+||static.klaviyo.com^
+||recart.com^
+||ghostmonitor.com^
+||resellerratings.com^
 ||yengo.com^
 ||gigya.com^
 ||identitytoolkit.googleapis.com^
@@ -295,7 +303,6 @@ $removeparam=originalreferer
 ||inq.com^
 ||loox.io^
 ||static.olark.com^
-||static.klaviyo.com^
 ||events-collector.spot.im^
 ||app.purechat.com^
 ||app.helphero.co^
@@ -406,6 +413,8 @@ googlevideo.com/generate_204
 nextjs.org/_vercel/insights
 https://vercel.com/status-api
 https://advertising.ntuplay.xyz/showads
+https://bhqwplay.xyz/t.cdnhks.lol/cdn.js
+https://bhqwplay.xyz/blast.js
 https://qwebplay.xyz/blast.js
 https://qwebplay.xyz/t.cdnhks.lol/
 https://ntuplay.xyz/t.cdnhks.lol/
@@ -1091,7 +1100,6 @@ www.motor1.com##.widget-wrapper
 www.motor1.com##.msrp-stripe
 www.motor1.com##.msrp-body
 www.motor1.com##.top-banner-placeholder.m1-header-ad
-||cpkshop.com^
 petri.com##.contentHighlight
 www.windowscentral.com##div.article-body__section--wide-desktop.article-body__section
 www.wilderssecurity.com##.noticeContent
@@ -1117,6 +1125,7 @@ www.bloomberg.com##.leaderboard-container
 www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
 ||location.bloomberg.com^
 ||personalization.bloomberg.com^
+||cpkshop.com^
 www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
 support.kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
