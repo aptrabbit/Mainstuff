@@ -1,4 +1,4 @@
-Last modified: 20 July 2023
+Last modified: 22 July 2023
 
 $removeparam=ccId
 $removeparam=lever-origin
@@ -50,7 +50,6 @@ $removeparam=discount
 $removeparam=inf_id
 $removeparam=noaccount
 $removeparam=marketing
-$removeparam=cmd
 $removeparam=bshm
 $removeparam=fc_session_id
 $removeparam=primeCampaignId
@@ -74,6 +73,13 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||sdk.vyrl.co^
+||cdn.tapcart.com^
+||getcarro.com^
+||automizely.com^
+||incartupsell.com^
+||buyerzone.com^
+||feedback.fish^
 ||afterpay.com^
 ||opinew.cloud^
 ||opinew.com^
@@ -405,6 +411,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+apps/locksmith/ping
 https://www.bing.com/bnc/notifications/
 https://www.youtube.com/api/stats/
 https://www.youtube.com/youtubei/v1/feedback
