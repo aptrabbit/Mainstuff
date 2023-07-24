@@ -1,4 +1,4 @@
-Last modified: 22 July 2023
+Last modified: 24 July 2023
 
 $removeparam=ccId
 $removeparam=lever-origin
@@ -73,6 +73,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||organizer.bizzabo.com^
 ||sdk.vyrl.co^
 ||cdn.tapcart.com^
 ||getcarro.com^
@@ -413,9 +414,6 @@ $removeparam=originalreferer
 ||id-shop.govx.com^
 apps/locksmith/ping
 https://www.bing.com/bnc/notifications/
-https://www.youtube.com/api/stats/
-https://www.youtube.com/youtubei/v1/feedback
-https://www.youtube.com/pcs/activeview
 googlevideo.com/generate_204
 nextjs.org/_vercel/insights
 https://vercel.com/status-api
@@ -440,7 +438,6 @@ https://mssdk.us.tiktok.com/web/common?msToken
 https://c1ac63.optinmonster.com/app/campaign-views/
 https://no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
-https://www.youtube.com/generate_204
 https://i.ytimg.com/generate_204
 https://trck.pix.twitch.prod-na.turntable.sonic.advertising
 https://www.gstatic.com/firebasejs/
@@ -1767,9 +1764,14 @@ nordiqnutrition.com##.et_bloom_animated
 www.indeed.com##.google-Only-Modal
 ||a-z-animals.com^$removeparam=from
 ||signaler-pa.youtube.com^
+https://www.youtube.com/api/stats/
+https://www.youtube.com/youtubei/v1/feedback
+https://www.youtube.com/pcs/activeview
+https://www.youtube.com/generate_204
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
 www.youtube.com##.yt-mealbar-promo-renderer
+www.youtube.com##ytd-feed-nudge-renderer
 www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
