@@ -1,5 +1,6 @@
-Last modified: 24 July 2023
+Last modified: 25 July 2023
 
+$removeparam=nb_klid
 $removeparam=ccId
 $removeparam=lever-origin
 $removeparam=lever-source
@@ -73,6 +74,15 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||gethumankind.com^
+||bes.gcp.data.bigcommerce.com^
+||bananastand.io^
+||loopclub.io^
+||littledata.io^
+||kustomerapp.com^
+||humanpresence.io^
+||klickly.com^
+||cobrowse.oraclecloud.com^
 ||organizer.bizzabo.com^
 ||sdk.vyrl.co^
 ||cdn.tapcart.com^
@@ -412,6 +422,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+https://pc-quiz.s3
 apps/locksmith/ping
 https://www.bing.com/bnc/notifications/
 googlevideo.com/generate_204
@@ -2109,3 +2120,4 @@ nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
 nypost.com##.widget_nypost_zone_widget
+www.techtarget.com##.cluster-branding-container
