@@ -74,6 +74,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||buymeacoffee.com^
+||sparrow.cloudflare.com^
 ||isgprivacy.cbsi.com^
 ||cdn.optimizely.com^
 ||gethumankind.com^
@@ -152,7 +154,6 @@ $removeparam=originalreferer
 ||siloh-sp.plutotv.net^
 ||siloh-aka.plutotv.net^
 ||siloh-fs.plutotv.net^
-||d34azmi6bxg5fz.cloudfront.net^
 ||rvohealth.com^
 ||onclickalgo.com^
 ||identity.netlify.com^
@@ -424,6 +425,8 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/blast.js
+https://www.twitch.tv/embed/
 https://pc-quiz.s3
 apps/locksmith/ping
 https://www.bing.com/bnc/notifications/
@@ -432,11 +435,8 @@ nextjs.org/_vercel/insights
 https://vercel.com/status-api
 https://advertising.ntuplay.xyz/showads
 https://bhqwplay.xyz/t.cdnhks.lol/cdn.js
-https://bhqwplay.xyz/blast.js
-https://qwebplay.xyz/blast.js
 https://qwebplay.xyz/t.cdnhks.lol/
 https://ntuplay.xyz/t.cdnhks.lol/
-https://ntuplay.xyz/blast.js
 https://ntuplay.xyz/t.salamus1.lol/
 https://main.salamus1.lol/showads
 https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
