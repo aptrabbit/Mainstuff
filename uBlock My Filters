@@ -1,4 +1,4 @@
-Last modified: 27 July 2023
+Last modified: 28 July 2023
 
 $removeparam=nb_klid
 $removeparam=ccId
@@ -74,6 +74,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||list-manage.com^
+||id.nbcuni.com^
 ||buymeacoffee.com^
 ||sparrow.cloudflare.com^
 ||isgprivacy.cbsi.com^
@@ -372,6 +374,7 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||js.monitor.azure.com^$important
 ||siteintercept.qualtrics.com^$important
 ||tags.tiqcdn.com^$important
 ||cdn.onesignal.com^$important
