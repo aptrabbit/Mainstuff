@@ -1,4 +1,4 @@
-Last modified: 28 July 2023
+Last modified: 29 July 2023
 
 $removeparam=nb_klid
 $removeparam=ccId
@@ -17,7 +17,6 @@ $removeparam=qid
 $removeparam=i
 $removeparam=ved
 $removeparam=feature
-$removeparam=mid
 $removeparam=uniqueid
 $removeparam=ref
 $removeparam=sprefix
@@ -74,6 +73,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||paytomorrow.com^
+||ma.zoho.com^
+||token.razerdata.com^
 ||list-manage.com^
 ||id.nbcuni.com^
 ||buymeacoffee.com^
