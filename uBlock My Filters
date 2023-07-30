@@ -1,5 +1,6 @@
-Last modified: 29 July 2023
+Last modified: 30 July 2023
 
+$removeparam=maas
 $removeparam=nb_klid
 $removeparam=ccId
 $removeparam=lever-origin
@@ -40,7 +41,6 @@ $removeparam=gao
 $removeparam=gpla
 $removeparam=ref_
 $removeparam=srsltid
-$removeparam=SourceCode
 $removeparam=mod
 $removeparam=intcid
 $removeparam=sclient
@@ -73,6 +73,10 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||wishpond.net^
+||location.gomoxie.solutions^
+||cookies-data.onetrust.io^
+||teamtray.care^
 ||paytomorrow.com^
 ||ma.zoho.com^
 ||token.razerdata.com^
@@ -430,6 +434,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/leaky-paywall
 /blast.js
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
