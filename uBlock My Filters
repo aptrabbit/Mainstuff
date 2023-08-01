@@ -1,4 +1,4 @@
-Last modified: 30 July 2023
+Last modified: 31 July 2023
 
 $removeparam=maas
 $removeparam=nb_klid
@@ -73,6 +73,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||js-eu1.hs-scripts.com^
 ||wishpond.net^
 ||location.gomoxie.solutions^
 ||cookies-data.onetrust.io^
@@ -434,6 +435,8 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/log
+/dwell-log
 /leaky-paywall
 /blast.js
 https://www.twitch.tv/embed/
