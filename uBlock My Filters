@@ -1,4 +1,4 @@
-Last modified: 31 July 2023
+Last modified: 03 August 2023
 
 $removeparam=maas
 $removeparam=nb_klid
@@ -73,6 +73,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||setupali.shop^
 ||js-eu1.hs-scripts.com^
 ||wishpond.net^
 ||location.gomoxie.solutions^
@@ -1815,6 +1816,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||cdn.salamus1.lol^
 ||lumnstoodthe.info^
 ||46-105-201-240.any.cdn.anycast.me^
+||oucaibie.net^
 ||sexeecmo.xyz^
 ||api.xewarycy.xyz^
 ||xewarycy.xyz^
@@ -1903,6 +1905,13 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||hyvmflsclweae.xyz^
 ||dgoyegeervubty.xyz^
 ||dpfchqsiksjuyjc.xyz^
+||wfyhgqkqoyfsbm.com^
+||cjogbbmrgrgscp.com^
+||nvbqvmdvgotlubn.com^
+||bdiqtyyhg.com^
+||xduenseggx.com^
+||qayepfgsn.com^
+||wyyipndemngo.com^
 ||eoaktaposh.com^
 ||agbyrgwqveddgm.com^
 ||hqtfjugceattb.com^
@@ -2135,3 +2144,4 @@ nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
 nypost.com##.widget_nypost_zone_widget
 www.techtarget.com##.cluster-branding-container
+bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
