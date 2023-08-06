@@ -1,4 +1,4 @@
-Last modified: 03 August 2023
+Last modified: 05 August 2023
 
 $removeparam=maas
 $removeparam=nb_klid
@@ -73,7 +73,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
-||setupali.shop^
+||clarip.com^
 ||js-eu1.hs-scripts.com^
 ||wishpond.net^
 ||location.gomoxie.solutions^
@@ -200,7 +200,6 @@ $removeparam=originalreferer
 ||widget.helpcrunch.com^
 ||perfectapps.io^
 ||cdn1.judge.me^
-||api.ipify.org^
 ||player.stats.live-video.net^
 ||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 ||pusher.com^
@@ -1815,6 +1814,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||sports24.site^
 ||cdn.salamus1.lol^
 ||lumnstoodthe.info^
+||setupali.shop^
 ||46-105-201-240.any.cdn.anycast.me^
 ||oucaibie.net^
 ||sexeecmo.xyz^
