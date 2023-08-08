@@ -1,5 +1,7 @@
-Last modified: 05 August 2023
+Last modified: 08 August 2023
 
+$removeparam=ictx
+$removeparam=uds
 $removeparam=maas
 $removeparam=nb_klid
 $removeparam=ccId
@@ -73,6 +75,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||instiengage.com^
 ||clarip.com^
 ||js-eu1.hs-scripts.com^
 ||wishpond.net^
@@ -1481,6 +1484,7 @@ support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com###google-hats-survey
+||www.google.com^$removeparam=hl
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
@@ -1519,7 +1523,8 @@ www.google.com##.cUnQKe
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
-https://www.google.com/recaptcha/enterprise/webworker.js$important
+/recaptcha/enterprise/webworker$important
+recaptcha/enterprise/reload$important
 https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
 coupons.cnet.com##.bd
@@ -2145,3 +2150,4 @@ nypost.com##.select-share
 nypost.com##.widget_nypost_zone_widget
 www.techtarget.com##.cluster-branding-container
 bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
+gagarin.news##.cookie_1ZGqW
