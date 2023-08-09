@@ -1,4 +1,4 @@
-Last modified: 08 August 2023
+Last modified: 09 August 2023
 
 $removeparam=ictx
 $removeparam=uds
@@ -75,6 +75,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||intentiq.com^
+||consent.google.com^
 ||instiengage.com^
 ||clarip.com^
 ||js-eu1.hs-scripts.com^
@@ -438,6 +440,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/ads-beacon
 /log
 /dwell-log
 /leaky-paywall
@@ -1203,6 +1206,9 @@ seekingalpha.com##[data-test-id="ad-slot-list"]
 seekingalpha.com###krux-container
 seekingalpha.com##div.sa_fcwB.sa_fcuC:nth-of-type(4)
 seekingalpha.com##.hm-z
+seekingalpha.com##.G-fs
+seekingalpha.com##.fX-BZ
+seekingalpha.com##.F-fr
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
