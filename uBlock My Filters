@@ -1,4 +1,4 @@
-Last modified: 09 August 2023
+Last modified: 10 August 2023
 
 $removeparam=ictx
 $removeparam=uds
@@ -21,7 +21,6 @@ $removeparam=i
 $removeparam=ved
 $removeparam=feature
 $removeparam=uniqueid
-$removeparam=ref
 $removeparam=sprefix
 $removeparam=-b-d
 $removeparam=rldimm
@@ -75,6 +74,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cdn.dynamicyield.com^
 ||intentiq.com^
 ||consent.google.com^
 ||instiengage.com^
@@ -283,7 +283,6 @@ $removeparam=originalreferer
 ||static.iris.informa.com^
 ||api.saasexch.com^
 ||syndication.twitter.com^
-||cdn.dynamicyield.com^
 ||addshoppers.s3.amazonaws.com^
 ||jnn-pa.googleapis.com^
 ||sa.getroster.com^
@@ -460,7 +459,6 @@ https://ntuplay.xyz/t.salamus1.lol/
 https://main.salamus1.lol/showads
 https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
 https://www.crunchbase.com/v4/cb/events/
-https://js.stripe.com/v3/fingerprinted/
 https://cdn2.editmysite.com/js/site/footerSignup.js
 https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js
 https://cdn2.editmysite.com/js/wsnbn/snowday262.js
@@ -1961,6 +1959,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||fdpfkdnpvpmb.com^
 ||ldbboacmenwy.com^
 ||ieamsbpzu.com^
+||eeinhyfb.com^
 ||ltckrqiy.com^
 ||sqydhgubsy.com^
 ||rlmcegsrhuspsq.com^
