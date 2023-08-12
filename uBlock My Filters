@@ -1,4 +1,4 @@
-Last modified: 10 August 2023
+Last modified: 12 August 2023
 
 $removeparam=ictx
 $removeparam=uds
@@ -74,9 +74,10 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cafemedia-com.videoplayerhub.com^
+||userlane.com^
 ||cdn.dynamicyield.com^
 ||intentiq.com^
-||consent.google.com^
 ||instiengage.com^
 ||clarip.com^
 ||js-eu1.hs-scripts.com^
@@ -104,7 +105,6 @@ $removeparam=originalreferer
 ||cobrowse.oraclecloud.com^
 ||organizer.bizzabo.com^
 ||sdk.vyrl.co^
-||cdn.tapcart.com^
 ||getcarro.com^
 ||automizely.com^
 ||incartupsell.com^
@@ -2156,3 +2156,4 @@ nypost.com##.widget_nypost_zone_widget
 www.techtarget.com##.cluster-branding-container
 bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
 gagarin.news##.cookie_1ZGqW
+www.tennisworldusa.org##.top_container > div:nth-of-type(1)
