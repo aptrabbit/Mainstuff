@@ -1,4 +1,4 @@
-Last modified: 12 August 2023
+Last modified: 14 August 2023
 
 $removeparam=ictx
 $removeparam=uds
@@ -74,6 +74,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||papi.walkme.com^
+||thankful.ai^
+||apigtw.srvcta.com^
 ||cafemedia-com.videoplayerhub.com^
 ||userlane.com^
 ||cdn.dynamicyield.com^
@@ -268,6 +271,7 @@ $removeparam=originalreferer
 ||rneroftheparlor.com^
 ||vmrcommunications.com^
 ||cmp.quantcast.com^
+||appleid.cdn-apple.com^$3p
 ||login.live.com^$3p
 ||login.microsoftonline.com^$3p
 ||printoperatelanguage.top^
@@ -439,42 +443,47 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/generate_204
+/ping
+/pings
+/feedback
+/stats
+/boq-identity
+/event
+/events
+/shop_events
 /ads-beacon
 /log
+/logs
+/campaign-views
 /dwell-log
+/snowday
+/showads
 /leaky-paywall
 /blast.js
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
-apps/locksmith/ping
 https://www.bing.com/bnc/notifications/
-googlevideo.com/generate_204
 nextjs.org/_vercel/insights
 https://vercel.com/status-api
-https://advertising.ntuplay.xyz/showads
 https://bhqwplay.xyz/t.cdnhks.lol/cdn.js
 https://qwebplay.xyz/t.cdnhks.lol/
 https://ntuplay.xyz/t.cdnhks.lol/
 https://ntuplay.xyz/t.salamus1.lol/
 https://main.salamus1.lol/showads
 https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
-https://www.crunchbase.com/v4/cb/events/
 https://cdn2.editmysite.com/js/site/footerSignup.js
 https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js
-https://cdn2.editmysite.com/js/wsnbn/snowday262.js
 https://script.wikia.nocookie.net/fandom-ae-assets/identity-service/
 https://www.amazon.com/af/feedback-link
 https://mssdk.us.tiktok.com/web/common?msToken
-https://c1ac63.optinmonster.com/app/campaign-views/
 https://no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
-https://i.ytimg.com/generate_204
 https://trck.pix.twitch.prod-na.turntable.sonic.advertising
 https://www.gstatic.com/firebasejs/
 https://recaptcha.net/recaptcha/api2/webworker
 https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js
 https://cdn.cookielaw.org/opt-out/
-https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events
 https://cdn.jsdelivr.net/npm/js-cookie
 https://app-measurement.com/sdk-exp$important
 ||js.driftt.com/deploy/assets/index.html$subdocument
@@ -1207,6 +1216,7 @@ seekingalpha.com##.hm-z
 seekingalpha.com##.G-fs
 seekingalpha.com##.fX-BZ
 seekingalpha.com##.F-fr
+seekingalpha.com##.F-ff
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
@@ -1798,10 +1808,7 @@ nordiqnutrition.com##.et_bloom_animated
 www.indeed.com##.google-Only-Modal
 ||a-z-animals.com^$removeparam=from
 ||signaler-pa.youtube.com^
-https://www.youtube.com/api/stats/
-https://www.youtube.com/youtubei/v1/feedback
 https://www.youtube.com/pcs/activeview
-https://www.youtube.com/generate_204
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
 www.youtube.com##.yt-mealbar-promo-renderer
