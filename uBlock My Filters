@@ -76,6 +76,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||graph-fallback.facebook.com^
 ||pix.s3.amazonaws.com^
 ||analytics.laborx.io^
 ||pusher.com^
@@ -425,6 +426,7 @@ $removeparam=originalreferer
 ||cdn.branch.io^$important
 ||pix.pub^$important
 ||i.ibb.co^$important
+||browser-intake-datadoghq.com^$important
 ||share.hsforms.com^$important
 ||js.taplytics.com^$important
 ||odb.outbrain.com^$important
@@ -1918,6 +1920,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||hyvmflsclweae.xyz^
 ||dgoyegeervubty.xyz^
 ||dpfchqsiksjuyjc.xyz^
+||outoctillerytor.com^
 ||wfyhgqkqoyfsbm.com^
 ||cjogbbmrgrgscp.com^
 ||nvbqvmdvgotlubn.com^
