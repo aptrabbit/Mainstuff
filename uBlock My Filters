@@ -1,4 +1,4 @@
-Last modified: 17 August 2023
+Last modified: 19 August 2023
 
 $removeparam=clid
 $removeparam=sca_esv
@@ -76,6 +76,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||pix.s3.amazonaws.com^
 ||analytics.laborx.io^
 ||pusher.com^
 ||kaisaimy.net^
@@ -471,6 +472,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/tracker
 /c.rollBarEntry
 /product_offers
 /marketing_campaigns
@@ -491,6 +493,7 @@ $removeparam=originalreferer
 /showads
 /leaky-paywall
 /blast.js
+https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
 https://www.bing.com/bnc/notifications/
@@ -1512,7 +1515,6 @@ www.twitch.tv###twilight-sticky-footer-root
 twitch.tv##+js(twitch-videoad)
 chrome.google.com##.Yb
 scholar.google.com##.gs_r.gs_qsuggest_wrap
-creatoracademy.youtube.com###google-hats-survey
 support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
@@ -1806,7 +1808,8 @@ https://www.youtube.com/pcs/activeview
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
 www.youtube.com##.yt-mealbar-promo-renderer
-www.youtube.com##ytd-feed-nudge-renderer
+www.youtube.com##ytd-engagement-panel-section-list-renderer
+creatoracademy.youtube.com###google-hats-survey
 www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
