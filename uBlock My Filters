@@ -478,12 +478,12 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
-/ad-event
 /sentry
 /w3-report
 /cookie-popup
 /consent
 /ads
+/showads
 /tracker
 /c.rollBarEntry
 /product_offers
@@ -502,7 +502,6 @@ $removeparam=originalreferer
 /campaign-views
 /dwell-log
 /snowday
-/showads
 /leaky-paywall
 /blast.js
 /?experiment
@@ -1720,10 +1719,9 @@ https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
 https://www.reddit.com/errors
 https://www.reddit.com/user/TheFrostedMiniWheats/
-https://www.reddit.com/user/redditads/
-https://www.reddit.com/account/sso/one_tap/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 /shreddit-sidebar-ad
+/redditads
 ||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
