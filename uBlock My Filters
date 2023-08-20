@@ -57,7 +57,6 @@ $removeparam=marketing
 $removeparam=bshm
 $removeparam=fc_session_id
 $removeparam=primeCampaignId
-$removeparam=tag
 $removeparam=creative
 $removeparam=INTKEY
 $removeparam=sourceid
@@ -84,6 +83,7 @@ $removeparam=originalreferer
 ||pix.s3.amazonaws.com^
 ||analytics.laborx.io^
 ||pusher.com^
+||hyperlinq.user.com^
 ||kaisaimy.net^
 ||app.five9.com^
 ||pico.tools^
@@ -320,7 +320,6 @@ $removeparam=originalreferer
 ||salesiq.zoho.com^
 ||static.iris.informa.com^
 ||api.saasexch.com^
-||syndication.twitter.com^
 ||addshoppers.s3.amazonaws.com^
 ||jnn-pa.googleapis.com^
 ||sa.getroster.com^
@@ -1466,16 +1465,13 @@ www.thejakartapost.com##.ads-large-leaderboard
 www.thejakartapost.com##.ad-v-box
 developers.facebook.com###devsite_dock
 @@||d2gdx5nv84sdx2.cloudfront.net^
-||hyperlinq.user.com^
 www.tronweekly.com##.widget_media_image
 fontawesome.com##.wrap-ad
 blockchair.com##.page-address__promo
 blockchair.com##.top-buttons--right
 blockchair.com##.lh-auto
-||abazelfan.com^
 www.paypal.com###feedback-survey
 twiends.com##.cvs
-help.twitter.com###kampyleButtonContainer
 smallseotools.com##.pro_icon
 www.searchenginejournal.com##.sej-hello-bar
 www.flickr.com##.moola-search-div
@@ -1657,6 +1653,8 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
 ||twitter.com^$removeparam=s
+||syndication.twitter.com^
+/endpoints.Ads
 twitter.com##.action-brave-tip
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label="who to follow" i]:upward(1)
@@ -1666,6 +1664,7 @@ twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recomme
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
 twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
 twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
+help.twitter.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
 www.wcostream.net###star-watch-on
 www.wcostream.net##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
@@ -1724,7 +1723,7 @@ https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.reddit.com/user/redditads/
 https://www.reddit.com/account/sso/one_tap/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
-https://www.redditstatic.com/shreddit/en-US/shreddit-sidebar-ad
+/shreddit-sidebar-ad
 ||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
@@ -1822,6 +1821,7 @@ www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
 www.youtube.com##.yt-mealbar-promo-renderer
 www.youtube.com##ytd-engagement-panel-section-list-renderer
+www.youtube.com##.ytd-rich-section-renderer
 creatoracademy.youtube.com###google-hats-survey
 www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
@@ -1936,6 +1936,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||cjogbbmrgrgscp.com^
 ||nvbqvmdvgotlubn.com^
 ||bdiqtyyhg.com^
+||abazelfan.com^
 ||xduenseggx.com^
 ||qayepfgsn.com^
 ||wyyipndemngo.com^
