@@ -76,6 +76,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||api.saasexch.com^
 ||andes.g.ebay.com^
 ||www.ebayadservices.com^
 ||blackfire.io^
@@ -319,7 +320,6 @@ $removeparam=originalreferer
 ||js.hubspotfeedback.com^
 ||salesiq.zoho.com^
 ||static.iris.informa.com^
-||api.saasexch.com^
 ||addshoppers.s3.amazonaws.com^
 ||jnn-pa.googleapis.com^
 ||sa.getroster.com^
@@ -1687,7 +1687,6 @@ coinmarketcap.com##.trending-sponsored
 coinmarketcap.com##.email-signup
 coinmarketcap.com##.buyAdButtonSection
 coinmarketcap.com##.carousel-items-wrapper
-coinmarketcap.com##.modalOpened
 coinmarketcap.com##.coin-ads
 coinmarketcap.com##.kCVvHP
 coinmarketcap.com##.bWvWZr
