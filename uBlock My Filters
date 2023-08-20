@@ -423,6 +423,7 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||forter.com^$important
 ||js.monitor.azure.com^$important
 ||siteintercept.qualtrics.com^$important
 ||tags.tiqcdn.com^$important
