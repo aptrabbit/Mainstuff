@@ -1,5 +1,6 @@
 Last modified: 20 August 2023
 
+$removeparam=iId
 $removeparam=clid
 $removeparam=sca_esv
 $removeparam=ictx
@@ -76,6 +77,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||andes.g.ebay.com^
+||www.ebayadservices.com^
+||blackfire.io^
 ||graph-fallback.facebook.com^
 ||pix.s3.amazonaws.com^
 ||analytics.laborx.io^
@@ -474,6 +478,9 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/ad-event
+/sentry
+/w3-report
 /cookie-popup
 /consent
 /ads
@@ -498,6 +505,8 @@ $removeparam=originalreferer
 /showads
 /leaky-paywall
 /blast.js
+/?experiment
+/experiment
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
@@ -1714,8 +1723,6 @@ https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.reddit.com/user/redditads/
 https://www.reddit.com/account/sso/one_tap/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
-https://www.redditstatic.com/shreddit/en-US/w3-report
-https://www.redditstatic.com/shreddit/sentry
 https://www.redditstatic.com/shreddit/en-US/shreddit-sidebar-ad
 ||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
