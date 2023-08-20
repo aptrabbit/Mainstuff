@@ -478,11 +478,13 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/custom-newsletter
 /sentry
 /w3-report
 /cookie-popup
 /consent
 /ads
+/advertising
 /showads
 /tracker
 /c.rollBarEntry
@@ -493,7 +495,7 @@ $removeparam=originalreferer
 /pings
 /feedback
 /stat
-/stats
+/api/stats
 /event
 /shop_events
 /ads-beacon
