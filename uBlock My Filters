@@ -1,4 +1,4 @@
-Last modified: 20 August 2023
+Last modified: 21 August 2023
 
 $removeparam=iId
 $removeparam=clid
@@ -76,14 +76,32 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||medium-widget-api.pixelpoint.io^
+||app-sj06.marketo.com^
+||mktdplp102cdn.azureedge.net^
+||master-shopify-tracker.s3.amazonaws.com^
+||cdn.richpanel.com^
+||staging.api.telemetry.watchabc.go.com^
+||id.nbc.com^
+||rapidzebra.io^
+||aptrinsic.com^
 ||api.saasexch.com^
 ||andes.g.ebay.com^
 ||www.ebayadservices.com^
 ||blackfire.io^
+||edge.marker.io^
+||app.octaneai.com^
+||social-login.oxiapps.com^
+||wurfl.io^
+||patientpop.com^
+||block.lmaxdigital.io^
+||min-api.cryptocompare.com^
 ||graph-fallback.facebook.com^
 ||pix.s3.amazonaws.com^
 ||analytics.laborx.io^
 ||pusher.com^
+||ingrimera.com^
+||pbrd.co^
 ||hyperlinq.user.com^
 ||kaisaimy.net^
 ||app.five9.com^
@@ -95,6 +113,8 @@ $removeparam=originalreferer
 ||papi.walkme.com^
 ||thankful.ai^
 ||salesforceliveagent.com^
+||recommendation-hybrid.wpdigital.net^
+||recommendation-newsletter.wpdigital.net^
 ||service.force.com^
 ||apigtw.srvcta.com^
 ||cafemedia-com.videoplayerhub.com^
@@ -136,6 +156,8 @@ $removeparam=originalreferer
 ||afterpay.com^
 ||opinew.cloud^
 ||opinew.com^
+||9live.club^
+||apps.rokt.com^
 ||app.secureprivacy.ai^
 ||acsbapp.com^
 ||a.klaviyo.com^
@@ -292,11 +314,6 @@ $removeparam=originalreferer
 ||rneroftheparlor.com^
 ||vmrcommunications.com^
 ||cmp.quantcast.com^
-||medallia.com^$third-party
-||appleid.cdn-apple.com^$3p
-||login.live.com^$3p
-||login.microsoftonline.com^$3p
-||momagic.com^$third-party
 ||corover.ai^
 ||truenotify.co.in^
 ||getgoogletagmanager.com^
@@ -365,6 +382,7 @@ $removeparam=originalreferer
 ||ponos.zeronaught.com^
 ||microapps.bigcommerce.com^
 ||arttrk.com^
+||analytics.trinikid.com^
 ||app.electricsms.com^
 ||emotivecdn.io^
 ||app.simple-affiliate.com^
@@ -414,6 +432,14 @@ $removeparam=originalreferer
 ||steadfastseat.com^
 ||quantumdex.io^
 ||id.sharedid.org^
+||yotpo.com^$3p
+||dynamics.com^$3p
+||medallia.com^$3p
+||appleid.cdn-apple.com^$3p
+||login.live.com^$3p
+||login.microsoftonline.com^$3p
+||momagic.com^$3p
+@@||d2gdx5nv84sdx2.cloudfront.net^
 @@||24hoursuptodatecdn.net^
 @@||affiliate.ledger.com^
 @@||go2app.org^
@@ -478,6 +504,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/measurement
 /qualtrics
 /custom-newsletter
 /sentry
@@ -488,7 +515,6 @@ $removeparam=originalreferer
 /advertising
 /showads
 /tracker
-/c.rollBarEntry
 /product_offers
 /marketing_campaigns
 /generate_204
@@ -497,6 +523,7 @@ $removeparam=originalreferer
 /feedback
 /stat
 /api/stats
+/web-js-telemetry-service
 /event
 /shop_events
 /ads-beacon
@@ -506,6 +533,7 @@ $removeparam=originalreferer
 /dwell-log
 /snowday
 /leaky-paywall
+/c.rollBarEntry
 /blast.js
 /?experiment
 /experiment
@@ -604,7 +632,6 @@ www.fix.com##.modal-body
 www.fix.com##.in.fade.modal-backdrop
 connect.recsports.vt.edu###gdpr-cookie-message
 www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
-||analytics.trinikid.com^
 www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
 www.netgear.com###container > div.modal-group > .active.custom-modal-bg
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
@@ -745,8 +772,6 @@ www.rentcafe.com##picture
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 careerkarma.com##.design1.wmpci-popup-wrp.splash
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
-||recommendation-hybrid.wpdigital.net^
-||recommendation-newsletter.wpdigital.net^
 www.berkeleywellness.com##.lazy.adbox
 www.laweekly.com##.sponsor-wrap
 steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
@@ -810,8 +835,6 @@ www.theatlantic.com###paywall
 www.theatlantic.com##.BottomLeaflets_root__RjVTY
 www.medpagetoday.com##.leaderboard-region
 www.medpagetoday.com###right-rail-frame
-||staging.api.telemetry.watchabc.go.com^
-||cdn1.edgedatg.com/aws/apps/datg/web-js-telemetry-service/1.0.0.6/production/js/datgts.js$script
 secure.bankofamerica.com##.cardlytics-transaction-offer
 fast.com##.help-container
 daily.jstor.org##.footer-widget
@@ -961,7 +984,6 @@ cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
 app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
-||id.nbc.com^
 starwars.fandom.com###WikiaBar
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
 www.chegg.com##.CallToAction__CTAWrapper-sc-ieaghs-3
@@ -994,7 +1016,6 @@ cryptonews.com##.cookieConsentWrapper
 cryptonews.com##.mb-40.d-lg-block.d-none.dslot
 cryptonews.com###widget_container
 imgur.com##.masthead.BannerTop3
-||aptrinsic.com^
 www.docsity.com##.dsy-advertising
 www.banklesstimes.com##.tipi-xs-0.rotatable.secondary-navigation
 www.banklesstimes.com##.tipi-xs-0.sb-with-border.tipi-col.tipi-l-4.tipi-xs-12.sb-wrap-skin-1.sidebar-wrap.clearfix.block
@@ -1142,7 +1163,6 @@ finance.yahoo.com##.LREC-status-ok
 finance.yahoo.com##[href^="https://finance.yahoo.com/premium-marketing"]
 coinquora.com##.coinq-widget.widget
 coinquora.com##.py-1.coins-stream
-||rapidzebra.io^
 blog.horizen.io##.widget_custom_html.widget.widget_text
 finviz.com##.modal-elite-ad
 trading-education.com##.news-card__header-btn
@@ -1150,8 +1170,6 @@ trading-education.com##.news-video-list.no-padding.col-lg-4.col-md-4.col-sm-12.c
 laptopsdeals.net##.sgpb-popup-overlay.sgpb-popup-overlay
 laptopsdeals.net##.sgpb-popup-dialog-main-div-wrapper
 www.lmaxdigital.com###lmax-cookie-bar
-||block.lmaxdigital.io^
-||min-api.cryptocompare.com^
 www.lawinsider.com##.padding-1.light-blue-bordered-card
 www.coindesk.com##.newsletter-module-wrapper
 www.coindesk.com##.false.article-com-wrapper
@@ -1404,7 +1422,6 @@ walletinvestor.com##.etheal-text
 walletinvestor.com##.homepage-text
 walletinvestor.com##[href^="https://premium.walletinvestor.com/"]
 ||walletinvestor.com/static/frontend/images/nys/1920x150$subdocument
-||medium-widget-api.pixelpoint.io^
 capital.com##.shares
 ||bitcoinist.com/cryptocom-iframe.html$subdocument
 bitcoinist.com##.text-banner
@@ -1467,7 +1484,6 @@ neilpatel.com##.widget-analyzer
 www.thejakartapost.com##.ads-large-leaderboard
 www.thejakartapost.com##.ad-v-box
 developers.facebook.com###devsite_dock
-@@||d2gdx5nv84sdx2.cloudfront.net^
 www.tronweekly.com##.widget_media_image
 fontawesome.com##.wrap-ad
 blockchair.com##.page-address__promo
@@ -1593,8 +1609,6 @@ www.theblockcrypto.com##article.feedCard:nth-of-type(1)
 www.theblockcrypto.com##.daily.feedCard
 www.ncbi.nlm.nih.gov##.custom-feedback-button--base
 www.crunchbase.com##.native-magic-side
-||ingrimera.com^
-||pbrd.co^
 www.theguardian.com##.css-9aekbr
 www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
@@ -1639,18 +1653,10 @@ decrypt.co##.pfVfn
 decrypt.co##.gJejSD
 decrypt.co##.fqsKrT
 decrypt.co##.mt-8
-||edge.marker.io^
-||app.octaneai.com^
-||social-login.oxiapps.com^
-||wurfl.io^
-||patientpop.com^
 projects.fivethirtyeight.com###ad
 www.snopes.com##.banner_ad_between_sections
 www.snopes.com##.become_member_section
 www.realclearpolitics.com###distro_right_rail
-||tracker.123tv.live^
-||9live.club^
-||apps.rokt.com^
 ||ups.com^$removeparam=SourceCode
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
@@ -1745,12 +1751,6 @@ cointelegraph.com##.layout__header.header-zone > .container
 cointelegraph.com##.ad-slot_NjPAE
 https://cointelegraph.com/adsense/ads.js
 ||zoa.cointelegraph.com^
-||dynamics.com^$3p
-||app-sj06.marketo.com^
-||mktdplp102cdn.azureedge.net^
-||yotpo.com^$3p
-||master-shopify-tracker.s3.amazonaws.com^
-||cdn.richpanel.com^
 quizlet.com##.site > .HurricaneBannerWrapper
 quizlet.com##.SignupWallInline-overlay
 quizlet.com###SetPageSidebarAdz
