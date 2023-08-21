@@ -504,6 +504,9 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/cookieTemplate
+/graph
+/ab_tests
 /get-cookie
 /measurement
 /qualtrics
@@ -658,7 +661,6 @@ www.mercedescla.org###welcome_back
 tinder.com##.C\(\$c-secondary\).Bgc\(\#fff\).B\(0\).Bxsh\(\$bxsh-4-way-spread\).Z\(2\).End\(0\).Start\(0\).Pos\(f\)
 www.barrons.com###webui-read-next > div
 www.marketwatch.com###circular-widget
-www.glassdoor.com###InlineLoginModule
 blog.automox.com##.get-started-bottom
 www.pirateproxy-bay.com##.hidden-except-country.nord-message__wrap
 www.retailmenot.com##.dMSMYo.ModalDealFinderCallOut__DealFinderCallOut-sc-1z0bb58-0
@@ -2179,3 +2181,5 @@ www.techtarget.com##.cluster-branding-container
 bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
 gagarin.news##.cookie_1ZGqW
 www.tennisworldusa.org##.top_container > div:nth-of-type(1)
+www.paypal.com###customer_satisfaction_survey
+www.paypal.com###ccpaCookieBanner
