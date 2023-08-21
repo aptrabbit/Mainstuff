@@ -504,6 +504,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/get-cookie
 /measurement
 /qualtrics
 /custom-newsletter
@@ -538,6 +539,7 @@ $removeparam=originalreferer
 /?experiment
 /experiment
 /marketingIntents
+/mone
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
