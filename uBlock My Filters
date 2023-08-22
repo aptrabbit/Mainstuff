@@ -76,6 +76,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||cdn.dashhudson.com^
 ||medium-widget-api.pixelpoint.io^
 ||app-sj06.marketo.com^
 ||mktdplp102cdn.azureedge.net^
