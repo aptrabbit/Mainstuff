@@ -1,4 +1,4 @@
-Last modified: 21 August 2023
+Last modified: 22 August 2023
 
 $removeparam=iId
 $removeparam=clid
@@ -544,8 +544,12 @@ $removeparam=originalreferer
 /experiment
 /marketingIntents
 /mone
+/adsjs
+/adscript
+/adsPrebid
 /abuse_reports
 /ac-analytics
+/sd_site_alert
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
@@ -2137,6 +2141,7 @@ www.mayoclinic.org###leftNavigation
 www.mayoclinic.org##.mayoad
 www.mayoclinic.org##.myc-subscription-form
 movie-web.app##.max-w-xs
+movie-web.app##.p-1.justify-center.items-center.flex.text-white
 www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
 www.besthealthmag.ca###cmu_right_rail_widget-3
