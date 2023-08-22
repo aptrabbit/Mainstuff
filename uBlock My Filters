@@ -504,6 +504,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/analytics
 /cookieTemplate
 /graph
 /ab_tests
@@ -543,6 +544,8 @@ $removeparam=originalreferer
 /experiment
 /marketingIntents
 /mone
+/abuse_reports
+/ac-analytics
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
@@ -1493,7 +1496,6 @@ fontawesome.com##.wrap-ad
 blockchair.com##.page-address__promo
 blockchair.com##.top-buttons--right
 blockchair.com##.lh-auto
-www.paypal.com###feedback-survey
 twiends.com##.cvs
 smallseotools.com##.pro_icon
 www.searchenginejournal.com##.sej-hello-bar
@@ -1620,7 +1622,6 @@ www.coingecko.com###geckoFloat
 www.nerdwallet.com###reg-modal-wrapper
 check-host.net##div.athold11wr
 fortune.com###Leaderboard0
-www.paypal.com##.inv-feedback
 news.bitcoin.com##.custom-html-widget
 news.bitcoin.com##.sticky-down.bn_desktop_widgets 
 www.bitcoin.com###bitcoincom-wgt-footer
@@ -2181,5 +2182,7 @@ www.techtarget.com##.cluster-branding-container
 bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
 gagarin.news##.cookie_1ZGqW
 www.tennisworldusa.org##.top_container > div:nth-of-type(1)
+www.paypal.com###feedback-survey
+www.paypal.com##.inv-feedback
 www.paypal.com###customer_satisfaction_survey
 www.paypal.com###ccpaCookieBanner
