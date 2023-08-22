@@ -558,6 +558,7 @@ $removeparam=originalreferer
 /abuse_reports
 /ac-analytics
 /sd_site_alert
+/nostats
 /yahoo-dom-event
 /payments-portal-log
 /prime-presentation-metrics
