@@ -76,6 +76,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||g594253006.co^
 ||cdn.dashhudson.com^
 ||medium-widget-api.pixelpoint.io^
 ||app-sj06.marketo.com^
@@ -433,6 +434,7 @@ $removeparam=originalreferer
 ||steadfastseat.com^
 ||quantumdex.io^
 ||id.sharedid.org^
+||www.g2.com^$3p
 ||yotpo.com^$3p
 ||dynamics.com^$3p
 ||medallia.com^$3p
@@ -505,12 +507,15 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
-/analytics
+/activity
+/js-cookie
+/cookie-consent
 /cookieTemplate
 /graph
 /ab_tests
 /get-cookie
 /measurement
+/analytics
 /qualtrics
 /custom-newsletter
 /sentry
@@ -526,6 +531,7 @@ $removeparam=originalreferer
 /generate_204
 /ping
 /pings
+/feedback-link
 /feedback
 /stat
 /api/stats
@@ -566,7 +572,6 @@ https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
 https://cdn2.editmysite.com/js/site/footerSignup.js
 https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js
 https://script.wikia.nocookie.net/fandom-ae-assets/identity-service/
-https://www.amazon.com/af/feedback-link
 https://mssdk.us.tiktok.com/web/common?msToken
 https://no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
@@ -574,7 +579,6 @@ https://trck.pix.twitch.prod-na.turntable.sonic.advertising
 https://www.gstatic.com/firebasejs/
 https://recaptcha.net/recaptcha/api2/webworker
 https://cdn.cookielaw.org/opt-out/
-https://cdn.jsdelivr.net/npm/js-cookie
 https://app-measurement.com/sdk-exp$important
 ||js.driftt.com/deploy/assets/index.html$subdocument
 ||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
