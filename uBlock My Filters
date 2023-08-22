@@ -257,7 +257,6 @@ $removeparam=originalreferer
 ||perfectapps.io^
 ||cdn1.judge.me^
 ||player.stats.live-video.net^
-||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 ||flavedo.io^
 ||kmsmep.com^
 ||api.statsig.com^
@@ -560,6 +559,9 @@ $removeparam=originalreferer
 /ac-analytics
 /sd_site_alert
 /yahoo-dom-event
+/payments-portal-log
+/prime-presentation-metrics
+/redirect.prod.experiment.routing
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
