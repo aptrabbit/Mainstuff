@@ -76,6 +76,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||pelcro.com^
 ||g594253006.co^
 ||cdn.dashhudson.com^
 ||medium-widget-api.pixelpoint.io^
@@ -557,6 +558,7 @@ $removeparam=originalreferer
 /abuse_reports
 /ac-analytics
 /sd_site_alert
+/yahoo-dom-event
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
