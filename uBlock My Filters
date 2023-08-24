@@ -1,5 +1,6 @@
 Last modified: 22 August 2023
 
+$removeparam=queryly
 $removeparam=iId
 $removeparam=clid
 $removeparam=sca_esv
@@ -76,6 +77,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||related.queryly.com^
 ||surecatch.co^
 ||pelcro.com^
 ||g594253006.co^
@@ -510,13 +512,13 @@ $removeparam=originalreferer
 ||id-shop.govx.com^
 /activity
 /js-cookie
+/jserror
 /cookie-consent
 /cookieTemplate
 /graph
 /ab_tests
 /get-cookie
 /measurement
-/analytics
 /qualtrics
 /custom-newsletter
 /sentry
@@ -2202,3 +2204,5 @@ www.paypal.com###feedback-survey
 www.paypal.com##.inv-feedback
 www.paypal.com###customer_satisfaction_survey
 www.paypal.com###ccpaCookieBanner
+www.comingsoon.net##.wp-block-buttons
+www.salary.com##.sovrn-ads
