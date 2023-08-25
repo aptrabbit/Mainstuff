@@ -1,5 +1,18 @@
 Last modified: 25 August 2023
 
+$removeparam=staging
+$removeparam=ptb
+$removeparam=varID
+$removeparam=uuid
+$removeparam=machine
+$removeparam=days_since_install
+$removeparam=x-prodcode
+$removeparam=x-action
+$removeparam=x-source
+$removeparam=x-token_secret
+$removeparam=MB4Windows
+$removeparam=ADDITIONAL_x-source
+$removeparam=affiliate
 $removeparam=queryly
 $removeparam=_osource
 $removeparam=iId
@@ -17,6 +30,7 @@ $removeparam=pasID
 $removeparam=shpxid
 $removeparam=_ss
 $removeparam=_pos
+$removeparam=varid
 $removeparam=sid
 $removeparam=_sid
 $removeparam=icid
@@ -78,6 +92,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||ingress.herokuapp.com^
 ||related.queryly.com^
 ||surecatch.co^
 ||pelcro.com^
@@ -568,6 +583,7 @@ $removeparam=originalreferer
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
+reporting-api.herokuapp.com/api
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
@@ -2209,3 +2225,5 @@ www.paypal.com###customer_satisfaction_survey
 www.paypal.com###ccpaCookieBanner
 www.comingsoon.net##.wp-block-buttons
 www.salary.com##.sovrn-ads
+www.codespot.org##.article-template-module--wrapperMostPopular--3gB9t
+||www.malwarebytes.com^$removeparam=version
