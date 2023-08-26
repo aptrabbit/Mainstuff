@@ -1,4 +1,4 @@
-Last modified: 25 August 2023
+Last modified: 26 August 2023
 
 $removeparam=staging
 $removeparam=ptb
@@ -526,6 +526,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/newsletter
 /activity
 /js-cookie
 /jserror
@@ -612,6 +613,7 @@ https://app-measurement.com/sdk-exp$important
 ||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
 ||heimdalsecurity.com/blog/wp-content/plugins/layered-popups/images/default/city.jpg$image
 en.wikipedia.org##.vector-limited-width-popup
+en.wikipedia.org##.cn-fundraising
 www.coinbase.com##.kuposl
 www.coinbase.com#@#[class*="cds-fixed-"]
 www.tiktok.com##.eyt76ed0
