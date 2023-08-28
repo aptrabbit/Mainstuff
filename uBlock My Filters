@@ -92,6 +92,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||ipify.org^
 ||app.govoto.com^
 ||trafficcatch.com^
 ||beliefnet.com^
