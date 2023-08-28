@@ -1,4 +1,4 @@
-Last modified: 26 August 2023
+Last modified: 28 August 2023
 
 $removeparam=staging
 $removeparam=ptb
@@ -92,6 +92,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||beliefnet.com^
+||sopixs.com^
+||sprtnd.com^
 ||ingress.herokuapp.com^
 ||related.queryly.com^
 ||surecatch.co^
@@ -526,6 +529,9 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/insights
+/geoip
+/donations
 /newsletter
 /activity
 /js-cookie
@@ -580,7 +586,10 @@ $removeparam=originalreferer
 /nostats
 /wp-terms-popup
 /wp-popups-lite
+/rpc:shindig
 /yahoo-dom-event
+/ay-ad-loader
+/?p=bidoptimization
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
@@ -589,7 +598,6 @@ https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
 https://www.bing.com/bnc/notifications/
-nextjs.org/_vercel/insights
 https://vercel.com/status-api
 https://bhqwplay.xyz/t.cdnhks.lol/cdn.js
 https://qwebplay.xyz/t.cdnhks.lol/
@@ -2229,3 +2237,5 @@ www.comingsoon.net##.wp-block-buttons
 www.salary.com##.sovrn-ads
 www.codespot.org##.article-template-module--wrapperMostPopular--3gB9t
 ||www.malwarebytes.com^$removeparam=version
+www.ktbs.com##div.col-md-12
+streamable.com##.top-ad-banner
