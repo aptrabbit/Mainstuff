@@ -529,11 +529,14 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/getOffer
+/affiliate-product
 /insights
 /geoip
 /donations
 /newsletter
 /activity
+/js.cookie
 /js-cookie
 /jserror
 /cookie-consent
@@ -548,9 +551,11 @@ $removeparam=originalreferer
 /w3-report
 /cookie-popup
 /consent
+/displayAds
 /ads
 /advertising
 /showads
+/lozad
 /tracker
 /product_offers
 /marketing_campaigns
@@ -586,6 +591,7 @@ $removeparam=originalreferer
 /nostats
 /wp-terms-popup
 /wp-popups-lite
+/fixSpecialAd
 /rpc:shindig
 /yahoo-dom-event
 /ay-ad-loader
@@ -2240,3 +2246,6 @@ www.codespot.org##.article-template-module--wrapperMostPopular--3gB9t
 ||www.malwarebytes.com^$removeparam=version
 www.ktbs.com##div.col-md-12
 streamable.com##.top-ad-banner
+www.livemint.com###rhsPopularVideosNotAdFree
+www.livemint.com##.story4.rightBlock
+www.livemint.com##.premiumSlider
