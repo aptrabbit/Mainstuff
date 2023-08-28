@@ -531,6 +531,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/collect
 /getOffer
 /affiliate-product
 /insights
@@ -551,6 +552,7 @@ $removeparam=originalreferer
 /custom-newsletter
 /sentry
 /w3-report
+/popup-subscribe
 /cookie-popup
 /consent
 /displayAds
@@ -594,6 +596,8 @@ $removeparam=originalreferer
 /wp-terms-popup
 /wp-popups-lite
 /fixSpecialAd
+=checkOrigin
+=get_user_info_data
 /rpc:shindig
 /yahoo-dom-event
 /ay-ad-loader
