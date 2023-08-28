@@ -92,6 +92,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||fundraiseup.com^
+||partners.bebee.com^
 ||ipify.org^
 ||app.govoto.com^
 ||trafficcatch.com^
@@ -532,6 +534,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/ABTest
 /marketingsites
 /alerts
 /collect
