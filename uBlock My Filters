@@ -534,9 +534,9 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/customer-notifications
 /ABTest
 /marketingsites
-/alerts
 /collect
 /getOffer
 /affiliate-product
@@ -615,7 +615,6 @@ reporting-api.herokuapp.com/api
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
 https://pc-quiz.s3
-https://www.bing.com/bnc/notifications/
 https://vercel.com/status-api
 https://bhqwplay.xyz/t.cdnhks.lol/cdn.js
 https://qwebplay.xyz/t.cdnhks.lol/
@@ -2261,3 +2260,4 @@ streamable.com##.top-ad-banner
 www.livemint.com###rhsPopularVideosNotAdFree
 www.livemint.com##.story4.rightBlock
 www.livemint.com##.premiumSlider
+beincrypto.com##.error
