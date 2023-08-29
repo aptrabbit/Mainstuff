@@ -92,6 +92,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||byteigtm.com^
 ||fundraiseup.com^
 ||partners.bebee.com^
 ||ipify.org^
@@ -534,6 +535,13 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/analytics
+/recommend
+/prebid
+/event
+/mod-events
+/gif?events
+/web-privacy
 /customer-notifications
 /ABTest
 /marketingsites
@@ -577,7 +585,6 @@ $removeparam=originalreferer
 /stat
 /api/stats
 /web-js-telemetry-service
-/event
 /shop_events
 /ads-beacon
 /log
@@ -595,10 +602,12 @@ $removeparam=originalreferer
 /adsjs
 /adscript
 /adsPrebid
+/mol-adverts
 /abuse_reports
 /ac-analytics
 /sd_site_alert
 /nostats
+/mol-fe-paywall
 /wp-terms-popup
 /wp-popups-lite
 /fixSpecialAd
@@ -2261,3 +2270,4 @@ www.livemint.com###rhsPopularVideosNotAdFree
 www.livemint.com##.story4.rightBlock
 www.livemint.com##.premiumSlider
 beincrypto.com##.error
+www.consumerlab.com##.reactions
