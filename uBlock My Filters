@@ -536,6 +536,7 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/adblock
 /bug-snag
 /intromercial
 /analytics
@@ -624,6 +625,7 @@ $removeparam=originalreferer
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
+?_=e3
 reporting-api.herokuapp.com/api
 https://xp2023-pix.s3.amazonaws.com
 https://www.twitch.tv/embed/
@@ -2018,6 +2020,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||wfyhgqkqoyfsbm.com^
 ||cjogbbmrgrgscp.com^
 ||nvbqvmdvgotlubn.com^
+||cktynfnozx.com^
 ||bdiqtyyhg.com^
 ||abazelfan.com^
 ||xduenseggx.com^
@@ -2035,6 +2038,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||rlivhtenqapsew.com^
 ||qyowjhyyckraps.com^
 ||aezgnctgfqn.com^
+||szolraegara.com^
 ||fmgcdgnousrww.com^
 ||fzfqjmjrrnex.com^
 ||ggqygkaunot.com^
