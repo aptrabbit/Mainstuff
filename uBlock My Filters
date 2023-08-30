@@ -92,6 +92,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||illow.io^
 ||byteigtm.com^
 ||fundraiseup.com^
 ||partners.bebee.com^
@@ -535,9 +536,10 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/bug-snag
+/intromercial
 /analytics
 /prebid
-/event
 /mod-events
 /gif?events
 /web-privacy
@@ -607,6 +609,9 @@ $removeparam=originalreferer
 /sd_site_alert
 /nostats
 /mol-fe-paywall
+/wp-parsely
+/wix-code-telemetry
+/wix-perf-measure
 /wp-terms-popup
 /wp-popups-lite
 /fixSpecialAd
@@ -1350,9 +1355,9 @@ seekingalpha.com###news-left-slot-1
 seekingalpha.com###article-left-slot-2
 seekingalpha.com##.in.fade.modal-backdrop
 seekingalpha.com###krux-container
-seekingalpha.com##section[data-test-id="recommended-section"]
-seekingalpha.com##[data-test-id="ad-slot-list"]
-seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-test-id="grid-container"])
+seekingalpha.com##section[data-testid="recommended-section"]
+seekingalpha.com##[data-testid="ad-slot-list"]
+seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-testid="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
@@ -2270,3 +2275,7 @@ www.livemint.com##.story4.rightBlock
 www.livemint.com##.premiumSlider
 beincrypto.com##.error
 www.consumerlab.com##.reactions
+hbr.org##.article-utils--vertical
+hbr.org##.article-utils--horizontal
+theintercept.com##.xl\:contents
+www.miamitimesonline.com###blox-message-incompatible
