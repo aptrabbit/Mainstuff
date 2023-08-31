@@ -558,8 +558,11 @@ $removeparam=originalreferer
 /js.cookie
 /js-cookie
 /jserror
+/cookies/manager
 /cookie-consent
 /cookieTemplate
+/cookie-popup
+/consent
 /graph
 /ab_tests
 /get-cookie
@@ -569,8 +572,6 @@ $removeparam=originalreferer
 /sentry
 /w3-report
 /popup-subscribe
-/cookie-popup
-/consent
 /displayAds
 /ads
 /advertising
@@ -2283,3 +2284,4 @@ hbr.org##.article-utils--vertical
 hbr.org##.article-utils--horizontal
 theintercept.com##.xl\:contents
 www.miamitimesonline.com###blox-message-incompatible
+www.muscleandstrength.com##quote
