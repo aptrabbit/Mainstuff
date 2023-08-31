@@ -1,4 +1,4 @@
-Last modified: 28 August 2023
+Last modified: 31 August 2023
 
 $removeparam=staging
 $removeparam=ptb
@@ -92,6 +92,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||o18393.ingest.sentry.io^
+||reporting.cdndex.io^
+||play.googleapis.com^
 ||illow.io^
 ||byteigtm.com^
 ||fundraiseup.com^
