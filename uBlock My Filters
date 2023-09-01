@@ -1,4 +1,4 @@
-Last modified: 31 August 2023
+Last modified: 01 September 2023
 
 $removeparam=staging
 $removeparam=ptb
@@ -539,6 +539,12 @@ $removeparam=originalreferer
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/age-gate
+/pubmatic
+/displayAds
+/ads
+/advertising
+/showads
 /adblock
 /bug-snag
 /intromercial
@@ -550,7 +556,6 @@ $removeparam=originalreferer
 /customer-notifications
 /ABTest
 /marketingsites
-/collect
 /getOffer
 /affiliate-product
 /insights
@@ -575,10 +580,6 @@ $removeparam=originalreferer
 /sentry
 /w3-report
 /popup-subscribe
-/displayAds
-/ads
-/advertising
-/showads
 /lozad
 /tracker
 /product_offers
@@ -2288,3 +2289,4 @@ hbr.org##.article-utils--horizontal
 theintercept.com##.xl\:contents
 www.miamitimesonline.com###blox-message-incompatible
 www.muscleandstrength.com##quote
+www.prnewswire.com##.btn-fab
