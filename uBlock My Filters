@@ -1,5 +1,16 @@
-Last modified: 01 September 2023
+Last modified: 03 September 2023
 
+$removeparam=msToken
+$removeparam=tz_name
+$removeparam=permissionList
+$removeparam=history_len
+$removeparam=os
+$removeparam=device_id
+$removeparam=browser_platform
+$removeparam=browser_version
+$removeparam=browser_name
+$removeparam=referer_video_id
+$removeparam=amp
 $removeparam=staging
 $removeparam=ptb
 $removeparam=varID
@@ -92,6 +103,9 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||plu.mx^
+||avaamo.com^
+||user1st.info^
 ||o18393.ingest.sentry.io^
 ||reporting.cdndex.io^
 ||play.googleapis.com^
@@ -633,7 +647,6 @@ $removeparam=originalreferer
 ?_=e3
 reporting-api.herokuapp.com/api
 https://xp2023-pix.s3.amazonaws.com
-https://www.twitch.tv/embed/
 https://pc-quiz.s3
 https://vercel.com/status-api
 https://bhqwplay.xyz/t.cdnhks.lol/cdn.js
@@ -645,7 +658,6 @@ https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
 https://cdn2.editmysite.com/js/site/footerSignup.js
 https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js
 https://script.wikia.nocookie.net/fandom-ae-assets/identity-service/
-https://mssdk.us.tiktok.com/web/common?msToken
 https://no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
 https://trck.pix.twitch.prod-na.turntable.sonic.advertising
@@ -662,6 +674,8 @@ en.wikipedia.org##.cn-fundraising
 www.coinbase.com##.kuposl
 www.coinbase.com#@#[class*="cds-fixed-"]
 www.tiktok.com##.eyt76ed0
+https://www.tiktok.com/passport/web/account/info/
+https://mssdk.us.tiktok.com/web/common?msToken
 www.urbandictionary.com###leaderboard
 www.urbandictionary.com##.flex.mb-8 > div
 play.xumo.com##.privacyConsent
@@ -2290,3 +2304,4 @@ theintercept.com##.xl\:contents
 www.miamitimesonline.com###blox-message-incompatible
 www.muscleandstrength.com##quote
 www.prnewswire.com##.btn-fab
+www.prnewswire.com##.newsletterSignupWidget
