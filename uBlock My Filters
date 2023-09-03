@@ -1,5 +1,9 @@
 Last modified: 03 September 2023
 
+$removeparam=k
+$removeparam=co
+$removeparam=v
+$removeparam=cb
 $removeparam=msToken
 $removeparam=tz_name
 $removeparam=permissionList
@@ -103,6 +107,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 $removeparam=originalreferer
+||pagesix.com^
 ||plu.mx^
 ||avaamo.com^
 ||user1st.info^
@@ -624,6 +629,7 @@ $removeparam=originalreferer
 /adscript
 /adsPrebid
 /mol-adverts
+/zephr
 /abuse_reports
 /ac-analytics
 /sd_site_alert
