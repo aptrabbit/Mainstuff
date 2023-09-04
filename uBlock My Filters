@@ -1,8 +1,17 @@
 Last modified: 03 September 2023
 
+$removeparam=_signature
+$removeparam=aid
+$removeparam=X-Bogus
+$removeparam=screen_width
+$removeparam=screen_height
+$removeparam=root_referer
+$removeparam=referer
+$removeparam=originalreferer
+$removeparam=referer_video_id
+$removeparam=dest
 $removeparam=k
 $removeparam=co
-$removeparam=v
 $removeparam=cb
 $removeparam=msToken
 $removeparam=tz_name
@@ -13,7 +22,6 @@ $removeparam=device_id
 $removeparam=browser_platform
 $removeparam=browser_version
 $removeparam=browser_name
-$removeparam=referer_video_id
 $removeparam=amp
 $removeparam=staging
 $removeparam=ptb
@@ -106,7 +114,6 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
-$removeparam=originalreferer
 ||pagesix.com^
 ||plu.mx^
 ||avaamo.com^
@@ -502,6 +509,8 @@ $removeparam=originalreferer
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||cdn.segment.com^$important
+||connect.facebook.net^$important
 ||forter.com^$important
 ||js.monitor.azure.com^$important
 ||siteintercept.qualtrics.com^$important
@@ -597,6 +606,7 @@ $removeparam=originalreferer
 /qualtrics
 /custom-newsletter
 /sentry
+?sentry
 /w3-report
 /popup-subscribe
 /lozad
