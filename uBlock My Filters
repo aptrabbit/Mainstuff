@@ -1860,6 +1860,7 @@ https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 /shreddit-sidebar-ad
 /redditads
+||www.reddit.com^$removeparam=source
 ||www.reddit.com^$removeparam=rdt
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
