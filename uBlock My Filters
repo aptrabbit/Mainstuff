@@ -1,5 +1,6 @@
-Last modified: 03 September 2023
+Last modified: 05 September 2023
 
+$removeparam=aff
 $removeparam=_signature
 $removeparam=aid
 $removeparam=X-Bogus
@@ -114,6 +115,9 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||featuregates.org^
+||getkoala.com^
+||koala.live^
 ||pagesix.com^
 ||plu.mx^
 ||avaamo.com^
@@ -509,6 +513,7 @@ $removeparam=visitToken
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||evidon.com^$important
 ||cdn.segment.com^$important
 ||connect.facebook.net^$important
 ||forter.com^$important
@@ -567,6 +572,9 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/metrics
+/eventclick
+/_events
 /age-gate
 /pubmatic
 /displayAds
@@ -638,6 +646,8 @@ $removeparam=visitToken
 /adsjs
 /adscript
 /adsPrebid
+/koala
+/datadog
 /mol-adverts
 /zephr
 /abuse_reports
@@ -662,6 +672,7 @@ $removeparam=visitToken
 /redirect.prod.experiment.routing
 ?_=e3
 reporting-api.herokuapp.com/api
+https://app.simplelogin.io/p/api/event
 https://xp2023-pix.s3.amazonaws.com
 https://pc-quiz.s3
 https://vercel.com/status-api
