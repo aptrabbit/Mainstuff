@@ -1,5 +1,6 @@
-Last modified: 05 September 2023
+Last modified: 06 September 2023
 
+$removeparam=si
 $removeparam=aff
 $removeparam=_signature
 $removeparam=aid
@@ -11,8 +12,6 @@ $removeparam=referer
 $removeparam=originalreferer
 $removeparam=referer_video_id
 $removeparam=dest
-$removeparam=k
-$removeparam=co
 $removeparam=cb
 $removeparam=msToken
 $removeparam=tz_name
@@ -115,6 +114,9 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||cdn.wazimo.com^
+||personizely.net^
+||ablestar.app^
 ||featuregates.org^
 ||getkoala.com^
 ||koala.live^
@@ -254,7 +256,6 @@ $removeparam=visitToken
 ||prod.pyxis.atp.fox^
 ||metadata.provider.plex.tv^
 ||bazaarvoice.com^
-||decider.com^
 ||esnchocco.com^
 ||cometlytrack.com^
 ||analytics.talentegy.com^
@@ -572,6 +573,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/gdpr
 /metrics
 /eventclick
 /_events
@@ -2026,6 +2028,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||ofbgqtkl.xyz^
 ||onyyqqojuy.xyz^
 ||vgeucforjo.xyz^
+||eeawxxrwlae.xyz^
 ||dtfpojexbory.xyz^
 ||kqyywvok.xyz^
 ||nbidqsoy.xyz^
