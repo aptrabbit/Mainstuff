@@ -1,4 +1,4 @@
-Last modified: 06 September 2023
+Last modified: 07 September 2023
 
 $removeparam=si
 $removeparam=aff
@@ -124,7 +124,6 @@ $removeparam=visitToken
 ||plu.mx^
 ||avaamo.com^
 ||user1st.info^
-||o18393.ingest.sentry.io^
 ||reporting.cdndex.io^
 ||play.googleapis.com^
 ||illow.io^
@@ -144,7 +143,6 @@ $removeparam=visitToken
 ||g594253006.co^
 ||cdn.dashhudson.com^
 ||medium-widget-api.pixelpoint.io^
-||app-sj06.marketo.com^
 ||mktdplp102cdn.azureedge.net^
 ||master-shopify-tracker.s3.amazonaws.com^
 ||cdn.richpanel.com^
@@ -357,11 +355,9 @@ $removeparam=visitToken
 ||sdk.postscript.io^
 ||api.sprig.com^
 ||events.launchdarkly.com^
-||app-sj31.marketo.com^
 ||trustspot.io^
 ||api.moonpay.io^
 ||preferences.trustarc.com^
-||app-ab30.marketo.com^
 ||nxst.megpxs.com^
 ||api.condenast.io^
 ||cdn.fyrebox.com^
@@ -514,6 +510,8 @@ $removeparam=visitToken
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
+||sentry.io^$important
+||marketo.com^$important
 ||evidon.com^$important
 ||cdn.segment.com^$important
 ||connect.facebook.net^$important
@@ -573,8 +571,9 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
-/careers-analytics
+/referral
 /gdpr
+/cookie-echo
 /metrics
 /eventclick
 /_events
@@ -587,6 +586,8 @@ $removeparam=visitToken
 /adblock
 /bug-snag
 /intromercial
+/mktg-analytics
+/careers-analytics
 /analytics
 /prebid
 /mod-events
@@ -598,6 +599,7 @@ $removeparam=visitToken
 /getOffer
 /affiliate-product
 /insights
+/ip-lookup
 /geoip
 /donations
 /newsletter
@@ -609,6 +611,7 @@ $removeparam=visitToken
 /cookie-consent
 /cookieTemplate
 /cookie-popup
+/compliance
 /consent
 /graph
 /ab_tests
@@ -629,6 +632,7 @@ $removeparam=visitToken
 /pings
 /feedback-link
 /feedback
+/statistics
 /stat
 /api/stats
 /web-js-telemetry-service
