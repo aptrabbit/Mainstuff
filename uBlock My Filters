@@ -1,9 +1,13 @@
-Last modified: 07 September 2023
+Last modified: 09 September 2023
 
 $removeparam=si
 $removeparam=aff
 $removeparam=_signature
 $removeparam=aid
+$removeparam=dest
+$removeparam=cb
+$removeparam=msToken
+$removeparam=tz_name
 $removeparam=X-Bogus
 $removeparam=screen_width
 $removeparam=screen_height
@@ -11,10 +15,6 @@ $removeparam=root_referer
 $removeparam=referer
 $removeparam=originalreferer
 $removeparam=referer_video_id
-$removeparam=dest
-$removeparam=cb
-$removeparam=msToken
-$removeparam=tz_name
 $removeparam=permissionList
 $removeparam=history_len
 $removeparam=os
@@ -580,12 +580,14 @@ $removeparam=visitToken
 /age-gate
 /pubmatic
 /displayAds
+/google-ads
 /ads
 /advertising
 /showads
 /adblock
 /bug-snag
 /intromercial
+/nav-analytics
 /mktg-analytics
 /careers-analytics
 /analytics
@@ -638,6 +640,7 @@ $removeparam=visitToken
 /web-js-telemetry-service
 /shop_events
 /ads-beacon
+logging
 /log
 /logs
 /campaign-views
@@ -909,7 +912,6 @@ dude-hack.com##.et_pb_code_0.et_pb_code.et_pb_module.et_pb_with_border
 www.rentcafe.com##picture
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 careerkarma.com##.design1.wmpci-popup-wrp.splash
-www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
 www.berkeleywellness.com##.lazy.adbox
 www.laweekly.com##.sponsor-wrap
 steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
@@ -2224,6 +2226,8 @@ daddylivehd.sx##[href="/contact-us.php"]
 daddylivehd.sx##[href="https://discord.gg/vwEucnFza6"]
 daddylivehd.sx##[href="https://t.me/daddyhd"]
 daddylivehd.sx##[href="/qatar2022-worldcup.php"]
+https://subscribe.washingtonpost.com/offers/
+www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
 www.washingtonpost.com##.bb.b.overflow-hidden
 www.outlookindia.com##.ads
 www.outlookindia.com###coverLatest
@@ -2341,3 +2345,4 @@ www.miamitimesonline.com###blox-message-incompatible
 www.muscleandstrength.com##quote
 www.prnewswire.com##.btn-fab
 www.prnewswire.com##.newsletterSignupWidget
+www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
