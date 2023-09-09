@@ -232,7 +232,6 @@ $removeparam=visitToken
 ||resellerratings.com^
 ||yengo.com^
 ||gigya.com^
-||identitytoolkit.googleapis.com^
 ||firebaseio.com^
 ||2.bp.blogspot.com^
 ||g.ezoic.net^
@@ -243,7 +242,6 @@ $removeparam=visitToken
 ||monsterinsights.com^
 ||condatis.com^
 ||kervinteractive.com^
-||simplicity.trustpilot.com^
 ||consumersiteimages.trustpilot.net^
 ||ecommplugins-trustboxsettings.trustpilot.com^
 ||ecommplugins-scripts.trustpilot.com^
@@ -604,6 +602,7 @@ $removeparam=visitToken
 /ip-lookup
 /geoip
 /donations
+/(newsletters
 /newsletter
 /activity
 /js.cookie
@@ -1728,7 +1727,6 @@ www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
 /recaptcha/enterprise/webworker$important
-recaptcha/enterprise/reload$important
 https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
 coupons.cnet.com##.bd
@@ -2346,3 +2344,4 @@ www.muscleandstrength.com##quote
 www.prnewswire.com##.btn-fab
 www.prnewswire.com##.newsletterSignupWidget
 www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
+thedefiant.io##.items-center.mt-10.mb-20.mx-1
