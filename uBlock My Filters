@@ -1,9 +1,8 @@
-Last modified: 09 September 2023
+Last modified: 10 September 2023
 
 $removeparam=si
 $removeparam=aff
 $removeparam=_signature
-$removeparam=aid
 $removeparam=dest
 $removeparam=cb
 $removeparam=msToken
@@ -54,7 +53,6 @@ $removeparam=shpxid
 $removeparam=_ss
 $removeparam=_pos
 $removeparam=varid
-$removeparam=sid
 $removeparam=_sid
 $removeparam=icid
 $removeparam=cId
@@ -114,6 +112,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||groovehq.com^
+||mcmorrowreports.com^
 ||cdn.wazimo.com^
 ||personizely.net^
 ||ablestar.app^
@@ -2346,3 +2346,8 @@ www.prnewswire.com##.newsletterSignupWidget
 www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
 thedefiant.io##.items-center.mt-10.mb-20.mx-1
 thetvapp.to##.col-lg-8 > .pt-3
+static.twitchcdn.net/assets/pages.embed-chat
+https://icelz.newsrade.com/impression.php
+icelz.newsrade.com##.chat-window
+icelz.newsrade.com##.channel-header-fixed-buttons
+thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
