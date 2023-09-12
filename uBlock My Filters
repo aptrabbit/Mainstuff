@@ -1,5 +1,6 @@
 Last modified: 10 September 2023
 
+$removeparam=a_aid
 $removeparam=si
 $removeparam=aff
 $removeparam=_signature
@@ -2346,8 +2347,9 @@ www.prnewswire.com##.newsletterSignupWidget
 www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
 thedefiant.io##.items-center.mt-10.mb-20.mx-1
 thetvapp.to##.col-lg-8 > .pt-3
+thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
 static.twitchcdn.net/assets/pages.embed-chat
 https://icelz.newsrade.com/impression.php
 icelz.newsrade.com##.chat-window
 icelz.newsrade.com##.channel-header-fixed-buttons
-thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
+https://www.hotdeals.com/cut-port
