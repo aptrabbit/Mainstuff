@@ -1,4 +1,4 @@
-Last modified: 10 September 2023
+Last modified: 13 September 2023
 
 $removeparam=a_aid
 $removeparam=si
@@ -570,12 +570,14 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/heartbeat
 /referral
 /gdpr
 /cookie-echo
 /metrics
 /eventclick
 /_events
+/campaign_story_event
 /age-gate
 /pubmatic
 /displayAds
@@ -2237,6 +2239,7 @@ news.yahoo.com###module-spotIm
 currently.att.yahoo.com###module-spotIm
 currently.att.yahoo.com###sda-MON
 www.mskcc.org###cassie-widget
+selfdecode.com##.wt-cli-cookie-bar-container
 ||staging-drugsselfdecode.kinsta.cloud^
 supplements.selfdecode.com##.sponsored
 supplements.selfdecode.com##.sidebar-bio
@@ -2353,3 +2356,5 @@ https://icelz.newsrade.com/impression.php
 icelz.newsrade.com##.chat-window
 icelz.newsrade.com##.channel-header-fixed-buttons
 https://www.hotdeals.com/cut-port
+www.primewire.tf##.nopop.spn-btns
+www.starterstory.com##.fade.modal-backdrop
