@@ -1,5 +1,6 @@
-Last modified: 13 September 2023
+Last modified: 14 September 2023
 
+$removeparam=trk
 $removeparam=a_aid
 $removeparam=si
 $removeparam=aff
@@ -1179,6 +1180,8 @@ troypoint.com##.code-block-3.code-block
 troypoint.com###ai_widget-3
 troypoint.com##div.code-block-8.code-block
 troypoint.com##.su-box-style-.su-box
+uk.linkedin.com##.windows-app-upsell
+linkedin.com##.windows-app-upsell
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
 www.linkedin.com##.show.cta-modal
@@ -1862,6 +1865,7 @@ cryptopotato.com##.widget_text.widget
 cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
+reddit.com#@#shreddit-experience-tree
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
 https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
