@@ -114,6 +114,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||beenverified.com^
 ||groovehq.com^
 ||mcmorrowreports.com^
 ||cdn.wazimo.com^
@@ -244,7 +245,6 @@ $removeparam=visitToken
 ||monsterinsights.com^
 ||condatis.com^
 ||kervinteractive.com^
-||consumersiteimages.trustpilot.net^
 ||ecommplugins-trustboxsettings.trustpilot.com^
 ||ecommplugins-scripts.trustpilot.com^
 ||consent.truste.com^
@@ -1983,7 +1983,6 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||quicksilver.scdn.co^
 ||mosaic.scdn.co^
 ||adeventtracker.spotify.com^
-||wwwmarketing.scdn.co^
 ||tracing.spotify.com^
 ||sports24.site^
 ||cdn.salamus1.lol^
