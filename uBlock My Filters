@@ -1,4 +1,4 @@
-Last modified: 14 September 2023
+Last modified: 15 September 2023
 
 $removeparam=trk
 $removeparam=a_aid
@@ -571,20 +571,23 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/bidexchange
 /heartbeat
 /referral
-/gdpr
-/cookie-echo
 /metrics
 /eventclick
 /_events
-/campaign_story_event
 /age-gate
 /pubmatic
 /displayAds
 /google-ads
-/ads
 /advertising
+/ads
+/ads-beacon
+/adsjs
+/adscript
+/adsPrebid
+/adsense
 /showads
 /adblock
 /bug-snag
@@ -605,10 +608,12 @@ $removeparam=visitToken
 /insights
 /ip-lookup
 /geoip
+/gdpr
 /donations
 /(newsletters
 /newsletter
 /activity
+/cookie-echo
 /js.cookie
 /js-cookie
 /jserror
@@ -632,6 +637,8 @@ $removeparam=visitToken
 /tracker
 /product_offers
 /marketing_campaigns
+/campaign_story_event
+/campaign-views
 /generate_204
 /ping
 /pings
@@ -642,11 +649,9 @@ $removeparam=visitToken
 /api/stats
 /web-js-telemetry-service
 /shop_events
-/ads-beacon
-logging
+/logging
 /log
 /logs
-/campaign-views
 /dwell-log
 /snowday
 /leaky-paywall
@@ -656,9 +661,6 @@ logging
 /experiment
 /marketingIntents
 /mone
-/adsjs
-/adscript
-/adsPrebid
 /koala
 /datadog
 /mol-adverts
@@ -1729,6 +1731,7 @@ www.google.com##xe7COe
 www.google.com##.ynRric
 www.google.com##.oIk2Cb
 www.google.com##.cUnQKe
+www.google.com##.related-question-pair
 www.google.com###google-hats-survey
 www.google.com##.commercial-unit-desktop-top
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
@@ -1893,7 +1896,6 @@ cointelegraph.com##.top-100-details-card__poster
 cointelegraph.com##.top-100-people-footer_ads
 cointelegraph.com##.layout__header.header-zone > .container
 cointelegraph.com##.ad-slot_NjPAE
-https://cointelegraph.com/adsense/ads.js
 ||zoa.cointelegraph.com^
 quizlet.com##.site > .HurricaneBannerWrapper
 quizlet.com##.SignupWallInline-overlay
