@@ -1,6 +1,22 @@
-Last modified: 15 September 2023
+Last modified: 17 September 2023
 
-$removeparam=trk
+$removeparam=vet
+$removeparam=ofp
+$removeparam=psi
+$removeparam=beckyExperiments
+$removeparam=isTrackClicksAnalyticsEnabled
+$removeparam=experiments
+$removeparam=origin_address
+$removeparam=short_url
+$removeparam=module
+$removeparam=template
+$removeparam=object_uuid
+$removeparam=object_type
+$removeparam=element_label
+$removeparam=pageview_type
+$removeparam=merchant
+$removeparam=utm_xe2e
+$removeparam=scsonar
 $removeparam=a_aid
 $removeparam=si
 $removeparam=aff
@@ -571,7 +587,8 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
-/bidexchange
+/reporter
+/health-check
 /heartbeat
 /referral
 /metrics
@@ -596,6 +613,7 @@ $removeparam=visitToken
 /mktg-analytics
 /careers-analytics
 /analytics
+/bidexchange
 /prebid
 /mod-events
 /gif?events
@@ -647,6 +665,7 @@ $removeparam=visitToken
 /statistics
 /stat
 /api/stats
+/feature-telemetry
 /web-js-telemetry-service
 /shop_events
 /logging
@@ -1182,7 +1201,9 @@ troypoint.com##.code-block-3.code-block
 troypoint.com###ai_widget-3
 troypoint.com##div.code-block-8.code-block
 troypoint.com##.su-box-style-.su-box
+uk.linkedin.com##.top-level-modal-container
 uk.linkedin.com##.windows-app-upsell
+linkedin.com##.top-level-modal-container
 linkedin.com##.windows-app-upsell
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
@@ -1738,6 +1759,7 @@ www.google.com##.commercial-unit-desktop-top
 /recaptcha/enterprise/webworker$important
 https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
+||www.google.com^$removeparam=client
 coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
@@ -1977,9 +1999,9 @@ www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
-spotify.com/gabo-receiver-service/
 https://gew4-spclient.spotify.com/quicksilver/v2/triggers
 https://guc3-spclient.spotify.com/quicksilver/v2/triggers
+/gabo-receiver-service
 ||quicksilver.scdn.co^
 ||mosaic.scdn.co^
 ||adeventtracker.spotify.com^
@@ -2363,3 +2385,5 @@ icelz.newsrade.com##.channel-header-fixed-buttons
 https://www.hotdeals.com/cut-port
 www.primewire.tf##.nopop.spn-btns
 www.starterstory.com##.fade.modal-backdrop
+www.coinbureau.com##.Layout_mainCookieDiv__nf6PT
+www.cbssports.com###skybox-top-wrapper
