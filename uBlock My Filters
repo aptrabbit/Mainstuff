@@ -1,5 +1,6 @@
 Last modified: 17 September 2023
 
+$removeparam=bshm,important
 $removeparam=sca_ref
 $removeparam=cpn
 $removeparam=beids
@@ -113,7 +114,6 @@ $removeparam=discount
 $removeparam=inf_id
 $removeparam=noaccount
 $removeparam=marketing
-$removeparam=bshm
 $removeparam=fc_session_id
 $removeparam=primeCampaignId
 $removeparam=creative
@@ -134,6 +134,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||wisepops.net^
 ||track.uppromote.com^
 ||beenverified.com^
 ||groovehq.com^
@@ -592,6 +593,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/impression
 /web-pixel
 /click_tracking
 /reporter
@@ -1726,6 +1728,8 @@ support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com###google-hats-survey
 ||www.google.com^$removeparam=hl
+||www.google.com^$removeparam=v
+||www.google.com^$removeparam=k
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
@@ -2389,7 +2393,6 @@ thedefiant.io##.items-center.mt-10.mb-20.mx-1
 thetvapp.to##.col-lg-8 > .pt-3
 thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
 static.twitchcdn.net/assets/pages.embed-chat
-https://icelz.newsrade.com/impression.php
 icelz.newsrade.com##.chat-window
 icelz.newsrade.com##.channel-header-fixed-buttons
 https://www.hotdeals.com/cut-port
