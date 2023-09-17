@@ -1,5 +1,9 @@
 Last modified: 17 September 2023
 
+$removeparam=sca_ref
+$removeparam=cpn
+$removeparam=beids
+$removeparam=pot
 $removeparam=vet
 $removeparam=ofp
 $removeparam=psi
@@ -130,6 +134,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||track.uppromote.com^
 ||beenverified.com^
 ||groovehq.com^
 ||mcmorrowreports.com^
@@ -587,6 +592,8 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/web-pixel
+/click_tracking
 /reporter
 /health-check
 /heartbeat
@@ -705,7 +712,9 @@ $removeparam=visitToken
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
 ?_=e3
+pikapod.net/api/send
 reporting-api.herokuapp.com/api
+https://www.scamadviser.com/ajax/pop-ups
 https://app.simplelogin.io/p/api/event
 https://xp2023-pix.s3.amazonaws.com
 https://pc-quiz.s3
@@ -1985,6 +1994,7 @@ nordiqnutrition.com##.et_bloom_animated
 www.indeed.com##.google-Only-Modal
 ||a-z-animals.com^$removeparam=from
 ||signaler-pa.youtube.com^
+||www.youtube.com^$removeparam=v
 https://www.youtube.com/pcs/activeview
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
