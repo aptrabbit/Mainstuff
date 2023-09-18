@@ -135,6 +135,10 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||knotch-cdn.com^
+||knotch.com^
+||knotch.it^
+||decider.com^
 ||app.abconvert.io^
 ||foxkit.app^
 ||ipwho.is^
@@ -597,6 +601,8 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/nielsen
+/ingress
 /impression
 /web-pixel
 /click_tracking
