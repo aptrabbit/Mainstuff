@@ -1,5 +1,6 @@
-Last modified: 17 September 2023
+Last modified: 18 September 2023
 
+$removeparam=share_id
 $removeparam=bshm,important
 $removeparam=sca_ref
 $removeparam=cpn
@@ -134,6 +135,9 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||app.abconvert.io^
+||foxkit.app^
+||ipwho.is^
 ||wisepops.net^
 ||track.uppromote.com^
 ||beenverified.com^
@@ -1998,7 +2002,6 @@ nordiqnutrition.com##.et_bloom_animated
 www.indeed.com##.google-Only-Modal
 ||a-z-animals.com^$removeparam=from
 ||signaler-pa.youtube.com^
-||www.youtube.com^$removeparam=v
 https://www.youtube.com/pcs/activeview
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
@@ -2400,3 +2403,5 @@ www.primewire.tf##.nopop.spn-btns
 www.starterstory.com##.fade.modal-backdrop
 www.coinbureau.com##.Layout_mainCookieDiv__nf6PT
 www.cbssports.com###skybox-top-wrapper
+examine.com##.undefined.hover\:bg-examine-purple-200
+www.iherb.com##.email-subscription-new-container
