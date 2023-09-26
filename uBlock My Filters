@@ -1,5 +1,8 @@
-Last modified: 18 September 2023
+Last modified: 26 September 2023
 
+$removeparam=sbo
+$removeparam=bp
+$removeparam=intake
 $removeparam=share_id
 $removeparam=bshm,important
 $removeparam=sca_ref
@@ -135,6 +138,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||wiseref.com^
 ||knotch-cdn.com^
 ||knotch.com^
 ||knotch.it^
@@ -601,6 +605,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/sassy-social-share
 /nielsen
 /ingress
 /impression
@@ -671,6 +676,7 @@ $removeparam=visitToken
 /w3-report
 /popup-subscribe
 /lozad
+-tracker/
 /tracker
 /product_offers
 /marketing_campaigns
@@ -1468,6 +1474,7 @@ seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
 ||seekingalpha.com^$removeparam=source
+||seekingalpha.com^$removeparam=hasComeFromMpArticle
 enfusion.com##.bg-gradient-12
 cryptodaily.co.uk##.leaderboard-top-ad.row
 cryptodaily.co.uk##.braking-right
@@ -1836,6 +1843,7 @@ shopbestnaturals.com###sro-popup
 1movies.life##.auth
 1movies.life###actor_preview
 1movies.life##.footer_content
+||decrypt.co^$removeparam=source
 decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.bHGkbV
@@ -2411,3 +2419,6 @@ www.coinbureau.com##.Layout_mainCookieDiv__nf6PT
 www.cbssports.com###skybox-top-wrapper
 examine.com##.undefined.hover\:bg-examine-purple-200
 www.iherb.com##.email-subscription-new-container
+www.ccn.com##.ccn-consent
+decrypt.co##.justify-center.items-center.xl\:flex.hidden.w-full
+my.clevelandclinic.org##.justify-center.items-center.flex-col
