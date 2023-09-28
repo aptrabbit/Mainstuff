@@ -1,5 +1,6 @@
-Last modified: 26 September 2023
+Last modified: 28 September 2023
 
+$removeparam=sp
 $removeparam=sbo
 $removeparam=bp
 $removeparam=intake
@@ -138,6 +139,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||cdnativepush.com^
 ||wiseref.com^
 ||knotch-cdn.com^
 ||knotch.com^
@@ -1745,8 +1747,6 @@ support.google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 mail.google.com###google-hats-survey
 ||www.google.com^$removeparam=hl
-||www.google.com^$removeparam=v
-||www.google.com^$removeparam=k
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
@@ -2042,6 +2042,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||lumnstoodthe.info^
 ||setupali.shop^
 ||46-105-201-240.any.cdn.anycast.me^
+||glizauvo.net^
 ||oucaibie.net^
 ||sexeecmo.xyz^
 ||api.xewarycy.xyz^
