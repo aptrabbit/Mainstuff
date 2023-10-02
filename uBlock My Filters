@@ -1864,8 +1864,6 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
-||syndication.twitter.com^
-/endpoints.Ads
 help.twitter.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
 www.wcostream.net###star-watch-on
