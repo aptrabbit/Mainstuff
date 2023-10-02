@@ -1866,8 +1866,7 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=lp
 ||twitter.com^$removeparam=s
 ||syndication.twitter.com^
-twitter.com##.action-brave-tip
-twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+/endpoints.Ads
 twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
 twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
