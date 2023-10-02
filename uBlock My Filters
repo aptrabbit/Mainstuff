@@ -1866,8 +1866,6 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=lp
 ||syndication.twitter.com^
 /endpoints.Ads
-twitter.com##[aria-label="who to follow" i]:upward(1)
-twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
 help.twitter.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
 www.wcostream.net###star-watch-on
