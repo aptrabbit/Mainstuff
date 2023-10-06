@@ -1,4 +1,4 @@
-Last modified: 02 October 2023
+Last modified: 06 October 2023
 
 $removeparam=povid
 $removeparam=sp
@@ -46,7 +46,6 @@ $removeparam=referer_video_id
 $removeparam=permissionList
 $removeparam=history_len
 $removeparam=os
-$removeparam=device_id
 $removeparam=browser_platform
 $removeparam=browser_version
 $removeparam=browser_name
@@ -140,6 +139,9 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||kindest.com^
+||revenuecat.com^
+||rentingimmoderatereflecting.com^
 ||cdnativepush.com^
 ||wiseref.com^
 ||knotch-cdn.com^
@@ -272,7 +274,10 @@ $removeparam=visitToken
 ||resellerratings.com^
 ||yengo.com^
 ||gigya.com^
+||firebaseappcheck.googleapis.com^
 ||firebaseio.com^
+||firebase.googleapis.com^
+||firebaseinstallations.googleapis.com^
 ||2.bp.blogspot.com^
 ||g.ezoic.net^
 ||sf.ezoiccdn.com^
@@ -330,7 +335,6 @@ $removeparam=visitToken
 ||f.convertkit.com^
 ||ck.page^
 ||split.io^
-||firebase.googleapis.com^
 ||widget-api.stylitics.com^
 ||sitejabber.com^
 ||analytics.fatmedia.io^
@@ -366,6 +370,7 @@ $removeparam=visitToken
 ||versusgame.com^
 ||ads-pd.nbcuni.com^
 ||web.pypestream.com^
+||cupertino-beacons.xumo.com^
 ||valencia-beacons.xumo.com^
 ||cardratings.com^
 ||clarkdeals.com^
@@ -427,7 +432,6 @@ $removeparam=visitToken
 ||printoperatelanguage.top^
 ||app.conversiobot.com^
 ||mem.gfx.ms^
-||firebaseinstallations.googleapis.com^
 ||cdn-cookieyes.com^
 ||js.hs-scripts.com^
 ||js-na1.hs-scripts.com^
@@ -550,8 +554,8 @@ $removeparam=visitToken
 ||sentry.io^$important
 ||marketo.com^$important
 ||evidon.com^$important
-||cdn.segment.com^$important
 ||connect.facebook.net^$important
+||cdn.segment.com^$important
 ||forter.com^$important
 ||js.monitor.azure.com^$important
 ||siteintercept.qualtrics.com^$important
@@ -608,6 +612,8 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/sponsored
+/marketingNotifications
 /privacy-standalone
 /campaign-monitor
 /sassy-social-share
@@ -691,7 +697,6 @@ $removeparam=visitToken
 /ping
 /pings
 /feedback-link
-/feedback
 /statistics
 /stat
 /api/stats
@@ -726,14 +731,16 @@ $removeparam=visitToken
 /wp-popups-lite
 /fixSpecialAd
 =checkOrigin
-=get_user_info_data
 /rpc:shindig
+=get_user_info_data
 /yahoo-dom-event
 /ay-ad-loader
 /?p=bidoptimization
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
+/openfl
+/ally.min
 /twig
 /mijs
 ?_=e3
@@ -1864,6 +1871,16 @@ www.realclearpolitics.com###distro_right_rail
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
+||twitter.com^$removeparam=s
+||syndication.twitter.com^
+/endpoints.Ads
+twitter.com##[aria-label="who to follow" i]:upward(1)
+twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
+twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
+twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article)
+twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
+twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
 help.twitter.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
 www.wcostream.net###star-watch-on
@@ -2094,6 +2111,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||nbidqsoy.xyz^
 ||ewkjfwwld.xyz^
 ||mcysukba.xyz^
+||oxxrvufwucn.xyz^
 ||fgijincfktbguv.xyz^
 ||xxaparfuel.xyz^
 ||lsuoaeqmubc.xyz^
@@ -2417,3 +2435,12 @@ www.iherb.com##.email-subscription-new-container
 www.ccn.com##.ccn-consent
 decrypt.co##.justify-center.items-center.xl\:flex.hidden.w-full
 my.clevelandclinic.org##.justify-center.items-center.flex-col
+dlhd.sx##.recent p
+dlhd.sx###sidebar
+dlhd.sx###txtarea
+dlhd.sx###footer
+dlhd.sx##nav > [href="https://t.me/daddylivehd"]
+dlhd.sx##[href="/contact-us.php"]
+dlhd.sx##[href="https://discord.gg/SgbjFVn6th"]
+dlhd.sx##[href="#"]
+starwars.fandom.com##.notifications-placeholder
