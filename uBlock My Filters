@@ -1,5 +1,10 @@
-Last modified: 06 October 2023
+Last modified: 09 October 2023
 
+$removeparam=cx_artPos
+$removeparam=cx_testVariant
+$removeparam=cx_testId
+$removeparam=re_source
+$removeparam=limit
 $removeparam=povid
 $removeparam=sp
 $removeparam=sbo
@@ -139,6 +144,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||telemetry.svc.transifex.net^
+||okendo.io^
 ||kindest.com^
 ||revenuecat.com^
 ||rentingimmoderatereflecting.com^
@@ -694,6 +701,7 @@ $removeparam=visitToken
 /campaign_story_event
 /campaign-views
 /generate_204
+/aping
 /ping
 /pings
 /feedback-link
@@ -710,7 +718,10 @@ $removeparam=visitToken
 /snowday
 /leaky-paywall
 /c.rollBarEntry
+/ot-min
 /blast.js
+/ally.min
+/twig
 /?experiment
 /experiment
 /marketingIntents
@@ -740,8 +751,6 @@ $removeparam=visitToken
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
 /openfl
-/ally.min
-/twig
 /mijs
 ?_=e3
 pikapod.net/api/send
@@ -2078,6 +2087,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||xejblbcwffcxfja.xyz^
 ||qimxpkyrohagqhb.xyz^
 ||tnkafnxam.xyz^
+||yhxdhjhlecuj.xyz^
 ||qcmjdptyikwf.xyz^
 ||wvxcdtuhcagistb.xyz^
 ||airrrxggfafnbl.xyz^
@@ -2430,6 +2440,7 @@ www.primewire.tf##.nopop.spn-btns
 www.starterstory.com##.fade.modal-backdrop
 www.coinbureau.com##.Layout_mainCookieDiv__nf6PT
 www.cbssports.com###skybox-top-wrapper
+examine.com##.xl\:w-\[1000px\].lg\:pt-\[35\%\]
 examine.com##.undefined.hover\:bg-examine-purple-200
 www.iherb.com##.email-subscription-new-container
 www.ccn.com##.ccn-consent
@@ -2444,3 +2455,6 @@ dlhd.sx##[href="/contact-us.php"]
 dlhd.sx##[href="https://discord.gg/SgbjFVn6th"]
 dlhd.sx##[href="#"]
 starwars.fandom.com##.notifications-placeholder
+www.livehdtv.net##.userbar
+www.livehdtv.net##.mb-1
+www.livehdtv.net##p:nth-of-type(4)
