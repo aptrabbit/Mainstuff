@@ -1,4 +1,4 @@
-Last modified: 10 October 2023
+Last modified: 13 October 2023
 
 $removeparam=cx_artPos
 $removeparam=cx_testVariant
@@ -619,6 +619,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/graph
 /sponsored
 /marketingNotifications
 /privacy-standalone
@@ -683,7 +684,6 @@ $removeparam=visitToken
 /cookie-popup
 /compliance
 /consent
-/graph
 /ab_tests
 /get-cookie
 /measurement
@@ -722,6 +722,7 @@ $removeparam=visitToken
 /blast.js
 /ally.min
 /twig
+=checkOrigin
 /?experiment
 /experiment
 /marketingIntents
@@ -741,7 +742,6 @@ $removeparam=visitToken
 /wp-terms-popup
 /wp-popups-lite
 /fixSpecialAd
-=checkOrigin
 /rpc:shindig
 =get_user_info_data
 /yahoo-dom-event
@@ -2142,6 +2142,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||wlfcwkijsknted.xyz^
 ||wydtxpctgipa.xyz^
 ||gqmtgvisnftd.xyz^
+||ondajqfaqolmq.xyz^
 ||tqepqvpjgbbdh.xyz^
 ||mebfylxqbhjbx.xyz^
 ||twkopcqocmcjyr.xyz^
@@ -2459,3 +2460,4 @@ starwars.fandom.com##.notifications-placeholder
 www.livehdtv.net##.userbar
 www.livehdtv.net##.mb-1
 www.livehdtv.net##p:nth-of-type(4)
+radaris.com##.ads-container
