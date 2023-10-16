@@ -1,5 +1,9 @@
-Last modified: 15 October 2023
+Last modified: 16 October 2023
 
+$removeparam=traffic[medium]
+$removeparam=traffic[funnel]
+$removeparam=traffic[source]
+$removeparam=traffic[campaign]
 $removeparam=cx_artPos
 $removeparam=cx_testVariant
 $removeparam=cx_testId
@@ -161,7 +165,6 @@ $removeparam=visitToken
 ||ipwho.is^
 ||wisepops.net^
 ||track.uppromote.com^
-||beenverified.com^
 ||groovehq.com^
 ||mcmorrowreports.com^
 ||cdn.wazimo.com^
@@ -620,6 +623,11 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+~browser-logs
+~trackers
+~taboola
+/taboola
+/collect
 /graph
 /sponsored
 /marketingNotifications
@@ -751,6 +759,8 @@ $removeparam=visitToken
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
+/bootstrap-select.min.js
+/linq
 /openfl
 /mijs
 .xyz/
@@ -2187,6 +2197,8 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||ggqygkaunot.com^
 ||ikaehscsyvmc.com^
 ||bspcpfxbkxgd.com^
+||yndmorvwdfuk.com^
+||aqaaheceb.com^
 ||txqszmococgrx.com^
 ||bcffkvpjqferl.com^
 ||cczjcammpj.com^
