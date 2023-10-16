@@ -1,4 +1,4 @@
-Last modified: 13 October 2023
+Last modified: 15 October 2023
 
 $removeparam=cx_artPos
 $removeparam=cx_testVariant
@@ -90,7 +90,6 @@ $removeparam=_sid
 $removeparam=icid
 $removeparam=cId
 $removeparam=qid
-$removeparam=i
 $removeparam=ved
 $removeparam=feature
 $removeparam=uniqueid
@@ -144,6 +143,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||triflingcooperativestructure.com^
+||triflingcooperativestructure.net^
 ||telemetry.svc.transifex.net^
 ||okendo.io^
 ||kindest.com^
@@ -752,6 +753,7 @@ $removeparam=visitToken
 /redirect.prod.experiment.routing
 /openfl
 /mijs
+.xyz/
 ?_=e3
 pikapod.net/api/send
 reporting-api.herokuapp.com/api
@@ -2137,6 +2139,7 @@ https://guc3-spclient.spotify.com/quicksilver/v2/triggers
 ||ysapwusywocfsjm.xyz^
 ||beekwyrorndmv.xyz^
 ||rssrqecohagbk.xyz^
+||ebydrfrimbif.xyz^
 ||evcnxaiisqqfqfe.xyz^
 ||quiiedoogqqaidu.xyz^
 ||wlfcwkijsknted.xyz^
