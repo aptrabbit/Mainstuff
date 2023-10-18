@@ -1,5 +1,6 @@
-Last modified: 16 October 2023
+Last modified: 18 October 2023
 
+$removeparam=a_bid
 $removeparam=traffic[medium]
 $removeparam=traffic[funnel]
 $removeparam=traffic[source]
@@ -147,6 +148,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||trafficmanager.poptok.com^
 ||triflingcooperativestructure.com^
 ||triflingcooperativestructure.net^
 ||telemetry.svc.transifex.net^
