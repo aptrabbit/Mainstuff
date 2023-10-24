@@ -1,4 +1,4 @@
-Last modified: 20 October 2023
+Last modified: 24 October 2023
 
 $removeparam=a_bid
 $removeparam=traffic[medium]
@@ -732,6 +732,15 @@ $removeparam=visitToken
 /blast.js
 /ally.min
 /twig
+/repo.min.css
+/bootstrap-select.min.js
+/emojione.min.js
+/linq
+/openfl
+/mijs
+.xyz/
+?_=e3
+=e3
 =checkOrigin
 /?experiment
 /experiment
@@ -760,12 +769,6 @@ $removeparam=visitToken
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
-/bootstrap-select.min.js
-/linq
-/openfl
-/mijs
-.xyz/
-?_=e3
 pikapod.net/api/send
 reporting-api.herokuapp.com/api
 https://www.scamadviser.com/ajax/pop-ups
@@ -1503,6 +1506,7 @@ seekingalpha.com###news-left-slot-1
 seekingalpha.com###article-left-slot-2
 seekingalpha.com##.in.fade.modal-backdrop
 seekingalpha.com###krux-container
+seekingalpha.com##.print\:hidden.md\:mb-18
 seekingalpha.com##section[data-testid="recommended-section"]
 seekingalpha.com##[data-testid="ad-slot-list"]
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-testid="grid-container"])
@@ -2477,3 +2481,5 @@ www.livehdtv.net##.userbar
 www.livehdtv.net##.mb-1
 www.livehdtv.net##p:nth-of-type(4)
 radaris.com##.ads-container
+www.bitcoininsider.org##.region--hero.region
+allthatsinteresting.com##div.pbh_inline
