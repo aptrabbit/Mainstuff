@@ -149,8 +149,6 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 ||trafficmanager.poptok.com^
-||triflingcooperativestructure.com^
-||triflingcooperativestructure.net^
 ||telemetry.svc.transifex.net^
 ||okendo.io^
 ||kindest.com^
@@ -625,6 +623,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/plausible
 ~browser-logs
 ~trackers
 ~taboola
