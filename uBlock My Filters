@@ -1,4 +1,4 @@
-Last modified: 25 October 2023
+Last modified: 27 October 2023
 
 $removeparam=a_bid
 $removeparam=traffic[medium]
@@ -628,7 +628,6 @@ $removeparam=visitToken
 ~trackers
 ~taboola
 /taboola
-/collect
 /graph
 /sponsored
 /marketingNotifications
@@ -2482,3 +2481,4 @@ www.livehdtv.net##p:nth-of-type(4)
 radaris.com##.ads-container
 www.bitcoininsider.org##.region--hero.region
 allthatsinteresting.com##div.pbh_inline
+ustvgo.kissreport.com##.adace-popup-detector
