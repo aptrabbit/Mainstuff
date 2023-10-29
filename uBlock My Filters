@@ -9,7 +9,6 @@ $removeparam=cx_artPos
 $removeparam=cx_testVariant
 $removeparam=cx_testId
 $removeparam=re_source
-$removeparam=limit
 $removeparam=povid
 $removeparam=sp
 $removeparam=sbo
@@ -2482,3 +2481,5 @@ radaris.com##.ads-container
 www.bitcoininsider.org##.region--hero.region
 allthatsinteresting.com##div.pbh_inline
 ustvgo.kissreport.com##.adace-popup-detector
+selfdecode.com##.css-k0mzwv
+selfdecode.com##.css-1mg6eok
