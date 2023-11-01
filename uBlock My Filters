@@ -1,4 +1,4 @@
-Last modified: 27 October 2023
+Last modified: 01 November 2023
 
 $removeparam=a_bid
 $removeparam=traffic[medium]
@@ -147,6 +147,9 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||www.snapengage.com^
+||events.jotform.com^
+||tracking.g2crowd.com^
 ||trafficmanager.poptok.com^
 ||telemetry.svc.transifex.net^
 ||okendo.io^
@@ -622,6 +625,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+-converbox
 /plausible
 ~browser-logs
 ~trackers
@@ -729,6 +733,8 @@ $removeparam=visitToken
 /blast.js
 /ally.min
 /twig
+/PIE_IE
+/ieBetter
 /repo.min.css
 /bootstrap-select.min.js
 /emojione.min.js
@@ -1906,18 +1912,20 @@ twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discov
 twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
 help.twitter.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
-www.wcostream.net###star-watch-on
+www.wcostream.tv###star-watch-on
+www.wcostream.tv##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
 www.wcostream.net##b:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > strong
 www.wcostream.net##.larkax table
 www.wcostream.net##.anti-ad
 www.wcostream.net##.alert
-www.wcostream.net##.iltext > table
+www.wcostream.tv##.iltext > table
 www.wcostream.net##[href="https://user.wco.tv"]
 ||www.wcostream.net/wp-content/themes/animewp78712/images/bg.jpg$image
 www.wcostream.net###close-this-ad
 www.wcostream.net##td > div > span
 www.wcostream.net##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
 www.wcostream.net##[href^="https://user.wco.tv/wp-login.php"]
+www.wcostream.tv##[src="https://www.wcostream.org/premiumad4.png"]
 https://embed.watchanimesub.net/inc/embed/premium.html
 https://embed.watchanimesub.net/inc/embed/report.js
 longevity.technology##.addvertisment
@@ -2063,8 +2071,7 @@ www.spotify.com#@#div > div[aria-live="polite"]
 www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
-https://gew4-spclient.spotify.com/quicksilver/v2/triggers
-https://guc3-spclient.spotify.com/quicksilver/v2/triggers
+/quicksilver
 /gabo-receiver-service
 ||quicksilver.scdn.co^
 ||mosaic.scdn.co^
