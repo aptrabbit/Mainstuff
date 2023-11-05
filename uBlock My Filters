@@ -147,6 +147,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||ecomsend.com^
 ||www.snapengage.com^
 ||events.jotform.com^
 ||tracking.g2crowd.com^
@@ -625,6 +626,8 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/marketing-numbers
+/ipcountry
 /evolok
 -converbox
 /plausible
@@ -1372,7 +1375,6 @@ www.wsj.com###cx-what-to-read-next
 www.wsj.com###cx-join-the-conversation
 www.wsj.com##.styles--margin-bottom-large--wa4U95NA.WSJTheme--margin-bottom-large--30x8UI8h
 www.capitalgazette.com###zephr-overlay
-series9.me##.play-notice
 investorplace.com##.widget_ipm_sidebar_ad.widgetcontainer
 investorplace.com##.countdown-banner
 www.findagrave.com##.d-print-none.mr-md-0.mr-3.col-lg-12.col-sm-6.overview-panel.native
@@ -2491,3 +2493,4 @@ allthatsinteresting.com##div.pbh_inline
 ustvgo.kissreport.com##.adace-popup-detector
 selfdecode.com##.css-k0mzwv
 selfdecode.com##.css-1mg6eok
+ada.com##.bnEWUd
