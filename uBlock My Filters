@@ -1,5 +1,6 @@
-Last modified: 02 November 2023
+Last modified: 09 November 2023
 
+$removeparam=source_ve_path
 $removeparam=a_bid
 $removeparam=traffic[medium]
 $removeparam=traffic[funnel]
@@ -147,6 +148,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||tracy.nordvpn.com^
+||paywall-prod.appspot.com^
 ||ecomsend.com^
 ||www.snapengage.com^
 ||events.jotform.com^
@@ -626,9 +629,13 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/updated_metadata
+/adbreaks
+/event/json
 /marketing-numbers
 /ipcountry
 /evolok
+-ad-client
 -converbox
 /plausible
 ~browser-logs
@@ -1922,6 +1929,7 @@ www.wcostream.net##.larkax table
 www.wcostream.net##.anti-ad
 www.wcostream.net##.alert
 www.wcostream.tv##.iltext > table
+www.wcostream.tv##.reklam_pve
 www.wcostream.net##[href="https://user.wco.tv"]
 ||www.wcostream.net/wp-content/themes/animewp78712/images/bg.jpg$image
 www.wcostream.net###close-this-ad
@@ -1952,6 +1960,7 @@ coinmarketcap.com##.kXmtVc
 coinmarketcap.com##.etTLnd
 coinmarketcap.com##.jtGdpG
 coinmarketcap.com##.WrRkp
+coinmarketcap.com##.kHdStr
 https://tonewithough.com
 www.w3schools.com###right
 www.seobility.net###sale_sidebar_content
@@ -2350,6 +2359,8 @@ currently.att.yahoo.com###module-spotIm
 currently.att.yahoo.com###sda-MON
 www.mskcc.org###cassie-widget
 selfdecode.com##.wt-cli-cookie-bar-container
+selfdecode.com##.css-k0mzwv
+selfdecode.com##.css-1mg6eok
 ||staging-drugsselfdecode.kinsta.cloud^
 supplements.selfdecode.com##.sponsored
 supplements.selfdecode.com##.sidebar-bio
@@ -2491,6 +2502,5 @@ radaris.com##.ads-container
 www.bitcoininsider.org##.region--hero.region
 allthatsinteresting.com##div.pbh_inline
 ustvgo.kissreport.com##.adace-popup-detector
-selfdecode.com##.css-k0mzwv
-selfdecode.com##.css-1mg6eok
 ada.com##.bnEWUd
+clustrmaps.com###beenV
