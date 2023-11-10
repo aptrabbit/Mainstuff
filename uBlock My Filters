@@ -1,4 +1,4 @@
-Last modified: 09 November 2023
+Last modified: 10 November 2023
 
 $removeparam=source_ve_path
 $removeparam=a_bid
@@ -148,6 +148,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||suggestqueries-clients6.youtube.com^
 ||tracy.nordvpn.com^
 ||paywall-prod.appspot.com^
 ||ecomsend.com^
@@ -2073,7 +2074,6 @@ https://www.youtube.com/pcs/activeview
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
 www.youtube.com##.yt-mealbar-promo-renderer
-www.youtube.com##ytd-engagement-panel-section-list-renderer
 www.youtube.com##.ytd-rich-section-renderer
 www.youtube.com##.yt-reaction-control-panel-overlay-view-model
 creatoracademy.youtube.com###google-hats-survey
@@ -2504,3 +2504,4 @@ allthatsinteresting.com##div.pbh_inline
 ustvgo.kissreport.com##.adace-popup-detector
 ada.com##.bnEWUd
 clustrmaps.com###beenV
+tosdr.org###alert-funding
