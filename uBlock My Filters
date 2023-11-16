@@ -1,4 +1,4 @@
-Last modified: 11 November 2023
+Last modified: 16 November 2023
 
 $removeparam=source_ve_path
 $removeparam=a_bid
@@ -16,6 +16,8 @@ $removeparam=sbo
 $removeparam=bp
 $removeparam=intake
 $removeparam=share_id
+$removeparam=cId,important
+$removeparam=iId,important
 $removeparam=bshm,important
 $removeparam=sca_ref
 $removeparam=cpn
@@ -75,7 +77,6 @@ $removeparam=ADDITIONAL_x-source
 $removeparam=affiliate
 $removeparam=queryly
 $removeparam=_osource
-$removeparam=iId
 $removeparam=clid
 $removeparam=sca_esv
 $removeparam=ictx
@@ -93,7 +94,6 @@ $removeparam=_pos
 $removeparam=varid
 $removeparam=_sid
 $removeparam=icid
-$removeparam=cId
 $removeparam=qid
 $removeparam=ved
 $removeparam=feature
@@ -148,6 +148,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||coupert.com^
+||page-analytics.shoprunner.com^
 ||suggestqueries-clients6.youtube.com^
 ||tracy.nordvpn.com^
 ||paywall-prod.appspot.com^
@@ -630,6 +632,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+/cookieManager
 /updated_metadata
 /adbreaks
 /event/json
@@ -667,6 +670,7 @@ $removeparam=visitToken
 -banner-ads
 /advertising
 /ads
+/adsConfig
 /ads-beacon
 /adsjs
 /adscript
@@ -1983,8 +1987,8 @@ https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 /shreddit-sidebar-ad
 /redditads
-||www.reddit.com^$removeparam=source
-||www.reddit.com^$removeparam=rdt
+||www.reddit.com^$removeparam=source,important
+||www.reddit.com^$removeparam=rdt,important
 ||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
 www.dontpayfull.com##.sponsored
@@ -2504,3 +2508,4 @@ ustvgo.kissreport.com##.adace-popup-detector
 ada.com##.bnEWUd
 clustrmaps.com###beenV
 tosdr.org###alert-funding
+getpublii.com###download-publii-link
