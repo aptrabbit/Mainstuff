@@ -1,4 +1,4 @@
-Last modified: 17 November 2023
+Last modified: 18 November 2023
 
 $removeparam=source_ve_path
 $removeparam=a_bid
@@ -148,6 +148,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||redhouse.care^
 ||meadowlullaby.com^
 ||coupert.com^
 ||page-analytics.shoprunner.com^
@@ -633,14 +634,13 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
-/cookieManager
+/rate-my-post
+/google-analytics
 /updated_metadata
-/adbreaks
 /event/json
 /marketing-numbers
 /ipcountry
 /evolok
--ad-client
 -converbox
 /plausible
 ~browser-logs
@@ -669,8 +669,10 @@ $removeparam=visitToken
 /displayAds
 /google-ads
 -banner-ads
+-ad-client
 /advertising
 /ads
+/adbreaks
 /adsConfig
 /ads-beacon
 /adsjs
@@ -705,6 +707,7 @@ $removeparam=visitToken
 /cookie-echo
 /js.cookie
 /js-cookie
+/cookieManager
 /cookies/manager
 /cookie-consent
 /cookieTemplate
@@ -2510,3 +2513,4 @@ ada.com##.bnEWUd
 clustrmaps.com###beenV
 tosdr.org###alert-funding
 getpublii.com###download-publii-link
+www.crypto-news-flash.com###before-disclaimer
