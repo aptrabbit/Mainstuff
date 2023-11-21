@@ -1,4 +1,4 @@
-Last modified: 18 November 2023
+Last modified: 21 November 2023
 
 $removeparam=source_ve_path
 $removeparam=a_bid
@@ -148,6 +148,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+||experience-eu.piano.io^
 ||redhouse.care^
 ||meadowlullaby.com^
 ||coupert.com^
@@ -634,6 +635,7 @@ $removeparam=visitToken
 ||isuseaches.cc^
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
+||xn--$doc,frame
 /rate-my-post
 /google-analytics
 /updated_metadata
@@ -2368,6 +2370,7 @@ www.mskcc.org###cassie-widget
 selfdecode.com##.wt-cli-cookie-bar-container
 selfdecode.com##.css-k0mzwv
 selfdecode.com##.css-1mg6eok
+selfdecode.com##.css-1l4l4f2
 ||staging-drugsselfdecode.kinsta.cloud^
 supplements.selfdecode.com##.sponsored
 supplements.selfdecode.com##.sidebar-bio
