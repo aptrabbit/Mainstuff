@@ -125,8 +125,6 @@ widget.taggbox.com
 api.taggbox.com
 cdn.taggbox.com
 js.monitor.azure.com
-sdk.mediamelon.com
-sdk.mediamelon.com
 cdn.sprig.com
 trlocationmanager.azurewebsites.net
 wchat.freshchat.com
@@ -1029,7 +1027,6 @@ bocoyoutage.com
 ||westelm.quiq-api.com^
 ||match.collectandgather.com^
 ||repuso.com^
-||sdk.mediamelon.com^
 ||privacy-mgmt.com^
 ||report.dfs.glassboxdigital.io^
 ||geolocation-recommendations.shopifyapps.com^
