@@ -125,7 +125,6 @@ widget.taggbox.com
 api.taggbox.com
 cdn.taggbox.com
 js.monitor.azure.com
-cdn.sprig.com
 trlocationmanager.azurewebsites.net
 wchat.freshchat.com
 assetscdn-wchat.freshchat.com
@@ -235,7 +234,7 @@ api.saasexch.com
 api.saasexch.cc
 cdn.rollbar.com
 cdn.branch.io
-cdn.sprig.com
+||cdn.sprig.com^
 throttled.ovp.peacocktv.com
 eesysoft.com
 evaluationkit.com
@@ -279,7 +278,6 @@ api-na1.niceincontact.com
 gd-stats.jpush.cn
 ali-stats.jpush.cn
 easytomessage.com
-api.sprig.com
 cdn.reamaze.com
 content.shoprunner.com
 corover.ai
