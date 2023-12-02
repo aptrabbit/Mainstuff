@@ -192,7 +192,6 @@ events.ub-analytics.com
 collector.sophi.io
 livepixel-production.bln.liveintent.com
 com.foxnews.offlineAalyticsManager
-va-edge.sc.omtrdc.net
 dntcl.qualaroo.com
 cl.qualaroo.com
 aryguying.com
@@ -1071,7 +1070,6 @@ bocoyoutage.com
 ||odb.outbrain.com^$important
 ||ip.convirza.com^$important
 ||api.ipstack.com^$important
-||tt.omtrdc.net^$important
 ||omtrdc.net^$important
 ||jssdkcdns.mparticle.com^$important
 ||identity.mparticle.com^$important
