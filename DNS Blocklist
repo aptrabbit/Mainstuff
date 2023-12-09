@@ -1,3 +1,13 @@
+||unagi-na.amazon.com^
+||unagi.amazon.com^
+||amazon-adsystem.com^
+||mshopbugsnag.irm.amazon.dev^
+||static-na.payments-amazon.com^
+||hulu-matchmaker-staging.s3.amazonaws.com^
+||master-shopify-tracker.s3.amazonaws.com^
+||pix.s3.amazonaws.com^
+||addshoppers.s3.amazonaws.com^
+||privacycollector-prod-evidon-1122372851.us-east-1.elb.amazonaws.com^
 ||sanalytics.verizon.com^
 ||ads.linkedin.com^
 ||mid4.linkedin.com^
@@ -22,7 +32,6 @@
 ||chatbase.co^
 ||www.chatbase.co^
 ||edge.ads.twitch.tv^
-||mshopbugsnag.irm.amazon.dev^
 ||www.morningdownload.com^
 ||pione.co^
 ||ac3.msn.com6^
@@ -147,7 +156,6 @@ spade.twitch.tv
 tracker.123tv.live
 sdk.mediamelon.com
 analytics.service.cryptowat.ch
-privacycollector-prod-evidon-1122372851.us-east-1.elb.amazonaws.com
 widget.taggbox.com
 api.taggbox.com
 cdn.taggbox.com
@@ -231,14 +239,12 @@ live.mrf.io
 flowcards.mrf.io
 sdk.mrf.io
 widget.intercom.io
-s.amazon-adsystem.com
 feedback.fish
 bespoke-analytics.razerapi.com
 events-service.coinbase.com
 dp.coinbase.com
 cdn.opecloud.com
 ingrimera.com
-c.amazon-adsystem.com
 sb.scorecardresearch.com
 app.sendx.io
 track.sptrackh.com
@@ -652,7 +658,6 @@ bocoyoutage.com
 ||js.recurly.com^
 ||tgna-ux-ctrl.service.signalr.net^
 ||mysterio.yahoo.com^
-||hulu-matchmaker-staging.s3.amazonaws.com^
 ||sitejabber.com^
 ||split.io^
 ||firebase.googleapis.com^
@@ -721,7 +726,6 @@ bocoyoutage.com
 ||g594253006.co^
 ||cdn.dashhudson.com^
 ||medium-widget-api.pixelpoint.io^
-||master-shopify-tracker.s3.amazonaws.com^
 ||cdn.richpanel.com^
 ||staging.api.telemetry.watchabc.go.com^
 ||id.nbc.com^
@@ -738,7 +742,6 @@ bocoyoutage.com
 ||block.lmaxdigital.io^
 ||min-api.cryptocompare.com^
 ||graph-fallback.facebook.com^
-||pix.s3.amazonaws.com^
 ||analytics.laborx.io^
 ||pusher.com^
 ||ingrimera.com^
@@ -948,7 +951,6 @@ bocoyoutage.com
 ||js.hubspotfeedback.com^
 ||salesiq.zoho.com^
 ||static.iris.informa.com^
-||addshoppers.s3.amazonaws.com^
 ||jnn-pa.googleapis.com^
 ||sa.getroster.com^
 ||p.typekit.net^
@@ -1081,7 +1083,6 @@ bocoyoutage.com
 ||everlytic.net^$3p,important
 ||grabify.link^$important,all
 ||om.ordergroove.com^
-||static-na.payments-amazon.com^
 ||experience.tinypass.com^
 ||dashboard.tinypass.com^
 ||cdn.tinypass.com^
