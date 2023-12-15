@@ -1,3 +1,4 @@
+||cdn.vuukle.com^
 ||paywall.theathletic.com^
 ||goaffpro.com^
 ||unagi-na.amazon.com^
@@ -254,8 +255,6 @@ sp-track.vanitytoken.net
 americas.lpcdn.lpsnmedia.livepersonk.akadns.net
 liveperson.teridion.systems
 na.iso.postaffiliatepro.com
-personalization.bloomberg.com
-api.saasexch.com
 api.saasexch.cc
 cdn.rollbar.com
 cdn.branch.io
@@ -405,6 +404,7 @@ adsco.re
 xadsmart.com
 cueistratting.com
 bocoyoutage.com
+||personalization.bloomberg.com^
 ||quicksilver.scdn.co^
 ||mosaic.scdn.co^
 ||adeventtracker.spotify.com^
@@ -732,7 +732,7 @@ bocoyoutage.com
 ||id.nbc.com^
 ||rapidzebra.io^
 ||aptrinsic.com^
-||api.saasexch.com^
+||api.saasexch.com^$important
 ||andes.g.ebay.com^
 ||www.ebayadservices.com^
 ||blackfire.io^
