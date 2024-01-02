@@ -145,6 +145,7 @@
 ||firebaselogging-pa.googleapis.com^
 ||forcesafesearch.google.com^
 ||www.googleoptimize.com^
+||trk.klclick1.com^
 www.google-analytics.com
 www.googletagmanager.com
 id.google.com
@@ -357,8 +358,6 @@ tags.tiqcdn.com
 st.chatango.com
 apps.bazaarvoice.com
 popsads.net
-trk.klclick1.com
-i.ibb.co
 boldapps.net
 lovely-app.com
 widgets.goaffpro.app
@@ -1077,7 +1076,6 @@ bocoyoutage.com
 ||cdn.onesignal.com^$important
 ||cdn.branch.io^$important
 ||pix.pub^$important
-||i.ibb.co^$important
 ||browser-intake-datadoghq.com^$important
 ||share.hsforms.com^$important
 ||js.taplytics.com^$important
