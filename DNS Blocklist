@@ -1,3 +1,16 @@
+||dcs-online-targeting-prd.aws.oath.cloud^
+||mediawallahscript.com^
+||mediavine.com^
+||logs-api.shoprunner.com^
+||page-analytics.shoprunner.com^
+||liadm.com^
+||stickyadstv.com.akadns.net^
+||stickyadstv.com^
+||smartadserver.com^
+||tpmn.co.kr^
+||tpmn.io^
+||liveintent.com^
+||taboola.com^$important
 ||sail-track.com^
 ||cnstrc.com^
 ||clarity.ms^
@@ -319,7 +332,6 @@ gd-stats.jpush.cn
 ali-stats.jpush.cn
 easytomessage.com
 cdn.reamaze.com
-content.shoprunner.com
 corover.ai
 truenotify.co.in
 sdk.loyaltylion.net
@@ -1091,6 +1103,7 @@ bocoyoutage.com
 ||odb.outbrain.com^$important
 ||ip.convirza.com^$important
 ||api.ipstack.com^$important
+||demdex.net^$important
 ||omtrdc.net^$important
 ||jssdkcdns.mparticle.com^$important
 ||identity.mparticle.com^$important
@@ -1155,4 +1168,3 @@ bocoyoutage.com
 ||redhouse.care^
 ||meadowlullaby.com^
 ||coupert.com^
-||page-analytics.shoprunner.com^
