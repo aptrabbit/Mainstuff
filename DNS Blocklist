@@ -160,11 +160,8 @@
 ||outside.apple.com^
 ||xp.apple.com^
 ||basejumper.apple.com^
-||smoot.apple.com^
-||api.smoot.apple.com^
-||cdn.smoot.apple.com^
-||fbs.smoot.apple.com^
-||smoot-feedback.v.aaplimg.com^
+||smoot.apple.com^$important
+||smoot-feedback.v.aaplimg.com^$important
 ||outsideapple.apple.com^
 ||iphonesubmissions.apple.com^
 ||zeusmedia.apple.com^
