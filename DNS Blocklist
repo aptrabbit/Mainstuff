@@ -416,7 +416,6 @@ isuseaches.cc
 odb.outbrain.com
 cdn.privado.ai
 spokeoaffiliates.com
-r.bing.com
 cdn.dynamicyield.com
 tolterunrout.com
 horsiergalchic.com
@@ -1149,7 +1148,6 @@ bocoyoutage.com
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
 ||taboola.com^$third-party
-||r.bing.com
 ||swymrelay.com^
 ||ls.chatid.com^
 ||lovely-app.com^
