@@ -351,7 +351,6 @@ cdn.opecloud.com
 ||telemetry.gfe.nvidia.com^
 ||lightstep.kaizen.nvidia.com^
 ||ip-api.io^
-||9live.club^
 ||staging-drugsselfdecode.kinsta.cloud^
 ||salesforceliveagent.com^
 ||service.force.com^
@@ -366,7 +365,6 @@ cdn.opecloud.com
 ||api.ipstack.com^
 ||nxst.megpxs.com^
 ||wwwmarketing.scdn.co^
-||adeventtracker.spotify.com^
 ||tracing.spotify.com^
 ||mosaic.scdn.co^
 ||report.dfs.glassboxdigital.io^
@@ -767,7 +765,6 @@ cdn.opecloud.com
 ||edge.marker.io^
 ||app.octaneai.com^
 ||social-login.oxiapps.com^
-||wurfl.io^
 ||block.lmaxdigital.io^
 ||min-api.cryptocompare.com^
 ||graph-fallback.facebook.com^
@@ -830,7 +827,6 @@ cdn.opecloud.com
 ||opinew.cloud^
 ||opinew.com^
 ||9live.club^
-||apps.rokt.com^
 ||app.secureprivacy.ai^
 ||a.klaviyo.com^
 ||static.klaviyo.com^
@@ -858,7 +854,6 @@ cdn.opecloud.com
 ||time.akamai.com^
 ||prod.pyxis.atp.fox^
 ||metadata.provider.plex.tv^
-||bazaarvoice.com^
 ||esnchocco.com^
 ||analytics.talentegy.com^
 ||sitestats.ttcportals.com^
@@ -947,7 +942,6 @@ cdn.opecloud.com
 ||app.slickstream.com^
 ||ccpa.sp-prod.net^
 ||hjk00trk.com^
-||analytics.codedeploy.io^
 ||spokeoaffiliates.com^
 ||moderningvigil.org^
 ||analytics.yugeanime.ro^
@@ -960,7 +954,6 @@ cdn.opecloud.com
 ||truenotify.co.in^
 ||getgoogletagmanager.com^
 ||sdk.loyaltylion.net^
-||admin.revenuehunt.com^
 ||app.backinstock.org^
 ||readspeaker.com^
 ||aspire-svcs.xyzmedia.net^
