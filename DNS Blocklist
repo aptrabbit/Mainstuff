@@ -364,7 +364,7 @@
 ||forcesafesearch.google.com^
 ||www.googleoptimize.com^
 ||www.google-analytics.com^
-||www.googletagmanager.com^
+||googletagmanager.com^
 ||id.google.com^
 ||firebaseremoteconfig.googleapis.com^
 ||device-provisioning.googleapis.com^
