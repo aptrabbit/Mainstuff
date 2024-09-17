@@ -223,6 +223,7 @@ $removeparam=visitToken
 ##.tss-mnxmcd-cookiesBannerRoot
 ###tbl-next-up
 ##.pre-header-ad-holder
+||pendo.io^
 ||safary.club^
 ||userpilot.io^
 ||zeddit.com^
@@ -288,7 +289,6 @@ $removeparam=visitToken
 ||iterable.com^
 ||equally.ai^
 ||fishrobotflower.com^
-||v.reddit.com^
 ||receptivity.io^
 ||ophan.co.uk^
 ||campstim.com^
@@ -973,6 +973,10 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 ||xn--$doc,frame
+/en-US/pixels
+/javalon
+/tracks-v2a1
+/pendo.js
 /jwpsrv
 /eflowtype
 /pbatman
@@ -984,7 +988,6 @@ _adframe
 /track_event
 /cookie-law-info
 /checksession
-/telemetry
 -adobe-analytics
 -core_logger
 _pixel
@@ -2433,19 +2436,6 @@ cryptopotato.com##.widget_text.widget
 cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
-reddit.com#@#shreddit-experience-tree
-reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-https://www.redditstatic.com/js/tags-slim.js
-https://www.reddit.com/counters/
-https://www.reddit.com/errors
-https://www.reddit.com/user/TheFrostedMiniWheats/
-https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
-/shreddit-sidebar-ad
-/redditads
-||www.reddit.com^$removeparam=source,important
-||www.reddit.com^$removeparam=rdt,important
-||www.reddit.com^$removeparam=permalink,important
-||diagnostics.redditmedia.com^
 holisticprimarycare.net##.qc-cmp2-container
 www.dontpayfull.com##.sponsored
 @@||blogger.com^$removeparam=bpli
@@ -2799,6 +2789,7 @@ https://open.spotify.com/recaptcha/fraud
 ||tzegilo.com^
 ||alugha.com^
 ||kcbebpslutvqvbi.com^
+||wycicvvtc.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
@@ -3012,7 +3003,22 @@ movie-web.app##.rounded-full.h-11.w-11.tabbable:nth-of-type(3)
 movie-web.app##.p-1.justify-center.items-center.flex.text-white.bg-\[\#C93957\]
 ||search.brave.com^$removeparam=source
 ||yandex.com^$removeparam=from
+||v.reddit.com^
+www.reddit.com###main-content > shreddit-async-loader
 www.reddit.com##.pt-\[var\(--page-y-padding\)\].v2.xs\:overflow-visible.overflow-x-hidden > form
+reddit.com#@#shreddit-experience-tree
+reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+https://www.redditstatic.com/js/tags-slim.js
+https://www.reddit.com/counters/
+https://www.reddit.com/errors
+https://www.reddit.com/user/TheFrostedMiniWheats/
+https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
+/shreddit-sidebar-ad
+/redditads
+||www.reddit.com^$removeparam=source,important
+||www.reddit.com^$removeparam=rdt,important
+||www.reddit.com^$removeparam=permalink,important
+||diagnostics.redditmedia.com^
 www.seoreviewtools.com##.special-content
 m.timesofindia.com###readAlso_107027860
 m.timesofindia.com##.D7ys0
@@ -3038,7 +3044,6 @@ cryptopanic.com##div:nth-of-type(2) > .section-heading
 cryptopanic.com##[href^="https://stake.com/"]
 cryptopanic.com##.ps--active-y.ps.news-container > div:nth-of-type(1)
 mail.proton.me##.bg-promotion
-www.reddit.com###main-content > shreddit-async-loader
 selfdecode.com##.css-pxp87m
 youtube.fandom.com##.notifications-placeholder
 japannews.yomiuri.co.jp###tpModal > .modal-content
