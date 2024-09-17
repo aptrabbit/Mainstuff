@@ -223,6 +223,7 @@ $removeparam=visitToken
 ##.tss-mnxmcd-cookiesBannerRoot
 ###tbl-next-up
 ##.pre-header-ad-holder
+||irc-ws.chat.twitch.tv^
 ||pendo.io^
 ||safary.club^
 ||userpilot.io^
@@ -973,6 +974,8 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 ||xn--$doc,frame
+/features.consent.
+.last-x-events
 /en-US/pixels
 /javalon
 /tracks-v2a1
@@ -2790,6 +2793,7 @@ https://open.spotify.com/recaptcha/fraud
 ||alugha.com^
 ||kcbebpslutvqvbi.com^
 ||wycicvvtc.com^
+||gbztputcfgp.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
@@ -3060,3 +3064,6 @@ cointelegraph.com##.header-zone__banner
 www.gofundme.com###transcend-consent-manager
 thetvapp.to##[href="/premium"]
 thetvapp.to##[href="https://thetvapp.to/contact"]
+https://assets.twitch.tv/assets/pages.embed-chat
+||www.twitch.tv/embed/icelzz/chat$subdocument
+icelz.to##.channel-header-fixed-buttons
