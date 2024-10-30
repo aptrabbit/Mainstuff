@@ -2956,8 +2956,6 @@ www.prnewswire.com##.btn-fab
 www.prnewswire.com##.newsletterSignupWidget
 www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
 thedefiant.io##.items-center.mt-10.mb-20.mx-1
-thetvapp.to##.col-lg-8 > .pt-3
-thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
 static.twitchcdn.net/assets/pages.embed-chat
 icelz.newsrade.com##.chat-window
 icelz.newsrade.com##.channel-header-fixed-buttons
@@ -3078,19 +3076,21 @@ www.benzinga.com##.banner-wrapper
 www.benzinga.com##.wp-block-image
 cointelegraph.com##.header-zone__banner
 www.gofundme.com###transcend-consent-manager
-thetvapp.to##[href="/premium"]
-thetvapp.to##[href="https://thetvapp.to/contact"]
 https://assets.twitch.tv/assets/pages.embed-chat
 ||www.twitch.tv/embed/icelzz/chat$subdocument
 icelz.to##.channel-header-fixed-buttons
 www.foxnews.com##.fscom-scorestrip
 www.cars.com###prequalified-banner-hook
-https://thetvapp.to/favicon.ico
-thetvapp.to##.ad-placement
 jobzone.publishersweekly.com###candidate-products-promotion
 minaprotocol.com##.adf99
 www.dovepress.com##.psmtc_BuTp
 cryptoslate.com###hypelab-header-unit
 www.iplocation.net##.ip-buttons2.col
 www.iplocation.net##.ip-placeholder > p
+thetvapp.to##.ad-placement
+thetvapp.to##[href="/premium"]
+thetvapp.to##[href="https://thetvapp.to/contact"]
+thetvapp.to##.col-lg-8 > .pt-3
+thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
 thetvapp.to##.alert-primary.alert
+https://thetvapp.to/favicon.ico
