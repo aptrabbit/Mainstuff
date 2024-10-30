@@ -1,3 +1,4 @@
+$removeparam=leadsourcename
 $removeparam=rfsn
 $removeparam=spdl
 $removeparam=analytics_context
@@ -223,8 +224,19 @@ $removeparam=visitToken
 ##.tss-mnxmcd-cookiesBannerRoot
 ###tbl-next-up
 ##.pre-header-ad-holder
+||adobedtm.com^
+||paddle.com^
+||cello.so^
+||orcid.org^
+||blink.net^
+||conversio.com^
+||receiptful.com^
+||uppromote.com^
+||ipwhois.pro^
+||magic.link^
+||1a-1791.com^
+||1791mail.com^
 ||irc-ws.chat.twitch.tv^
-||pendo.io^
 ||safary.club^
 ||userpilot.io^
 ||zeddit.com^
@@ -353,7 +365,6 @@ $removeparam=visitToken
 ||collector-pxvtidnbtc.px-cloud.net^
 ||pay.coinbase.com^
 ||gbqofs.com^
-||jobbio.com^
 ||pubwise.io^
 ||convertexperiments.com^
 ||whoumtefie.com^
@@ -717,8 +728,6 @@ $removeparam=visitToken
 ||d30qdagvt44524.cloudfront.net^
 ||analytics-prd.aws.wehaa.net^
 ||bugsnag.com^
-||data.pendo.io^
-||cdn.pendo.io^
 ||improving.duckduckgo.com^
 ||browser.events.data.microsoft.com^
 ||widget.helpcrunch.com^
@@ -974,12 +983,12 @@ $removeparam=visitToken
 ||triplewhale-pixel.web.app^
 ||id-shop.govx.com^
 ||xn--$doc,frame
-/features.consent.
+/yTocca
+/xdomaincookie
+-social-share
+/features.consent
 .last-x-events
-/en-US/pixels
 /javalon
-/tracks-v2a1
-/pendo.js
 /jwpsrv
 /eflowtype
 /pbatman
@@ -1022,7 +1031,6 @@ _pixel
 _beacon
 -beacon
 /beacon
-/amplitude
 /monitoring
 /affiliate.js
 _stat.js
@@ -2794,6 +2802,13 @@ https://open.spotify.com/recaptcha/fraud
 ||kcbebpslutvqvbi.com^
 ||wycicvvtc.com^
 ||gbztputcfgp.com^
+||irmyckddtm.com^
+||mvfmdfsvoq.com^
+||kkdhgpiw.com^
+||flyxprlod.com^
+||ijqnlwdqiyhisc.com^
+||oyrrgnvdwmbc.com^
+||kcsvzkjnqxyw.com^
 www.cosmeticsandtoiletries.com##.node--text-ad-content-type
 www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
@@ -2828,10 +2843,14 @@ news.yahoo.com###module-spotIm
 currently.att.yahoo.com###module-spotIm
 currently.att.yahoo.com###sda-MON
 www.mskcc.org###cassie-widget
+https://selfdecode.com/service/accounts/user/geolocation/
 selfdecode.com##.wt-cli-cookie-bar-container
 selfdecode.com##.css-k0mzwv
 selfdecode.com##.css-1mg6eok
 selfdecode.com##.css-1l4l4f2
+selfdecode.com##.css-pxp87m
+selfdecode.com##[href="/app/gpt"]
+health.selfdecode.com##.sidebar-bio
 ||staging-drugsselfdecode.kinsta.cloud^
 supplements.selfdecode.com##.sponsored
 supplements.selfdecode.com##.sidebar-bio
@@ -3031,7 +3050,6 @@ www.androidauthority.com##div.--_-___ti
 www.androidauthority.com##.--_-___4l
 www.usnews.com##react-trigger > react-trigger
 www.forbes.com##.recirc-module
-health.selfdecode.com##.sidebar-bio
 www.techedubyte.com##ins
 www.benzinga.com##p.core-block.block:nth-of-type(3)
 www.ndtv.com##.stf__block
@@ -3048,7 +3066,6 @@ cryptopanic.com##div:nth-of-type(2) > .section-heading
 cryptopanic.com##[href^="https://stake.com/"]
 cryptopanic.com##.ps--active-y.ps.news-container > div:nth-of-type(1)
 mail.proton.me##.bg-promotion
-selfdecode.com##.css-pxp87m
 youtube.fandom.com##.notifications-placeholder
 japannews.yomiuri.co.jp###tpModal > .modal-content
 japannews.yomiuri.co.jp###tpModal
@@ -3059,7 +3076,6 @@ people.com###mm-ads-leaderboard-header_1-0
 account.cloudresearch.com###promobanners
 www.benzinga.com##.banner-wrapper
 www.benzinga.com##.wp-block-image
-selfdecode.com##[href="/app/gpt"]
 cointelegraph.com##.header-zone__banner
 www.gofundme.com###transcend-consent-manager
 thetvapp.to##[href="/premium"]
@@ -3067,3 +3083,14 @@ thetvapp.to##[href="https://thetvapp.to/contact"]
 https://assets.twitch.tv/assets/pages.embed-chat
 ||www.twitch.tv/embed/icelzz/chat$subdocument
 icelz.to##.channel-header-fixed-buttons
+www.foxnews.com##.fscom-scorestrip
+www.cars.com###prequalified-banner-hook
+https://thetvapp.to/favicon.ico
+thetvapp.to##.ad-placement
+jobzone.publishersweekly.com###candidate-products-promotion
+minaprotocol.com##.adf99
+www.dovepress.com##.psmtc_BuTp
+cryptoslate.com###hypelab-header-unit
+www.iplocation.net##.ip-buttons2.col
+www.iplocation.net##.ip-placeholder > p
+thetvapp.to##.alert-primary.alert
