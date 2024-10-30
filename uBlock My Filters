@@ -32,7 +32,6 @@ $removeparam=sca_upv
 $removeparam=culture
 $removeparam=prmd
 $removeparam=bb
-$removeparam=_rsc
 $removeparam=sourceCode
 $removeparam=parent-reqid
 $removeparam=search_source
