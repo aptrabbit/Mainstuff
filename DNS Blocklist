@@ -1,3 +1,8 @@
+||entitlements.jwplayer.com^
+||invoca.com^
+||invocacdn.com^
+||schemaapp.com^
+||evolv.ai^
 ||diagnostics.redditmedia.com^
 ||concertads-configs.vox-cdn.com^
 ||signaler-pa.youtube.com^
@@ -963,7 +968,6 @@
 ||eventtracking.hubapi.com^
 ||notifier-configs.airbrake.io^
 ||collector.github.com^
-||cdn.schemaapp.com^
 ||m-aus1.contentsquare.net^
 ||block.lmaxdigital.io^
 ||js.klevu.com^
