@@ -228,10 +228,6 @@ $removeparam=visitToken
 ##.pre-header-ad-holder
 ||graph.facebook.com^
 ||xn--$doc,frame
-/qcurrencyFormatter
-/qpixi
-/repo.min.css
-/updated_metadata
 =checkOrigin
 /reporting
 /service-worker
