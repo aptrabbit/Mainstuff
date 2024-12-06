@@ -229,17 +229,10 @@ $removeparam=visitToken
 ||graph.facebook.com^
 ||xn--$doc,frame
 /qpixi
-/register-popup
-/repo.min.css
 /reporting
 /resolveBouncerFlags
 /service-worker
-/sponsored
 /sso_check
-/stat
-/statistics
-/statsd
-/survey/startup
 /updated_metadata
 /utm_params_config
 /visitor-identity
@@ -248,7 +241,6 @@ $removeparam=visitToken
 /xdomaincookie
 /xxAG1
 /ysi.modal
-/zephr
 =AnswerExpandAdLoaderQuery
 =checkOrigin
 /jsNotifyAsDynamic
