@@ -228,7 +228,9 @@ $removeparam=visitToken
 ##.pre-header-ad-holder
 ||graph.facebook.com^
 ||xn--$doc,frame
-=checkOrigin
+/qpixi
+/repo.min.css
+/updated_metadata
 /reporting
 /service-worker
 /sso_check
