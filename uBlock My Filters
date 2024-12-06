@@ -228,6 +228,17 @@ $removeparam=visitToken
 ##.pre-header-ad-holder
 ||graph.facebook.com^
 ||xn--$doc,frame
+/js.cookie
+/js-cookie
+/ABTest
+/get-cookie
+/sentry
+?sentry
+/measurement
+/ingress
+/compliance
+/consent
+/ab_tests
 /nostats
 /mol-fe-paywall
 /wp-parsely
