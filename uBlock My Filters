@@ -231,16 +231,7 @@ $removeparam=visitToken
 /qcurrencyFormatter
 /qpixi
 /repo.min.css
-/resolveBouncerFlags
-/sd_site_alert
-/stat
-/statistics
-/statsd
-/survey/startup
 /updated_metadata
-/utm_params_config
-/w3-report
-/xpromo-nsfw-bypassable
 =checkOrigin
 /reporting
 /service-worker
