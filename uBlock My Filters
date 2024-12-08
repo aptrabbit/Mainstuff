@@ -238,7 +238,6 @@ $removeparam=visitToken
 /event-tickets
 /SocialProof
 /promostickybar
-/modal
 -newsletters
 /PluginEventTracking
 /analytics
@@ -312,6 +311,7 @@ _show_ads
 -comscore
 /ca5a
 /okag
+/cfirebase
 /qpixi
 -google-analytics
 /promotions
