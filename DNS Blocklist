@@ -1,3 +1,5 @@
+||affordably.me^
+||experiment.routing.cloudfront.aws.a2z.com^
 ||link.h-cdn.com^
 ||massbrag.care^
 ||sermo.com^
@@ -75,7 +77,6 @@
 ||diagnostics.redditmedia.com^
 ||concertads-configs.vox-cdn.com^
 ||signaler-pa.youtube.com^
-||widget.affordably.me^
 ||localization.thdws.com^
 ||gigya.com^
 ||zoa.cointelegraph.com^
@@ -442,7 +443,6 @@
 ||silverbullet-external-ats.itunes.apple.com^
 ||dailyfinanceservice.com^
 ||saveonyourpolicy.com^
-||dailyfinanceservice.com^
 ||immuniweb.com^
 ||dissenter-shop.gab.com^
 ||dndbeyond.com^
@@ -654,7 +654,6 @@
 ||sentry22.cointelegraph.com^
 ||db-ip.com^
 ||adjust.com^
-||08ab8934-k8sshareprod-ingr-8f38-1094955180.us-east-1.elb.amazonaws.com^
 ||softwareselect.com^
 ||gbqofs.com^
 ||pubwise.io^
@@ -706,7 +705,6 @@
 ||alchemer.com^
 ||apptentive.com^
 ||hubspotonwebflow.com^
-||getwarmly.com^
 ||flagsmith.com^
 ||myopenpass.com^
 ||sleekplan.com^
@@ -747,8 +745,6 @@
 ||brandmetrics.com^
 ||swoogo.com^
 ||swoogo.events^
-||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
-||prod.idgraph.dt.fox^
 ||ezojs.com^
 ||stats.flixhq.live^
 ||waifugame.com^
@@ -1012,7 +1008,6 @@
 ||w3-reporting-nel.reddit.com^
 ||etl.tindersparks.com^
 ||ui.powerreviews.com^
-||gigya.com^
 ||consent.trustarc.com^
 ||preferences.trustarc.com^
 ||choices.trustarc.com^
@@ -1134,7 +1129,6 @@ cdn.opecloud.com
 ||salesforceliveagent.com^
 ||service.force.com^
 ||grumpydrawer.com^
-||widget.affordably.me^
 ||app.five9.com^
 ||analytics.talentegy.com^
 ||sitestats.ttcportals.com^
