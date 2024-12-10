@@ -228,14 +228,9 @@ $removeparam=visitToken
 ##.pre-header-ad-holder
 ||graph.facebook.com^
 ||xn--$doc,frame
-/feature-telemetry
-/web-js-telemetry-service
-/shop_events
 /logging
 /log
 /logs
-/dwell-log
-/snowday
 pikapod.net/api/send
 shop.app/pay/sdk-session
 reporting-api.herokuapp.com/api
