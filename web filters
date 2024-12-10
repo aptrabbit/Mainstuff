@@ -1529,7 +1529,6 @@ www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##[id^="eob_"]
-www.google.com##.MjjYud
 www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
 www.google.com##.Zes0Mc
