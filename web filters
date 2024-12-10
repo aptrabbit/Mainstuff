@@ -237,6 +237,7 @@ $removeparam=visitToken
 ##.pre-header-ad-holder
 ||graph.facebook.com^
 ||xn--$doc,frame
+/ads.js
 /social-signup
 /leadattribution
 /otSDKStub
