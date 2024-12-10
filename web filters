@@ -197,6 +197,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.njt-gdpr
+##div.newsletterModal
 ##.feedback
 ###cookie-notice
 ###adBlock
@@ -1237,6 +1239,7 @@ crypto.com##.swiper-container-pointer-events
 convertio.co##.rate-us
 getpublii.com##.promo
 docs.amptoken.org###portals-root
+seekingalpha.com###content > div.flex.grow.flex-col:last-child > div.absolute.inset-0.bg-black\/30:last-child
 seekingalpha.com##.banner-image
 seekingalpha.com###paywall_dynamic_ticker
 seekingalpha.com###px-captcha-wrapper
@@ -1525,6 +1528,7 @@ www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##[id^="eob_"]
+www.google.com###.MjjYud
 www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
 www.google.com##.Zes0Mc
@@ -2079,3 +2083,7 @@ knockrentals.com/v1/event
 www.coindesk.com##.h-56
 store.bitcoinmagazine.com###pandectes-banner
 www.healthyhearing.com###hh-sticky-panel
+newstimes.com###modals
+meetmoji.com##mm-cookie-policy
+hotspotty.net###\:r1\:-slider-frame
+duckduckgo.com###li.EcE0RD8NCNGe61Kp815G
