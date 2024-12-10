@@ -229,7 +229,6 @@ $removeparam=visitToken
 ||graph.facebook.com^
 ||xn--$doc,frame
 /logging
-/log
 /logs
 pikapod.net/api/send
 shop.app/pay/sdk-session
