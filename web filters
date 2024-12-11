@@ -220,6 +220,7 @@ $removeparam=visitToken
 ##.sponsored
 ###sponsored
 ##.trending-sponsored
+###customer_satisfaction_survey
 ##.feedback-widget-view
 ###feedback-button-container
 ###feedback-survey
@@ -251,15 +252,16 @@ $removeparam=visitToken
 ##.ad-slot
 ##.advertising__image
 ##.adbox--called
+##.adbox
+###adBlock
+###adImage
+###adPanel
+##.ads__native
 ##.warranty-promo
 ##.text-banner
 ##.njt-gdpr
 ##div.newsletterModal
 ###cookie-notice
-###adBlock
-###adImage
-###adPanel
-##.ads__native
 ###signup-popup
 ###onetrust-consent-sdk
 ##.ai-track
@@ -807,8 +809,6 @@ dude-hack.com##.et_pb_code_0.et_pb_code.et_pb_module.et_pb_with_border
 www.rentcafe.com##picture
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 careerkarma.com##.design1.wmpci-popup-wrp.splash
-www.berkeleywellness.com##.lazy.adbox
-www.laweekly.com##.sponsor-wrap
 steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
 kids.nationalgeographic.com###tou-message
 bittrex.com##.banner--container
@@ -1894,7 +1894,6 @@ bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
 gagarin.news##.cookie_1ZGqW
 www.tennisworldusa.org##.top_container > div:nth-of-type(1)
 www.paypal.com##.inv-feedback
-www.paypal.com###customer_satisfaction_survey
 www.paypal.com###ccpaCookieBanner
 www.comingsoon.net##.wp-block-buttons
 www.salary.com##.sovrn-ads
@@ -2074,3 +2073,4 @@ meetmoji.com##mm-cookie-policy
 hotspotty.net###\:r1\:-slider-frame
 duckduckgo.com###li.EcE0RD8NCNGe61Kp815G
 ||zinrelo.com^$removeparam=init_data
+pmc.ncbi.nlm.nih.gov##.usa-accordion
