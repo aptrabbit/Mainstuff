@@ -19,7 +19,6 @@ $removeparam=sefc
 $removeparam=cver
 $removeparam=rn
 $removeparam=rbuf
-$removeparam=srfvp
 $removeparam=txp
 $removeparam=regSource
 $removeparam=spell
