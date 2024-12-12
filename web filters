@@ -1,3 +1,4 @@
+$removeparam=sid
 $removeparam=google_free_listing_action
 $removeparam=lp
 $removeparam=leadsourcename
@@ -308,6 +309,8 @@ $removeparam=visitToken
 ##.demo-avd
 ||graph.facebook.com^
 ||xn--$doc,frame
+/feature-flags
+-adfuel
 -gdpr
 /get_all_activities
 /ads.js
@@ -451,7 +454,6 @@ _show_ads
 /adrecovery
 -commerce-links
 /exit-intent-form
-~newsletter
 /layoutShiftTracker
 /freshchat
 /privacy-notice
@@ -1230,6 +1232,8 @@ www.windowscentral.com##div.article-body__section--wide-desktop.article-body__se
 www.wilderssecurity.com##.noticeContent
 www.torproject.org##.justify-content-center.d-flex.align-middle.banner.banner__containter
 www.hwinfo.com##.xds
+www.nytimes.com##.css-1r939ki
+www.nytimes.com##.e1xxpj0j0
 www.nytimes.com##.css-1wspfld
 www.nytimes.com##.MAG_web_all_Monthly-Sale-dock
 www.nytimes.com###dock-container
@@ -2065,7 +2069,6 @@ thetvapp.to##.alert-primary.alert
 thetvapp.to##.m-2
 www.amazon.com##.rufus-pill
 www.amazon.com###rufus-container
-www.nytimes.com##.e1xxpj0j0
 assets.msn.com/service/community/users/
 ||msn.com^$removeparam=activityId
 ||msn.com^$removeparam=user
