@@ -314,7 +314,6 @@ $removeparam=visitToken
 -adfuel
 -gdpr
 /get_all_activities
-/ads.js
 /social-signup
 /leadattribution
 /otSDKStub
