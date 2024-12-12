@@ -1,3 +1,4 @@
+||plus.l.google.com^
 ||myaccount.nytimes.com^$important
 ||meter-svc.nytimes.com^
 ||featureassets.org^
@@ -732,7 +733,7 @@
 ||s.w-x.co^
 ||effulgenttempest.com^
 ||qualified.com^
-||sprig.com^
+||sprig.com^$important
 ||site.com^
 ||alchemer.com^
 ||apptentive.com^
@@ -799,7 +800,7 @@
 ||shazam-insights.cdn-apple.com^
 ||shazam-insights.g.aaplimg.com^
 ||commonservice.io^
-||sardine.ai^
+||sardine.ai^$important
 ||medtargetsystem.com^
 ||netseer-ipaddr-assoc.xy.fbcdn.net^
 ||netseer-ipaddr-assoc.xz.fbcdn.net^
