@@ -211,6 +211,8 @@ $removeparam=visitToken
 ###gdpr-cookie-notice-handle
 ##.CookieAcceptance
 ##.CookieNotice
+##.cookie-msg
+###cookie-msg
 ##.cookies
 ##.cookie
 ###cookieoptinoverlay
@@ -220,6 +222,7 @@ $removeparam=visitToken
 ##.sponsored
 ###sponsored
 ##.trending-sponsored
+###affiliateDisclaimer
 ###customer_satisfaction_survey
 ##.feedback-widget-view
 ###feedback-button-container
@@ -237,6 +240,7 @@ $removeparam=visitToken
 ##.ad-bottom-spacing
 ##.advertisement-left
 ##.adtech-section
+##.pre-header-ad-holder
 ##.ads__inline
 ##.ads-container
 ##.advertising
@@ -256,7 +260,12 @@ $removeparam=visitToken
 ###adBlock
 ###adImage
 ###adPanel
+###my-banner-ad
 ##.ads__native
+##.adv-link
+##.afs_ads
+##.sidearm-adblock
+###sidearm-adblock
 ##.warranty-promo
 ##.text-banner
 ##.njt-gdpr
@@ -279,9 +288,7 @@ $removeparam=visitToken
 ##.gdpr__notice
 ##[href^="https://hugewin.com/"]
 ###upprev_box
-###my-banner-ad
 ###js-notice-newsletter
-##.adv-link
 ###reaction-form-wrapper
 ##.top-level-modal-container
 ##.windows-app-upsell
@@ -292,7 +299,8 @@ $removeparam=visitToken
 ###google-hats-survey
 ##.tss-mnxmcd-cookiesBannerRoot
 ###tbl-next-up
-##.pre-header-ad-holder
+##.gs_qsuggest_wrap
+##.demo-avd
 ||graph.facebook.com^
 ||xn--$doc,frame
 -gdpr
@@ -748,7 +756,6 @@ www.laptopmag.com##.slot-topOfSidebar
 www.laptopmag.com##.slot-beforePopularBox
 www.laptopmag.com##.slot-leaderboard
 www.laptopmag.com##.slot-afterPopularBox
-www.laptopmag.com###affiliateDisclaimer
 www.laptopmag.com##.hawk-main-transparent
 www.laptopmag.com##.slot-lightbox1
 www.chess.com###upgrade-modal
@@ -759,7 +766,6 @@ www.techradar.com##.slot-beforePopularBox
 www.techradar.com##.slot-afterPopularBox
 www.techradar.com##.slot-double-height-6-566
 www.techradar.com##.slot-double-height-image-6
-www.techradar.com###affiliateDisclaimer
 genius.com##apple-music-player
 www.swipehelper.com###tysixjhbu-blanket
 www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
@@ -1634,6 +1640,7 @@ projects.fivethirtyeight.com###ad
 www.snopes.com##.banner_ad_between_sections
 www.snopes.com##.become_member_section
 www.realclearpolitics.com###distro_right_rail
+ups.com###nuance-chat-anchored-mob
 ||ups.com^$removeparam=SourceCode
 ||ups.com^$removeparam=dtm_em
 ||ups.com^$removeparam=message_id 
