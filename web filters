@@ -309,6 +309,7 @@ $removeparam=visitToken
 ##.demo-avd
 ||graph.facebook.com^
 ||xn--$doc,frame
+/meter.js
 /feature-flags
 -adfuel
 -gdpr
