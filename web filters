@@ -201,8 +201,6 @@ $removeparam=visitToken
 ##.CookieNotice
 ##.cookie-msg
 ###cookie-msg
-##.cookies
-##.cookie
 ###cookieoptinoverlay
 ###gdpr-cookie-message
 ###js-cookie-notification
