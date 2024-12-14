@@ -214,6 +214,57 @@ $removeparam=visitToken
 ##.js-consent-banner
 ##.custom-cookie-consent
 ###gdpr-cookie-notice-handle
+##.ad-svg
+##.ad-placement
+##.ad-slot
+##.advertising__image
+##.adbox--called
+##.adbox
+###adBlock
+###adImage
+###adPanel
+##.wrap-ad
+###my-banner-ad
+##.ads__native
+##.adv-link
+##.afs_ads
+##.sidearm-adblock
+###sidearm-adblock
+##.warranty-promo
+##.text-banner
+##.njt-gdpr
+##div.newsletterModal
+###cookie-notice
+###signup-popup
+###onetrust-consent-sdk
+##.ai-track
+###widget-rightUpsellSlot
+###age-gate
+##.pb-ad
+##.bg-promotion
+##.recirculation
+##.sponsoredArticle
+##.coin-ad-banner
+##ul.core-block
+##.crayons-story__billboard
+##.ad-container
+##.clickout-banner-regular_native_box-bottom
+##.gdpr__notice
+##[href^="https://hugewin.com/"]
+###upprev_box
+###js-notice-newsletter
+###reaction-form-wrapper
+##.top-level-modal-container
+##.windows-app-upsell
+###digi-button
+##.affiliate
+###klaro
+###subscribe-incite-modal
+###google-hats-survey
+##.tss-mnxmcd-cookiesBannerRoot
+###tbl-next-up
+##.gs_qsuggest_wrap
+##.demo-avd
 ||graph.facebook.com^
 ||xn--$doc,frame
 /omtr
@@ -1349,16 +1400,13 @@ bitcoinist.com##.widget_premium_partners
 bitcoinist.com##.widget_featured_companies
 www.complex.com###spotim-specific [src]
 www.asiablockchainreview.com##.pull-bottom
-www.foxnews.com##.fscom-scorestrip
 www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more
 www.foxnews.com##.collection-trending
 www.foxnews.com##.is-programming.alert-banner
-www.foxnews.com##.has-load-more.collection-fox-nation.collection
-www.foxnews.com##.video-player.m > [href="http://video.foxnews.com/v/6245703562001"]
+www.foxnews.com##.collection-fox-nation
 www.foxnews.com##.article-social
 www.foxnews.com##[href] > strong
 www.foxnews.com##strong > [href]
-www.foxnews.com##.sticky-region
 ||widget.portis.io/$subdocument
 www.buckscountycouriertimes.com##.gnt_pm
 www.newsbtc.com##.widget_svecc_reviews
