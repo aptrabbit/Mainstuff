@@ -222,6 +222,7 @@ $removeparam=visitToken
 ###gdpr-cookie-message
 ###js-cookie-notification
 ##.cookieConsentWrapper
+##.header__sponsored-logo
 ##.sponsored
 ###sponsored
 ##.trending-sponsored
@@ -241,6 +242,7 @@ $removeparam=visitToken
 ##.footer-popup-ad
 ##.fixed-sidebar-ad
 ##.leaderboard-top-ad
+##.single-post-hero-ad
 ##.ad-bottom-spacing
 ##.advertisement-left
 ##.adtech-section
@@ -942,11 +944,9 @@ coinguides.org##.q2w3-fixed-widget-container.theiaStickySidebar
 cryptocoin.news##.ccpw-header-ticker-fixedbar.ccpw-ticker-cont.style-1-2
 www.digit.in##.avg_height
 www.britannica.com##.rr-module-1.rr-module
-selfhacked.com##.sh-et-7388fa.sponsored.shp-form.sh-partner
-selfhacked.com##.sh-et-7388fa.sponsored.shp-button.sh-partner
+selfhacked.com##.sponsored
 selfhacked.com##.end-of-post
 selfhacked.com##.post-ratings-wrapper
-selfhacked.com##.sponsored-full-width.sponsored
 benchmarks.ul.com##.clearfix.defaultbox
 www.virginiaent.com##.hide
 www.precisiononcologynews.com##.footer__ads-footer
@@ -1116,7 +1116,6 @@ www.qmee.com##.show-0-2-15.prerender-0-2-14
 mail.protonmail.com##.topnav-link--blackfriday
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
-||casinobonusesnow.com^
 www.lasfit.com###soundest-forms-container
 u.today##.something--fixed
 u.today##a.card--something.card
@@ -1431,9 +1430,7 @@ walletinvestor.com##[href^="https://premium.walletinvestor.com/"]
 capital.com##.shares
 ||bitcoinist.com/cryptocom-iframe.html$subdocument
 bitcoinist.com##.play-games
-bitcoinist.com##.header__sponsored-logo
 bitcoinist.com##.svecc-header-price
-bitcoinist.com##.single-post-hero-ad
 bitcoinist.com##.light-mode__stuff
 bitcoinist.com###menu-item-167788
 bitcoinist.com###menu-item-148791
@@ -1457,7 +1454,6 @@ www.newsbtc.com##.litespeed-loaded
 www.newsbtc.com##.svecc-widget-title
 www.newsbtc.com##.header-price-container
 www.newsbtc.com##.widget_custom_html
-www.newsbtc.com##.single-post-hero-ad
 www.newsbtc.com##.cryptocom-price-widget
 www.newsbtc.com###menu-item-458696
 www.newsbtc.com###menu-item-470793
