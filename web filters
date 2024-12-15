@@ -312,6 +312,7 @@ $removeparam=visitToken
 ##.demo-avd
 ||graph.facebook.com^
 ||xn--$doc,frame
+/custom-event
 /fragment
 /omtr
 /meter.js
@@ -1644,6 +1645,8 @@ ups.com###nuance-chat-anchored-mob
 ||ups.com^$removeparam=message_id 
 ||ups.com^$removeparam=lp
 ||twitter.com^$removeparam=s
+/endpoints.Ads
+https://api.twitter.com/live_pipeline/events
 twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
 twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
@@ -1651,8 +1654,7 @@ twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recomme
 twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
 twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
 twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
-/endpoints.Ads
-https://api.twitter.com/live_pipeline/events
+twitter.com,x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
 help.twitter.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
 www.wcostream.tv###star-watch-on
