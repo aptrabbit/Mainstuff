@@ -234,6 +234,7 @@ $removeparam=visitToken
 ##.feedback-sticky
 ##.feedback
 ###feedback
+###skyline
 ##.subscriber-ad
 ##.coin-ads
 ##.results-ad-container
@@ -264,10 +265,12 @@ $removeparam=visitToken
 ###adImage
 ###adPanel
 ##.wrap-ad
+##.side_float_ad
 ###my-banner-ad
 ##.ads__native
 ##.adv-link
 ##.afs_ads
+##.top-ad-banner
 ##.sidearm-adblock
 ###sidearm-adblock
 ##.warranty-promo
@@ -739,7 +742,7 @@ www.gamingscan.com##.fs-top-of-content
 www.bankrate.com##.myFinance-ad-unit
 www.guidingtech.com##div.space-two.layer-one.resetcoords.fill-bb-white.campaign-ad
 www.studiowide.co.uk###swpopup-wrapper
-www.britannica.com##.marketing-slider.marketing-SLIDERm
+www.britannica.com##.marketing-slider
 www.dell.com##.ask-question-banner-wrapper
 www.jewage.org##.family_search_popup
 brainly.com##.js-react-brainly-plus-box-aside
@@ -871,8 +874,6 @@ coinpedia.org##.widget_custom_html.widget.container-wrapper.widget_text
 www.mercedes-amg.com##.amg-e-social-share-buttons
 www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
 dentacoin.com##.dcn-privacy-policy-cookie
-www.celebritynetworth.com###skyline
-www.celebritynetworth.com##.side_float_ad.sidebarAdvertContainerBox
 www.celebritynetworth.com###single__bar
 www.verywellhealth.com###mntl-leaderboard-spacer_1-0
 azdailysun.com##.has-promotiom.hidden-print.show-after-loaded.lee-subscription-article-link
@@ -1917,7 +1918,6 @@ www.salary.com##.sovrn-ads
 www.codespot.org##.article-template-module--wrapperMostPopular--3gB9t
 ||www.malwarebytes.com^$removeparam=version
 www.ktbs.com##div.col-md-12
-streamable.com##.top-ad-banner
 www.livemint.com###rhsPopularVideosNotAdFree
 www.livemint.com##.story4.rightBlock
 www.livemint.com##.premiumSlider
@@ -2093,3 +2093,4 @@ cryptopanic.com##.ps.pane-scroll > div > div > div > div > [href]
 cryptopanic.com##.ps.news-container > div:nth-of-type(1)
 cryptopanic.com##.pane-tabs-lg.pane-tabs > a.pane-tab:nth-of-type(2)
 cryptopanic.com##.hotmeter-tab
+whatismyipaddress.com##.warning-button-container
