@@ -197,6 +197,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.marketing-slider
 ###chat-widget
 ##.js-promo
 ##.promo
@@ -206,6 +207,9 @@ $removeparam=visitToken
 ###paywall
 ##.cmp-revoke
 ##.taboola-placeholder
+##.shareLinks
+###share
+###header-social
 ##.footer__social
 ###privacy-notification
 ##.privacy-policy-banner
@@ -227,6 +231,7 @@ $removeparam=visitToken
 ###sponsored
 ##.trending-sponsored
 ###affiliateDisclaimer
+###page-survey
 ###customer_satisfaction_survey
 ##.feedback-widget-view
 ###feedback-button-container
@@ -673,7 +678,6 @@ www.coursehero.com##.flexible-sampling-v1-cta-container > .flexible-sampling-v2-
 www.coursehero.com##.flexible-sampling-v2-cta-container > .flexible-sampling-v2-cta
 www.coursehero.com###out-of-views-wrapper-2 > .h2a.out-of-views-cta
 kubadownload.com##.at-cv-toaster-win.at-cv-animated-toaster.at-cv-win
-vidcloud.siteunblocked.info###share
 ||l99l.org/y/u/$subdocument
 ||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
 sticknodes.com##.filepage-ad-bg
@@ -743,7 +747,6 @@ www.gamingscan.com##.fs-top-of-content
 www.bankrate.com##.myFinance-ad-unit
 www.guidingtech.com##div.space-two.layer-one.resetcoords.fill-bb-white.campaign-ad
 www.studiowide.co.uk###swpopup-wrapper
-www.britannica.com##.marketing-slider
 www.dell.com##.ask-question-banner-wrapper
 www.jewage.org##.family_search_popup
 brainly.com##.js-react-brainly-plus-box-aside
@@ -755,8 +758,6 @@ www.automobilemag.com##._3UB4F
 www.automobilemag.com##.dt-container-xsmall._1TDV3.dt-actionable
 www.automobilemag.com##div._11KmK:nth-of-type(5)
 www.nsmedicaldevices.com##.home_timeline
-vidcloud.siteunblocked.info##iframe[src="https://www.jstatic.org/y/u/index4.php"]:nth-of-type(1)
-vidcloud.siteunblocked.info###header-social
 www.npr.org###global-modal-mount
 www.businessnewsdaily.com##.e15dejzw0.css-md5sep-TransparentContainer
 www.imyfone.com##.left-list
@@ -1874,9 +1875,7 @@ bigbro8fan.weebly.com##[href="https://chrome.google.com/webstore/detail/avast-on
 bigbro8fan.weebly.com##.whatsapp-link
 bigbro8fan.weebly.com##p:nth-of-type(2)
 www.flexjobs.com##.social-proof-rows
-www.flexjobs.com###page-survey
 tech.hindustantimes.com##.entryPointBanner
-tech.hindustantimes.com##.shareLinks
 www.weekand.com##.pt16
 www.weekand.com###Flex1
 workforcenow.adp.com##.hdpi.pac-container
