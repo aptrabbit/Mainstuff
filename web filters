@@ -310,9 +310,7 @@ $removeparam=visitToken
 ###tbl-next-up
 ##.gs_qsuggest_wrap
 ##.demo-avd
-||graph.facebook.com^
 ||xn--$doc,frame
-/custom-event
 /fragment
 /omtr
 /meter.js
