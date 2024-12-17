@@ -1994,7 +1994,6 @@ movie-web.app##.rounded-full.h-11.w-11.tabbable:nth-of-type(3)
 movie-web.app##.p-1.justify-center.items-center.flex.text-white.bg-\[\#C93957\]
 ||search.brave.com^$removeparam=source
 ||yandex.com^$removeparam=from
-www.reddit.com###main-content > shreddit-async-loader
 www.reddit.com##.pt-\[var\(--page-y-padding\)\].v2.xs\:overflow-visible.overflow-x-hidden > form
 reddit.com#@#shreddit-experience-tree
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
