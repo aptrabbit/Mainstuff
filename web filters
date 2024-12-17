@@ -2000,10 +2000,7 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
 https://www.reddit.com/errors
-https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
-/shreddit-sidebar-ad
-/redditads
 ||www.reddit.com^$removeparam=source,important
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
