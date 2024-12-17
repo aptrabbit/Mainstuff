@@ -1997,9 +1997,6 @@ movie-web.app##.p-1.justify-center.items-center.flex.text-white.bg-\[\#C93957\]
 www.reddit.com##.pt-\[var\(--page-y-padding\)\].v2.xs\:overflow-visible.overflow-x-hidden > form
 reddit.com#@#shreddit-experience-tree
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
-https://www.redditstatic.com/js/tags-slim.js
-https://www.reddit.com/counters/
-https://www.reddit.com/errors
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=source,important
 ||www.reddit.com^$removeparam=rdt,important
