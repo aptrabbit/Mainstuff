@@ -316,6 +316,14 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/piano
+-piano
+-registerwall
+-register_wall
+/registerwall
+/register_wall
+_register_wall
+/ping
 /fragment
 /omtr
 /meter.js
@@ -346,7 +354,6 @@ $removeparam=visitToken
 /@meetelise
 /adwords
 /cookietest
-.comscore
 /livevisitors
 /sso_check
 /HubspotTools
@@ -402,6 +409,8 @@ _stat.js
 /acc.redirectEventTracker
 /slide-analytics
 _show_ads
+/comscore
+.comscore
 -comscore
 /ca5a
 /okag
@@ -524,6 +533,7 @@ _pixel
 /mktg-analytics
 /careers-analytics
 /bidexchange
+-prebid
 /prebid
 /mod-events
 /gif?events
@@ -562,8 +572,6 @@ _pixel
 /campaign-views
 /generate_204
 /aping
-/ping
-/pings
 /feedback-link
 /statistics
 /api/stats
@@ -2089,3 +2097,5 @@ cryptopanic.com##.ps.news-container > div:nth-of-type(1)
 cryptopanic.com##.pane-tabs-lg.pane-tabs > a.pane-tab:nth-of-type(2)
 cryptopanic.com##.hotmeter-tab
 whatismyipaddress.com##.warning-button-container
+https://www.axios.com/api/v1/user-permissions
+independent.co.uk/external-api/liveblog
