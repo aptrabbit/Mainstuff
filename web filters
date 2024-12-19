@@ -199,7 +199,6 @@ $removeparam=aff_sub2
 $removeparam=visitToken
 ||xn--$doc,frame
 /googletagmanager
-/pixel
 pikapod.net/api/send
 shop.app/pay/sdk-session
 reporting-api.herokuapp.com/api
