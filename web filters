@@ -198,10 +198,8 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 ||xn--$doc,frame
-/collector
-/visitor-identity
-/oneTrustApp
-/service-worker
+/googletagmanager
+/pixel
 pikapod.net/api/send
 shop.app/pay/sdk-session
 reporting-api.herokuapp.com/api
