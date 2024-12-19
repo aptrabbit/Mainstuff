@@ -202,9 +202,6 @@ $removeparam=visitToken
 /visitor-identity
 /oneTrustApp
 /service-worker
-/googletagmanager
-/pixel
-/paymentPageEvents
 pikapod.net/api/send
 shop.app/pay/sdk-session
 reporting-api.herokuapp.com/api
