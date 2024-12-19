@@ -217,9 +217,6 @@ _pixel
 /googletagmanager
 /pixel
 /paymentPageEvents
-/statsd
-/get-user-privacy
-/resolveBouncerFlags
 pikapod.net/api/send
 shop.app/pay/sdk-session
 reporting-api.herokuapp.com/api
