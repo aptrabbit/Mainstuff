@@ -197,6 +197,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##+js(set-constant, admiral, noopFunc)
 ##.marketing-slider
 ###chat-widget
 ##.js-promo
@@ -316,6 +317,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/firebase-messaging
+/cfirebase
 /piano
 -piano
 -registerwall
@@ -414,7 +417,6 @@ _show_ads
 -comscore
 /ca5a
 /okag
-/cfirebase
 /qpixi
 -google-analytics
 /promotions
@@ -527,6 +529,7 @@ _pixel
 /adsense
 /showads
 /adblock
+/ad_
 /bug-snag
 /intromercial
 /nav-analytics
