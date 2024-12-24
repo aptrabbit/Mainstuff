@@ -317,10 +317,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/ingress
 _prebid
 _prebid_blocker
 /ad-block
-/firebase-messaging
 /cfirebase
 /piano
 -piano
@@ -330,7 +330,6 @@ _prebid_blocker
 /register_wall
 _register_wall
 /ping
-/fragment
 /omtr
 /meter.js
 /feature-flags
@@ -2105,3 +2104,4 @@ cryptopanic.com##.hotmeter-tab
 whatismyipaddress.com##.warning-button-container
 https://www.axios.com/api/v1/user-permissions
 independent.co.uk/external-api/liveblog
+apnews.com/fragment
