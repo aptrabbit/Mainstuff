@@ -197,6 +197,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cta-modal
+##.cta-dynamic-wrapper
 ##+js(set-constant, admiral, noopFunc)
 ##.marketing-slider
 ###chat-widget
@@ -251,6 +253,7 @@ $removeparam=visitToken
 ##.single-post-hero-ad
 ##.ad-bottom-spacing
 ##.advertisement-left
+###advertorial-container
 ##.adtech-section
 ##.pre-header-ad-holder
 ##.ads__inline
@@ -687,9 +690,8 @@ sourceforge.net###dlp-voip-quote
 www.coursehero.com##.ch-aaq-widget
 www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
 ||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
-www.coursehero.com##.flexible-sampling-v1-cta-container > .flexible-sampling-v2-cta
-www.coursehero.com##.flexible-sampling-v2-cta-container > .flexible-sampling-v2-cta
-www.coursehero.com###out-of-views-wrapper-2 > .h2a.out-of-views-cta
+www.coursehero.com##.flexible-sampling-v2-cta
+www.coursehero.com##.out-of-views-cta
 kubadownload.com##.at-cv-toaster-win.at-cv-animated-toaster.at-cv-win
 ||l99l.org/y/u/$subdocument
 ||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
@@ -937,7 +939,7 @@ www.cryptocompare.com##.ng-scope.featured-mining-guide.well-coin-page
 www.cryptocompare.com##.ci-trigger > .ng-isolate-scope
 www.wikihow.com##.show
 www.statnews.com##.dfp-ad-midbreaker-wrap
-www.statnews.com##.stat-plus-article-cta.widget-default.widget
+www.statnews.com##.stat-plus-article-cta
 healthtechmagazine.net##.ui-front.ui-widget-overlay
 healthtechmagazine.net##.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
 healthtechmagazine.net###block-googlesidebarad
@@ -1088,7 +1090,6 @@ troypoint.com##div.code-block-8.code-block
 troypoint.com##.su-box-style-.su-box
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
-www.linkedin.com##.show.cta-modal
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
 www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
 www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
@@ -1382,12 +1383,12 @@ www.speedtest.net##.eot-box-wrapper
 www.autolist.com##.jsx-2866408628
 www.autolist.com##.carfax
 www.fool.com###topnav-picks
-www.fool.com##.alert-info.page-alert
+www.fool.com##.page-alert
 www.fool.com###market_performance
 www.fool.com##.special-message
 www.fool.com###best-next-section
 www.fool.com###services-section
-www.fool.com##.my-5.blk__ecap-wrapper--hubspot-injected.blk__ecap-wrapper.blk__ecap.blk__cta.row
+www.fool.com##.blk__cta
 www.fool.com##.art__pitch
 www.fool.com###hp-sa-splash
 www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.sm\:mt-36px.mt-16px.article-redesign-cta-banner.shadow-md.border
@@ -1396,7 +1397,6 @@ www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
 www.fool.com###sa-returns-sidebar-wrapper
 www.fool.com##.py-3
 www.fool.com##.modal
-www.insidermonkey.com###advertorial-container
 www.insidermonkey.com###shadow
 www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
@@ -2105,3 +2105,5 @@ whatismyipaddress.com##.warning-button-container
 https://www.axios.com/api/v1/user-permissions
 independent.co.uk/external-api/liveblog
 apnews.com/fragment
+taboola.com/2.0/json/yahoo-mail/recommendations
+afinil.com###elementor-popup-modal-183062
