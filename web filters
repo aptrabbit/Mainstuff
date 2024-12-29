@@ -1,3 +1,4 @@
+$removeparam=gtm
 $removeparam=sid
 $removeparam=google_free_listing_action
 $removeparam=lp
@@ -321,6 +322,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/new-relic
+/newrelic
 /ingress
 _prebid
 _prebid_blocker
@@ -392,7 +395,6 @@ _adframe
 =NudgeStatsTracker
 /utm_params_config
 -consent-guard
-/newrelic
 /bing
 /collector
 /visitor-identity
@@ -1429,6 +1431,7 @@ www.exodus.com##.x-page-side-buttons
 www.mycointainer.com##.dashboard_subscription__1Yh7D
 www.mycointainer.com##.cookieModal_wrapper__1LIJB
 www.mycointainer.com##.cookieModal_wrapper__1GJkY
+www.stakingrewards.com##.relative.bg-customGradientTopBar
 www.stakingrewards.com##.ticker_ticker__9Jcrk
 www.stakingrewards.com##.asset_asset-links__IgmZ6
 www.stakingrewards.com##.banner_native-ad-container-small__q_jmD
