@@ -1755,6 +1755,7 @@ worldpopulationreview.com##.my-2.center
 ||www.startpage.com^$removeparam=extVersion
 ||www.startpage.com^$removeparam=t
 ||www.startpage.com^$removeparam=lui
+www.startpage.com###home-below-the-fold-container
 www.startpage.com##div.app-banner-promo-container
 www.startpage.com##div.privacy-extension-and-app-widget
 www.startpage.com##.block-display
