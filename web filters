@@ -218,6 +218,7 @@ $removeparam=visitToken
 ##.privacy-policy-banner
 ##.privacyConsent
 ###ac-wrapper
+###cookieConsentBannerContainer
 ##.js-consent-banner
 ##.custom-cookie-consent
 ###gdpr-cookie-notice-handle
@@ -1754,12 +1755,13 @@ worldpopulationreview.com##.my-2.center
 ||www.startpage.com^$removeparam=extVersion
 ||www.startpage.com^$removeparam=t
 ||www.startpage.com^$removeparam=lui
-www.startpage.com##.css-54mn9i
-www.startpage.com##.css-1pducxn
-www.startpage.com##.css-1o12sfa
+www.startpage.com##div.privacy-extension-and-app-widget
 www.startpage.com##.block-display
 www.startpage.com##.footer__links
 www.startpage.com##.footer__blog-widget
+www.startpage.com##.css-54mn9i
+www.startpage.com##.css-1pducxn
+www.startpage.com##.css-1o12sfa
 www.startpage.com##.css-bxdaet
 www.startpage.com##.ay-eo-tpcl
 www.researchgate.net##.rg-us-cookie-banner
