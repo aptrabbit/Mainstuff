@@ -1,3 +1,4 @@
+$removeparam=alr
 $removeparam=gQT
 $removeparam=gtm
 $removeparam=sid
@@ -324,6 +325,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/marketing.js
 /jnn
 /new-relic
 /newrelic
