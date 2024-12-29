@@ -199,6 +199,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.gift-banner
 ##.cta-modal
 ##.cta-dynamic-wrapper
 ##+js(set-constant, admiral, noopFunc)
@@ -323,6 +324,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/jnn
 /new-relic
 /newrelic
 -newrelic
@@ -1063,11 +1065,6 @@ en.chessbase.com###askForCookiesBackground
 polkadot.subscan.io##.banner
 www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
 www.cryptoninjas.net##.widget_text.widget
-cryptopanic.com##.news-row-sponsored
-cryptopanic.com##.text-ad-item
-cryptopanic.com##.pane-inner
-cryptopanic.com##div:nth-of-type(1) > .section-heading
-cryptopanic.com#@#.social-login
 thekrazycouponlady.com#@#.share-buttons
 enotes.com##+js(rc, is-paywalled)
 www.genomeweb.com##.footer__ads-footer
@@ -2049,12 +2046,23 @@ dlhd.so##p
 dlhd.so###footer
 www.pcgs.com##div.text-xsmall
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-medium-round.ytp-ce-website.ytp-ce-element
+cryptopanic.com##div.app-layout:first-child > div.app-left-pane.app-pane:first-child > div.left-nav:nth-child(2) > a.left-nav-item:nth-child(6)
+cryptopanic.com##div.app-layout:first-child > div.app-center-pane:nth-child(2) > div.app-main-container:first-child > div.app-content-panes > div.app-main-pane:first-child > div.news-container:nth-child(3) > div:first-child
+cryptopanic.com##.ps--active-y.ps.news-container > div:nth-of-type(1)
+cryptopanic.com##.news-row-sponsored
+cryptopanic.com##.text-ad-item
+cryptopanic.com##.pane-inner
+cryptopanic.com##div:nth-of-type(1) > .section-heading
+cryptopanic.com#@#.social-login
 cryptopanic.com##.app-layout > div:nth-of-type(4) > div
 cryptopanic.com##.ps--active-y.ps.pane-scroll > div > div > div > div > [href]
 cryptopanic.com##div > .color-yellow
 cryptopanic.com##div:nth-of-type(2) > .section-heading
 cryptopanic.com##[href^="https://stake.com/"]
-cryptopanic.com##.ps--active-y.ps.news-container > div:nth-of-type(1)
+cryptopanic.com##.ps.pane-scroll > div > div > div > div > [href]
+cryptopanic.com##.ps.news-container > div:nth-of-type(1)
+cryptopanic.com##.pane-tabs-lg.pane-tabs > a.pane-tab:nth-of-type(2)
+cryptopanic.com##.hotmeter-tab
 youtube.fandom.com##.notifications-placeholder
 japannews.yomiuri.co.jp###tpModal > .modal-content
 japannews.yomiuri.co.jp###tpModal
@@ -2108,13 +2116,10 @@ hotspotty.net###\:r1\:-slider-frame
 duckduckgo.com###li.EcE0RD8NCNGe61Kp815G
 ||zinrelo.com^$removeparam=init_data
 pmc.ncbi.nlm.nih.gov##.usa-accordion
-cryptopanic.com##.ps.pane-scroll > div > div > div > div > [href]
-cryptopanic.com##.ps.news-container > div:nth-of-type(1)
-cryptopanic.com##.pane-tabs-lg.pane-tabs > a.pane-tab:nth-of-type(2)
-cryptopanic.com##.hotmeter-tab
 whatismyipaddress.com##.warning-button-container
 https://www.axios.com/api/v1/user-permissions
 independent.co.uk/external-api/liveblog
 apnews.com/fragment
 taboola.com/2.0/json/yahoo-mail/recommendations
 afinil.com###elementor-popup-modal-183062
+coingape.com##div.mh-container:nth-child(5)
