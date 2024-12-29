@@ -1,3 +1,4 @@
+$removeparam=gQT
 $removeparam=gtm
 $removeparam=sid
 $removeparam=google_free_listing_action
@@ -324,6 +325,8 @@ $removeparam=visitToken
 ||xn--$doc,frame
 /new-relic
 /newrelic
+-newrelic
+-new-relic
 /ingress
 _prebid
 _prebid_blocker
@@ -520,6 +523,7 @@ _pixel
 /dmp.advertising
 /displayAds
 /google-ads
+.headads
 -ads-grid
 -rail-ads
 -banner-ads
