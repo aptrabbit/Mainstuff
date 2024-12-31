@@ -34,7 +34,6 @@ $removeparam=outclicked
 $removeparam=redirectlocale
 $removeparam=redirectslug
 $removeparam=sca_upv
-$removeparam=culture
 $removeparam=prmd
 $removeparam=bb
 $removeparam=_rsc
@@ -108,7 +107,6 @@ $removeparam=X-Bogus
 $removeparam=screen_width
 $removeparam=screen_height
 $removeparam=root_referer
-$removeparam=referer
 $removeparam=originalreferer
 $removeparam=referer_video_id
 $removeparam=permissionList
@@ -343,7 +341,6 @@ _prebid_blocker
 /registerwall
 /register_wall
 _register_wall
-/ping
 /omtr
 /meter.js
 /feature-flags
