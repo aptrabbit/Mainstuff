@@ -323,6 +323,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/track.html
+/pixels
 -clicktrack
 /clicktrack
 _clicktrack
