@@ -26,7 +26,6 @@ $removeparam=rbuf
 $removeparam=txp
 $removeparam=regSource
 $removeparam=spell
-$removeparam=a
 $removeparam=showPopup
 $removeparam=lvcode
 $removeparam=chainedPosts
@@ -323,6 +322,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-clicktrack
+/clicktrack
+_clicktrack
 /socialshare
 -spam-filter
 /marketing.js
@@ -615,7 +617,6 @@ _pixel
 =checkOrigin
 /?experiment
 /marketingIntents
-/mone
 /koala
 /datadog
 /mol-adverts
@@ -1545,7 +1546,6 @@ www.cnbc.com###Market\ Data_LiveTVTempPass
 www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 www.twitch.tv###twilight-sticky-footer-root
 twitch.tv##+js(twitch-videoad)
-chrome.google.com##.Yb
 scholar.google.com##.gs_r.gs_qsuggest_wrap
 support.google.com##.user-feedback-link
 support.google.com##sc-client-feedback-inline-feedback-link
