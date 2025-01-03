@@ -197,6 +197,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###tracking-consent-banner
 ##.gift-banner
 ##.cta-modal
 ##.cta-dynamic-wrapper
@@ -575,7 +576,6 @@ _pixel
 /cookieTemplate
 /cookie-popup
 /compliance
-/consent
 /ab_tests
 /get-cookie
 /measurement
