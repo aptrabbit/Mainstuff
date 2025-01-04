@@ -324,7 +324,6 @@ $removeparam=visitToken
 ##.demo-avd
 ||xn--$doc,frame
 /track.html
-/pixels
 -clicktrack
 /clicktrack
 _clicktrack
@@ -2125,3 +2124,7 @@ apnews.com/fragment
 taboola.com/2.0/json/yahoo-mail/recommendations
 afinil.com###elementor-popup-modal-183062
 coingape.com##div.mh-container:nth-child(5)
+elevenlabs.io##.gap-y-0.z-1.relative.grid-layout.container
+elevenlabs.io##canvas
+elevenlabs.io##.breakout
+www.youtube.com###clarify-box
