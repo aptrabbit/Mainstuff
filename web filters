@@ -399,7 +399,6 @@ _adframe
 /bclean
 -analytics-api
 /clicktrack
-/ysi.modal
 =NudgeStatsTracker
 /utm_params_config
 -consent-guard
@@ -1794,10 +1793,10 @@ nordiqnutrition.com##.et_bloom_animated
 ||www.indeed.com^$removeparam=assa
 www.indeed.com##.google-Only-Modal
 ||a-z-animals.com^$removeparam=from
-/youtube_outline/share
 /web-animations-next-lite
 https://www.youtube.com/getDatasyncIdsEndpoint
 https://www.youtube.com/pcs/activeview
+www.youtube.com###clarify-box
 www.youtube.com##ytd-ad-slot-renderer
 www.youtube.com###offer-module
 www.youtube.com##yt-related-chip-cloud-renderer
@@ -2127,4 +2126,3 @@ coingape.com##div.mh-container:nth-child(5)
 elevenlabs.io##.gap-y-0.z-1.relative.grid-layout.container
 elevenlabs.io##canvas
 elevenlabs.io##.breakout
-www.youtube.com###clarify-box
