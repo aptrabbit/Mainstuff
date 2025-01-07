@@ -327,6 +327,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/empty.js
+/services/newsletter
+/freewheel
 /privacy-api
 /tetro
 /ReaderRevenue
@@ -353,6 +356,7 @@ _prebid_blocker
 /cfirebase
 /piano
 -piano
+_piano
 -registerwall
 -register_wall
 /registerwall
