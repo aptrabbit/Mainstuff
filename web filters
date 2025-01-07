@@ -327,6 +327,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/BrazeMessaging
+/braze
+/SetABTests
+/SetAdTargeting
+/StickyBottomBanner
 /viafoura
 /track.html
 -clicktrack
@@ -469,7 +474,6 @@ _show_ads
 /survey/startup
 /ad-inserter
 ?events
-/braze
 /tpTracking
 -popup-newsletter
 /al.gif
@@ -1614,6 +1618,7 @@ www.theblockcrypto.com##article.feedCard:nth-of-type(1)
 www.theblockcrypto.com##.daily.feedCard
 www.ncbi.nlm.nih.gov##.custom-feedback-button--base
 www.crunchbase.com##.native-magic-side
+www.theguardian.com##.dcr-v2o9qm
 www.theguardian.com##.css-9aekbr
 www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
