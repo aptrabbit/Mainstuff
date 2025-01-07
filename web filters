@@ -333,8 +333,6 @@ $removeparam=visitToken
 -pixel
 /web-pixel
 _pixel
-/notifications
--notifications
 /bidding.js
 /empty.js
 /services/newsletter
