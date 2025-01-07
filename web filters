@@ -328,6 +328,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/pixel.js
+-pixel
+/web-pixel
+_pixel
 /notifications
 -notifications
 /bidding.js
@@ -533,9 +537,6 @@ _show_ads
 /sassy-social-share
 /nielsen
 /impression
--pixel
-/web-pixel
-_pixel
 /click_tracking
 /reporter
 /health-check
