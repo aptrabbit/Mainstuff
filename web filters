@@ -1,3 +1,4 @@
+$removeparam=cnr
 $removeparam=alr
 $removeparam=gQT
 $removeparam=gtm
@@ -197,6 +198,9 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.viafoura-comments
+##.viafoura
+###policy_div
 ###tracking-consent-banner
 ##.gift-banner
 ##.cta-modal
@@ -323,6 +327,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/viafoura
 /track.html
 -clicktrack
 /clicktrack
