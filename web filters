@@ -327,6 +327,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/privacy-api
+/tetro
 /ReaderRevenue
 /BrazeMessaging
 /braze
@@ -361,6 +363,7 @@ _register_wall
 /feature-flags
 -adfuel
 -gdpr
+_gpdr
 /get_all_activities
 /ads.js
 /social-signup
