@@ -1,3 +1,4 @@
+$removeparam=psc
 $removeparam=cnr
 $removeparam=alr
 $removeparam=gQT
@@ -14,7 +15,6 @@ $removeparam=sstk
 $removeparam=analytics_trace_id
 $removeparam=mx
 $removeparam=referpage
-$removeparam=c
 $removeparam=ratebypass
 $removeparam=__coig_login
 $removeparam=fvip
