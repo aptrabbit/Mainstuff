@@ -329,6 +329,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/google_ads
 /socials
 /crossapp/identity
 /locateservice
@@ -2063,6 +2064,7 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
 www.seoreviewtools.com##.special-content
+timesofindia.indiatimes.com##.noPaddingTitle
 timesofindia.indiatimes.com##.xciRh
 timesofindia.com##.D7ys0
 www.androidauthority.com##div.--_-___ti
@@ -2157,4 +2159,3 @@ coingape.com##div.mh-container:nth-child(5)
 elevenlabs.io##.gap-y-0.z-1.relative.grid-layout.container
 elevenlabs.io##canvas
 elevenlabs.io##.breakout
-timesofindia.indiatimes.com##.noPaddingTitle
