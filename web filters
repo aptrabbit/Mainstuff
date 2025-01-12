@@ -199,6 +199,7 @@ $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
 ##.sticky-top-ad
+##.stickymrecad
 ##.viafoura-comments
 ##.viafoura
 ###policy_div
@@ -328,6 +329,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/socials
+/crossapp/identity
+/locateservice
+/webvital
+_webvital
 /otCCPA
 /embed_privacy
 /OneID.js
@@ -2057,9 +2063,8 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
 www.seoreviewtools.com##.special-content
-m.timesofindia.com###readAlso_107027860
-m.timesofindia.com##.D7ys0
-m.timesofindia.com###readNextColumnVariant_107027860
+timesofindia.indiatimes.com##.xciRh
+timesofindia.com##.D7ys0
 www.androidauthority.com##div.--_-___ti
 www.androidauthority.com##.--_-___4l
 www.usnews.com##react-trigger > react-trigger
@@ -2152,3 +2157,4 @@ coingape.com##div.mh-container:nth-child(5)
 elevenlabs.io##.gap-y-0.z-1.relative.grid-layout.container
 elevenlabs.io##canvas
 elevenlabs.io##.breakout
+timesofindia.indiatimes.com##.noPaddingTitle
