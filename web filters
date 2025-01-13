@@ -697,10 +697,6 @@ https://trck.pix.twitch.prod-na.turntable.sonic.advertising
 https://www.gstatic.com/firebasejs/
 https://cdn.cookielaw.org/opt-out/
 https://app-measurement.com/sdk-exp$important
-||js.driftt.com/deploy/assets/index.html$subdocument
-||www.guidancepa.com/wp-content/uploads/2020/02/kratom-for-energy-tropic-health.gif$image
-||www.guidancepa.com/wp-content/uploads/2019/05/cbdpure-order-now.jpg$image
-||heimdalsecurity.com/blog/wp-content/plugins/layered-popups/images/default/city.jpg$image
 en.wikipedia.org##.vector-limited-width-popup
 en.wikipedia.org##.cn-fundraising
 www.coinbase.com##.kuposl
@@ -733,7 +729,6 @@ www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
 www.coursehero.com##.flexible-sampling-v2-cta
 www.coursehero.com##.out-of-views-cta
 kubadownload.com##.at-cv-toaster-win.at-cv-animated-toaster.at-cv-win
-||l99l.org/y/u/$subdocument
 ||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
 sticknodes.com##.filepage-ad-bg
 www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
@@ -1057,8 +1052,9 @@ alternative.me##.container > .block
 www.ibtimes.com##.wf2-animated.wf2-slide-in-top.wf2-popover.grwf2-wrapper
 www.ibtimes.com##.wf2-bg-light.grwf2_backdrop
 www.ibtimes.com##.wf2-bg-dark.grwf2_backdrop
-||cdn.vuukle.com/widgets/index.html$subdocument
 www.ibtimes.com##.discussion
+www.ibtimes.com##.block-sticky
+www.ibtimes.com###block-ibt-comment
 robbreport.com##.sister-links
 www.nccih.nih.gov##footer
 www.trustnodes.com#@#.simple-share
@@ -1248,6 +1244,7 @@ laptopsdeals.net##.sgpb-popup-overlay.sgpb-popup-overlay
 laptopsdeals.net##.sgpb-popup-dialog-main-div-wrapper
 www.lmaxdigital.com###lmax-cookie-bar
 www.lawinsider.com##.padding-1.light-blue-bordered-card
+www.coindesk.com##.h-56
 www.coindesk.com##.newsletter-module-wrapper
 www.coindesk.com##.false.article-com-wrapper
 www.coindesk.com##[href="/sponsored-content/"]
@@ -1547,7 +1544,6 @@ cryptobriefing.com##.extra.sidebar-info
 cryptobriefing.com#@#.newsletter-modal
 cryptobriefing.com##.ub-emb-container
 cryptobriefing.com##.ai-rotate
-www.seobility.net###help-container
 thenftunicorn.com##.tickercontainer
 coincodex.com##.StickyTop
 coincodex.com##.StickyBottom
@@ -1586,6 +1582,7 @@ www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 google.*##[id^="eob_"]
+www.google.com###xe7COe
 www.google.com###taw
 www.google.com##.KGl2dd.fl
 www.google.com##.xtBRad
@@ -1740,9 +1737,9 @@ coinmarketcap.com##.etTLnd
 coinmarketcap.com##.jtGdpG
 coinmarketcap.com##.WrRkp
 coinmarketcap.com##.kHdStr
-https://tonewithough.com
 www.w3schools.com###right
 www.seobility.net###sale_sidebar_content
+www.seobility.net###help-container
 www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
 trailsoffroad.com##.paywall
@@ -2137,10 +2134,7 @@ assets.msn.com/service/community/users/
 https://api.btmessage.com/events
 foundation.mozilla.org##.donate-banner
 foundation.mozilla.org###category-featured-cta
-www.ibtimes.com##.block-sticky
-www.ibtimes.com###block-ibt-comment
 knockrentals.com/v1/event
-www.coindesk.com##.h-56
 store.bitcoinmagazine.com###pandectes-banner
 www.healthyhearing.com###hh-sticky-panel
 newstimes.com###modals
