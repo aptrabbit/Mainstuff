@@ -198,6 +198,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cookie-modal
 ##.sticky-top-ad
 ##.stickymrecad
 ##.viafoura-comments
@@ -470,7 +471,6 @@ _show_ads
 /qpixi
 -google-analytics
 /promotions
--cookies.js
 /cookie-banner
 /RotateCookiesPage
 /marketing_campaign_actions
