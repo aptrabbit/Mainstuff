@@ -1,3 +1,4 @@
+$removeparam=eventReferenceId
 $removeparam=gh_jid
 $removeparam=gh_src
 $removeparam=ctm_campaign
@@ -338,6 +339,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/promo-bar
 /gpp.stub
 /log_event
 /google_ads
@@ -2163,3 +2165,6 @@ coingape.com##div.mh-container:nth-child(5)
 elevenlabs.io##.gap-y-0.z-1.relative.grid-layout.container
 elevenlabs.io##canvas
 elevenlabs.io##.breakout
+www.couponcabin.com##.fancybox-opened
+www.couponcabin.com##.fancybox-overlay-fixed
+www.couponcabin.com###tsp
