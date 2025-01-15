@@ -1,3 +1,5 @@
+$removeparam=gh_jid
+$removeparam=gh_src
 $removeparam=ctm_campaign
 $removeparam=ctm_target
 $removeparam=ctm_source
