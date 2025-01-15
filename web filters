@@ -336,6 +336,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/log_event
 /google_ads
 /socials
 /crossapp/identity
