@@ -339,6 +339,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+?quality=sd
 /promo-bar
 /gpp.stub
 /log_event
@@ -2133,6 +2134,7 @@ thetvapp.to##.col-lg-8 > .pt-3
 thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
 thetvapp.to##.alert-primary.alert
 thetvapp.to##.m-2
+thetvapp.to###loadVideoSD
 www.amazon.com##.rufus-pill
 www.amazon.com###rufus-container
 assets.msn.com/service/community/users/
@@ -2168,3 +2170,4 @@ elevenlabs.io##.breakout
 www.couponcabin.com##.fancybox-opened
 www.couponcabin.com##.fancybox-overlay-fixed
 www.couponcabin.com###tsp
+ip.teoh.io##h1
