@@ -872,9 +872,6 @@ www.doxchannel.com###appBarHeaderContainer
 www.wallstreetoasis.com##.show.modal
 www.wallstreetoasis.com##.show.modal-backdrop
 bravenewcoin.com##app-content-block-component > div > app-content-markdown > .markdown-content > div
-mail.protonmail.com##.latest-upgrade
-mail.protonmail.com##section:nth-of-type(2)
-mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
 www.startengine.com###drift-frame-controller
 winaero.com##.entry-content > div
@@ -1171,7 +1168,6 @@ dailywire.com##+js(rc, css-160lw9c)
 gitlab.com##.trial-link
 ||theglobeandmail.com/pf/dist/engine/react.js$script,1p
 www.qmee.com##.show-0-2-15.prerender-0-2-14
-mail.protonmail.com##.topnav-link--blackfriday
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
 www.lasfit.com###soundest-forms-container
@@ -1190,7 +1186,6 @@ www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
 www.cnn.com##.el-entitlement-.el-entitlement
 languagetool.org##.dock__item--premium.dock__item
 www.artfultea.com##.visible.sqs-popup-overlay
-account.protonmail.com##.topnav-link--blackfriday.relative
 appgrooves.com##.transitions-enabled.sticky-signup-section
 appgrooves.com##.mg-b-16.app-deals-wrapper
 appgrooves.com##.hidden-sm.hidden-xs.leftnav-menus-container > div > .mg-b-16.bordered-radius.page-section
@@ -2171,3 +2166,8 @@ www.couponcabin.com##.fancybox-opened
 www.couponcabin.com##.fancybox-overlay-fixed
 www.couponcabin.com###tsp
 ip.teoh.io##h1
+mail.rotonmail.com##.topnav-link--blackfriday
+mail.protonmail.com##.latest-upgrade
+mail.protonmail.com##section:nth-of-type(2)
+mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
+mail.proton.me##.bg-promotion
