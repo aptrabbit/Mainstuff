@@ -340,6 +340,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/blocked_from_analytics
 /userevents
 -heartbeat
 /heartbeat
@@ -643,6 +644,7 @@ _show_ads
 /get-cookie
 /measurement
 /custom-newsletter
+-sentry
 /sentry
 ?sentry
 /popup-subscribe
@@ -2193,3 +2195,4 @@ mail.protonmail.com##.latest-upgrade
 mail.protonmail.com##section:nth-of-type(2)
 mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 mail.proton.me##.bg-promotion
+www.nowfoods.com##.eu-cookie-compliance-banner--categories
