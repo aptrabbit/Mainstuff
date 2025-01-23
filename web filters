@@ -1,3 +1,4 @@
+$removeparam=embeds_widget_referrer
 $removeparam=eventReferenceId
 $removeparam=gh_jid
 $removeparam=gh_src
@@ -339,6 +340,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+?beacon
+_beacon
+-beacon
+/beacon
+/player-stats
 /batch/1/OP
 /aws-mktg
 -cspreport
@@ -478,9 +484,6 @@ _adframe
 /w3-report
 /resolveBouncerFlags
 /RfPlaywireAdManager
-_beacon
--beacon
-/beacon
 /monitoring
 /affiliate.js
 _stat.js
