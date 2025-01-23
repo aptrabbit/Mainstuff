@@ -339,6 +339,16 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/batch/1/OP
+/aws-mktg
+-cspreport
+-csp-report
+/cspreport
+/csp-report
+/marketo
+-marketo
+/impressions
+-impressions
 ?.crumb
 /benji
 ?quality=sd
