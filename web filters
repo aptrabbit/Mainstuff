@@ -340,6 +340,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/userevents
+-heartbeat
+/heartbeat
+_heartbeat
 ?beacon
 _beacon
 -beacon
