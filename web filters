@@ -208,6 +208,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.inlineads
+##.advbox
 ##.cookie-modal
 ##.sticky-top-ad
 ##.stickymrecad
@@ -246,6 +248,7 @@ $removeparam=visitToken
 ##.cookie-msg
 ###cookie-msg
 ###cookieoptinoverlay
+##.eu-cookie-compliance-banner--opt-in
 ###gdpr-cookie-message
 ###js-cookie-notification
 ##.cookieConsentWrapper
@@ -340,6 +343,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-cookie_compliance
+/cookie_compliance
+_cookie_compliance
+/getckdata
 /blocked_from_analytics
 /userevents
 -heartbeat
@@ -2196,3 +2203,4 @@ mail.protonmail.com##section:nth-of-type(2)
 mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 mail.proton.me##.bg-promotion
 www.nowfoods.com##.eu-cookie-compliance-banner--categories
+www.equitymaster.com##.sp-report2
