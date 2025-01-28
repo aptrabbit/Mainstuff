@@ -1,3 +1,4 @@
+$removeparam=referring_guid
 $removeparam=embeds_widget_referrer
 $removeparam=eventReferenceId
 $removeparam=gh_jid
@@ -343,6 +344,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/lightbox
 -cookie_compliance
 /cookie_compliance
 _cookie_compliance
@@ -803,7 +805,10 @@ www.womenshistory.org##.n-modal
 www.cincinnati.com##.gnt_pm
 www.auslogics.com##.modal-container
 www.barchart.com##.no-print.bc-webinar-card
-www.investing.com##.dark_graph.js-gen-popup.signupWrap
+investing.com##.signupWrap
+investing.com##.border-b-\[\#E6E9EB\]
+investing.com##.shadow-strategiesButton
+endpoints.investing.com/likes/api/v1/reaction
 thepostmillennial.com##.newsletter.banner.partial
 thepostmillennial.com##.closeable.bottom-shadow.no-margin.commercial > .inner > .display.publicity
 thepostmillennial.com##.player-wrapper
@@ -1453,6 +1458,7 @@ moneymorning.com###profit_alerts-2
 www.speedtest.net##.eot-box-wrapper
 www.autolist.com##.jsx-2866408628
 www.autolist.com##.carfax
+||www.fool.com^$removeparam=source
 www.fool.com###topnav-picks
 www.fool.com##.page-alert
 www.fool.com###market_performance
@@ -1462,7 +1468,6 @@ www.fool.com###services-section
 www.fool.com##.blk__cta
 www.fool.com##.art__pitch
 www.fool.com###hp-sa-splash
-www.fool.com##.sm\:mb-36px.mb-36px.border-gold-600.bg-gold-200.sm\:mt-36px.mt-16px.article-redesign-cta-banner.shadow-md.border
 www.fool.com###invest-smarter-sidebar-wrapper
 www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
 www.fool.com###sa-returns-sidebar-wrapper
