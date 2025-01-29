@@ -1137,7 +1137,6 @@ cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
 app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
-starwars.fandom.com###WikiaBar
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
 www.chegg.com##.CallToAction__CTAWrapper-sc-ieaghs-3
 www.tennisexpress.com##.cookieTextDisplay
@@ -2073,7 +2072,6 @@ dlhd.sx##nav > [href="https://t.me/daddylivehd"]
 dlhd.sx##[href="/contact-us.php"]
 dlhd.sx##[href="https://discord.gg/SgbjFVn6th"]
 dlhd.sx##[href="#"]
-starwars.fandom.com##.notifications-placeholder
 www.livehdtv.net##.userbar
 www.livehdtv.net##.mb-1
 www.livehdtv.net##p:nth-of-type(4)
@@ -2147,7 +2145,6 @@ dlhd.so##p
 dlhd.so###footer
 www.pcgs.com##div.text-xsmall
 www.pcgs.com###ebayFeedWrap
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-medium-round.ytp-ce-website.ytp-ce-element
 cryptopanic.com##div.app-layout:first-child > div.app-left-pane.app-pane:first-child > div.left-nav:nth-child(2) > a.left-nav-item:nth-child(6)
 cryptopanic.com##div.app-layout:first-child > div.app-center-pane:nth-child(2) > div.app-main-container:first-child > div.app-content-panes > div.app-main-pane:first-child > div.news-container:nth-child(3) > div:first-child
 cryptopanic.com##.ps--active-y.ps.news-container > div:nth-of-type(1)
@@ -2165,7 +2162,8 @@ cryptopanic.com##.ps.pane-scroll > div > div > div > div > [href]
 cryptopanic.com##.ps.news-container > div:nth-of-type(1)
 cryptopanic.com##.pane-tabs-lg.pane-tabs > a.pane-tab:nth-of-type(2)
 cryptopanic.com##.hotmeter-tab
-youtube.fandom.com##.notifications-placeholder
+fandom.com##.notifications-placeholder
+fandom.com###WikiaBar
 japannews.yomiuri.co.jp###tpModal > .modal-content
 japannews.yomiuri.co.jp###tpModal
 www.sensodyne.com##.gigyaform-wrapper
