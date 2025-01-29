@@ -345,6 +345,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+_app-measurement
+-app-measurement
+/app-measurement
+/shopAdPartner
 /zipchat
 /leaddyno
 /set-device-id
@@ -2219,3 +2223,4 @@ mail.proton.me##.bg-promotion
 www.nowfoods.com##.eu-cookie-compliance-banner--categories
 www.equitymaster.com##.sp-report2
 www.dailymail.co.uk##.newsletter-modal-shopping
+www.pcgs.com###ebayFeedWrap
