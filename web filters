@@ -347,6 +347,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/sailthru
+-ad-referral
+/ad-referral
+-civic-science
+/civic-science
 -passive-events
 /events/clientapp
 _app-measurement
@@ -1638,9 +1643,9 @@ www.cnbc.com###Market\ Data_LiveTVTempPass
 www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 www.twitch.tv###twilight-sticky-footer-root
 twitch.tv##+js(twitch-videoad)
-scholar.google.com##.gs_r.gs_qsuggest_wrap
-support.google.com##.user-feedback-link
-support.google.com##sc-client-feedback-inline-feedback-link
+google.com##.gs_qsuggest_wrap
+google.com##.user-feedback-link
+google.com##sc-client-feedback-inline-feedback-link
 ||www.google.com^$removeparam=hl
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 www.google.*##^script:has-text(consentCookiePayload)
@@ -1682,6 +1687,7 @@ www.google.com##.oIk2Cb
 www.google.com##.cUnQKe
 www.google.com##.related-question-pair
 www.google.com##.commercial-unit-desktop-top
+www.google.com##.OTFaAf.WFxqwc > .NFQFxe.wDYxhc
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
 /recaptcha/enterprise/webworker$important
 https://accounts.google.com/gsi/client
