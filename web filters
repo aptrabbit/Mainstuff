@@ -210,6 +210,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###social-nav-holder
+##.social-nav-holder
 ##.inlineads
 ##.advbox
 ##.cookie-modal
@@ -345,6 +347,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-passive-events
 /events/clientapp
 _app-measurement
 -app-measurement
@@ -534,7 +537,6 @@ _show_ads
 /g0dL0vesads
 /ad-feedback
 /g0D
-/_sa_track
 /Roadblock
 /xxAG1
 /thankYou.js
@@ -1395,10 +1397,13 @@ seekingalpha.com##section[data-testid="recommended-section"]
 seekingalpha.com##[data-testid="ad-slot-list"]
 seekingalpha.com##nav[role="navigation"] svg ~ a[href*="subscriptions.seekingalpha.com"]:upward([data-testid="grid-container"])
 seekingalpha.com##[href^="https://seekingalpha.com/checkout"]
+seekingalpha.com##.pzyFr
 ||static.seekingalpha.com/uploads/202*_sa_connec*$image
 ||static.seekingalpha.com/uploads/2021/1/10/premium.png$image
 ||seekingalpha.com^$removeparam=source
 ||seekingalpha.com^$removeparam=hasComeFromMpArticle
+/c.SignUpWithEmailFormWithTrack
+/_sa_track
 enfusion.com##.bg-gradient-12
 cryptodaily.co.uk##.braking-right
 cryptodaily.co.uk##div.side-block:nth-of-type(3)
