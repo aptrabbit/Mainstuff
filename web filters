@@ -344,6 +344,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/ad-scheduler
+-ad-scheduler
 /lightbox
 -cookie_compliance
 /cookie_compliance
@@ -1291,6 +1293,9 @@ www.coindesk.com##.h-56
 www.coindesk.com##.newsletter-module-wrapper
 www.coindesk.com##.false.article-com-wrapper
 www.coindesk.com##[href="/sponsored-content/"]
+www.coindesk.com###highimpact-ad-container
+www.coindesk.com##.pointer-events-none
+coindesk.com/newsletters/
 www.cspracing.com##.affirm-site-modal
 www.hotdeals.com##.afsstyle
 europe.autonews.com##.block-region-content-right
