@@ -345,6 +345,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/events/clientapp
 _app-measurement
 -app-measurement
 /app-measurement
@@ -724,6 +725,8 @@ _show_ads
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
+zergnet.com/output.js
+zergnet.com/zerg-inf.js
 pikapod.net/api/send
 shop.app/pay/sdk-session
 reporting-api.herokuapp.com/api
@@ -2132,6 +2135,7 @@ dlhd.so###sidebar
 dlhd.so##p
 dlhd.so###footer
 www.pcgs.com##div.text-xsmall
+www.pcgs.com###ebayFeedWrap
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-medium-round.ytp-ce-website.ytp-ce-element
 cryptopanic.com##div.app-layout:first-child > div.app-left-pane.app-pane:first-child > div.left-nav:nth-child(2) > a.left-nav-item:nth-child(6)
 cryptopanic.com##div.app-layout:first-child > div.app-center-pane:nth-child(2) > div.app-main-container:first-child > div.app-content-panes > div.app-main-pane:first-child > div.news-container:nth-child(3) > div:first-child
@@ -2223,4 +2227,4 @@ mail.proton.me##.bg-promotion
 www.nowfoods.com##.eu-cookie-compliance-banner--categories
 www.equitymaster.com##.sp-report2
 www.dailymail.co.uk##.newsletter-modal-shopping
-www.pcgs.com###ebayFeedWrap
+www.bleepingcomputer.com##.bc_guide
