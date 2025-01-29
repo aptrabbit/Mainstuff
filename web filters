@@ -2239,3 +2239,6 @@ www.nowfoods.com##.eu-cookie-compliance-banner--categories
 www.equitymaster.com##.sp-report2
 www.dailymail.co.uk##.newsletter-modal-shopping
 www.bleepingcomputer.com##.bc_guide
+thehill.com##.instaread-audio-player
+thehill.com##[href^="https://thehill.com/sponsor-content/"]
+thehill.com##.hha-sponsored
