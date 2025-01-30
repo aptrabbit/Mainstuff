@@ -1,3 +1,7 @@
+$removeparam=tr.idx
+$removeparam=tr.co
+$removeparam=pwk
+$removeparam=clkid
 $removeparam=weblab
 $removeparam=srsltid
 $removeparam=h5_ref
@@ -351,6 +355,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/monitoring
 /rufus
 /share-button
 /sailthru
@@ -523,7 +528,6 @@ _adframe
 /w3-report
 /resolveBouncerFlags
 /RfPlaywireAdManager
-/monitoring
 /affiliate.js
 _stat.js
 -ad.js
@@ -1149,7 +1153,6 @@ www.chegg.com##.CallToAction__CTAWrapper-sc-ieaghs-3
 www.tennisexpress.com##.cookieTextDisplay
 www.dickssportinggoods.com###kampyleButtonContainer
 coupons.cnet.com##.SnackBar_root_active__3IYDm.SnackBar_root_info__1bH3Q.SnackBar_root__37aha
-www.ft.com##.n-layout__footer-before
 hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
 hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
 coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
@@ -2250,3 +2253,8 @@ thehill.com##.instaread-audio-player
 thehill.com##[href^="https://thehill.com/sponsor-content/"]
 thehill.com##.hha-sponsored
 thehill.com##.widget-area
+www.aimagicx.com##.text-white.shadow-lg
+www.ft.com##.n-layout__footer-before
+www.ft.com###o-header-search-primary
+www.ft.com##.concept-list
+filen.io##.gap-4
