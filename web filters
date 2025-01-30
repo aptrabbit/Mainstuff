@@ -1,3 +1,5 @@
+$removeparam=h5_ref
+$removeparam=event_timestamp
 $removeparam=start
 $removeparam=referring_guid
 $removeparam=embeds_widget_referrer
@@ -347,6 +349,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-share-button
+/share-button
 /sailthru
 -ad-referral
 /ad-referral
@@ -732,6 +736,8 @@ _show_ads
 /payments-portal-log
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
+/fandom-ae-assets/identity-service
+cdnpure.com/report
 zergnet.com/output.js
 zergnet.com/zerg-inf.js
 pikapod.net/api/send
@@ -753,7 +759,6 @@ https://main.salamus1.lol/showads
 https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
 https://cdn2.editmysite.com/js/site/footerSignup.js
 https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js
-https://script.wikia.nocookie.net/fandom-ae-assets/identity-service/
 https://no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
 https://trck.pix.twitch.prod-na.turntable.sonic.advertising
