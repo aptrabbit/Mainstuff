@@ -1,3 +1,5 @@
+$removeparam=weblab
+$removeparam=srsltid
 $removeparam=h5_ref
 $removeparam=event_timestamp
 $removeparam=start
@@ -349,7 +351,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
--share-button
+/rufus
 /share-button
 /sailthru
 -ad-referral
@@ -1463,6 +1465,7 @@ www.wired.com##.social-icons
 www.fakespot.com##.bottom-box
 ||www.amazon.com^$removeparam=source
 ||www.amazon.com^$removeparam=i
+www.amazon.com/checkout/turbo/
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 www.amazon.com###cart-item-recs
 www.amazon.com##.maple-banner
@@ -1476,6 +1479,7 @@ www.amazon.com###huc-first-upsell-row
 www.amazon.com##.sg-col-12-of-16.sg-col.s-widget
 www.amazon.com###promotions_feature_div
 www.amazon.com###above-dp-container
+www.amazon.com##.nav-rufus-disco
 zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
 zycrypto.com###custom_html-13
