@@ -220,6 +220,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.jw-logo
 ###ad_space
 ###top_text_ad
 ###social-nav-holder
@@ -359,14 +360,16 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/feedback.js
 _showads
 -showads
 /showads
 .salamus1
 /t.cdnhks
 .magnific-popup
-/vua-parser
-/yrainyday
+/HodoNd
+-parser.min.css
+/OkDYy
 /viewsnativead
 _content-telemetry
 /libs_ads
@@ -783,6 +786,10 @@ www.gstatic.com/firebasejs
 cdn.cookielaw.org/opt-out/
 https://app-measurement.com/sdk-exp$important
 ||widget.portis.io/$subdocument
+||*.user.com/static/js/*
+||*.videoask.com/embed/embed.js
+||*.my.salesforce.com/embeddedservice/5.0/client/liveagent.esw.min.js
+||*.nuance.com/media/launch/chatLoader*
 en.wikipedia.org##.vector-limited-width-popup
 en.wikipedia.org##.cn-fundraising
 www.coinbase.com##.kuposl
