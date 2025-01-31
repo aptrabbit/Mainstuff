@@ -220,6 +220,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###ad_space
+###top_text_ad
 ###social-nav-holder
 ##.social-nav-holder
 ##.inlineads
@@ -1249,6 +1251,7 @@ u.today##.container.something--wide
 u.today##.something--leaderboard
 u.today##.card--something-md
 u.today##.promoted__mark
+u.today##.something
 reelrundown.com##.mm-detail-header--image-size-full-bleed.m-detail-header
 issueexplorer.com##.con-carbon-noti
 www.bizjournals.com##.u-flex-justify-start.secondary\@lg
@@ -1372,15 +1375,12 @@ www.nytimes.com###dock-container
 ||shrm.org/*/design/js/paywall.js$script,1p
 ||archive.org/includes/donate.php$subdocument
 web.archive.org###donato
-u.today##.something
 healthfully.com##.sticky.video-player-wrapper
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
 tzkt.io##.text--secondary.text-sm-body-2.text-subtitle-3
 celo.org##.r-13qz1uu.r-1xcajam.r-1pcd2l5.r-1hsi953.r-1777fci.r-6koalj.r-1p0dtai.r-ltq0in.r-1awozwy.css-1dbjc4n
 celo.org##.css-1a9sb48
-www.streetinsider.com###top_text_ad
-www.streetinsider.com###ad_space
-www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
+www.bloomberg.com##.bb-global-footer__ad-choices
 www.bloomberg.com##.leaderboard-container
 www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
 kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
