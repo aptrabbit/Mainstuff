@@ -357,6 +357,14 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+_showads
+-showads
+/showads
+.salamus1
+/t.cdnhks
+.magnific-popup
+/vua-parser
+/yrainyday
 /viewsnativead
 _content-telemetry
 /libs_ads
@@ -649,7 +657,6 @@ _show_ads
 /adscript
 /adsPrebid
 /adsense
-/showads
 /adblock
 /ad_
 /bug-snag
@@ -757,27 +764,23 @@ pikapod.net/api/send
 shop.app/pay/sdk-session
 reporting-api.herokuapp.com/api
 uapi.production-public.tubi.io/datascience
-https://m.stripe.com/6
-https://tubitv.com/oz/videos/ad-pod-finished-metrics
-https://www.scamadviser.com/ajax/pop-ups
-https://app.simplelogin.io/p/api/event
-https://xp2023-pix.s3.amazonaws.com
-https://pc-quiz.s3
-https://vercel.com/status-api
-https://bhqwplay.xyz/t.cdnhks.lol/cdn.js
-https://qwebplay.xyz/t.cdnhks.lol/
-https://ntuplay.xyz/t.cdnhks.lol/
-https://ntuplay.xyz/t.salamus1.lol/
-https://main.salamus1.lol/showads
-https://d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
-https://cdn2.editmysite.com/js/site/footerSignup.js
-https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js
-https://no-cache.hubspot.com/cta/
+m.stripe.com/6
+tubitv.com/oz/videos/ad-pod-finished-metrics
+scamadviser.com/ajax/pop-ups
+app.simplelogin.io/p/api/event
+xp2023-pix.s3.amazonaws.com
+pc-quiz.s3
+vercel.com/status-api
+d2po7v53a8yrck.cloudfront.net/js/jquery.cookie
+cdn2.editmysite.com/js/site/footerSignup.js
+cdn2.editmysite.com/js/site/main-customer-accounts-site.js
+no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
-https://trck.pix.twitch.prod-na.turntable.sonic.advertising
-https://www.gstatic.com/firebasejs/
-https://cdn.cookielaw.org/opt-out/
+trck.pix.twitch.prod-na.turntable.sonic.advertising
+www.gstatic.com/firebasejs
+cdn.cookielaw.org/opt-out/
 https://app-measurement.com/sdk-exp$important
+||widget.portis.io/$subdocument
 en.wikipedia.org##.vector-limited-width-popup
 en.wikipedia.org##.cn-fundraising
 www.coinbase.com##.kuposl
@@ -1380,8 +1383,9 @@ www.streetinsider.com###ad_space
 www.bloomberg.com##.bb-global-footer__ad-choices.bb-global-footer__link
 www.bloomberg.com##.leaderboard-container
 www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
-www.kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
-support.kraken.com##.kraken-cookies-warning-wrapper
+kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
+kraken.com##.fc-ea86f4fb-7
+kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
 uphold.com##.eTbgNl.sc-21f56367-2
 downloads.digitaltrends.com##.roof-ad
@@ -1580,7 +1584,6 @@ www.foxnews.com##.collection-fox-nation
 www.foxnews.com##.article-social
 www.foxnews.com##[href] > strong
 www.foxnews.com##strong > [href]
-||widget.portis.io/$subdocument
 www.buckscountycouriertimes.com##.gnt_pm
 www.newsbtc.com##.widget_svecc_reviews
 www.newsbtc.com##.widget_media_image
@@ -1747,21 +1750,12 @@ www.studocu.com##.bar--1Rnih
 www.studocu.com##._cbad9bafd417
 www.thehansindia.com##.hocal_hide_on_mobile
 www.thehansindia.com###home-mid-wrap1
-www.kraken.com##.fc-ea86f4fb-7
 www.designpieces.com##.widget_custom_html
 cryptoslate.com##.clickout-banner-native_table_box-bottom
 www.svgrepo.com##.style-module--flexbar--WT2ii
 www.svgrepo.com##.style-module--nativeInline--1pnni
 switchnutrition.com.au##.js-toggle-slide-nav
 shopbestnaturals.com###sro-popup
-1movies.life###_asdhj234esdfgds
-1movies.life##.notif
-1movies.life##.desk_option
-1movies.life###add_margin_1
-1movies.life##[href^="/user/premiummembership"]
-1movies.life##.auth
-1movies.life###actor_preview
-1movies.life##.footer_content
 ||decrypt.co^$removeparam=source
 decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
 decrypt.co##.adbutler-inline-ad
@@ -1940,9 +1934,6 @@ www.cosmeticsandtoiletries.com##div.card-deck-flow__node:nth-of-type(5)
 www.cosmeticsandtoiletries.com##.social-sharing
 www.cosmeticsandtoiletries.com##.page-rail.col-lg-4
 www.kidney.org###footer-sticky
-iptvwire.com##.mysticky-welcomebar-animation
-iptvwire.com##.code-block-4
-iptvwire.com##.widget-area
 tv247us.com##.entry-content > p
 tv247us.com##.jp-relatedposts
 tv247us.com##.entry-content > h2
