@@ -1,3 +1,5 @@
+$removeparam=disableErrorRedirect
+$removeparam=infiniteContentCount
 $removeparam=tr.idx
 $removeparam=tr.co
 $removeparam=pwk
@@ -355,6 +357,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/viewsnativead
+_content-telemetry
+/libs_ads
 /monitoring
 /rufus
 /share-button
@@ -743,6 +748,8 @@ _show_ads
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
 /fandom-ae-assets/identity-service
+knockrentals.com/v1/event
+api.btmessage.com/events
 cdnpure.com/report
 zergnet.com/output.js
 zergnet.com/zerg-inf.js
@@ -1977,12 +1984,6 @@ ww1.watchseriesfree.co##.support
 ww1.watchseriesfree.co###not_logged_in
 ww1.watchseriesfree.co##.bottom-menu-container
 ww1.watchseriesfree.co##[href="/contact"]
-www.msn.com##.recommendedSearch
-www.msn.com##.floatingfeedback
-www.msn.com###modernRightRail_container_0 > div
-www.msn.com###modernRightRail_container_0 > fluent-design-system-provider
-www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
-www.msn.com##.oneFooter-DS-EntryPoint1-1
 blog.logrocket.com##.typescript-popup
 www.firesticktricks.com##.mysticky-welcomebar-animation
 www.firesticktricks.com##.warning
@@ -2206,7 +2207,14 @@ thetvapp.to##.m-2
 thetvapp.to###loadVideoSD
 www.amazon.com##.rufus-pill
 www.amazon.com###rufus-container
-assets.msn.com/service/community/users/
+www.msn.com##.recommendedSearch
+www.msn.com##.floatingfeedback
+www.msn.com###modernRightRail_container_0 > div
+www.msn.com###modernRightRail_container_0 > fluent-design-system-provider
+www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
+www.msn.com##.oneFooter-DS-EntryPoint1-1
+www.msn.com##.consumption-page-gridarea_action
+www.msn.com##views-right-rail
 ||msn.com^$removeparam=activityId
 ||msn.com^$removeparam=user
 ||msn.com^$removeparam=scn
@@ -2214,10 +2222,9 @@ assets.msn.com/service/community/users/
 ||msn.com^$removeparam=%24select
 ||msn.com^$removeparam=ranid
 ||msn.com^$removeparam=ocid
-https://api.btmessage.com/events
+assets.msn.com/service/community/users/
 foundation.mozilla.org##.donate-banner
 foundation.mozilla.org###category-featured-cta
-knockrentals.com/v1/event
 store.bitcoinmagazine.com###pandectes-banner
 www.healthyhearing.com###hh-sticky-panel
 newstimes.com###modals
