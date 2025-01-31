@@ -1,3 +1,5 @@
+$removeparam=s_id
+$removeparam=s_referrer
 $removeparam=disableErrorRedirect
 $removeparam=infiniteContentCount
 $removeparam=tr.idx
@@ -220,6 +222,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.notification-banner
 ##.jw-logo
 ###ad_space
 ###top_text_ad
@@ -360,6 +363,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/social-media-icons
+/track/view
+/gen_204
 /feedback.js
 _showads
 -showads
