@@ -10,7 +10,6 @@ $removeparam=weblab
 $removeparam=srsltid
 $removeparam=h5_ref
 $removeparam=event_timestamp
-$removeparam=start
 $removeparam=referring_guid
 $removeparam=embeds_widget_referrer
 $removeparam=eventReferenceId
@@ -364,6 +363,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/popup?creative_id
 /cb/cb
 /social-media-icons
 /track/view
@@ -1637,7 +1637,6 @@ blockchair.com##.top-buttons--right
 blockchair.com##.lh-auto
 twiends.com##.cvs
 smallseotools.com##.pro_icon
-www.searchenginejournal.com##.sej-hello-bar
 www.flickr.com##.moola-search-div
 www.flickr.com##.photo-page-leader-moola-view
 www.blogarama.com##.view-header > [href]
@@ -2274,3 +2273,10 @@ www.ft.com##.n-layout__footer-before
 www.ft.com###o-header-search-primary
 www.ft.com##.concept-list
 filen.io##.gap-4
+searchenginejournal.com/location.json
+www.searchenginejournal.com##.sej-hello-bar
+www.searchenginejournal.com###sej-hello-bar
+www.searchenginejournal.com##.top_lead1
+www.searchenginejournal.com##.sej-iframe-auto-height
+www.searchenginejournal.com##.sss2_sllo_o6
+www.searchenginejournal.com##.sej-in-cont-subs
