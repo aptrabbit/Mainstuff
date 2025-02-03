@@ -222,6 +222,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###notice-cookie-block
 ##.notification-banner
 ##.jw-logo
 ###ad_space
@@ -1589,6 +1590,9 @@ bitcoinist.com###menu-item-148791
 bitcoinist.com###menu-item-112011
 bitcoinist.com##.widget_premium_partners
 bitcoinist.com##.widget_featured_companies
+bitcoinist.com##.green-link
+bitcoinist.com##.orange-link
+bitcoinist.com##.lightchain-header-container
 www.complex.com###spotim-specific [src]
 www.asiablockchainreview.com##.pull-bottom
 www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more
