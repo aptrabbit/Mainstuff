@@ -1362,13 +1362,15 @@ cryptoslate.com##.right.sidebar
 cryptoslate.com##.buy-crypto.btn
 cryptoslate.com##.header-strip
 cryptoslate.com##.edge-cta
+cryptoslate.com##.edge
 cryptoslate.com##.leaderboard.placement
 cryptoslate.com##.ftx-news-button
 cryptoslate.com##.top-sticky
 cryptoslate.com##.code-block-3.code-block
 cryptoslate.com##.code-block-9.code-block
 cryptoslate.com##.code-block-14.code-block
-cryptoslate.com##.edge
+cryptoslate.com##.clickout-banner-native_table_box-bottom
+cryptoslate.com###hypelab-header-unit
 ||s.tradingview.com/mediumwidgetembed/$subdocument
 www.daytrading.com##.bottombar.text-center
 tech-latest.com##.td-post-title > .entry-title
@@ -1768,7 +1770,6 @@ www.studocu.com##._cbad9bafd417
 www.thehansindia.com##.hocal_hide_on_mobile
 www.thehansindia.com###home-mid-wrap1
 www.designpieces.com##.widget_custom_html
-cryptoslate.com##.clickout-banner-native_table_box-bottom
 www.svgrepo.com##.style-module--flexbar--WT2ii
 www.svgrepo.com##.style-module--nativeInline--1pnni
 switchnutrition.com.au##.js-toggle-slide-nav
@@ -2203,7 +2204,6 @@ www.cars.com###prequalified-banner-hook
 jobzone.publishersweekly.com###candidate-products-promotion
 minaprotocol.com##.adf99
 www.dovepress.com##.psmtc_BuTp
-cryptoslate.com###hypelab-header-unit
 www.iplocation.net##.ip-buttons2.col
 www.iplocation.net##.ip-placeholder > p
 thetvapp.to##[href="/premium"]
@@ -2272,7 +2272,6 @@ www.aimagicx.com##.text-white.shadow-lg
 www.ft.com##.n-layout__footer-before
 www.ft.com###o-header-search-primary
 www.ft.com##.concept-list
-filen.io##.gap-4
 searchenginejournal.com/location.json
 www.searchenginejournal.com##.sej-hello-bar
 www.searchenginejournal.com###sej-hello-bar
