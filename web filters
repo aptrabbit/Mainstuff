@@ -1,3 +1,6 @@
+$removeparam=xpid
+$removeparam=x-dgw-deviceid
+$removeparam=gPromoCode
 $removeparam=s_id
 $removeparam=s_referrer
 $removeparam=disableErrorRedirect
@@ -26,7 +29,6 @@ $removeparam=cnr
 $removeparam=alr
 $removeparam=gQT
 $removeparam=gtm
-$removeparam=sid
 $removeparam=google_free_listing_action
 $removeparam=lp
 $removeparam=leadsourcename
@@ -363,6 +365,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/onetrust
+-locationListener
+/get-csrf
+/gov/stat
 /popup?creative_id
 /cb/cb
 /social-media-icons
@@ -1350,6 +1356,7 @@ www.coindesk.com##.false.article-com-wrapper
 www.coindesk.com##[href="/sponsored-content/"]
 www.coindesk.com###highimpact-ad-container
 www.coindesk.com##.pointer-events-none
+www.coindesk.com##.ah280px
 coindesk.com/newsletters/
 www.cspracing.com##.affirm-site-modal
 www.hotdeals.com##.afsstyle
@@ -2279,3 +2286,8 @@ www.searchenginejournal.com##.top_lead1
 www.searchenginejournal.com##.sej-iframe-auto-height
 www.searchenginejournal.com##.sss2_sllo_o6
 www.searchenginejournal.com##.sej-in-cont-subs
+www.nutritioninsight.com##.bannerdiv
+www.nutritioninsight.com##.sidebanner-container
+seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
+www.studocu.com##._39064e6b79c4 > ._761ee514a558 > ._63f5c4e7e31f._60e676a00207
+www.studocu.com##._39064e6b79c4
