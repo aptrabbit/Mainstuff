@@ -365,8 +365,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/get_all_activities
 /onetrust
--locationListener
 /get-csrf
 /gov/stat
 /popup?creative_id
@@ -493,7 +493,6 @@ _register_wall
 -adfuel
 -gdpr
 _gpdr
-/get_all_activities
 /ads.js
 /social-signup
 /leadattribution
