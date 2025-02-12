@@ -1402,8 +1402,6 @@ web.archive.org###donato
 healthfully.com##.sticky.video-player-wrapper
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
 tzkt.io##.text--secondary.text-sm-body-2.text-subtitle-3
-celo.org##.r-13qz1uu.r-1xcajam.r-1pcd2l5.r-1hsi953.r-1777fci.r-6koalj.r-1p0dtai.r-ltq0in.r-1awozwy.css-1dbjc4n
-celo.org##.css-1a9sb48
 www.bloomberg.com##.bb-global-footer__ad-choices
 www.bloomberg.com##.leaderboard-container
 www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
@@ -1432,7 +1430,6 @@ www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
 www.publish0x.com###registerPopup
 www.publish0x.com##.text-center.pb-2.offset-lg-2.col-lg-8
 crypto.com##.swiper-container-pointer-events
-docs.amptoken.org###portals-root
 seekingalpha.com###content > div.flex.grow.flex-col:last-child > div.absolute.inset-0.bg-black\/30:last-child
 seekingalpha.com##.banner-image
 seekingalpha.com###paywall_dynamic_ticker
@@ -2019,14 +2016,8 @@ www.mayoclinic.org##.myc-subscription-form
 www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
 www.besthealthmag.ca###cmu_right_rail_widget-3
-zoro.moe##.mba-block
 www.engadget.com##.M\(MarginCenter\)
-bigbro8fan.weebly.com##[href="http://r.wmt.co/v/robert_777"]
-bigbro8fan.weebly.com##[href^="https://www.amazon.com/tryprimefree"]
 stablediffusionweb.com##.text-gray-400.text-sm.text-left.max-w-3xl.mt-4.mx-auto
-bigbro8fan.weebly.com##[href="https://chrome.google.com/webstore/detail/avast-online-security-pri/gomekmidlodglbbmalcneegieacbdmki"]
-bigbro8fan.weebly.com##.whatsapp-link
-bigbro8fan.weebly.com##p:nth-of-type(2)
 www.flexjobs.com##.social-proof-rows
 tech.hindustantimes.com##.entryPointBanner
 www.weekand.com##.pt16
@@ -2034,8 +2025,6 @@ www.weekand.com###Flex1
 workforcenow.adp.com##.hdpi.pac-container
 bestdroidplayer.com##.ulp-fadeIn
 bestdroidplayer.com##.ulp-window-container
-wealle.monster##.telegram-link
-woodlugges.monster##.telegram-link
 cssgradient.io##.page-header_banner
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
@@ -2255,9 +2244,6 @@ apnews.com/fragment
 taboola.com/2.0/json/yahoo-mail/recommendations
 afinil.com###elementor-popup-modal-183062
 coingape.com##div.mh-container:nth-child(5)
-elevenlabs.io##.gap-y-0.z-1.relative.grid-layout.container
-elevenlabs.io##canvas
-elevenlabs.io##.breakout
 www.couponcabin.com##.fancybox-opened
 www.couponcabin.com##.fancybox-overlay-fixed
 www.couponcabin.com###tsp
@@ -2288,6 +2274,3 @@ www.searchenginejournal.com##.sss2_sllo_o6
 www.searchenginejournal.com##.sej-in-cont-subs
 www.nutritioninsight.com##.bannerdiv
 www.nutritioninsight.com##.sidebanner-container
-seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
-www.studocu.com##._39064e6b79c4 > ._761ee514a558 > ._63f5c4e7e31f._60e676a00207
-www.studocu.com##._39064e6b79c4
