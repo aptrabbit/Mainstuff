@@ -365,9 +365,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/get-csrf
 /get_all_activities
 /onetrust
-/get-csrf
 /gov/stat
 /popup?creative_id
 /cb/cb
@@ -555,8 +555,8 @@ _adframe
 /assets/events
 /acookie
 /get-frontend-user-data
-/get-user-privacy
 /w3-report
+/get-user-privacy
 /resolveBouncerFlags
 /RfPlaywireAdManager
 /affiliate.js
@@ -663,7 +663,6 @@ _show_ads
 -ads-grid
 -rail-ads
 -banner-ads
--ad-client
 /adslot
 /adManager
 /advertisement
