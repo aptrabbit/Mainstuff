@@ -365,13 +365,14 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/chargebee
+-chargebee
 /get-csrf
 /get_all_activities
 /onetrust
 /gov/stat
 /popup?creative_id
 /cb/cb
-/social-media-icons
 /track/view
 /gen_204
 /feedback.js
