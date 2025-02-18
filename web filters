@@ -1338,6 +1338,9 @@ www.yahoo.com##.LREC-status-ok
 www.yahoo.com##[href^="https://finance.yahoo.com/premium-marketing"]
 www.yahoo.com##.md\:grid-cols-article-page
 www.yahoo.com##.max-w-\[1220px\]
+yahoo.com##.monalixa
+yahoo.com###ybar-nav-placement
+yahoo.com###mrt-node-Lead-1-Ad
 coinquora.com##.coinq-widget.widget
 coinquora.com##.py-1.coins-stream
 blog.horizen.io##.widget_custom_html.widget.widget_text
@@ -2117,9 +2120,6 @@ finviz.com##.mx-auto
 finviz.com##.notice-message
 finviz.com###\30 -intraday
 finviz.com##.is-elite
-finance.yahoo.com##.monalixa
-finance.yahoo.com###ybar-nav-placement
-finance.yahoo.com###mrt-node-Lead-1-Ad
 healthnews.com##.commercial-block
 healthnews.com##.subscribe_visible
 www.iptvplayers.com##.code-block-10
