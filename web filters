@@ -223,6 +223,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cookieTextDisplay
 ###notice-cookie-block
 ##.notification-banner
 ##.jw-logo
@@ -365,30 +366,6 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
-/chargebee
--chargebee
-/get-csrf
-/get_all_activities
-/onetrust
-/gov/stat
-/popup?creative_id
-/cb/cb
-/track/view
-/gen_204
-/feedback.js
-_showads
--showads
-/showads
-.salamus1
-/t.cdnhks
-.magnific-popup
-/HodoNd
--parser.min.css
-/OkDYy
-/viewsnativead
-_content-telemetry
-/libs_ads
-/monitoring
 /rufus
 /share-button
 /sailthru
@@ -854,6 +831,7 @@ pluto.tv##body > div:nth-of-type(2)
 ||www.stream2watch.io/frames/fp2/index.php$subdocument
 www.cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
 www.cnet.com###article-body > .col-4
+cnet.com##.bd
 ||www.usopen.org/assets/images/header/ribbon.gif$image
 lifehacker.com###sidebar_wrapper
 www.strategy-business.com##.showing.newsletterOverlay
@@ -1181,14 +1159,10 @@ cryptopro.app##.show.fade.modal-backdrop
 app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
-www.chegg.com##.CallToAction__CTAWrapper-sc-ieaghs-3
-www.tennisexpress.com##.cookieTextDisplay
 www.dickssportinggoods.com###kampyleButtonContainer
-coupons.cnet.com##.SnackBar_root_active__3IYDm.SnackBar_root_info__1bH3Q.SnackBar_root__37aha
 hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
 hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
 coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
-delta.app##.cOWINi.sc-iBPRYJ
 app.santiment.net##.Intercom_wrapper__2vK2L
 app.santiment.net#@#div[class^="SocialTool"]
 insights.santiment.net##.svelte-1ezhlqq.wrapper.SAN-panel_context.SAN-panel
@@ -1736,7 +1710,6 @@ www.google.com##.OTFaAf.WFxqwc > .NFQFxe.wDYxhc
 https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||www.google.com^$removeparam=client
-coupons.cnet.com##.bd
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
 www.theblock.co##.stickyFooter
@@ -1761,6 +1734,9 @@ check-host.net##div.athold11wr
 fortune.com###Leaderboard0
 news.bitcoin.com##.custom-html-widget
 news.bitcoin.com##.sticky-down.bn_desktop_widgets 
+news.bitcoin.com##div.widget_custom_html.widget
+news.bitcoin.com##.iUInxf
+news.bitcoin.com##.dpUpiZ
 www.bitcoin.com###bitcoincom-wgt-footer
 www.blockchain.com##.dKFNB
 www.blockchain.com##.cgSUhY
@@ -1846,6 +1822,7 @@ www.seobility.net###sale_sidebar_content
 www.seobility.net###help-container
 www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
+||www.swansonvitamins.com^$removeparam=SourceCode
 trailsoffroad.com##.paywall
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
@@ -2273,3 +2250,5 @@ www.searchenginejournal.com##.sss2_sllo_o6
 www.searchenginejournal.com##.sej-in-cont-subs
 www.nutritioninsight.com##.bannerdiv
 www.nutritioninsight.com##.sidebanner-container
+www.amazon.com###nile-inline_feature_div
+www.webmd.com##.doctor-module-spacer
