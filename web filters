@@ -366,6 +366,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/cookieConsent
 /get_all_activities
 /geo/location
 /chargebee
