@@ -1,3 +1,4 @@
+$removeparam=srsltid
 $removeparam=xpid
 $removeparam=x-dgw-deviceid
 $removeparam=gPromoCode
@@ -366,6 +367,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/imperium
+~relevantid
+/RelevantID
+/errors/log
+/behavioral_action
 /quantserv
 /cookieConsent
 /get_all_activities
