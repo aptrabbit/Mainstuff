@@ -367,6 +367,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/nsfw-blocking
 /chunks/Marketing
 /PfAds
 /rum-action
@@ -904,8 +905,6 @@ www.barrons.com###webui-read-next > div
 www.marketwatch.com###circular-widget
 blog.automox.com##.get-started-bottom
 www.pirateproxy-bay.com##.hidden-except-country.nord-message__wrap
-www.retailmenot.com##.dMSMYo.ModalDealFinderCallOut__DealFinderCallOut-sc-1z0bb58-0
-www.retailmenot.com##.fHZgam.PromoStickyFooterBanner__StickyFooter-sc-3i57qf-0
 cenualepil.pl.tl###selfpromotionOverlay
 userstyles.org##.android_button_button
 capital.com##.footer-site-inner
@@ -2147,7 +2146,6 @@ movie-web.app##.rounded-full.h-11.w-11.tabbable:nth-of-type(3)
 movie-web.app##.p-1.justify-center.items-center.flex.text-white.bg-\[\#C93957\]
 ||search.brave.com^$removeparam=source
 ||yandex.com^$removeparam=from
-reddit.com##shreddit-async-loader
 www.reddit.com##.pt-\[var\(--page-y-padding\)\].v2.xs\:overflow-visible.overflow-x-hidden > form
 reddit.com#@#shreddit-experience-tree
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
