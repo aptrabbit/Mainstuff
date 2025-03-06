@@ -367,6 +367,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/wp-event
 /nsfw-blocking
 /chunks/Marketing
 /PfAds
