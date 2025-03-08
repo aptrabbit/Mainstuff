@@ -1236,6 +1236,8 @@ troypoint.com##.su-box-style-.su-box
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
+||www.linkedin.com^$removeparam=miniProfileUrn
+||www.linkedin.com^$removeparam=originalSubdomain
 www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
 www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
 www.tennisrecruiting.net##[href^="http://www.tennis-warehouse.com/"]
@@ -1261,8 +1263,8 @@ freebitco.in###free_play_fun_no_captcha_msg
 freebitco.in###myModal22
 freebitco.in##.deposit_promo_message_content
 freebitco.in##.daily_jackpot_main_container_div
-www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.welcome-popup
-www.health.harvard.edu##.p-8.z-20.bg-dark-overlay.right-0.bottom-0.left-0.top-0.fixed.exit-intent-popup
+www.health.harvard.edu##.welcome-popup
+www.health.harvard.edu##.exit-intent-popup
 money.usnews.com###bfad-slot
 notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
 support.microsoft.com###supWrapperToPreventFeedbackFlickering
@@ -1327,8 +1329,6 @@ investorplace.com##.widget_ipm_sidebar_ad.widgetcontainer
 investorplace.com##.countdown-banner
 www.findagrave.com##.d-print-none.mr-md-0.mr-3.col-lg-12.col-sm-6.overview-panel.native
 www.independent.co.uk##.video-hero-wrapper
-www.independent.co.uk##div.jUAgro.sc-eiBcMB
-www.independent.co.uk##.iQqWaS.sc-jeURIA
 conversations.indy100.com##.bottom-strip
 ||yahoo.com^$removeparam=activity
 ||yahoo.com^$removeparam=pspid
@@ -1745,7 +1745,6 @@ www.google.com##.related-question-pair
 www.google.com##.commercial-unit-desktop-top
 www.google.com##.OTFaAf.WFxqwc > .NFQFxe.wDYxhc
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
-/recaptcha/enterprise/webworker$important
 https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||www.google.com^$removeparam=client
