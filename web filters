@@ -368,6 +368,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/collect
 ?appDefinitionIdToSiteRevision
 /wp-event
 /nsfw-blocking
@@ -1240,6 +1241,7 @@ www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
 ||www.linkedin.com^$removeparam=miniProfileUrn
 ||www.linkedin.com^$removeparam=originalSubdomain
+linkedin.com/litms/api/metadata
 www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
 www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
 www.tennisrecruiting.net##[href^="http://www.tennis-warehouse.com/"]
