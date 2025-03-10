@@ -224,6 +224,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###cookieconsent
 ##.consent-banner-root
 ##.cookieTextDisplay
 ###notice-cookie-block
@@ -368,6 +369,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/ping
+/prod/track
 /collect
 ?appDefinitionIdToSiteRevision
 /wp-event
@@ -763,7 +766,6 @@ _show_ads
 /openfl
 /mijs
 ?_=e3
-=e3
 =checkOrigin
 /?experiment
 /marketingIntents
@@ -1241,6 +1243,7 @@ www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
 www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
 ||www.linkedin.com^$removeparam=miniProfileUrn
 ||www.linkedin.com^$removeparam=originalSubdomain
+||www.linkedin.com^$removeparam=origin
 linkedin.com/litms/api/metadata
 www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
 www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
@@ -2292,3 +2295,5 @@ www.nutritioninsight.com##.bannerdiv
 www.nutritioninsight.com##.sidebanner-container
 www.amazon.com###nile-inline_feature_div
 www.webmd.com##.doctor-module-spacer
+||graph.facebook.com^
+||cloudtts.com^$removeparam=r
