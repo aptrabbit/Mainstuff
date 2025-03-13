@@ -369,6 +369,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/pixel.gif
+/track-users
 /ping
 /prod/track
 /collect
@@ -1709,7 +1711,6 @@ twitch.tv##+js(twitch-videoad)
 google.com##.gs_qsuggest_wrap
 google.com##.user-feedback-link
 google.com##sc-client-feedback-inline-feedback-link
-||www.google.com^$removeparam=hl
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 www.google.*##^script:has-text(consentCookiePayload)
 www.google.*##+js(acis, document.cookie, YES+)
@@ -1982,14 +1983,6 @@ tv247us.com##.jp-relatedposts
 tv247us.com##.entry-content > h2
 tv247.us##.entry-content > p
 tv247.us##.wp-image-2180
-daddylivehd.sx##center > p
-daddylivehd.sx###sidebar
-daddylivehd.sx###txtarea
-daddylivehd.sx##[href="#"]
-daddylivehd.sx##[href="/contact-us.php"]
-daddylivehd.sx##[href="https://discord.gg/vwEucnFza6"]
-daddylivehd.sx##[href="https://t.me/daddyhd"]
-daddylivehd.sx##[href="/qatar2022-worldcup.php"]
 https://subscribe.washingtonpost.com/offers/
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
 www.washingtonpost.com##.bb.b.overflow-hidden
@@ -2297,3 +2290,8 @@ www.amazon.com###nile-inline_feature_div
 www.webmd.com##.doctor-module-spacer
 ||graph.facebook.com^
 ||cloudtts.com^$removeparam=r
+bgu.qualtrics.com##.PageErrorDialog
+emojipedia.org##.md\:w-auto.w-full.mx-auto
+daddylive.mp##center > p
+daddylive.mp###sidebar
+daddylive.mp###footer
