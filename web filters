@@ -1,3 +1,4 @@
+$removeparam=metr
 $removeparam=srsltid
 $removeparam=xpid
 $removeparam=x-dgw-deviceid
@@ -2045,15 +2046,10 @@ cssgradient.io##.page-header_banner
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
 homework.study.com##.unlockStudyAnswers
-pixabay.com##.container--1MiV3
-pixabay.com##.container--Ir0yq
-pixabay.com##.viewMore--1odRT
-pixabay.com##.sponsoredWithResults--1tY
 pixabay.com##.show-gtty-item
 pixabay.com##.present-gtty-item
 pixabay.com##.present-g-item
 pixabay.com##.affil_medias
-pixabay.com##div.container--t3k85
 nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
