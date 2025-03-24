@@ -226,6 +226,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cookie-banner
 ###cookieconsent
 ##.consent-banner-root
 ##.cookieTextDisplay
@@ -2296,3 +2297,4 @@ daddylive.mp###sidebar
 daddylive.mp###footer
 ||virginia.gov^$removeparam=jsessionid
 ||virginia.gov^$removeparam=error
+paidviewpoint.com##.rotate-90
