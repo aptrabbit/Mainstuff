@@ -373,6 +373,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/geolocation
+/admiral
 /logger
 /genericdatacollection
 -open-tracing
@@ -527,7 +529,6 @@ _gpdr
 /ads.js
 /social-signup
 /leadattribution
-/otSDKStub
 /trackingNewPageview
 /trackingnewEvent
 /trackingEvent
@@ -2292,3 +2293,4 @@ daddylive.mp###footer
 ||virginia.gov^$removeparam=error
 paidviewpoint.com##.rotate-90
 app.paidviewpoint.com##.relative > p
+##[data-testid="MileTech_LEADER_BOARD1_DESKTOP"]
