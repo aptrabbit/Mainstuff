@@ -844,9 +844,8 @@ www.urbandictionary.com##.flex.mb-8 > div
 heimdalsecurity.com##.ulp-content
 heimdalsecurity.com###ulp-layer-199
 heimdalsecurity.com###ulp-layer-200
-heimdalsecurity.com###ulp-fd4QboHjgB2v9vvM-overlay
 heimdalsecurity.com##.playht-custom-audio__playFloatingBtn.__play-listen-floating-btn
-www.ghacks.net###ghacks_ad_code-2 > .pb--6.mb--10.border--bottom--gray.heading--tiny
+www.ghacks.net###ghacks_ad_code-2
 www.studyblue.com##.slide-in.js-slideup-banner.slideup-banner
 speedof.me##.cc-window-banner
 speedof.me##.cc-dialog-pane
@@ -940,10 +939,6 @@ brainly.com##.js-react-brainly-plus-box-aside
 expressdigest.com##.code-block-2.code-block
 www.popularmechanics.com##.gallery-module.embed
 www.nydailynews.com##.full.pb-c-sticky-chain.pb-chain.pb-layout-item.trb-flt-cont
-www.automobilemag.com##._2I-e5
-www.automobilemag.com##._3UB4F
-www.automobilemag.com##.dt-container-xsmall._1TDV3.dt-actionable
-www.automobilemag.com##div._11KmK:nth-of-type(5)
 www.nsmedicaldevices.com##.home_timeline
 www.npr.org###global-modal-mount
 www.businessnewsdaily.com##.e15dejzw0.css-md5sep-TransparentContainer
@@ -1799,7 +1794,6 @@ www.svgrepo.com##.style-module--nativeInline--1pnni
 switchnutrition.com.au##.js-toggle-slide-nav
 shopbestnaturals.com###sro-popup
 ||decrypt.co^$removeparam=source
-decrypt.co##div.butIts.sc-1hi5ot1-0:nth-of-type(7)
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.bHGkbV
 decrypt.co##.pfVfn
@@ -1964,7 +1958,6 @@ www.youtube.com##.yt-reaction-control-panel-overlay-view-model
 www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
-www.spotify.com##.Hero__rootWithNavigationPadding--3o5hL
 https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
 /quicksilver
