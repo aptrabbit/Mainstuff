@@ -226,6 +226,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cookies
 ##.cookie-banner
 ###cookieconsent
 ##.consent-banner-root
@@ -372,6 +373,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/logger
 /genericdatacollection
 -open-tracing
 /pixel.gif
@@ -476,7 +478,6 @@ _webvital
 /otCCPA
 /embed_privacy
 /OneID.js
-/klaviyo
 /pixel.js
 -pixel
 /web-pixel
@@ -1065,7 +1066,7 @@ www.theatlantic.com##.c-nudge-reg-expanded__container.c-nudge__container
 www.theatlantic.com##.BottomLeaflets_root__RjVTY
 www.medpagetoday.com##.leaderboard-region
 www.medpagetoday.com###right-rail-frame
-secure.bankofamerica.com##.cardlytics-transaction-offer
+bankofamerica.com##.cardlytics-transaction-offer
 fast.com##.help-container
 daily.jstor.org##.footer-widget
 www.lexology.com##.register-msg
@@ -1134,10 +1135,6 @@ www.virginiaent.com##.hide
 www.precisiononcologynews.com##.footer__ads-footer
 abovethelaw.com##article.post-single--sponsored.post-single
 www.ratemyprofessors.com##.ReactModal__Overlay
-www.ratemyprofessors.com##.kaWnLy.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0
-www.ratemyprofessors.com##.hidden.ccpa-footer.ccpa-modal
-www.ratemyprofessors.com##div.dQpRnT.FullPageModal__StyledFullPageModal-sc-1tziext-1:nth-of-type(5)
-www.ratemyprofessors.com##.ldUQse.HeaderLeaderboard__StyledHeaderLeaderboard-nduhbl-0
 2cryptocalc.com##.static
 www.fastcompany.com##.w56438
 www.ngpf.org###site-use-footerm
@@ -1268,8 +1265,6 @@ www.originpc.com##.show.fade.modal-backdrop
 okmagazine.com##.visible.igyrAv.sc-1fe8uuu-0
 okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
 financefeeds.com###aside
-www.wsls.com##.top-wide.fdhXUI.sc-bdVaJa
-www.wsls.com##.hxaReX.dist__StackBase-sc-1fnzlkn-6.sc-bdVaJa
 freebitco.in###bottom_user_ads_container
 freebitco.in###premium_membership_msg
 freebitco.in##.premium_buy_more_tokens
@@ -1353,7 +1348,7 @@ conversations.indy100.com##.bottom-strip
 ||yahoo.com^$removeparam=guce_referrer_sig
 www.yahoo.com###notification-container
 www.yahoo.com###applet_p
-www.yahoo.com##.Mb-20.subscriptiontdv2
+www.yahoo.com##.subscriptiontdv2
 www.yahoo.com###module-monalixaRightRail
 www.yahoo.com##.LREC-status-ok
 www.yahoo.comm##.wafer-beacon
@@ -1431,8 +1426,6 @@ deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
 tzkt.io##.text--secondary.text-sm-body-2.text-subtitle-3
 www.bloomberg.com##.bb-global-footer__ad-choices
 www.bloomberg.com##.leaderboard-container
-www.bloomberg.com##.tnte_-qn2IRpfZ36iYCBs
-kraken.com##.MobileAppBanner_mobileAppBanner__1O5h9
 kraken.com##.fc-ea86f4fb-7
 kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
@@ -2298,3 +2291,4 @@ daddylive.mp###footer
 ||virginia.gov^$removeparam=jsessionid
 ||virginia.gov^$removeparam=error
 paidviewpoint.com##.rotate-90
+app.paidviewpoint.com##.relative > p
