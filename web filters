@@ -1,3 +1,7 @@
+$removeparam=mt
+$removeparam=srfvp
+$removeparam=cm_sp
+$removeparam=adlink
 $removeparam=upsellOrderOrigin
 $removeparam=metr
 $removeparam=srsltid
@@ -46,8 +50,6 @@ $removeparam=referpage
 $removeparam=ratebypass
 $removeparam=__coig_login
 $removeparam=fvip
-$removeparam=srfvp
-$removeparam=mt
 $removeparam=sefc
 $removeparam=cver
 $removeparam=rn
@@ -108,7 +110,6 @@ $removeparam=bshm,important
 $removeparam=sca_ref
 $removeparam=cpn
 $removeparam=beids
-$removeparam=pot
 $removeparam=vet
 $removeparam=ofp
 $removeparam=psi
@@ -373,6 +374,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/coinbase.experiment
+/track-exposures
+/coremetrics
 /geolocation
 /admiral
 /logger
@@ -728,7 +732,6 @@ _show_ads
 /gdpr
 /donations
 /(newsletters
-/activity
 /cookie-echo
 /js-cookie
 /cookieManager
@@ -1063,6 +1066,7 @@ www.theatlantic.com##.BottomLeaflets_root__RjVTY
 www.medpagetoday.com##.leaderboard-region
 www.medpagetoday.com###right-rail-frame
 bankofamerica.com##.cardlytics-transaction-offer
+||bankofamerica.com^$removeparam=source
 fast.com##.help-container
 daily.jstor.org##.footer-widget
 www.lexology.com##.register-msg
@@ -2286,4 +2290,3 @@ daddylive.mp###footer
 ||virginia.gov^$removeparam=error
 paidviewpoint.com##.rotate-90
 app.paidviewpoint.com##.relative > p
-##[data-testid="MileTech_LEADER_BOARD1_DESKTOP"]
