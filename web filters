@@ -1,3 +1,4 @@
+$removeparam=pipelineType
 $removeparam=userTagIds
 $removeparam=pageLoadId
 $removeparam=mt
@@ -376,7 +377,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/markup/ad
 /forethought-metadata
+-gtag
 /gtag
 /talemetry
 /coinbase.experiment
@@ -2300,3 +2303,4 @@ www.forexlive.com##.banner
 www.forexlive.com##.above-header-meta-content
 ||thetvapp.to^$removeparam=user_id
 cookielaw.org/consent
+||outlier.ai^$removeparam=redirect_url
