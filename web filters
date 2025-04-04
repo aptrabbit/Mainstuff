@@ -1,3 +1,5 @@
+$removeparam=userTagIds
+$removeparam=pageLoadId
 $removeparam=mt
 $removeparam=srfvp
 $removeparam=cm_sp
@@ -374,6 +376,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/forethought-metadata
 /gtag
 /talemetry
 /coinbase.experiment
