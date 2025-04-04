@@ -374,6 +374,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/gtag
 /talemetry
 /coinbase.experiment
 /track-exposures
@@ -2290,4 +2291,8 @@ daddylive.mp###footer
 ||virginia.gov^$removeparam=jsessionid
 ||virginia.gov^$removeparam=error
 paidviewpoint.com##.rotate-90
-app.paidviewpoint.com##.relative > p
+paidviewpoint.com##.relative > p
+www.forexlive.com##.all-news__top-brokers
+www.forexlive.com##.banner
+www.forexlive.com##.above-header-meta-content
+||thetvapp.to^$removeparam=user_id
