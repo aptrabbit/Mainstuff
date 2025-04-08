@@ -377,6 +377,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/cookie-notification
 _ApplePay_Test
 ?avoid_sdk_session
 -advertising
@@ -540,7 +541,6 @@ _piano
 _register_wall
 /omtr
 /meter.js
-/feature-flags
 -adfuel
 -gdpr
 _gpdr
