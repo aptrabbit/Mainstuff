@@ -1,3 +1,4 @@
+$removeparam=utm_source
 $removeparam=pipelineType
 $removeparam=userTagIds
 $removeparam=pageLoadId
@@ -230,6 +231,11 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cookie-notice-container
+###cookie-notice-container
+###onetrust-banner-sdk
+###ad-free
+##.ad-free
 ##.cookies
 ##.cookie-banner
 ###cookieconsent
@@ -377,6 +383,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/amp.gif?
 /cookie-notification
 _ApplePay_Test
 ?avoid_sdk_session
@@ -544,7 +551,6 @@ _register_wall
 -adfuel
 -gdpr
 _gpdr
-/ads.js
 /social-signup
 /leadattribution
 /trackingNewPageview
@@ -2310,3 +2316,4 @@ www.forexlive.com##.above-header-meta-content
 ||thetvapp.to^$removeparam=user_id
 cookielaw.org/consent
 ||outlier.ai^$removeparam=redirect_url
+||linkedin.com^$removeparam=origin
