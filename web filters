@@ -383,6 +383,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/ads.js
 /amp.gif?
 /cookie-notification
 _ApplePay_Test
@@ -600,7 +601,6 @@ _adframe
 =NudgeStatsTracker
 /utm_params_config
 -consent-guard
-/bing
 /collector
 /visitor-identity
 /oneTrustApp
