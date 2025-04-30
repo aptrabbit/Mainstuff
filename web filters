@@ -383,6 +383,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/bing
 /ads.js
 /amp.gif?
 /cookie-notification
@@ -396,8 +397,6 @@ _ApplePay_Test
 /markup/ad
 /forethought-metadata
 -gtag
-/gtag
-/talemetry
 /coinbase.experiment
 /track-exposures
 /coremetrics
@@ -2317,3 +2316,4 @@ www.forexlive.com##.above-header-meta-content
 cookielaw.org/consent
 ||outlier.ai^$removeparam=redirect_url
 ||linkedin.com^$removeparam=origin
+www.tubefilter.com##.signupInline
