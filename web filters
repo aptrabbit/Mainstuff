@@ -385,6 +385,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/pianoId
+/google_onetap
+-google_onetap
 /bing
 /ads.js
 /amp.gif?
