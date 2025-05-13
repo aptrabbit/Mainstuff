@@ -1738,6 +1738,7 @@ google.com##sc-client-feedback-inline-feedback-link
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 www.google.*##^script:has-text(consentCookiePayload)
 google.*##[id^="eob_"]
+www.google.com##.S6Ggif
 www.google.com###xe7COe
 www.google.com###taw
 www.google.com##.KGl2dd.fl
@@ -2322,3 +2323,4 @@ cookielaw.org/consent
 ||outlier.ai^$removeparam=redirect_url
 ||linkedin.com^$removeparam=origin
 www.tubefilter.com##.signupInline
+examine.com##[href^="https://docs.google.com/forms"]
