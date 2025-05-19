@@ -385,6 +385,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/Universal-Federated-Analytics
 /pianoId
 /google_onetap
 -google_onetap
@@ -2107,6 +2108,7 @@ www.primewire.tf##.nopop.spn-btns
 www.starterstory.com##.fade.modal-backdrop
 www.coinbureau.com##.Layout_mainCookieDiv__nf6PT
 www.cbssports.com###skybox-top-wrapper
+examine.com##[href^="https://docs.google.com/forms"]
 examine.com##.xl\:w-\[1000px\].lg\:pt-\[35\%\]
 examine.com##.undefined.hover\:bg-examine-purple-200
 examine.com##.xl\:leading-9.md\:leading-7.md\:text-lg.py-4.px-8.bg-examine-purple-100.border-examine-purple-500
@@ -2308,9 +2310,9 @@ www.webmd.com##.doctor-module-spacer
 ||cloudtts.com^$removeparam=r
 bgu.qualtrics.com##.PageErrorDialog
 emojipedia.org##.md\:w-auto.w-full.mx-auto
-daddylive.mp##center > p
-daddylive.mp###sidebar
-daddylive.mp###footer
+daddylive.dad##center > p
+daddylive.dad###sidebar
+daddylive.dad###footer
 ||virginia.gov^$removeparam=jsessionid
 ||virginia.gov^$removeparam=error
 paidviewpoint.com##.rotate-90
@@ -2323,4 +2325,3 @@ cookielaw.org/consent
 ||outlier.ai^$removeparam=redirect_url
 ||linkedin.com^$removeparam=origin
 www.tubefilter.com##.signupInline
-examine.com##[href^="https://docs.google.com/forms"]
