@@ -231,6 +231,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###cookie-box
+##.cookie-box
 ##.BillboardAd
 ###BillboardAd
 ##.cookie-notice-container
@@ -2325,3 +2327,8 @@ cookielaw.org/consent
 ||outlier.ai^$removeparam=redirect_url
 ||linkedin.com^$removeparam=origin
 www.tubefilter.com##.signupInline
+play.xumo.com##.showsPromo
+||xumo.com^$removeparam=geoId
+pstream.org##.pb-4.group.relative.mx-auto
+seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
+iptvplay.stream##div.border-2:nth-of-type(2)
