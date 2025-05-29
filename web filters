@@ -387,6 +387,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/tippy
 /Universal-Federated-Analytics
 /pianoId
 /google_onetap
@@ -716,7 +717,6 @@ _show_ads
 /metrics
 /eventclick
 /_events
-/age-gate
 /pubmatic
 /dmp.advertising
 /displayAds
