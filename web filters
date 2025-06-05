@@ -231,6 +231,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##doc-layout-cookie-policy-banner
 ###cookie-box
 ##.cookie-box
 ##.BillboardAd
@@ -387,6 +388,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/c.rollBarEntry
+/ab_test
+/ab_tests
 /tippy
 /Universal-Federated-Analytics
 /pianoId
@@ -573,7 +577,6 @@ _gpdr
 /PluginEventTracking
 /analytics
 /tracker
-/ab_test
 /socialnotification
 /msreward
 /rewards-data-connector
@@ -641,7 +644,6 @@ _show_ads
 /RotateCookiesPage
 /marketing_campaign_actions
 /GoogleOneTap
-/c.GoogleOneTap
 /autotracker
 /gtm-snippet
 /g0dL0vesads
@@ -767,7 +769,6 @@ _show_ads
 /cookieTemplate
 /cookie-popup
 /compliance
-/ab_tests
 /get-cookie
 /measurement
 /custom-newsletter
@@ -792,7 +793,6 @@ _show_ads
 /logs
 /dwell-log
 /snowday
-/c.rollBarEntry
 /ot-min
 /blast.js
 /ally.min
