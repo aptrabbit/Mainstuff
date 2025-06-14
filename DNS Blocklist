@@ -1,3 +1,4 @@
+
 ||addpipe.com^
 ||route.com^
 ||project-turbine.in^
@@ -8,6 +9,13 @@
 ||getpublica.com^
 ||dap.digitalgov.gov^
 ||syf.com^
+@@||evehome.com^
+@@||d2gdx5nv84sdx2.cloudfront.net^
+@@||24hoursuptodatecdn.net^
+@@||affiliate.ledger.com^
+@@||go2app.org^
+@@||go2speed.org^
+@@||client-api.arkoselabs.com^
 ||pubtailer.com^
 ||uptick.com^
 ||zoominfo.com^
@@ -355,7 +363,6 @@
 ||metadata.io^
 ||highlight.run^
 ||varify.io^
-@@||evehome.com^
 ||stytch.com^
 ||rakutenadvertising.io^
 ||whitebit.com^
@@ -1754,12 +1761,6 @@
 ||login.live.com^$3p
 ||login.microsoftonline.com^$3p
 ||momagic.com^$3p
-@@||d2gdx5nv84sdx2.cloudfront.net^
-@@||24hoursuptodatecdn.net^
-@@||affiliate.ledger.com^
-@@||go2app.org^
-@@||go2speed.org^
-@@||client-api.arkoselabs.com^
 ||contributor.google.com^
 ||ogs.google.com/widget/callout$subdocument
 ||concord.tech^$all
