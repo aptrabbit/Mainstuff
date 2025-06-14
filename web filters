@@ -388,6 +388,14 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/tagged-events
+-tagged-events
+.tagged-events
+/pageview
+-pageview
+.pageview
+-rum-agent
+/rum-agent
 /c.rollBarEntry
 /ab_test
 /ab_tests
@@ -1944,17 +1952,14 @@ worldpopulationreview.com##.my-2.center
 ||www.startpage.com^$removeparam=extVersion
 ||www.startpage.com^$removeparam=t
 ||www.startpage.com^$removeparam=lui
+||www.startpage.com^$removeparam=cat
 www.startpage.com###home-below-the-fold-container
 www.startpage.com##div.app-banner-promo-container
 www.startpage.com##div.privacy-extension-and-app-widget
 www.startpage.com##.block-display
-www.startpage.com##.footer__links
-www.startpage.com##.footer__blog-widget
-www.startpage.com##.css-54mn9i
-www.startpage.com##.css-1pducxn
-www.startpage.com##.css-1o12sfa
-www.startpage.com##.css-bxdaet
-www.startpage.com##.ay-eo-tpcl
+www.startpage.com##.social
+www.startpage.com##.feedback-serp-container
+www.startpage.com##.feedback-widget
 www.researchgate.net##.rg-us-cookie-banner
 www.vox.com#@#.c-tab-bar
 www.vox.com###toaster
@@ -2310,7 +2315,6 @@ www.amazon.com###nile-inline_feature_div
 www.webmd.com##.doctor-module-spacer
 ||graph.facebook.com^
 ||cloudtts.com^$removeparam=r
-bgu.qualtrics.com##.PageErrorDialog
 emojipedia.org##.md\:w-auto.w-full.mx-auto
 daddylive.dad##center > p
 daddylive.dad###sidebar
@@ -2332,3 +2336,4 @@ play.xumo.com##.showsPromo
 pstream.org##.pb-4.group.relative.mx-auto
 seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
 iptvplay.stream##div.border-2:nth-of-type(2)
+vidembed.re/api/event
