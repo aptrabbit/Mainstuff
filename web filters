@@ -840,6 +840,7 @@ _show_ads
 /prime-presentation-metrics
 /redirect.prod.experiment.routing
 /fandom-ae-assets/identity-service
+vidembed.re/api/event
 knockrentals.com/v1/event
 api.btmessage.com/events
 cdnpure.com/report
@@ -1960,6 +1961,8 @@ www.startpage.com##.block-display
 www.startpage.com##.social
 www.startpage.com##.feedback-serp-container
 www.startpage.com##.feedback-widget
+www.startpage.com##.blog-menu
+www.startpage.com##.mobile-app-promo-banner
 www.researchgate.net##.rg-us-cookie-banner
 www.vox.com#@#.c-tab-bar
 www.vox.com###toaster
@@ -2171,7 +2174,8 @@ movie-web.app##.rounded-full.h-11.w-11.tabbable:nth-of-type(3)
 movie-web.app##.p-1.justify-center.items-center.flex.text-white.bg-\[\#C93957\]
 ||search.brave.com^$removeparam=source
 ||yandex.com^$removeparam=from
-www.reddit.com##.pt-\[var\(--page-y-padding\)\].v2.xs\:overflow-visible.overflow-x-hidden > form
+reddit.com###blocking-modal
+reddit.com##.pt-\[var\(--page-y-padding\)\].v2.xs\:overflow-visible.overflow-x-hidden > form
 reddit.com#@#shreddit-experience-tree
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
 https://www.redditstatic.com/js/tags-slim.js
@@ -2336,4 +2340,3 @@ play.xumo.com##.showsPromo
 pstream.org##.pb-4.group.relative.mx-auto
 seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
 iptvplay.stream##div.border-2:nth-of-type(2)
-vidembed.re/api/event
