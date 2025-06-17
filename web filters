@@ -388,6 +388,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/growthbook
 /tagged-events
 -tagged-events
 .tagged-events
@@ -515,7 +516,6 @@ _beacon
 -impressions
 ?.crumb
 /benji
-?quality=sd
 /promo-bar
 /gpp.stub
 /log_event
@@ -1963,6 +1963,8 @@ www.startpage.com##.feedback-serp-container
 www.startpage.com##.feedback-widget
 www.startpage.com##.blog-menu
 www.startpage.com##.mobile-app-promo-banner
+www.startpage.com/perf
+/TotalAdBlockAdultWidget
 www.researchgate.net##.rg-us-cookie-banner
 www.vox.com#@#.c-tab-bar
 www.vox.com###toaster
@@ -2294,6 +2296,7 @@ mail.protonmail.com##.latest-upgrade
 mail.protonmail.com##section:nth-of-type(2)
 mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 mail.proton.me##.bg-promotion
+mail.proton.me##.button-promotion
 www.nowfoods.com##.eu-cookie-compliance-banner--categories
 www.equitymaster.com##.sp-report2
 www.dailymail.co.uk##.newsletter-modal-shopping
@@ -2317,7 +2320,6 @@ www.nutritioninsight.com##.bannerdiv
 www.nutritioninsight.com##.sidebanner-container
 www.amazon.com###nile-inline_feature_div
 www.webmd.com##.doctor-module-spacer
-||graph.facebook.com^
 ||cloudtts.com^$removeparam=r
 emojipedia.org##.md\:w-auto.w-full.mx-auto
 daddylive.dad##center > p
@@ -2325,17 +2327,14 @@ daddylive.dad###sidebar
 daddylive.dad###footer
 ||virginia.gov^$removeparam=jsessionid
 ||virginia.gov^$removeparam=error
-paidviewpoint.com##.rotate-90
-paidviewpoint.com##.relative > p
 www.forexlive.com##.all-news__top-brokers
 www.forexlive.com##.banner
 www.forexlive.com##.above-header-meta-content
-||thetvapp.to^$removeparam=user_id
 cookielaw.org/consent
 ||outlier.ai^$removeparam=redirect_url
 ||linkedin.com^$removeparam=origin
 www.tubefilter.com##.signupInline
-play.xumo.com##.showsPromo
+xumo.com##.showsPromo
 ||xumo.com^$removeparam=geoId
 pstream.org##.pb-4.group.relative.mx-auto
 seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
