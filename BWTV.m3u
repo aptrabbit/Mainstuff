@@ -197,7 +197,7 @@ http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 http://fl3.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="Entertainment",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/1272/cached.offlinehbpl.hbpl.co.uk/news/SUC/TCMLogo.jpg" group-title="Entertainment",TCM
+#EXTINF:-1 tvg-id="" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/1272/cached.offlinehbpl.hbpl.co.uk/news/SUC/TCMLogo.jpg" group-title="Entertainment",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/7ccec3_1132bd5f20e047218fd37630bbb845e6~mv2.jpg/v1/fill/w_370,h_370,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/tmz-live-cover-art-square%20(4)%201.jpg" group-title="Entertainment",TMZ
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
