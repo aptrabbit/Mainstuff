@@ -17,7 +17,7 @@ http://fl3.moveonjoy.com/BET_EAST/index.m3u8
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.fubo.tv/station_logos/bet_soul_m.png" group-title="Music",BET Soul
 http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31Ja06sm51L.png" group-title="Business",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/31Ja06sm51L.png" group-title="Business",Bloomberg
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg" group-title="Business",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -81,7 +81,7 @@ http://fl3.moveonjoy.com/FXX/index.m3u8
 http://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="History.us" group-title="History/Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",History
 http://23.237.104.106:8080/USA_HISTORY/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-id="MilitaryHistory.us" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="History/Science",Military History
+#EXTINF:-1 tvg-id="MilitaryHistory.us" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="History/Science",Military History
 https://fl3.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41E+jdLk8ZL.png" group-title="Entertainment",Hallmark Channel
 http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
@@ -89,7 +89,7 @@ http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Crime",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id=""" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-ION-1.png" group-title="Entertainment",ION
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-ION-1.png" group-title="Entertainment",ION
 https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist_4300k.m3u8
@@ -123,7 +123,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TeenNick_2023_Alternative_Logo.png" group-title="Cartoons/Youth",TeenNick
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Sports", ESPN
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/espnews-min.png" group-title="Sports",ESPNews
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
