@@ -123,6 +123,8 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TeenNick_2023_Alternative_Logo.png" group-title="Cartoons/Youth",TeenNick
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/espnews-min.png" group-title="Sports",ESPNews
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/2048px-ESPN_U_logo.svg.png" group-title="Sports",ESPNU
@@ -193,8 +195,6 @@ http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 http://fl3.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Encore_Classic.png" group-title="Entertainment",Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgvN_0x7ItKtNb-_x73e9Wn-oQHbx9uKmJA&s" group-title="Entertainment",Sundance TV
-http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/PAO1zdi5-ZWaGxsxARO14s66fAZ201ufG0qDdyFk0TMID7cs_s3xEmTxTWEgI2wKJd5d85N3l3I=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Syfy
 http://fl3.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="Entertainment",TBS
