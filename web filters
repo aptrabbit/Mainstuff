@@ -388,6 +388,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/wordfence
+?wordfence
+/blockerlog
 /growthbook
 /tagged-events
 -tagged-events
