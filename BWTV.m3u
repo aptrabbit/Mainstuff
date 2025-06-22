@@ -145,7 +145,7 @@ https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/NFL-Network.png" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/65/7b/26657b5d-2da4-9390-9519-46a17603c042/AppIcon-release-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" group-title="Sports",NFL Network
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png" group-title="Sports",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
