@@ -17,7 +17,7 @@ http://fl3.moveonjoy.com/BET_EAST/index.m3u8
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.fubo.tv/station_logos/bet_soul_m.png" group-title="Music",BET Soul
 http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wDBsmtVi7P1Kjpdavo97_hza4kY154TNQ&s" group-title="Business",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
 https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
@@ -103,8 +103,8 @@ https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
 http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.logofury.com/logo_src/bb21c7f69a68d46d608276ab1393f247.jpeg" group-title="News",NBC
-https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax TV
@@ -157,7 +157,7 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.shalimarstudios.com/cms/wp-content/uploads/2015/06/Nat_Geo_Wild_BLOG.jpg" group-title="Nature",National Geographic Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=OUTDOORCHANNEL_HD&productId=SPOD&sourceType=colorHybrid" group-title="Nature",Outdoor Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/860Z608iMFhqynBU7EhQukR-Irf9fRoxIV-MgZYaB8SsJaZmNBR-aw-_JrNM-ZhmIuyXeomGng=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/fTZK6tSRntyk2NwIpvqgg5IKI7nA0e3uyMsTdsOGvsDsgmFPiPAN7Q-6cQ1I3FDDtMs" group-title="Lifestyle/Food",Outside TV
 https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8
