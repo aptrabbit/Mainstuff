@@ -1,3 +1,15 @@
+||ap-gae2.spotify.com^
+||ap-gue1.spotify.com^
+||gue1-dealer.spotify.com^
+||gue1-spclient.spotify.com^
+||quicksilver.scdn.co^
+||mosaic.scdn.co^
+||adeventtracker.spotify.com^
+||tracing.spotify.com^
+||aet.spotify.com^
+||confidence.spotify.com^
+||evnt.byspotify.com^
+||pixel.byspotify.com^
 ||antiabuse-pa.googleapis.com^
 ||iosantiabuse-pa.googleapis.com^
 ||cdn39.com^
@@ -119,7 +131,6 @@
 ||api.saasexch.com^$important
 ||bitdrift.io^
 ||usechimney.com^
-||confidence.spotify.com^
 ||coingainers.net^
 ||ipblocker.io^
 ||conpletus.cointelegraph.com^
@@ -458,9 +469,6 @@
 ||cse.google.com^
 ||tinypass.com^
 ||retail-client-events-service.internal.salsify.com^
-||ap-gue1.spotify.com^
-||gue1-dealer.spotify.com^
-||gue1-spclient.spotify.com^
 ||litix.io^
 ||withpersona.com^
 ||thirdline.io^
@@ -845,8 +853,6 @@
 ||audience.io^
 ||rkdms.com^
 ||www.discover.com^
-||evnt.byspotify.com^
-||pixel.byspotify.com^
 ||pixel-config.reddit.com^
 ||progressive.com^
 ||easyask.io^
@@ -858,7 +864,6 @@
 ||paywall-ad-bucket.s3.amazonaws.com^
 ||mg2insights.com^
 ||b-graph.facebook.com^
-||aet.spotify.com^
 ||apexlink.to^
 ||click.consumerlabmail.com^
 ||trk.loancanvas.com^
@@ -1440,10 +1445,6 @@
 ||xadsmart.com^
 ||cueistratting.com^
 ||bocoyoutage.com^
-||quicksilver.scdn.co^
-||mosaic.scdn.co^
-||adeventtracker.spotify.com^
-||tracing.spotify.com^
 ||sports24.site^
 ||cdn.salamus1.lol^
 ||lumnstoodthe.info^
