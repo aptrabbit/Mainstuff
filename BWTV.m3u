@@ -11,8 +11,6 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.paramount.tech/uri/mgid:arc:imageassetref:shared.bet.us:6e72d0bb-f45c-11eb-84ca-0e0dce71f2a5?quality=0.7&gen=ntrn" group-title="Entertainment",BET
-http://fl3.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/930886148649553921/y5b4ZgGF_400x400.jpg" group-title="Music",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.fubo.tv/station_logos/bet_soul_m.png" group-title="Music",BET Soul
