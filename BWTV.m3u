@@ -71,8 +71,8 @@ http://fl5.moveonjoy.com/FX/index.m3u8
 http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLoi1UCnhk1Fv9Jx7Jzhi3V-wpj22yMXMlYVk7ig20yqw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",FXX
 http://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="History.us" group-title="History/Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",History
-http://23.237.104.106:8080/USA_HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="History/Science" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2B46CB5-9C27-49E2-A022-30B482C208AC/3-1x1.png/900",True History
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="MilitaryHistory.us" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="History/Science",Military History
 https://fl3.moveonjoy.com/Military_History/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41E+jdLk8ZL.png" group-title="Entertainment",Hallmark Channel
