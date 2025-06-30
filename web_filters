@@ -388,6 +388,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/heatmap
+-heatmap
+/heat-map
+-heat-map
+/chunks/track
 /abuse
 /wordfence
 ?wordfence
@@ -1968,7 +1973,8 @@ startpage.com##.blog-menu
 startpage.com##.mobile-app-promo-banner
 startpage.com###main > div.ay-bg-top
 www.startpage.com/perf
-/TotalAdBlockAdultWidget
+/TotalAdBlock
+/privacy-please
 www.researchgate.net##.rg-us-cookie-banner
 www.vox.com#@#.c-tab-bar
 www.vox.com###toaster
