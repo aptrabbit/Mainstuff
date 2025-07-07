@@ -1,3 +1,7 @@
+$removeparam=gatewayAdapt
+$removeparam=pdp_ext_f
+$removeparam=algo_exp_id
+$removeparam=utparam-url
 $removeparam=utm_source
 $removeparam=pipelineType
 $removeparam=userTagIds
@@ -388,6 +392,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/secure-cookie
+/pinger
 /heatmap
 -heatmap
 /heat-map
@@ -444,7 +450,6 @@ _ApplePay_Test
 ?appDefinitionIdToSiteRevision
 /wp-event
 /nsfw-blocking
-/chunks/Marketing
 /PfAds
 /rum-action
 /imperium
@@ -1166,7 +1171,6 @@ wetransfer.com##.banner__animations-enter-done.banner__container
 www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
 www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
-www.nimh.nih.gov##.sidebar_section.sidebar_child.share_links_wrap
 coinguides.org##.q2w3-fixed-widget-container.theiaStickySidebar
 cryptocoin.news##.ccpw-header-ticker-fixedbar.ccpw-ticker-cont.style-1-2
 www.digit.in##.avg_height
@@ -1229,7 +1233,6 @@ www.ibtimes.com##.discussion
 www.ibtimes.com##.block-sticky
 www.ibtimes.com###block-ibt-comment
 robbreport.com##.sister-links
-www.nccih.nih.gov##footer
 www.trustnodes.com#@#.simple-share
 beincrypto.com##.with-promo
 beincrypto.com##.col-md-3
@@ -1811,7 +1814,6 @@ www.theblockcrypto.com##.articleIAB
 www.theblockcrypto.com##.sticky
 www.theblockcrypto.com##article.feedCard:nth-of-type(1)
 www.theblockcrypto.com##.daily.feedCard
-www.ncbi.nlm.nih.gov##.custom-feedback-button--base
 www.crunchbase.com##.native-magic-side
 www.theguardian.com##.dcr-v2o9qm
 www.theguardian.com##.css-9aekbr
@@ -2289,7 +2291,6 @@ meetmoji.com##mm-cookie-policy
 hotspotty.net###\:r1\:-slider-frame
 duckduckgo.com###li.EcE0RD8NCNGe61Kp815G
 ||zinrelo.com^$removeparam=init_data
-pmc.ncbi.nlm.nih.gov##.usa-accordion
 whatismyipaddress.com##.warning-button-container
 https://www.axios.com/api/v1/user-permissions
 independent.co.uk/external-api/liveblog
@@ -2351,3 +2352,7 @@ seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black
 iptvplay.stream##div.border-2:nth-of-type(2)
 app.seobility.net##.productfruits--container
 www.sciencedirect.com###gh-help-icon-popover
+nih.gov##.share_links_wrap
+nih.gov##footer
+nih.gov##.custom-feedback-button--base
+nih.gov##.usa-banner
