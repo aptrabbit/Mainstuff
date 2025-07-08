@@ -56,7 +56,7 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://yt3.googleusercontent.com/NyNEDUf6vZUw91UA78V8mbKfalM9ufJ2laC5FmPkofOAA6fW9aXRJvOEfeIUkAEI41Yax0xA=s900-c-k-c0x00ffffff-no-rj" group-title="Cartoons/Youth",Disney
 http://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
-https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="Business",Fox Business
 https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/o-xFgx7gUtStBe5Zyz-vhqXP-NbiA1W13wMTAWQvCIZMSyKIRnqJR-lYduWQFfNxBNVCwZeNuPrJ" group-title="News",LiveNOW from FOX
@@ -95,8 +95,8 @@ http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News Now
-https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_1.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
+https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/pAmVLG2U7H8LmX123dcyoMGkRoRX2jyW3X_DsoBQmdTPTJ0cJrEO4vpz68H_bb4sD50c" group-title="News",NBC 4 Washington
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax
@@ -173,7 +173,7 @@ https://apollo.production-public.tubi.io/live/ac-reelz.m3u8
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/12/sn_logo@500.png" group-title="News",Scripps News
 https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNlNjQzNzYtNDYzNi00Njc1LWI2NDUtNzkyMWZjYWU0NmQyXkEyXkFqcGc@._V1_.jpg" group-title="Entertainment",Showtime
+#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Entertainment",Showtime
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mej33cYIqIZDw0-JNgFVB39H9mLmdKjxfsddaodXaHoDBR=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",Smithsonian Channel
 http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
