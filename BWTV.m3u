@@ -5,6 +5,8 @@ https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="Cartoons/Youth",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/a03d846f-3190-4495-9754-2da88b07e955/0.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk9iAkX5YV3MxymeeXBXToLALQcCTATW1Qx0YE0WyIXgihbxNb7T38TSJes9-tJXeF8Y&usqp=CAU" group-title="Entertainment",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://talkwithaudrey.com/wp-content/uploads/2022/12/AMGTV.png%22" group-title="News",AMG TV
@@ -63,8 +65,6 @@ https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 https://livetv-fa.tubi.video/fox-live-now/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://livetv-fa.tubi.video/fox-weather/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiz8X7ncTjNv7xLSzm558PkxvtuWgkqyGC2rBAwKswR1E=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Fuse
-http://fl3.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg" group-title="Entertainment",FX
 http://fl5.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLoi1UCnhk1Fv9Jx7Jzhi3V-wpj22yMXMlYVk7ig20yqw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",FXX
@@ -99,7 +99,7 @@ http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/pAmVLG2U7H8LmX123dcyoMGkRoRX2jyW3X_DsoBQmdTPTJ0cJrEO4vpz68H_bb4sD50c" group-title="News",NBC 4 Washington
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News",Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
@@ -121,7 +121,7 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_1.m3u8
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ESPN_News.png" group-title="Sports",ESPNews
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/2048px-ESPN_U_logo.svg.png" group-title="Sports",ESPNU
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/2048px-ESPN_U_logo.svg.png" group-title="Sports",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -155,9 +155,9 @@ https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.shalimarstudios.com/cms/wp-content/uploads/2015/06/Nat_Geo_Wild_BLOG.jpg" group-title="Nature",National Geographic Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Outdoor-White-Small.png.webp" group-title="Nature",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Outdoor-White-Small.png.webp" group-title="Nature",Outdoor Channel US
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F9bdfb3ba-2cc0-4507-b2eb-b6d8deafb85a-1687887971.043121.256x256.jpg&w=256&q=75" group-title="Lifestyle/Food",Outside TV
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F9bdfb3ba-2cc0-4507-b2eb-b6d8deafb85a-1687887971.043121.256x256.jpg&w=256&q=75" group-title="Lifestyle/Food",Outside
 https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/1200px-WFN_2014_logo.svg.png" group-title="Nature",World Fishing Network
 http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
