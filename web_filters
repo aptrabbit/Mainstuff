@@ -1,3 +1,4 @@
+$removeparam=is-from-marketing-site
 $removeparam=gatewayAdapt
 $removeparam=pdp_ext_f
 $removeparam=algo_exp_id
@@ -392,6 +393,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/google-tag-manager
 /secure-cookie
 /pinger
 /heatmap
@@ -2356,3 +2358,4 @@ nih.gov##.share_links_wrap
 nih.gov##footer
 nih.gov##.custom-feedback-button--base
 nih.gov##.usa-banner
+medcraveonline.com###contact-buttons-bar
