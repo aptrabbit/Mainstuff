@@ -393,6 +393,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/report/message
+/report/track
+/errorELKLogs
 /google-tag-manager
 /secure-cookie
 /pinger
@@ -2359,3 +2362,4 @@ nih.gov##footer
 nih.gov##.custom-feedback-button--base
 nih.gov##.usa-banner
 medcraveonline.com###contact-buttons-bar
+www.ainvest.com##.dark\:bg-gray-900
