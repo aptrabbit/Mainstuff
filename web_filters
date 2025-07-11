@@ -1,3 +1,4 @@
+$removeparam=adkey
 $removeparam=is-from-marketing-site
 $removeparam=gatewayAdapt
 $removeparam=pdp_ext_f
@@ -393,6 +394,12 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/js/stat-
+/old-stat
+/event-store
+_perfData
+-perfData
+/perfData
 /report/message
 /report/track
 /errorELKLogs
