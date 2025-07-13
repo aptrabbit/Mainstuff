@@ -13,7 +13,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/AHC-White-Small.png" group-title="History/Science",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLv0wLHE6-rb1dI5Qq68TU6Mzx59IndU_ixw&s" group-title="Entertainment",BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qg24aaaP1ajymNRQfvlQCtjXlMKAUz8M8AL5e2EKG1XYjyb2_yaN0UkwCITP0Tzf7dE&usqp=CAU" group-title="Entertainment",BBC America
 https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
