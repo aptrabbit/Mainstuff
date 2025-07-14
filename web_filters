@@ -1,3 +1,5 @@
+$removeparam=hubs_signup-url
+$removeparam=track
 $removeparam=adkey
 $removeparam=is-from-marketing-site
 $removeparam=gatewayAdapt
@@ -394,6 +396,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/nudge/tracking
+/hublytics
+/logging
+-logging
 /js/stat-
 /old-stat
 /event-store
