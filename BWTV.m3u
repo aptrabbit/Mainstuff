@@ -96,7 +96,7 @@ http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC
 https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
-http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/pAmVLG2U7H8LmX123dcyoMGkRoRX2jyW3X_DsoBQmdTPTJ0cJrEO4vpz68H_bb4sD50c" group-title="News",NBC 4 Washington
@@ -137,6 +137,8 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://vhx.imgix.net/speed3/assets/fff2e10c-33c2-4d99-b2d7-efa0fbf6e6a8.png" group-title="Sports",Racing America
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
 http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
@@ -195,3 +197,5 @@ https://usatodaynews-xumo.amagi.tv/1080p-cc/index.m3u8
 https://vicetv-vicefast1-firetv.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0urAH100yOHBVsGVASXcUe9OzbOL8sLf8Nw&s" group-title="Weather",WeatherSpy
 https://c3b4be95.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfV2VhdGhlclNweV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1" group-title="Nature",WildEarth
+https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
