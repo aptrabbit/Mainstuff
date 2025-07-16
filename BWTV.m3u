@@ -25,6 +25,8 @@ http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wDBsmtVi7P1Kjpdavo97_hza4kY154TNQ&s" group-title="Business",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png" group-title="Lifestyle/Food",bon appétit
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMDA4o-ew3JDUSPoREUaZLEgouivnMlNwjbTjlWw1xvuqz=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",The Cooking Channel
@@ -87,14 +89,12 @@ https://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/X3YNQPxIdTPu9DqCXfpmdeXUh7zRhS3Djy_vnbEj9_pHmN1snG6egpCNwQXmFnjYXJjmCsnJ=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",Love Nature
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/rDzYxbfSRinWI-sBq_6jvWLhgAMUtIbKtO9jv7uRfUnmESWpJ_z3eDxCrI5pkSGAhs8J" group-title="Entertainment",MGM+
-http://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS198aaGHrP1GEZvrhfCFdygPMJ8Y1nMd9xuw&s" group-title="Entertainment",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 http://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC
-https://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
