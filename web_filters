@@ -239,6 +239,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###isc-zorse-widget
 ##doc-layout-cookie-policy-banner
 ###cookie-box
 ##.cookie-box
@@ -1712,7 +1713,6 @@ www.dapp.com##.general-ad2
 stackshare.io###Cta_stackbot-react-component-4d4e77d0-3589-4748-a496-63c93594414e
 stackshare.io###HeaderNotice-react-component-adf3b206-0ede-47ba-b0aa-453f595c7398
 ezil.me##.ezil-zjlttn
-blog.hubspot.com###slidebox
 seositecheckup.com##.sidebar-promo
 www.iclicker.com#@#.pum[data-popmake*="cookies"]
 ahrefs.com##.intercom-icon-container
@@ -2030,6 +2030,7 @@ www.youtube.com##.yt-reaction-control-panel-overlay-view-model
 www.consumeraffairs.com##.sticky-aside__dyn--vsbl
 www.spotify.com##.hzeuvL.sc-cxFLnm
 www.spotify.com#@#div > div[aria-live="polite"]
+https://spclient.wg.spotify.com/ads/$important
 https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
 /quicksilver
@@ -2217,6 +2218,7 @@ https://www.reddit.com/user/TheFrostedMiniWheats/
 https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 /shreddit-sidebar-ad
 /redditads
+||www.reddit.com^$removeparam=tabId,important
 ||www.reddit.com^$removeparam=source,important
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
@@ -2376,3 +2378,5 @@ nih.gov##.custom-feedback-button--base
 nih.gov##.usa-banner
 medcraveonline.com###contact-buttons-bar
 www.ainvest.com##.dark\:bg-gray-900
+blog.hubspot.com###slidebox
+||hubspot.com^$removeparam=via
