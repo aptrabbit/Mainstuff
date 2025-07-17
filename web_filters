@@ -397,6 +397,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/feedback.js
+-feedback.js
+/feedback-link
 /nudge/tracking
 /hublytics
 /logging
@@ -490,7 +493,6 @@ _ApplePay_Test
 /cb/cb
 /track/view
 /gen_204
-/feedback.js
 _showads
 -showads
 /showads
@@ -823,7 +825,6 @@ _show_ads
 /campaign-views
 /generate_204
 /aping
-/feedback-link
 /statistics
 /api/stats
 /feature-telemetry
@@ -2367,7 +2368,6 @@ cookielaw.org/consent
 www.tubefilter.com##.signupInline
 xumo.com##.showsPromo
 ||xumo.com^$removeparam=geoId
-pstream.org##.pb-4.group.relative.mx-auto
 seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
 iptvplay.stream##div.border-2:nth-of-type(2)
 app.seobility.net##.productfruits--container
@@ -2380,3 +2380,4 @@ medcraveonline.com###contact-buttons-bar
 www.ainvest.com##.dark\:bg-gray-900
 blog.hubspot.com###slidebox
 ||hubspot.com^$removeparam=via
+pstream.mov##.pb-4.group.relative.mx-auto
