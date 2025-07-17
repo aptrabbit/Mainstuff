@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwRh9jbwmoLGAENJkUzZND9muuQMItynU8g&s" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://www.accuweather.com/images/components/core/base-image-color.jpg" group-title="Weather",AccuWeather NOW
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://cms.accuweather.com/wp-content/uploads/2024/06/AccuWeather-Sun-Logo.png" group-title="Weather",AccuWeather NOW
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="Cartoons/Youth",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
@@ -9,8 +9,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/a03d846f-3190-4495-9754-2da88b07e955/0.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk9iAkX5YV3MxymeeXBXToLALQcCTATW1Qx0YE0WyIXgihbxNb7T38TSJes9-tJXeF8Y&usqp=CAU" group-title="Entertainment",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://image.roku.com/developer_channels/prod/7e4a1642f5549b70451188850f7be08833b431c6084020ef0bdad1565b5ba5d3.png" group-title="Entertainment",AMGTV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/AHC-White-Small.png" group-title="History/Science",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qg24aaaP1ajymNRQfvlQCtjXlMKAUz8M8AL5e2EKG1XYjyb2_yaN0UkwCITP0Tzf7dE&usqp=CAU" group-title="Entertainment",BBC America
@@ -159,7 +157,9 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.shalimarstudios.com/cms/wp-content/uploads/2015/06/Nat_Geo_Wild_BLOG.jpg" group-title="Nature",National Geographic Wild
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/841904773620211713/6brcxkN9_400x400.jpg" group-title="History/Science",National Geographic
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkEUZ1buTHfhLxsvc2SpDwWNudoa4KJn8goXdEPBiNJfDhPQS904a5UJqyd34ocabVP8&usqp=CAU" group-title="Nature",National Geographic Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Outdoor-White-Small.png.webp" group-title="Nature",Outdoor Channel US
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
