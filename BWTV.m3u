@@ -183,11 +183,11 @@ https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
 http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="Entertainment",TBS - East
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/1272/cached.offlinehbpl.hbpl.co.uk/news/SUC/TCMLogo.jpg" group-title="Entertainment",Turner Classic Movies USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Lwjd-gMnF1NekAo34NaLpuYVglJTkQKmIlaNDXHc0twmoG4um5y0PfazB2yhEyUkorwFcYz-AA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Turner Classic Movies USA
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",TED
 https://amg02034-amg02034c1-amgplt0023.playout.now3.amagi.tv/playlist/amg02034-amg02034c1-amgplt0023/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bostoncrusaders.org/wp-content/uploads/2016/07/tmz.jpg" group-title="Entertainment",TMZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://canvas-bridge.staging-public.tubi.io/l_f5QzYyCubQs3x-wDdCnnYdq0c=/640x360/smart/img.adrise.tv/2c15cb65-7cbc-4494-9f61-4880fef8a9d2.jpeg" group-title="Entertainment",TMZ
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJnc11FjOZv07E26i2coo0OjYtOZzSQmrWng9d-ApchXlI4VFqmNQ4rEWMkFlTEWFV5Y&usqp=CAU" group-title="Entertainment",TNT - Eastern Feed
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
