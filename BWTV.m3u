@@ -69,6 +69,8 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 https://livetv-fa.tubi.video/fox-live-now/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://livetv-fa.tubi.video/fox-weather/index.m3u8
+#EXTINF:-1 tvg-id="FYI.us@East" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle",FYI USA - Eastern
+https://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Comedy",LOL! Network
 https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Sf_1Z1QRTgM5yWLE92vkGYsiZPyD0YKiv7Yk7D_iYg0a-BcIm5eCReH6qpoGIMBw8N_S1Fo-md8=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",MagellanTV NOW
@@ -117,8 +119,6 @@ http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/413eZR+AcPL.png" group-title="Sports",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ESPN_News.png" group-title="Sports",ESPN News
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/2048px-ESPN_U_logo.svg.png" group-title="Sports",ESPN U
