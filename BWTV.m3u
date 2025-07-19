@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwRh9jbwmoLGAENJkUzZND9muuQMItynU8g&s" group-title="News",ABC News Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwRh9jbwmoLGAENJkUzZND9muuQMItynU8g&s" group-title="News",ABC News Live [US]
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU" group-title="Weather",AccuWeather NOW
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
