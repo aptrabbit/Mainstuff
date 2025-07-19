@@ -87,6 +87,8 @@ https://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/X3YNQPxIdTPu9DqCXfpmdeXUh7zRhS3Djy_vnbEj9_pHmN1snG6egpCNwQXmFnjYXJjmCsnJ=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",Love Nature
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/rDzYxbfSRinWI-sBq_6jvWLhgAMUtIbKtO9jv7uRfUnmESWpJ_z3eDxCrI5pkSGAhs8J" group-title="Entertainment",MGM+ HDTV (East) (MGM+HD)
+https://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS198aaGHrP1GEZvrhfCFdygPMJ8Y1nMd9xuw&s" group-title="Entertainment",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV USA - Eastern Feed
