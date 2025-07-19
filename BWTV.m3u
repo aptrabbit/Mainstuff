@@ -25,7 +25,7 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png" group-title="Lifestyle/Food",bon appétit
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png" group-title="Lifestyle/Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMDA4o-ew3JDUSPoREUaZLEgouivnMlNwjbTjlWw1xvuqz=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",The Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -49,7 +49,7 @@ https://circle-xumo.amagi.tv/1080p-cc/index.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fk9jMH-_S80kDKyR7kUGol3ccqPj_R1KXw&s" group-title="Crime",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/14/58a9ef27-9b7b-3245-bb2a-f95d57bd2cac.png?bf=0&f=png&p=true&q=60&w=360" group-title="History/Science",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/14/58a9ef27-9b7b-3245-bb2a-f95d57bd2cac.png?bf=0&f=png&p=true&q=60&w=360" group-title="History/Science",Discovery Channel (US) - Eastern Feed
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="Lifestyle/Food",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
@@ -89,7 +89,7 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS198aaGHrP1GEZvrhfCFdygPMJ8Y1nMd9xuw&s" group-title="Entertainment",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV USA - Eastern Feed
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.usa" tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
 http://212.102.60.231/MSNBC/index.m3u8
