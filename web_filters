@@ -397,6 +397,8 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-tracking_config
+/tracking_config
 /feedback.js
 -feedback.js
 /feedback-link
@@ -897,7 +899,6 @@ no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
 trck.pix.twitch.prod-na.turntable.sonic.advertising
 www.gstatic.com/firebasejs
-cdn.cookielaw.org/opt-out/
 https://app-measurement.com/sdk-exp$important
 ||widget.portis.io/$subdocument
 ||*.user.com/static/js/*
@@ -1818,9 +1819,9 @@ google.com##.related-question-pair
 google.com##.commercial-unit-desktop-top
 google.com##.OTFaAf.WFxqwc > .NFQFxe.wDYxhc
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
-https://accounts.google.com/gsi/client
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||www.google.com^$removeparam=client
+https://accounts.google.com/gsi/client
 watcher.guru##.cs-custom-content-site_content-before
 analytics.skew.com##.cxwMRP
 www.theblock.co##.stickyFooter
@@ -2362,7 +2363,6 @@ daddylive.dad###footer
 www.forexlive.com##.all-news__top-brokers
 www.forexlive.com##.banner
 www.forexlive.com##.above-header-meta-content
-cookielaw.org/consent
 ||outlier.ai^$removeparam=redirect_url
 ||linkedin.com^$removeparam=origin
 www.tubefilter.com##.signupInline
