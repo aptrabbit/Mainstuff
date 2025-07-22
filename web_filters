@@ -397,6 +397,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-tracking
+/check-adblock
+/checkadblock
+_adblock
+-adblock
 _ad.js
 -ad.js
 /ad.js
@@ -618,6 +623,7 @@ _register_wall
 -adfuel
 -gdpr
 _gpdr
+/omtr
 /social-signup
 /leadattribution
 /trackingNewPageview
@@ -2393,3 +2399,4 @@ blog.hubspot.com###slidebox
 pstream.mov##.pb-4.group.relative.mx-auto
 libertymutual.com/health
 www.libertymutual.com###quoting-anchor
+www.the-express.com##div.text-description > ul
