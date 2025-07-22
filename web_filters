@@ -397,6 +397,17 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+_ad.js
+-ad.js
+/ad.js
+_social-icons
+-social-icons
+/social-icons
+-akismet
+/akismet
+_buymeacoffee
+-buymeacoffee
+/buymeacoffee
 -tracking_config
 /tracking_config
 /feedback.js
@@ -603,7 +614,6 @@ _piano
 /registerwall
 /register_wall
 _register_wall
-/omtr
 /meter.js
 -adfuel
 -gdpr
