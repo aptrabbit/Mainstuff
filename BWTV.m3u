@@ -6,9 +6,7 @@ https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="Cartoons/Youth",Adult Swim - East
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7fKuHKYI_01i35PjwieuAoCzWzAIOgJ9rA&s" group-title="Comedy",Always Funny
-https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/a03d846f-3190-4495-9754-2da88b07e955/0.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVk9iAkX5YV3MxymeeXBXToLALQcCTATW1Qx0YE0WyIXgihbxNb7T38TSJes9-tJXeF8Y&usqp=CAU" group-title="Entertainment",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/AHC-White-Small.png" group-title="History/Science",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qg24aaaP1ajymNRQfvlQCtjXlMKAUz8M8AL5e2EKG1XYjyb2_yaN0UkwCITP0Tzf7dE&usqp=CAU" group-title="Entertainment",BBC America
@@ -51,8 +49,6 @@ http://fl3.moveonjoy.com/Destination_America/index.m3u8
 http://212.102.60.231/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Crime",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnqDgv_ABx4oaykGGAsedyKi2baTYXQCLnLg&s" group-title="Business",EntrepreneurTV
-https://e15707b3098c41858406df9e8f9cb43b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG_EntrepreneurTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
 https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
@@ -63,7 +59,7 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 https://livetv-fa.tubi.video/fox-live-now/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://livetv-fa.tubi.video/fox-weather/index.m3u8
-#EXTINF:-1 tvg-id="FYI.us@East" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle",FYI USA - Eastern
+#EXTINF:-1 tvg-id="FYI.us@East" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle/Food",FYI USA - Eastern
 https://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Comedy",LOL! Network
 https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
@@ -90,9 +86,9 @@ https://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV USA - Eastern Feed
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.usa" tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
-http://212.102.60.231/MSNBC/index.m3u8
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
-http://212.102.60.231/NEWS_NATION/index.m3u8
+https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/pAmVLG2U7H8LmX123dcyoMGkRoRX2jyW3X_DsoBQmdTPTJ0cJrEO4vpz68H_bb4sD50c" group-title="News",NBC 4 Washington
