@@ -93,7 +93,7 @@ https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/pAmVLG2U7H8LmX123dcyoMGkRoRX2jyW3X_DsoBQmdTPTJ0cJrEO4vpz68H_bb4sD50c" group-title="News",NBC 4 Washington
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax TV
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",NewsMax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News",Newsmax 2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
