@@ -54,7 +54,7 @@ https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="Business",Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/o-xFgx7gUtStBe5Zyz-vhqXP-NbiA1W13wMTAWQvCIZMSyKIRnqJR-lYduWQFfNxBNVCwZeNuPrJ" group-title="News",LiveNOW from FOX
 https://livetv-fa.tubi.video/fox-live-now/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
@@ -86,7 +86,7 @@ https://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV USA - Eastern Feed
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.usa" tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
-http://41.205.93.154/MSNBC/index.m3u8
+http://212.102.60.231/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
 https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
