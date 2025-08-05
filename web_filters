@@ -1,3 +1,4 @@
+$removeparam=mrfcid
 $removeparam=LogSequence
 $removeparam=hubs_signup-url
 $removeparam=track
@@ -36,7 +37,6 @@ $removeparam=event_timestamp
 $removeparam=referring_guid
 $removeparam=embeds_widget_referrer
 $removeparam=eventReferenceId
-$removeparam=gh_jid
 $removeparam=gh_src
 $removeparam=ctm_campaign
 $removeparam=ctm_target
@@ -240,6 +240,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.fs-consent_banner
 ###isc-zorse-widget
 ##doc-layout-cookie-policy-banner
 ###cookie-box
@@ -398,6 +399,12 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-adblock
+/adblock
+-ad-block
+/ad-block
+-ad-refresh
+/ad-refresh
 -tracking
 /check-adblock
 /checkadblock
@@ -462,6 +469,7 @@ _perfData
 /google_onetap
 -google_onetap
 /bing
+-ads.js
 /ads.js
 /amp.gif?
 /cookie-notification
@@ -611,7 +619,6 @@ _clicktrack
 -new-relic
 _prebid
 _prebid_blocker
-/ad-block
 /cfirebase
 -piano
 _piano
@@ -799,7 +806,6 @@ _show_ads
 /adscript
 /adsPrebid
 /adsense
-/adblock
 /ad_
 /bug-snag
 /intromercial
@@ -822,8 +828,8 @@ _show_ads
 /gdpr
 /donations
 /(newsletters
-/cookie-echo
 /js-cookie
+/cookie-echo
 /cookieManager
 /cookies/manager
 /cookie-consent
@@ -2402,3 +2408,4 @@ libertymutual.com/health
 www.libertymutual.com###quoting-anchor
 www.the-express.com##div.text-description > ul
 ||realpage.com^$removeparam=ClientSessionID
+www.epa.gov##.differences
