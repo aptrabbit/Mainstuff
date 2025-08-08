@@ -399,6 +399,17 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/logpageview
+/getabfeatureflag
+/system-status-report
+_google_analytics
+-google_analytics
+/google_analytics
+/google-tag-manager
+-google-tag-manager
+_google-tag-manager
+/spam-protect
+-spam-protect
 -adblock
 /adblock
 -ad-block
@@ -439,7 +450,6 @@ _perfData
 /report/message
 /report/track
 /errorELKLogs
-/google-tag-manager
 /secure-cookie
 /pinger
 /heatmap
