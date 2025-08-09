@@ -240,6 +240,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cta-container
+##.cta-newsletter
 ##.fs-consent_banner
 ###isc-zorse-widget
 ##doc-layout-cookie-policy-banner
