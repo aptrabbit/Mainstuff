@@ -404,6 +404,9 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/google.funding.choices
+/googlefundingchoices
+-googlefundingchoices
 /amazonbidder
 /GiveTipButton
 /geocode/ip
