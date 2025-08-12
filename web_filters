@@ -806,7 +806,6 @@ _show_ads
 /reporter
 /health-check
 /heartbeat
-/metrics
 /eventclick
 /_events
 /pubmatic
