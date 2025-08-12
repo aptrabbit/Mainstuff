@@ -725,7 +725,6 @@ _stat.js
 /acc.redirectEventTracker
 /slide-analytics
 _show_ads
-/comscore
 .comscore
 -comscore
 /ca5a
@@ -803,7 +802,6 @@ _show_ads
 /privacy-standalone
 /campaign-monitor
 /sassy-social-share
-/nielsen
 /impression
 /click_tracking
 /reporter
