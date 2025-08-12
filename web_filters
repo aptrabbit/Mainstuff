@@ -1,3 +1,5 @@
+$removeparam=utv
+$removeparam=subid1
 $removeparam=mrfcid
 $removeparam=LogSequence
 $removeparam=hubs_signup-url
@@ -240,6 +242,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.newsletter-form__wrapper
 ##.cta-container
 ##.cta-newsletter
 ##.fs-consent_banner
