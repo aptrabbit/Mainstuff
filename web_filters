@@ -494,7 +494,6 @@ _perfData
 /pianoId
 /google_onetap
 -google_onetap
-/bing
 -ads.js
 /ads.js
 /amp.gif?
@@ -837,7 +836,6 @@ _show_ads
 /careers-analytics
 /bidexchange
 -prebid
-/prebid
 /mod-events
 /gif?events
 /web-privacy
