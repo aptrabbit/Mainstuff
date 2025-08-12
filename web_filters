@@ -404,6 +404,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/amazonbidder
 /GiveTipButton
 /geocode/ip
 /chunks/events
@@ -1742,6 +1743,8 @@ www.foxnews.com##.collection-fox-nation
 www.foxnews.com##.article-social
 www.foxnews.com##[href] > strong
 www.foxnews.com##strong > [href]
+www.foxnews.com##.promo-watch-live
+www.foxnews.com##.sidebar-columns > .collection
 www.buckscountycouriertimes.com##.gnt_pm
 www.newsbtc.com##.widget_svecc_reviews
 www.newsbtc.com##.widget_media_image
