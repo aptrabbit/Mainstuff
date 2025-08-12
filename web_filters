@@ -1225,15 +1225,6 @@ bitcoinist.com##.orange-link
 bitcoinist.com##.lightchain-header-container
 www.complex.com###spotim-specific [src]
 www.asiablockchainreview.com##.pull-bottom
-www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more
-www.foxnews.com##.collection-trending
-www.foxnews.com##.is-programming.alert-banner
-www.foxnews.com##.collection-fox-nation
-www.foxnews.com##.article-social
-www.foxnews.com##[href] > strong
-www.foxnews.com##strong > [href]
-www.foxnews.com##.promo-watch-live
-www.foxnews.com##.sidebar-columns > .collection
 www.buckscountycouriertimes.com##.gnt_pm
 www.newsbtc.com##.widget_svecc_reviews
 www.newsbtc.com##.widget_media_image
