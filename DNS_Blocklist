@@ -1,3 +1,14 @@
+||schedule-tool.foxnews.com^
+||strike.fox^
+||prod.pyxis.atp.fox^
+||prod.idgraph.dt.fox^
+||cultivatefox.com^
+||tl.foxnews.com^
+||foxweather.com^
+||fennec.atp.fox^
+||nation.foxnews.com^$important
+||shop.foxnews.com^
+||com.foxnews.offlineAalyticsManager^
 ||mt.consumerreports.org^
 ||freyr.futurecdn.net^
 ||slice.vanilla.futurecdn.net^
@@ -221,7 +232,6 @@
 ||analytics.console.aws.a2z.com^
 ||lpages.co^
 ||adx.ws^
-||shop.foxnews.com^
 ||niftyhospital.com^
 ||bot-detection-function-app.azurewebsites.net^
 ||track-1.themuse.com^
@@ -302,7 +312,6 @@
 ||casinobonusesnow.com^
 ||togreencolumn.com^
 ||carebot.nprapps.org^
-||nation.foxnews.com^$important
 ||snapsgate.com^
 ||getadmiral.com^
 ||flipboard.com^
@@ -505,7 +514,6 @@
 ||peoplestack-pa.googleapis.com^
 ||csp.yahoo.com^
 ||udc.yahoo.com^
-||fennec.atp.fox^
 ||vcp-app-prod.com^
 ||hs-banner.com^
 ||icrossing.com^
@@ -675,9 +683,7 @@
 ||happyhead.com^
 ||beyondwords.io^
 ||speechkit.io^
-||foxweather.com^
 ||taplytics.com^$important
-||tl.foxnews.com^
 ||feast-events.guardianapis.com^
 ||support.theguardian.com^
 ||betterment.com^
@@ -784,7 +790,6 @@
 ||ioriveredge.net^
 ||ioriver.io^
 ||openx.net^
-||cultivatefox.com^
 ||cohesionapps.com^
 ||visitcount.esri.com^
 ||frugalfiestas.com^
@@ -889,7 +894,6 @@
 ||wisdomwavehub.com^
 ||nutanix.com^
 ||pubgifs.com^
-||prod.idgraph.dt.fox^
 ||ketchcdn.com^
 ||ally.com^
 ||lr-ingest.io^
@@ -1336,7 +1340,6 @@
 ||ub-analytics.com^
 ||collector.sophi.io^
 ||livepixel-production.bln.liveintent.com^
-||com.foxnews.offlineAalyticsManager^
 ||qualaroo.com^
 ||jpush.cn^
 ||aryguying.com^
@@ -1659,7 +1662,6 @@
 ||consent.truste.com^
 ||geoip.businessinsider.com^
 ||time.akamai.com^
-||prod.pyxis.atp.fox^
 ||metadata.provider.plex.tv^
 ||esnchocco.com^
 ||addons.business^
