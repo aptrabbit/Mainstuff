@@ -9,8 +9,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/AHC-White-Small.png" group-title="History/Science",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qg24aaaP1ajymNRQfvlQCtjXlMKAUz8M8AL5e2EKG1XYjyb2_yaN0UkwCITP0Tzf7dE&usqp=CAU" group-title="Entertainment",BBC America - East
-https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1288471278953869320/Ki2rybZI_400x400.jpg" group-title="Entertainment",BBC World News North America (BBCWN) 
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Cartoons/Youth",Boomerang
