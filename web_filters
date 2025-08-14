@@ -408,7 +408,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
--event
+/jonahlytics-event
 /issuereporting
 ?expType
 _experiences-telemetry
