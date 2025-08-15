@@ -41,7 +41,7 @@ https://circle-xumo.amagi.tv/1080p-cc/index.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/14/58a9ef27-9b7b-3245-bb2a-f95d57bd2cac.png?bf=0&f=png&p=true&q=60&w=360" group-title="History/Science",Discovery Channel (US) - Eastern Feed
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Destinat_america_logo15.png" group-title="Lifestyle/Food",Destination America
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Lifestyle/Food",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle/Food",HGTV USA - Eastern Feed
 http://212.102.60.231/HGTV/index.m3u8
@@ -191,3 +191,4 @@ https://jmp2.uk/sam-USBC3600008WY.m3u8
 https://c3b4be95.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfV2VhdGhlclNweV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1" group-title="Nature",WildEarth
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
+
