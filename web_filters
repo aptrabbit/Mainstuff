@@ -408,7 +408,11 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
-/jonahlytics-event
+/rumtag
+_analytics.min
+.sentry
+/logged
+/jonahlytics
 /issuereporting
 ?expType
 _experiences-telemetry
@@ -2011,6 +2015,7 @@ cointelegraph.com##.top-100-details-card__poster
 cointelegraph.com##.top-100-people-footer_ads
 cointelegraph.com##.layout__header.header-zone > .container
 cointelegraph.com##.ad-slot_NjPAE
+cointelegraph.com##.header-zone__banner
 quizlet.com##.site > .HurricaneBannerWrapper
 quizlet.com##.SignupWallInline-overlay
 quizlet.com###SetPageSidebarAdz
@@ -2323,7 +2328,6 @@ people.com###mm-ads-leaderboard-header_1-0
 account.cloudresearch.com###promobanners
 www.benzinga.com##.banner-wrapper
 www.benzinga.com##.wp-block-image
-cointelegraph.com##.header-zone__banner
 www.gofundme.com###transcend-consent-manager
 https://assets.twitch.tv/assets/pages.embed-chat
 ||www.twitch.tv/embed/icelzz/chat$subdocument
@@ -2442,3 +2446,6 @@ www.the-express.com##div.text-description > ul
 ||realpage.com^$removeparam=ClientSessionID
 www.epa.gov##.differences
 www.nature.com##.c-site-messages--is-visible
+||ctvnews.ca^$removeparam=cid
+www.glassdoor.ca###HardsellOverlay
+www.telegraph.co.uk##.tpl-article__layout--sidebar
