@@ -1,3 +1,4 @@
+$removeparam=entry
 $removeparam=utv
 $removeparam=subid1
 $removeparam=mrfcid
@@ -407,6 +408,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+/auto-track
+/rum/events
+/optinmonster
+/embedTracking
 /di/log
 /client-log
 /piano
@@ -1562,9 +1567,9 @@ www.bestbuy.com##.shop-blue-assist
 www.bestbuy.com##.shop-search-survey
 www.bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
 www.bestbuy.com##.ninja-carousel
+www.nerdwallet.com###reg-modal-wrappe
+www.nerdwallet.com##.JiKAEU
 www.nerdwallet.com##p > div
-www.nerdwallet.com##p > ._2dyIi
-www.nerdwallet.com##div.FTDQoV:nth-of-type(29)
 west-games.com#@##cookie-law-info-bar
 www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
 secure.verizon.com###divhomebot
@@ -1902,7 +1907,6 @@ www.theguardian.com##.css-9aekbr
 www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
 www.coingecko.com###geckoFloat
-www.nerdwallet.com###reg-modal-wrapper
 check-host.net##div.athold11wr
 fortune.com###Leaderboard0
 news.bitcoin.com##.custom-html-widget
@@ -2451,3 +2455,5 @@ www.nature.com##.c-site-messages--is-visible
 www.glassdoor.ca###HardsellOverlay
 www.telegraph.co.uk##.tpl-article__layout--sidebar
 app.spark.fi##.opacity-100.translate-y-0.ease-in-out.duration-500
+www.cbc.ca##.story > div
+www.cbc.ca##div.detailBodyContainer:nth-of-type(2) > .withFlex
