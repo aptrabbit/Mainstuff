@@ -408,6 +408,10 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ||xn--$doc,frame
+-ad.png
+/hotjar
+_events.min.js
+_pixels
 /utag.js
 -utag.js
 /tracker
@@ -2459,3 +2463,4 @@ www.telegraph.co.uk##.tpl-article__layout--sidebar
 app.spark.fi##.opacity-100.translate-y-0.ease-in-out.duration-500
 www.cbc.ca##.story > div
 www.cbc.ca##div.detailBodyContainer:nth-of-type(2) > .withFlex
+colordesigner.io##.alternative-ad
