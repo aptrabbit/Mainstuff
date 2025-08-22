@@ -411,7 +411,6 @@ $removeparam=visitToken
 /utag.js
 -utag.js
 -tracker
-/tracker
 /client-analytics
 /auto-track
 /rum/events
