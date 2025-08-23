@@ -240,6 +240,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.alternative-ad
+##.alert-donation
 ##.cookiebox
 ###cookiebox
 ###cookie-box
@@ -407,7 +409,11 @@ $removeparam=visitToken
 ###tbl-next-up
 ##.gs_qsuggest_wrap
 ##.demo-avd
+###desktop_article_leaderboard_header
+##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/alertsDonation
+.tracking
 -ad.png
 /hotjar
 _events.min.js
@@ -2463,4 +2469,4 @@ www.telegraph.co.uk##.tpl-article__layout--sidebar
 app.spark.fi##.opacity-100.translate-y-0.ease-in-out.duration-500
 www.cbc.ca##.story > div
 www.cbc.ca##div.detailBodyContainer:nth-of-type(2) > .withFlex
-colordesigner.io##.alternative-ad
+shareprophets.com##.bg-warning
