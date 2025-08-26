@@ -240,6 +240,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.tile-promo
 ##.alternative-ad
 ##.alert-donation
 ##.cookiebox
@@ -412,6 +413,9 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/promoted_content
+/js/prebid
+/truemed-ads
 /alertsDonation
 .tracking
 -ad.png
@@ -530,6 +534,7 @@ _perfData
 /google_onetap
 -google_onetap
 /bing
+_ads.js
 -ads.js
 /ads.js
 /amp.gif?
