@@ -2071,6 +2071,9 @@ worldpopulationreview.com##.my-2.center
 ||startpage.com^$removeparam=t
 ||startpage.com^$removeparam=lui
 ||startpage.com^$removeparam=cat
+||startpage.com/perf
+||startpage.com/sp/cl
+||startpage.com/mq-embed/rsc
 startpage.com###home-below-the-fold-container
 startpage.com##div.app-banner-promo-container
 startpage.com##div.privacy-extension-and-app-widget
