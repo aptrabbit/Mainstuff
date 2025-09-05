@@ -413,6 +413,9 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/recombee
+/aanalytics
+_cookieConsent
 /promoted_content
 /js/prebid
 /truemed-ads
@@ -2018,7 +2021,6 @@ www.swansonvitamins.com###talkable-offer
 trailsoffroad.com##.paywall
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
-cryptopotato.com##.widget_text.widget
 cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
@@ -2475,3 +2477,6 @@ app.spark.fi##.opacity-100.translate-y-0.ease-in-out.duration-500
 www.cbc.ca##.story > div
 www.cbc.ca##div.detailBodyContainer:nth-of-type(2) > .withFlex
 shareprophets.com##.bg-warning
+coingape.com##.adsoverlay
+thedefiant.io##.mt-4.mb-2
+www.netmeds.com##.realted-prod-btn
