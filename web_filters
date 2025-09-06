@@ -414,6 +414,8 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/IIQUniversalID
+/intentiq
 /recombee
 /aanalytics
 _cookieConsent
