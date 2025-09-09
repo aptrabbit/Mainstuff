@@ -61,8 +61,6 @@ https://livetv-fa.tubi.video/fox-live-now/index_1.m3u8
 https://livetv-fa.tubi.video/fox-weather/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle/Food",FYI USA - Eastern
 https://fl3.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Comedy",LOL! Network
-https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Sf_1Z1QRTgM5yWLE92vkGYsiZPyD0YKiv7Yk7D_iYg0a-BcIm5eCReH6qpoGIMBw8N_S1Fo-md8=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",MagellanTV NOW
 https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2B46CB5-9C27-49E2-A022-30B482C208AC/3-1x1.png/900" group-title="History/Science",True History
@@ -85,8 +83,8 @@ https://fl3.moveonjoy.com/EPIX/index.m3u8
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
 http://212.102.60.231/MSNBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
-https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2025/08/NN-Stacked-Logo_Blue_1400x787.png" group-title="News",NewsNation
+http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pAmVLG2U7H8LmX123dcyoMGkRoRX2jyW3X_DsoBQmdTPTJ0cJrEO4vpz68H_bb4sD50c" group-title="News",NBC 4 Washington
@@ -101,6 +99,8 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TeenNick_2023_Alternative_Logo.png" group-title="Cartoons/Youth",TeenNick - Eastern
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM=s900-c-k-c0x00ffffff-no-rj" group-title="Cartoons/Youth",RetroCrush
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",CBS Sports Network USA
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
