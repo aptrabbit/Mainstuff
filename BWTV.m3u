@@ -83,7 +83,7 @@ https://fl3.moveonjoy.com/EPIX/index.m3u8
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
 http://212.102.60.231/MSNBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2025/08/NN-Stacked-Logo_Blue_1400x787.png" group-title="News",NewsNation
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
@@ -91,7 +91,7 @@ https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",NewsMax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News",Newsmax 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News",Newsmax2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons/Youth",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
@@ -122,7 +122,7 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png" group-title="Sports",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/BEINX/large_white.png?auto=webp&ver=1&auto=webp&ver=1" group-title="Sports",beIN SPORTS XTRA
-https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vhx.imgix.net/speed3/assets/fff2e10c-33c2-4d99-b2d7-efa0fbf6e6a8.png" group-title="Sports",Racing America
