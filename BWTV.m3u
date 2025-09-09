@@ -53,7 +53,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="Business",Fox Business
+#EXTINF:-1  tvg-logo="https://www.hawaiiantel.com/portals/0/images/TVEverwhere_Logo/fox%20business.png" group-title="Business",Fox Business
 https://stream.livenewspro.com:1936/foxbusiness/foxbusiness//chunklist_w564029556_tkc2VjZW5kdGltZT0xNzU3NTIwMDMxJnNlY2hhc2g9aFYxeGEzQnNrTzhSRHJBLWJCb3ZDc2J5TWZyb20zeGw4WUNGcUVNNkREOD0mc2Vjc3RhcnR0aW1lPTE3NTc0NDUwMzE=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/o-xFgx7gUtStBe5Zyz-vhqXP-NbiA1W13wMTAWQvCIZMSyKIRnqJR-lYduWQFfNxBNVCwZeNuPrJ" group-title="News",LiveNOW from FOX
 https://livetv-fa.tubi.video/fox-live-now/index_1.m3u8
