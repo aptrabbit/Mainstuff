@@ -23,8 +23,6 @@ https://streamer1.nexgen.bz/BRAVO/index.m3u8
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMDA4o-ew3JDUSPoREUaZLEgouivnMlNwjbTjlWw1xvuqz=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",The Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://grafik.agency/wp-content/uploads/cspan-preview-1.jpg" group-title="News",C-SPAN
-http://fl3.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/781B6787-565E-4146-99C1-6595D03060DD/3-1x1.png/900" group-title="News",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUigqQD2ETaWJUMlqDIqrgWd6LspbZbL7G-g&s" group-title="News",Cheddar News
