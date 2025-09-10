@@ -87,7 +87,7 @@ https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News",Newsmax2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons/Youth",Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons/Youth",Nickelodeon USA - East Feed
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png" group-title="Cartoons/Youth",Nicktoons - East
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
