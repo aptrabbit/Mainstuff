@@ -50,7 +50,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 #EXTINF:-1 tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.hawaiiantel.com/portals/0/images/TVEverwhere_Logo/fox%20business.png" group-title="Business",Fox Business
 https://stream.livenewspro.com:1936/foxbusiness/foxbusiness//chunklist_w564029556_tkc2VjZW5kdGltZT0xNzU3NTIwMDMxJnNlY2hhc2g9aFYxeGEzQnNrTzhSRHJBLWJCb3ZDc2J5TWZyb20zeGw4WUNGcUVNNkREOD0mc2Vjc3RhcnR0aW1lPTE3NTc0NDUwMzE=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/o-xFgx7gUtStBe5Zyz-vhqXP-NbiA1W13wMTAWQvCIZMSyKIRnqJR-lYduWQFfNxBNVCwZeNuPrJ" group-title="News",LiveNOW from FOX
@@ -78,7 +78,7 @@ https://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV USA - Eastern Feed
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
-http://212.102.60.231/MSNBC/index.m3u8
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation - Eastern Feed
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
@@ -97,8 +97,6 @@ http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM=s900-c-k-c0x00ffffff-no-rj" group-title="Cartoons/Youth",RetroCrush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",CBS Sports Network USA
-http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
@@ -143,8 +141,6 @@ https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841904773620211713/6brcxkN9_400x400.jpg" group-title="History/Science",National Geographic
 https://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkEUZ1buTHfhLxsvc2SpDwWNudoa4KJn8goXdEPBiNJfDhPQS904a5UJqyd34ocabVP8&usqp=CAU" group-title="Nature",National Geographic Wild
-http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.hulu.com/user/v3/artwork/29c9c2eb-b116-4559-9e98-5c019fd21603?base_image_bucket_name=image_manager&base_image=9a27571b-16d5-454c-bd58-f1757c3bee57&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22webp%22%7D,%7B%22trim%22:true%7D%5D" group-title="Nature",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F9bdfb3ba-2cc0-4507-b2eb-b6d8deafb85a-1687887971.043121.256x256.jpg&w=256&q=75" group-title="Lifestyle/Food",Outside
