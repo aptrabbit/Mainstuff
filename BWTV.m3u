@@ -15,7 +15,7 @@ http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wDBsmtVi7P1Kjpdavo97_hza4kY154TNQ&s" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wDBsmtVi7P1Kjpdavo97_hza4kY154TNQ&s" group-title="Business",Bloomberg TV USA
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
