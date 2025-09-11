@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwRh9jbwmoLGAENJkUzZND9muuQMItynU8g&s" group-title="News",ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://livetv-fa.tubi.video/abc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU" group-title="Weather",AccuWeather
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel
@@ -54,16 +54,14 @@ https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News
 http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.hawaiiantel.com/portals/0/images/TVEverwhere_Logo/fox%20business.png" group-title="Business",Fox Business
-https://stream.livenewspro.com:1936/foxbusiness/foxbusiness//chunklist_w564029556_tkc2VjZW5kdGltZT0xNzU3NTIwMDMxJnNlY2hhc2g9aFYxeGEzQnNrTzhSRHJBLWJCb3ZDc2J5TWZyb20zeGw4WUNGcUVNNkREOD0mc2Vjc3RhcnR0aW1lPTE3NTc0NDUwMzE=.m3u8
+https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/o-xFgx7gUtStBe5Zyz-vhqXP-NbiA1W13wMTAWQvCIZMSyKIRnqJR-lYduWQFfNxBNVCwZeNuPrJ" group-title="News",LiveNOW from FOX
 https://livetv-fa.tubi.video/fox-live-now/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Weather",FOX Weather
 https://livetv-fa.tubi.video/fox-weather/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle/Food",FYI USA - Eastern
 https://fl1.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Sf_1Z1QRTgM5yWLE92vkGYsiZPyD0YKiv7Yk7D_iYg0a-BcIm5eCReH6qpoGIMBw8N_S1Fo-md8=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",MagellanTV NOW
-https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2B46CB5-9C27-49E2-A022-30B482C208AC/3-1x1.png/900" group-title="History/Science",True History
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-ION-1.png" group-title="Entertainment",ION
 https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
@@ -72,9 +70,11 @@ https://ion-ion-plus-1-us.xumo.wurl.tv/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/24-MYS-1446991952-WEB_DIGITAL-BUILD_IONMYS-Logo_White.png" group-title="Entertainment",Ion Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/5/5d/Law%26Crime_Shorts.jpg" group-title="Crime",Law and Crime
-https://cdn.lawandcrime.net/rewind/playlist.m3u8
+https://cdn.lawandcrime.net/rewind/720.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X3YNQPxIdTPu9DqCXfpmdeXUh7zRhS3Djy_vnbEj9_pHmN1snG6egpCNwQXmFnjYXJjmCsnJ=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",Love Nature
 https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Sf_1Z1QRTgM5yWLE92vkGYsiZPyD0YKiv7Yk7D_iYg0a-BcIm5eCReH6qpoGIMBw8N_S1Fo-md8=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",MagellanTV NOW
+https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV USA - Eastern Feed
 http://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
