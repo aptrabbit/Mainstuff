@@ -63,7 +63,7 @@ https://livetv-fa.tubi.video/fox-weather/index.m3u8
 https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-ION-1.png" group-title="Entertainment",ION
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa60248c8-7b26-4aa8-8e8e-241bdafc2e10%2F24-ION-1300577902-OTT-CTV---ION-Rebrand-Assets-for-FAST-and-vMVPD-Platforms_PLEX-Logo-Orange.png" group-title="Entertainment",ION
 https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus TV
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist_4300k.m3u8
@@ -99,7 +99,7 @@ https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ESPN_News.png" group-title="Sports",ESPN News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/0/0b/2000px-ESPNEWS_logo.svg.png" group-title="Sports",ESPN News
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/2048px-ESPN_U_logo.svg.png" group-title="Sports",ESPN U
 http://fl1.moveonjoy.com/ESPN_U/index.m3u8
