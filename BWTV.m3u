@@ -133,8 +133,6 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 https://pbs.lls.cdn.pbs.org/est/index-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841904773620211713/6brcxkN9_400x400.jpg" group-title="History/Science",National Geographic US - Eastern
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.hulu.com/user/v3/artwork/29c9c2eb-b116-4559-9e98-5c019fd21603?base_image_bucket_name=image_manager&base_image=9a27571b-16d5-454c-bd58-f1757c3bee57&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22webp%22%7D,%7B%22trim%22:true%7D%5D" group-title="Nature",Outdoor Channel US
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F9bdfb3ba-2cc0-4507-b2eb-b6d8deafb85a-1687887971.043121.256x256.jpg&w=256&q=75" group-title="Lifestyle/Food",Outside
