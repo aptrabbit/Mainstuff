@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwRh9jbwmoLGAENJkUzZND9muuQMItynU8g&s" group-title="News",ABC NEWS
 https://livetv-fa.tubi.video/abc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU" group-title="Weather",AccuWeather
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
+https://accuweather-xumo.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7fKuHKYI_01i35PjwieuAoCzWzAIOgJ9rA&s" group-title="Comedy",Always Funny
@@ -87,9 +87,9 @@ https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News",Newsmax2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons/Youth",Nickelodeon USA - East Feed
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg" group-title="Cartoons/Youth",Nickelodeon USA - East Feed
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png" group-title="Cartoons/Youth",Nicktoons - East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Nicktoons_logo_%282023%29.svg" group-title="Cartoons/Youth",Nicktoons - East
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TeenNick_2023_Alternative_Logo.png" group-title="Cartoons/Youth",TeenNick - Eastern
 https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
