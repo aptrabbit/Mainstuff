@@ -46,7 +46,7 @@ http://212.102.60.231/HGTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Crime",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PuK25BOIG4MnfQL68iXXMaI_AbJ1vACxdE_seCkpTeD3hftaEOhdl-i0LYBBoWelxWUZNvWi=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",History Channel US - Eastern Feed
-https://fl1.moveonjoy.com/history_channel/tracks-v1a1/mono.m3u8
+https://fl1.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
