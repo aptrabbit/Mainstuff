@@ -416,6 +416,13 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/wp-consent
+/wp-event
+/wp-parsely
+/wp-terms-popup
+/wp-popups-lite
+/wix-code-telemetry
+/wix-perf-measure
 /IIQUniversalID
 /intentiq
 /recombee
@@ -571,7 +578,6 @@ _ApplePay_Test
 /prod/track
 /collect
 ?appDefinitionIdToSiteRevision
-/wp-event
 /nsfw-blocking
 /PfAds
 /rum-action
@@ -950,11 +956,6 @@ _show_ads
 /sd_site_alert
 /nostats
 /mol-fe-paywall
-/wp-parsely
-/wix-code-telemetry
-/wix-perf-measure
-/wp-terms-popup
-/wp-popups-lite
 /fixSpecialAd
 /rpc:shindig
 /ncbi-media/alerts
