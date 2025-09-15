@@ -23,18 +23,16 @@ https://streamer1.nexgen.bz/BRAVO/index.m3u8
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/781B6787-565E-4146-99C1-6595D03060DD/3-1x1.png/900" group-title="News",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUigqQD2ETaWJUMlqDIqrgWd6LspbZbL7G-g&s" group-title="News",Cheddar News
 https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Business",CNBC USA
-https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/cnbc-world-20962.jpg" group-title="Business",CNBC World
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
-https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6559054711524489117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Entertainment",Circle Country
 https://circle-xumo.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7h2RtuST2OCPPy2fTm68tZCp_FxsPAoWsS2QVIvAKvr8gQH9E3Q-BgSDWcIyZ4q2H-KI_oU1ag=s900-c-k-c0x00ffffff-no-rj" group-title="Crime",Court TV US
@@ -67,7 +65,7 @@ https://ion-ion-plus-1-us.xumo.wurl.tv/playlist_4300k.m3u8
 https://livetv-fa.tubi.video/ion-mystery/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/5/5d/Law%26Crime_Shorts.jpg" group-title="Crime",Law and Crime
 https://cdn.lawandcrime.net/rewind/720.m3u8
-#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Nature",Love Nature
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/H3otdAx8EryD1cOq9EJyweBjLai0dZZtFY3mBEVn4sHxDO7JexucPsp19HwCTnrUe42c4C1_aTQ=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Sf_1Z1QRTgM5yWLE92vkGYsiZPyD0YKiv7Yk7D_iYg0a-BcIm5eCReH6qpoGIMBw8N_S1Fo-md8=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",MagellanTV NOW
 https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-lgus/playlist.m3u8
