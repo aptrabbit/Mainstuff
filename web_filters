@@ -1,3 +1,5 @@
+$removeparam=aa_creativeid
+$removeparam=aa_campaignid
 $removeparam=from_pos
 $removeparam=entry
 $removeparam=utv
@@ -2487,3 +2489,4 @@ shareprophets.com##.bg-warning
 coingape.com##.adsoverlay
 thedefiant.io##.mt-4.mb-2
 www.netmeds.com##.realted-prod-btn
+cryptonewsland.com##.mb-6.p-2.cnl-banner
