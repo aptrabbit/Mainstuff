@@ -101,10 +101,6 @@ http://fl7.moveonjoy.com/TSN_4/index.m3u8
 http://fl7.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/BEINX/large_white.png?auto=webp&ver=1&auto=webp&ver=1" group-title="Sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://vhx.imgix.net/speed3/assets/fff2e10c-33c2-4d99-b2d7-efa0fbf6e6a8.png" group-title="Sports",Racing America
-https://livetv-fa.tubi.video/racing-america/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV USA
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="Sports",NFL Channel
@@ -117,6 +113,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mECavVNoh2tn4Lku7JyVIN_RnW4-s2z5rEXWo41MVHmGjqUuJChPB0L2JYbHDZg5YL21OcId=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/speed3/assets/fff2e10c-33c2-4d99-b2d7-efa0fbf6e6a8.png" group-title="Sports",Racing America
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/960px-PBS_logo_2019.svg.png" group-title="News",PBS - Network HD - Eastern
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
