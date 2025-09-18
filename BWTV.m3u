@@ -63,7 +63,7 @@ https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/playlist/a
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC USA
 http://41.205.93.154/MSNBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News",NewsNation - Eastern Feed
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_CKdok2Dawmi7YP-_S3L_iriygAva9lNgza6PyU8UBxOs4R35X0X3Nqmiy2S8I4G-Mw" group-title="News",NewsNation - Eastern Feed
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
