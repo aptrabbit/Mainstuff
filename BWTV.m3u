@@ -123,14 +123,14 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.hulu.com/user/v3/artwork/29c9c2eb-b116-4559-9e98-5c019fd21603?base_image_bucket_name=image_manager&base_image=9a27571b-16d5-454c-bd58-f1757c3bee57&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22webp%22%7D,%7B%22trim%22:true%7D%5D" group-title="Nature",Outdoor Channel US
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F9bdfb3ba-2cc0-4507-b2eb-b6d8deafb85a-1687887971.043121.256x256.jpg&w=256&q=75" group-title="Lifestyle/Food",Outside
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zkWNgZ0kIiG26i4EA4SyL1gJ4a74kJUa_BCYS5bwL1HT0lIYpn-sw3ovdqPzgl3eSgvkUJVDow=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Outside
 https://livetv-fa.tubi.video/outsidetv2/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Shopping",Home Shopping Network
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cdw5OO_RMZ6A3lkAiyoRJLWv7FjQ8qCLJg&s" group-title="Shopping",QVC
 https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQSaJB4n1YVcfJjmuy85iNdIiFsm85kNcIg&s" group-title="Entertainment",ReelzChannel
-https://livetv-fa.tubi.video/reelz/playlist.m3u8
+https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ksOmJV1FGENhZJ_AIS-ap2DyNNbynviqDJ6X-gvVqZ5w=s900-c-k-c0x00ffffff-no-rj" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wg1BjOZhlFgcMUGA5L4GxXqWIIGiq0ApMXloy0GAiGpmuKb2qoZUfy0Ma7fZk-YyoGDn11963ug=s900-c-k-c0x00ffffff-no-rj" group-title="News",Scripps News
