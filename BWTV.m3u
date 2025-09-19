@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwRh9jbwmoLGAENJkUzZND9muuQMItynU8g&s" group-title="News",ABC NEWS
 https://livetv-fa.tubi.video/abc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU" group-title="Weather",AccuWeather
-https://accuweather-xumo.amagi.tv/playlist1080-p.m3u8
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7fKuHKYI_01i35PjwieuAoCzWzAIOgJ9rA&s" group-title="Comedy",Always Funny
@@ -21,7 +21,7 @@ https://streamer1.nexgen.bz/BRAVO/index.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUigqQD2ETaWJUMlqDIqrgWd6LspbZbL7G-g&s" group-title="News",Cheddar News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUigqQD2ETaWJUMlqDIqrgWd6LspbZbL7G-g&s" group-title="Business",Cheddar News
 https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/cnbc-world-20962.jpg" group-title="Business",CNBC World
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
@@ -83,7 +83,7 @@ https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2 HD US
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
