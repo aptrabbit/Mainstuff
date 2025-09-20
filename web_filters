@@ -243,7 +243,6 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
-##[href^="/pro/"]
 ##.tile-promo
 ##.alternative-ad
 ##.alert-donation
@@ -2499,3 +2498,4 @@ examine.com##.py-10.bg-white.home-section
 examine.com##.lg\:text-xl.hover\:shadow-sm.text-white
 examine.com##.py-10.bg-white.flex-col.flex
 examine.com##div.py-10.bg-white
+examine.com##[href^="/pro/"]
