@@ -151,6 +151,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 https://livetv-fa.tubi.video/tmz/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJnc11FjOZv07E26i2coo0OjYtOZzSQmrWng9d-ApchXlI4VFqmNQ4rEWMkFlTEWFV5Y&usqp=CAU" group-title="Entertainment",TNT - Eastern Feed
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rGlx8lI_q8Xj4f3PKpnbjrYCIMDUcPxUe6BF0-mA-1ocpTGle2sru1BnHU_TrYR183A" group-title="News",TYT
+https://amg01220-amg01220c1-lg-us-8248.playouts.now.amagi.tv/playlist/amg01220-theyoungturksfast-tyt-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl=s900-c-k-c0x00ffffff-no-rj" group-title="News",USA TODAY
 https://usatodaynews-xumo.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1565059805152247812/x31DpSEY_400x400.jpg" group-title="Entertainment",VICE
