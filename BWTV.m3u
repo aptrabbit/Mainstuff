@@ -82,9 +82,7 @@ https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWNqbj7nE0g0PcQG-LKQs46KGQ8Gl6ZlaGg&s" group-title="Cartoons/Youth",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 HD
-http://23.237.104.106:8080/USA_FS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2560px-FS2_logo_2015.svg.png" group-title="Sports",FS2 HD
-http://23.237.104.106:8080/USA_FS2/index.m3u8
+https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sports",ESPN HD
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/SPORTSGRID_m.png" group-title="Sports",SportsGrid
