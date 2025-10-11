@@ -1,3 +1,4 @@
+$removeparam=bb
 $removeparam=aa_creativeid
 $removeparam=aa_campaignid
 $removeparam=from_pos
@@ -417,6 +418,7 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/dynamic_yield
 -metrics?
 /metrics
 /firehose?
@@ -2505,3 +2507,6 @@ examine.com##.lg\:text-xl.hover\:shadow-sm.text-white
 examine.com##.py-10.bg-white.flex-col.flex
 examine.com##[href^="/pro/"]
 @@||.amagi.tv$xhr,domain=iptv-web.app
+www.history.com##div.inline-article-ad-container
+www.startpage.com##.survey-serp-cta
+www.dropbox.com###ccpa_consent_banner
