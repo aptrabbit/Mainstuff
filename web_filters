@@ -418,6 +418,12 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/logs.js
+-logs.js
+_logs.js
+/log.js
+-log.js
+_log.js
 /dynamic_yield
 -metrics?
 /metrics
