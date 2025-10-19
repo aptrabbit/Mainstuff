@@ -232,7 +232,6 @@ $removeparam=sharedid
 $removeparam=subId2
 $removeparam=subId3
 $removeparam=crid
-$removeparam=content-id
 $removeparam=smid
 $removeparam=linkCode
 $removeparam=ie
@@ -242,6 +241,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.beehiiv_embed_signup
 ##.collection-top-ad-wrapper
 ###top-ad-Container
 ##.top-ad-Container
@@ -418,6 +418,9 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/antibot
+/session-tracker
+_ad_
 /logs.js
 -logs.js
 _logs.js
@@ -2229,6 +2232,7 @@ nypost.com###circular-widget
 nypost.com##.recirc--outbrain.recirc
 nypost.com##.select-share
 nypost.com##.widget_nypost_zone_widget
+nypost.com##.wp-block-nypost-editor-newsletter
 www.techtarget.com##.cluster-branding-container
 bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
 gagarin.news##.cookie_1ZGqW
@@ -2516,3 +2520,4 @@ examine.com##[href^="/pro/"]
 www.history.com##div.inline-article-ad-container
 www.startpage.com##.survey-serp-cta
 www.dropbox.com###ccpa_consent_banner
+www.sciencealert.com##.bg-sciencealert-yellow
