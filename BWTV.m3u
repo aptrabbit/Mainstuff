@@ -33,8 +33,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://circle-xumo.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7h2RtuST2OCPPy2fTm68tZCp_FxsPAoWsS2QVIvAKvr8gQH9E3Q-BgSDWcIyZ4q2H-KI_oU1ag=s900-c-k-c0x00ffffff-no-rj" group-title="Crime",Court TV
 https://livetv-fa.tubi.video/court-tv/playlist_4300k.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle/Food",HGTV
-http://212.102.60.231/HGTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Crime",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PuK25BOIG4MnfQL68iXXMaI_AbJ1vACxdE_seCkpTeD3hftaEOhdl-i0LYBBoWelxWUZNvWi=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",History
