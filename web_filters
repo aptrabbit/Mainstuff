@@ -1957,11 +1957,12 @@ check-host.net##div.athold11wr
 fortune.com###Leaderboard0
 bitcoin.com##.custom-html-widget
 bitcoin.com##.sticky-down.bn_desktop_widgets 
-bitcoin.com##div.widget_custom_html.widget
+bitcoin.com##widget_custom_html
+bitcoin.com###bitcoincom-wgt-footer
 bitcoin.com##.iUInxf
 bitcoin.com##.dpUpiZ
 bitcoin.com##.icKFMz
-bitcoin.com###bitcoincom-wgt-footer
+bitcoin.com##.fWrHbD
 www.blockchain.com##.dKFNB
 www.blockchain.com##.cgSUhY
 www.studocu.com##.pop-up--21ihD
