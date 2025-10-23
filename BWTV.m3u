@@ -101,14 +101,14 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vhx.imgix.net/speed3/assets/fff2e10c-33c2-4d99-b2d7-efa0fbf6e6a8.png" group-title="Sports",Racing America
 https://livetv-fa.tubi.video/racing-america/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/960px-PBS_logo_2019.svg.png" group-title="News",PBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/960px-PBS_logo_2019.svg.png" group-title="Entertainment",PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.hulu.com/user/v3/artwork/29c9c2eb-b116-4559-9e98-5c019fd21603?base_image_bucket_name=image_manager&base_image=9a27571b-16d5-454c-bd58-f1757c3bee57&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22webp%22%7D,%7B%22trim%22:true%7D%5D" group-title="Lifestyle/Food",Outdoor Channel HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zkWNgZ0kIiG26i4EA4SyL1gJ4a74kJUa_BCYS5bwL1HT0lIYpn-sw3ovdqPzgl3eSgvkUJVDow=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Outside
-https://livetv-fa.tubi.video/outsidetv2/playlistR_1080p.m3u8
+https://livetv-fa.tubi.video/outsidetv1/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Shopping",Home Shopping Network
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cdw5OO_RMZ6A3lkAiyoRJLWv7FjQ8qCLJg&s" group-title="Shopping",QVC HD
