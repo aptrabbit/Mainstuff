@@ -29,14 +29,14 @@ https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlis
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/cbsnews247_500x500_white.png" group-title="News",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="Entertainment",CINEVAULT
+https://967d9da6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ2luZXZhdWx0X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6559054711524489117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Entertainment",Circle Country
 https://circle-xumo.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7h2RtuST2OCPPy2fTm68tZCp_FxsPAoWsS2QVIvAKvr8gQH9E3Q-BgSDWcIyZ4q2H-KI_oU1ag=s900-c-k-c0x00ffffff-no-rj" group-title="Crime",Court TV
 https://livetv-fa.tubi.video/court-tv/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Crime",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PuK25BOIG4MnfQL68iXXMaI_AbJ1vACxdE_seCkpTeD3hftaEOhdl-i0LYBBoWelxWUZNvWi=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",History
-https://fl41.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
@@ -62,7 +62,7 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC HD
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.marketrealist.com/brand-img/xJ8jreN3M/2160x1130/newsnation-logo-1639750882872.jpg" group-title="News",NewsNation
-http://212.102.60.231/NEWS_NATION/index.m3u8
+https://fl41.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxnY1HPcvGyeJ3pRTs7DukcDxGJ3-Y2CoEOw&s" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2RUpH9Fvf9DoENVQlfiO_YhBN7Pwuz1_MQlCFSiyBNJ1TmO4Hlds99sPBT2tlbBZcHHL" group-title="News",Newsmax TV HD
@@ -84,15 +84,13 @@ https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/SPORTSGRID_m.png" group-title="Sports",SportsGrid
 https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN 1
-https://fl41.moveonjoy.com/TSN_1/index.m3u8
+https://fl7.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN 2
-https://fl41.moveonjoy.com/TSN_2/index.m3u8
+https://fl7.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Sports",TSN 3
-https://fl41.moveonjoy.com/TSN_3/index.m3u8
+https://fl7.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
-https://fl41.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png" group-title="Sports",TSN 5
-https://fl41.moveonjoy.com/TSN_5/index.m3u8
+https://fl7.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/BEINX/large_white.png?auto=webp&ver=1&auto=webp&ver=1" group-title="Sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV HD
@@ -122,13 +120,13 @@ https://livetv-fa.tubi.video/outsidetv2/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Shopping",Home Shopping Network
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cdw5OO_RMZ6A3lkAiyoRJLWv7FjQ8qCLJg&s" group-title="Shopping",QVC HD
-https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/4JlRTvq4DiQtsQ==/26524860-7598-4b32-8b57-07dbb6af91b7/CPwDEJ0COgUxLjEuOA==" group-title="Entertainment",REELZ Famous & Infamous
 https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ksOmJV1FGENhZJ_AIS-ap2DyNNbynviqDJ6X-gvVqZ5w=s900-c-k-c0x00ffffff-no-rj" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wg1BjOZhlFgcMUGA5L4GxXqWIIGiq0ApMXloy0GAiGpmuKb2qoZUfy0Ma7fZk-YyoGDn11963ug=s900-c-k-c0x00ffffff-no-rj" group-title="News",Scripps News
-https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png" group-title="Lifestyle/Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Tastemade
@@ -142,19 +140,21 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Lwjd-gMnF1NekAo34NaLpuYVglJTkQKmIlaNDXHc0twmoG4um5y0PfazB2yhEyUkorwFcYz-AA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Turner Classic Movies HD
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-logo="https://canvas-bridge.staging-public.tubi.io/l_f5QzYyCubQs3x-wDdCnnYdq0c=/640x360/smart/img.adrise.tv/2c15cb65-7cbc-4494-9f61-4880fef8a9d2.jpeg" group-title="Entertainment",TMZ
-https://livetv-fa.tubi.video/tmz/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJnc11FjOZv07E26i2coo0OjYtOZzSQmrWng9d-ApchXlI4VFqmNQ4rEWMkFlTEWFV5Y&usqp=CAU" group-title="Entertainment",TNT HD
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rGlx8lI_q8Xj4f3PKpnbjrYCIMDUcPxUe6BF0-mA-1ocpTGle2sru1BnHU_TrYR183A" group-title="News",TYT The Young Turks
 https://amg01220-amg01220c1-lg-us-8248.playouts.now.amagi.tv/playlist/amg01220-theyoungturksfast-tyt-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl=s900-c-k-c0x00ffffff-no-rj" group-title="News",USA TODAY
 https://usatodaynews-xumo.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1565059805152247812/x31DpSEY_400x400.jpg" group-title="Entertainment",VICE
-https://vicetv-vicefast1-firetv.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4p_Rkua0guh-POLIuwRdsaewn_pWYyoYtTzUCNaFBJNn3XMB7PEE2DXVtBPP-8RS7rtw&usqp=CAU",Stingray Greatest Hits
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240520T212910SQUARE.png" group-title="Music",Vevo Hip-Hop
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="Music",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1565059805152247812/x31DpSEY_400x400.jpg" group-title="Entertainment",VICE
+https://vicetv-vicefast1-firetv.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0urAH100yOHBVsGVASXcUe9OzbOL8sLf8Nw&s" group-title="Weather",WeatherSpy
 https://c3b4be95.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfV2VhdGhlclNweV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg?fit=250%2C250&ssl=1" group-title="Nature",WildEarth
