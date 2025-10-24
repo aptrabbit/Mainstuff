@@ -418,6 +418,7 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/tracking
 /antibot
 /session-tracker
 _ad_
@@ -2245,6 +2246,7 @@ gagarin.news##.cookie_1ZGqW
 www.tennisworldusa.org##.top_container > div:nth-of-type(1)
 www.paypal.com##.inv-feedback
 www.paypal.com###ccpaCookieBanner
+paypal.com/credit-presentment/smart/message
 www.comingsoon.net##.wp-block-buttons
 www.salary.com##.sovrn-ads
 www.codespot.org##.article-template-module--wrapperMostPopular--3gB9t
