@@ -418,6 +418,7 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/tcf.stub
 /tracking
 /antibot
 /session-tracker
@@ -2530,3 +2531,5 @@ examine.com##[href^="/pro/"]
 www.dropbox.com###ccpa_consent_banner
 www.sciencealert.com##.bg-sciencealert-yellow
 www.thedailybeast.com###user-comments
+www.theepochtimes.com###uacta-target
+www.theepochtimes.com##.bg-\[\#EDF5F5\]
