@@ -66,7 +66,6 @@ $removeparam=sstk
 $removeparam=analytics_trace_id
 $removeparam=mx
 $removeparam=referpage
-$removeparam=ratebypass
 $removeparam=__coig_login
 $removeparam=fvip
 $removeparam=sefc
@@ -241,6 +240,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###cookieModal
+##.cookieModal
 ##.beehiiv_embed_signup
 ##.collection-top-ad-wrapper
 ###top-ad-Container
@@ -2139,7 +2140,6 @@ nordiqnutrition.com##.et_bloom_animated
 ||www.indeed.com^$removeparam=assa
 www.indeed.com##.google-Only-Modal
 ||a-z-animals.com^$removeparam=from
-/web-animations-next-lite
 https://www.youtube.com/getDatasyncIdsEndpoint
 https://www.youtube.com/pcs/activeview
 www.youtube.com###clarify-box
@@ -2332,6 +2332,7 @@ reddit.com###blocking-modal
 reddit.com##.pt-\[var\(--page-y-padding\)\].v2.xs\:overflow-visible.overflow-x-hidden > form
 reddit.com#@#shreddit-experience-tree
 reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward(7)
+reddit.com##.nd\:visible > faceplate-expandable-section-helper
 https://www.redditstatic.com/js/tags-slim.js
 https://www.reddit.com/counters/
 https://www.reddit.com/errors
