@@ -240,6 +240,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.sticky-ad-area
+###sticky-ad-area
 ###cookieModal
 ##.cookieModal
 ##.beehiiv_embed_signup
@@ -2534,3 +2536,5 @@ www.sciencealert.com##.bg-sciencealert-yellow
 www.thedailybeast.com###user-comments
 www.theepochtimes.com###uacta-target
 www.theepochtimes.com##.bg-\[\#EDF5F5\]
+www.mdlinx.com##.min-h-\[275px\]
+www.mdlinx.com##.sticky-outer-wrapper
