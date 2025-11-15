@@ -1,3 +1,7 @@
+$removeparam=cpm
+$removeparam=ilm
+$removeparam=rcstdid
+$removeparam=utm_knock
 $removeparam=bb
 $removeparam=aa_creativeid
 $removeparam=aa_campaignid
@@ -240,6 +244,9 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###cookie-consent
+##.cookie-consent
+##.item-newsletter
 ##.sticky-ad-area
 ###sticky-ad-area
 ###cookieModal
@@ -421,6 +428,9 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/promotional
+/api/events
+/discourse-client-performance
 /tcf.stub
 /tracking
 /antibot
@@ -454,6 +464,7 @@ _cookieConsent
 /alertsDonation
 .tracking
 -ad.png
+/issuereporting
 /hotjar
 _events.min.js
 _pixels
@@ -473,9 +484,7 @@ _analytics.min
 .sentry
 /logged
 /jonahlytics
-/issuereporting
 ?expType
-_experiences-telemetry
 _ad-service
 _BeaconService
 /google.funding.choices
@@ -1207,7 +1216,6 @@ www.mindtools.com##div.panel.banner-vertical-article.banner-vertical.banner.adve
 www.g2.com##.border-bottom
 www.greekrank.com###main-container > .container > div:nth-of-type(1)
 www.greekrank.com#@#.like-box
-www.wired.com##.persistent-aside--align-left.persistent-aside.dfagOn.sc-gYhigD
 www.ringcentral.com##.rc-notibar
 www.ccleaner.com###main-content > .text-center
 www.ccleaner.com##.download-notification--top.download-notification
@@ -1423,11 +1431,12 @@ troypoint.com##div.code-block-8.code-block
 troypoint.com##.su-box-style-.su-box
 www.linkedin.com##.premium-upsell-link
 www.linkedin.com##.mb2.align-items-center.display-flex.pv4.artdeco-card
-www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell
-||www.linkedin.com^$removeparam=miniProfileUrn
-||www.linkedin.com^$removeparam=originalSubdomain
-||www.linkedin.com^$removeparam=origin
-||www.linkedin.com^$removeparam=referenceId
+www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
+||linkedin.com^$removeparam=miniProfileUrn
+||linkedin.com^$removeparam=originalSubdomain
+||linkedin.com^$removeparam=referenceId
+||linkedin.com^$removeparam=origin
+||linkedin.com^$removeparam=searchId
 linkedin.com/litms/api/metadata
 www.scribd.com##.auto__doc_page_app_page_body_fixed_viewport_bottom_components_recommender
 www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
@@ -1697,8 +1706,6 @@ www.nasdaq.com##.watchlist
 news.spacconference.com##.ng-scope.ml-landscape-ad-container
 news.spacconference.com##.ng-scope.ml-square-ad-container
 medium.com##[data-popper-reference-hidden]
-www.wired.com##.should-hold-space
-www.wired.com##.social-icons
 www.fakespot.com##.bottom-box
 ||www.amazon.com^$removeparam=source
 ||www.amazon.com^$removeparam=i
@@ -1812,6 +1819,7 @@ www.foxnews.com##[href] > strong
 www.foxnews.com##strong > [href]
 www.foxnews.com##.promo-watch-live
 www.foxnews.com##.sidebar-columns > .collection
+www.foxnews.com##.alert-container
 www.buckscountycouriertimes.com##.gnt_pm
 www.newsbtc.com##.widget_svecc_reviews
 www.newsbtc.com##.widget_media_image
@@ -2485,7 +2493,6 @@ www.forexlive.com##.all-news__top-brokers
 www.forexlive.com##.banner
 www.forexlive.com##.above-header-meta-content
 ||outlier.ai^$removeparam=redirect_url
-||linkedin.com^$removeparam=origin
 www.tubefilter.com##.signupInline
 xumo.com##.showsPromo
 ||xumo.com^$removeparam=geoId
@@ -2538,3 +2545,12 @@ www.theepochtimes.com###uacta-target
 www.theepochtimes.com##.bg-\[\#EDF5F5\]
 www.mdlinx.com##.min-h-\[275px\]
 www.mdlinx.com##.sticky-outer-wrapper
+www.nytimes.com###paywallwrapper
+www.nytimes.com###athletic-gateway-container
+www.wired.com##.should-hold-space
+www.wired.com##.social-icons
+www.wired.com##.persistent-aside--align-left.persistent-aside
+www.wired.com##.journey-unit__container
+o.canada.com##.priceline-widget
+o.canada.com##.article-content__widget-group--newsletter-slot
+https://www.gq.com/SQZ
