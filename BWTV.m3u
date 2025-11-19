@@ -91,7 +91,7 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m
 https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png" group-title="Sports",NHL Network HD
 https://livetv-fa.tubi.video/nhl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/VV_X8dQ2vXfbpW2iK1Vck7tHDv7ai-g-9UPAkPE61n7ccGWLe7ES2i17Hy5KrS3RFAE" group-title="Sports",Tennis Channel HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qG4C76Xg5Tgdv8MkZvvJ-yd6IwpYwSax-7O3hZCtC7lsCqCwVf9homGeJsTILFDPQQ=w240-h480-rw" group-title="Sports",Tennis Channel HD
 https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png/900" group-title="Sports",T2
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
@@ -113,7 +113,7 @@ https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
 https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ksOmJV1FGENhZJ_AIS-ap2DyNNbynviqDJ6X-gvVqZ5w=s900-c-k-c0x00ffffff-no-rj" group-title="News",Reuters TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1807768828874760192/RvVrTRxF_400x400.jpg" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wg1BjOZhlFgcMUGA5L4GxXqWIIGiq0ApMXloy0GAiGpmuKb2qoZUfy0Ma7fZk-YyoGDn11963ug=s900-c-k-c0x00ffffff-no-rj" group-title="News",Scripps News
 https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
