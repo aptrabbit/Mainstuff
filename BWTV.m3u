@@ -25,7 +25,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 https://livetv-fa.tubi.video/cheddar/primary/2.m3u8
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/cnbc-world-20962.jpg" group-title="Business",CNBC World
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN HD
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/cbsnews247_500x500_white.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
