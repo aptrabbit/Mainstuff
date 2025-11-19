@@ -11,8 +11,10 @@ https://livetv-fa.tubi.video/afv/playlist_1280x720.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Cartoons/Youth",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288471278953869320/Ki2rybZI_400x400.jpg" group-title="Entertainment",BBC News (North America)
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX6zXPQmoYcsqznqGVZxLzhqG6LMCnWh5zRA&s" group-title="Entertainment",BBC America HD
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288471278953869320/Ki2rybZI_400x400.jpg" group-title="News",BBC News (North America)
+https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM_400x400.jpg" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo HD
