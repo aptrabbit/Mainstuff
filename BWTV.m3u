@@ -55,13 +55,13 @@ https://5d8e88ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSU
 https://cdn.lawandcrime.net/rewind/720.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/H3otdAx8EryD1cOq9EJyweBjLai0dZZtFY3mBEVn4sHxDO7JexucPsp19HwCTnrUe42c4C1_aTQ=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",Love Nature
 https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Sf_1Z1QRTgM5yWLE92vkGYsiZPyD0YKiv7Yk7D_iYg0a-BcIm5eCReH6qpoGIMBw8N_S1Fo-md8=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",MagellanTV NOW
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/AAIHtZjCzIkRjBI4s0XUWaxQkEI5nWkAAQAszxBPXMM0kRa_imt7qaeIp_nmVNboTGs" group-title="Nature",MagellanTV NOW
 https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="Entertainment",MOVIESPHERE
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21VJadA-V9L.png" group-title="News",MSNBC HD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s160-c-k-c0x00ffffff-no-rj" group-title="News",MSNBC HD
 https://e3.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.marketrealist.com/brand-img/xJ8jreN3M/2160x1130/newsnation-logo-1639750882872.jpg" group-title="News",NewsNation
+#EXTINF:-1 tvg-logo="https://blackcloak.io/wp-content/uploads/2024/11/Logo-Newsnation.jpeg" group-title="News",NewsNation
 https://fl41.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxnY1HPcvGyeJ3pRTs7DukcDxGJ3-Y2CoEOw&s" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
@@ -111,7 +111,7 @@ https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cdw5OO_RMZ6A3lkAiyoRJLWv7FjQ8qCLJg&s" group-title="Shopping",QVC HD
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/4JlRTvq4DiQtsQ==/26524860-7598-4b32-8b57-07dbb6af91b7/CPwDEJ0COgUxLjEuOA==" group-title="Entertainment",REELZ Famous & Infamous
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
 https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ksOmJV1FGENhZJ_AIS-ap2DyNNbynviqDJ6X-gvVqZ5w=s900-c-k-c0x00ffffff-no-rj" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
