@@ -41,10 +41,14 @@ https://livetv-fa.tubi.video/court-tv/playlist_4300k.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3TEYHcMfpYu7M_cn8fvhMpr2Iid2t9Hx8Q&s" group-title="Entertainment",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
 https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ff345931c56f92bd8e00248308b7e062c2644f220589d2b96364f05ec31d4ebe.png" group-title="Entertainment",FOX SOUL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/1200px-Fox-weather-logo-stacked-color.svg.png" group-title="Weather",FOX Weather
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa60248c8-7b26-4aa8-8e8e-241bdafc2e10%2F24-ION-1300577902-OTT-CTV---ION-Rebrand-Assets-for-FAST-and-vMVPD-Platforms_PLEX-Logo-Orange.png" group-title="Entertainment",ION
@@ -82,9 +86,9 @@ https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/SPORTSGRID_m.png" group-title="Sports",SportsGrid
 https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN 1
-https://fl41.moveonjoy.com/TSN_1/index.m3u8
+https://fl7.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
-https://fl41.moveonjoy.com/TSN_4/index.m3u8
+https://fl7.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/bein-sports-xtra_channel_logo_stacked_whitecopy.png?ch=width&auto=format%2Ccompress" group-title="Sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV HD
@@ -119,6 +123,8 @@ https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wg1BjOZhlFgcMUGA5L4GxXqWIIGiq0ApMXloy0GAiGpmuKb2qoZUfy0Ma7fZk-YyoGDn11963ug=s900-c-k-c0x00ffffff-no-rj" group-title="News",Scripps News
 https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Entertainment",Stories by AMC
+https://amc-amcpresents-1-us.xumo.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png" group-title="Lifestyle/Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Tastemade
@@ -127,6 +133,8 @@ https://tastemade-xumo.amagi.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",TED
 https://amg02034-amg02034c1-amgplt0023.playout.now3.amagi.tv/playlist/amg02034-amg02034c1-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entertainment",TLC HD (US)
+https://e2.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xwnvklLX5on1HIT-c5TP_Q0Cr02Z1vuTx1NFsRJvUTuhSOGZycO8kqJzoK6ah3E4tO8" group-title="Entertainment",truTV HD
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Lwjd-gMnF1NekAo34NaLpuYVglJTkQKmIlaNDXHc0twmoG4um5y0PfazB2yhEyUkorwFcYz-AA=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Turner Classic Movies HD
