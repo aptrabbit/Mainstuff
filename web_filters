@@ -428,6 +428,8 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/(ads)
+/tinypass
 /promotional
 /api/events
 /discourse-client-performance
@@ -597,8 +599,8 @@ _ApplePay_Test
 /track-exposures
 /coremetrics
 /geolocation
-/admiral
 /logger
+/admiral
 /genericdatacollection
 -open-tracing
 /pixel.gif
@@ -1968,6 +1970,8 @@ www.theguardian.com###sp_message_container_414202
 www.coingecko.com###geckoFloat
 check-host.net##div.athold11wr
 fortune.com###Leaderboard0
+fortune.com##div.empty\:contents
+fortune.com###outbrain-container
 bitcoin.com##.custom-html-widget
 bitcoin.com##.sticky-down.bn_desktop_widgets 
 bitcoin.com##widget_custom_html
