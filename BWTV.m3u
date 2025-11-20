@@ -41,7 +41,7 @@ https://livetv-fa.tubi.video/court-tv/playlist_4300k.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3TEYHcMfpYu7M_cn8fvhMpr2Iid2t9Hx8Q&s" group-title="Entertainment",The Nest
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/The_Nest_2023.svg" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
 https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
