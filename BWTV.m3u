@@ -75,7 +75,7 @@ https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ&s" group-title="News",Newsmax2
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OAflcpx3_LuHUlcILW4ilZnpAnzkb_dC-bREJghFfAs152K5ue1bzqMnGUI6cOjA4N-1AvT1aQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",One America News Network HD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OAflcpx3_LuHUlcILW4ilZnpAnzkb_dC-bREJghFfAs152K5ue1bzqMnGUI6cOjA4N-1AvT1aQ=s900-c-k-c0x00ffffff-no-rj" group-title="News",One America News Network HD
 https://a-cdn.klowdtv.com/live1/oan_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Cartoons/Youth",Nickelodeon HD
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
@@ -83,8 +83,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWNqbj7nE0g0PcQG-LKQs46KGQ8Gl6ZlaGg&s" group-title="Cartoons/Youth",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/bein-sports-xtra_channel_logo_stacked_whitecopy.png?ch=width&auto=format%2Ccompress" group-title="Sports",beIN SPORTS XTRA
-https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 HD
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN 1
@@ -95,6 +93,10 @@ https://e1.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
 https://e1.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
 https://e1.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/bein-sports-xtra_channel_logo_stacked_whitecopy.png?ch=width&auto=format%2Ccompress" group-title="Sports",beIN SPORTS XTRA
+https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://images-cdn1.welcomesoftware.com/assets/Billiard.jpg/Zz1lNzRjMDhlMDkyNzIxMWYwYWY0NGI2OGExZWQ5OTQxNA==?width=1200" group-title="Entertainment",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/SPORTSGRID_m.png" group-title="Sports",SportsGrid
 https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV HD
