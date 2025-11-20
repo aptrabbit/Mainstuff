@@ -244,6 +244,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.blocker-intercept
+###blocker-intercept
 ###cookie-consent
 ##.cookie-consent
 ##.item-newsletter
