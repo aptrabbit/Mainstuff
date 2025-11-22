@@ -21,11 +21,11 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/1280px-BBC_Earth.svg.png" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png" group-title="Lifestyle/Food",BBC Home & Garden
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png" group-title="Lifestyle/Food",BBC Home & Garden
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e6ad6025-e387-40da-a3d9-a08f492f5f1f/4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/d/d9/BBCN.png" group-title="News",BBC News (North America)
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imageresizer.static9.net.au/1cmvaZj4LszLLEt0czBuC9F4z_s=/1280x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648340%2Fcroppedlogo.png" group-title="Lifestyle/Food",BBC Food
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/1cmvaZj4LszLLEt0czBuC9F4z_s=/1280x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648340%2Fcroppedlogo.png" group-title="Lifestyle/Food",BBC Food
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/337f8dd4-4e3f-4b0a-800b-2108f0579c58/4.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41w7L1TCIoL.png" group-title="Lifestyle/Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
@@ -59,12 +59,14 @@ https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist_1280x720.m
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel HD
 https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
-https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ff345931c56f92bd8e00248308b7e062c2644f220589d2b96364f05ec31d4ebe.png" group-title="Entertainment",FOX SOUL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/1200px-Fox-weather-logo-stacked-color.svg.png" group-title="Weather",FOX Weather
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/665817-oyduisl0-400x400-300x300.jpeg" group-title="News",WTTG-DT
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wttg-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa60248c8-7b26-4aa8-8e8e-241bdafc2e10%2F24-ION-1300577902-OTT-CTV---ION-Rebrand-Assets-for-FAST-and-vMVPD-Platforms_PLEX-Logo-Orange.png" group-title="Entertainment",ION
 https://livetv-fa.tubi.video/ion/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
@@ -93,7 +95,7 @@ https://a-cdn.klowdtv.com/live1/oan_1080p/playlist.m3u8
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMQ2GzhYagqygjHZgo3EX5GQ4xNkaISwPpw&s" group-title="Entertainment",CBS Sports HQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMQ2GzhYagqygjHZgo3EX5GQ4xNkaISwPpw&s" group-title="Entertainment",CBS Sports HQ
 https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/60bc92c5-d191-4cac-99cc-8fa9c4384f23:CHS/variant/ccb0524231e8a33e5cc332905f10aa1d/bandwidth/5397000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 HD
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
