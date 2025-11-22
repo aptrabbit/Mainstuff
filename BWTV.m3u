@@ -22,11 +22,11 @@ https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/62407
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/1280px-BBC_Earth.svg.png" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png" group-title="Lifestyle/Food",BBC Home & Garden
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e6ad6025-e387-40da-a3d9-a08f492f5f1f/4.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8440c6ed-ac85-431b-8d13-8c6fa3011da0/0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/d/d9/BBCN.png" group-title="News",BBC News (North America)
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/1cmvaZj4LszLLEt0czBuC9F4z_s=/1280x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648340%2Fcroppedlogo.png" group-title="Lifestyle/Food",BBC Food
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/337f8dd4-4e3f-4b0a-800b-2108f0579c58/4.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/058a45d6-4bf1-4957-be4b-6ffd3e313064/0.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41w7L1TCIoL.png" group-title="Lifestyle/Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Tastemade
