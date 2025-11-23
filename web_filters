@@ -87,7 +87,6 @@ $removeparam=redirectlocale
 $removeparam=redirectslug
 $removeparam=sca_upv
 $removeparam=prmd
-$removeparam=bb
 $removeparam=_rsc
 $removeparam=sourceCode
 $removeparam=parent-reqid
@@ -799,7 +798,6 @@ _adframe
 /track_event
 /cookie-law-info
 /checksession
--adobe-analytics
 -core_logger
 /bclean
 -analytics-api
@@ -1035,6 +1033,7 @@ cdn2.editmysite.com/js/site/main-customer-accounts-site.js
 no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
 trck.pix.twitch.prod-na.turntable.sonic.advertising
+https://www.gq.com/SQZ
 www.gstatic.com/firebasejs
 https://app-measurement.com/sdk-exp$important
 ||widget.portis.io/$subdocument
@@ -2575,4 +2574,3 @@ www.wired.com##.persistent-aside--align-left.persistent-aside
 www.wired.com##.journey-unit__container
 o.canada.com##.priceline-widget
 o.canada.com##.article-content__widget-group--newsletter-slot
-https://www.gq.com/SQZ
