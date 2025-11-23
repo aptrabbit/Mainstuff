@@ -139,8 +139,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
 https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh50N3unlwNAVW8XJhAv-xxCmIQ_j7z3HarAJgvTlW2qGyvTnyF7nUjr5gYHCqc0Gu7I0&usqp=CAU" group-title="Entertainment",Hi-YAH!
-https://d6b383jzkrtyn.cloudfront.net/hls/xumo_smart_tv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7qJb5O5poDnWn4NGFtQEMIZbWCsTPn6J4cgjPHSUz2-AQ08GcLMhFtGwM_VhiEC1_No" group-title="Entertainment",Hi-YAH!
+https://d6b383jzkrtyn.cloudfront.net/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=99992284
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Entertainment",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="Entertainment",TBS HD
