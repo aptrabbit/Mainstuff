@@ -91,6 +91,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OAflcpx3_LuHUlcILW4ilZnpAnzkb_dC-bREJghFfAs152K5ue1bzqMnGUI6cOjA4N-1AvT1aQ=s900-c-k-c0x00ffffff-no-rj" group-title="News",One America News Network HD
 https://a-cdn.klowdtv.com/live1/oan_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wg1BjOZhlFgcMUGA5L4GxXqWIIGiq0ApMXloy0GAiGpmuKb2qoZUfy0Ma7fZk-YyoGDn11963ug=s900-c-k-c0x00ffffff-no-rj" group-title="News",Scripps News
+https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/1200px-PBS_logo_2019_%28Symbol%29.svg.png" group-title="Entertainment",PBS Stream
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
@@ -133,28 +135,26 @@ https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cdw5OO_RMZ6A3lkAiyoRJLWv7FjQ8qCLJg&s" group-title="Shopping",QVC HD
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
-https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1807768828874760192/RvVrTRxF_400x400.jpg" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wg1BjOZhlFgcMUGA5L4GxXqWIIGiq0ApMXloy0GAiGpmuKb2qoZUfy0Ma7fZk-YyoGDn11963ug=s900-c-k-c0x00ffffff-no-rj" group-title="News",Scripps News
-https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
+https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Entertainment",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/1200px-TBS_2020.svg.png" group-title="Entertainment",TBS HD
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TED_three_letter_logo.svg/2560px-TED_three_letter_logo.svg.png" group-title="History/Science",TED
-https://amg02034-amg02034c1-amgplt0023.playout.now3.amagi.tv/playlist/amg02034-amg02034c1-amgplt0023/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entertainment",TLC HD (US)
-https://e2.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-bridge.staging-public.tubi.io/l_f5QzYyCubQs3x-wDdCnnYdq0c=/640x360/smart/img.adrise.tv/2c15cb65-7cbc-4494-9f61-4880fef8a9d2.jpeg" group-title="Entertainment",TMZ
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xwnvklLX5on1HIT-c5TP_Q0Cr02Z1vuTx1NFsRJvUTuhSOGZycO8kqJzoK6ah3E4tO8" group-title="Entertainment",truTV HD
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee8565160c17ec0797edd0d62c39" group-title="Entertainment",TNT HD
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/2023/08/TCM-Logo.jpg" group-title="Entertainment",Turner Classic Movies HD
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TED_three_letter_logo.svg/2560px-TED_three_letter_logo.svg.png" group-title="History/Science",TED
+https://amg02034-amg02034c1-amgplt0023.playout.now3.amagi.tv/playlist/amg02034-amg02034c1-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entertainment",TLC HD (US)
+https://e2.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-bridge.staging-public.tubi.io/l_f5QzYyCubQs3x-wDdCnnYdq0c=/640x360/smart/img.adrise.tv/2c15cb65-7cbc-4494-9f61-4880fef8a9d2.jpeg" group-title="Entertainment",TMZ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rGlx8lI_q8Xj4f3PKpnbjrYCIMDUcPxUe6BF0-mA-1ocpTGle2sru1BnHU_TrYR183A" group-title="News",TYT The Young Turks
 https://amg01220-amg01220c1-lg-us-8248.playouts.now.amagi.tv/playlist/amg01220-theyoungturksfast-tyt-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://aging-forward.org/wp-content/uploads/2025/06/usa-today-logo-png_seeklogo-481935.png" group-title="News",USA TODAY
