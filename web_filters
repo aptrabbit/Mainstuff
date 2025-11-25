@@ -243,6 +243,10 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.cookieTest
+###cookieTest
+##.article-leaderboard-ad
+###article-leaderboard-ad
 ##.blocker-intercept
 ###blocker-intercept
 ###cookie-consent
@@ -319,7 +323,6 @@ $removeparam=visitToken
 ##.marketing-slider
 ###chat-widget
 ##.js-promo
-##.promo
 ##.promoted
 ##.rate-us
 ##.reveal-modal-bg
@@ -429,6 +432,11 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/ScrollEvent
+/vfTrack
+/onAcceptCookie
+/web/events
+/servead
 /blaize
 /bizzabo
 -bizzabo
