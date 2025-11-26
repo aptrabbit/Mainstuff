@@ -243,6 +243,10 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.donation-modal
+###donation-modal
+##.donation-cta
+###donation-cta
 ##.cookieTest
 ###cookieTest
 ##.article-leaderboard-ad
