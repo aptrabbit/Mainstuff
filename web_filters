@@ -1049,6 +1049,9 @@ https://www.gq.com/SQZ
 www.gstatic.com/firebasejs
 https://app-measurement.com/sdk-exp$important
 ||widget.portis.io/$subdocument
+||static.parastorage.com/services/chat-widget/*
+||tars-file-upload.s3.amazonaws.com/bulb/js/widget.js
+||*.formilla.com/scripts/feedback.js
 ||*.user.com/static/js/*
 ||*.videoask.com/embed/embed.js
 ||*.my.salesforce.com/embeddedservice/5.0/client/liveagent.esw.min.js
