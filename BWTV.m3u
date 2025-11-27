@@ -37,7 +37,7 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/cnbc-world-20962.jpg" group-title="Business",CNBC World
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRagqCQc4YU_Pmn64myckRy9D4umJ04L-JDsw&s" group-title="Entertainment",DeFiance Media
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5tKArnyssLuyoxRDyScSTCfQhtknRYtoHQ&s" group-title="Entertainment",DeFiance Media
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -53,7 +53,7 @@ https://livetv-fa.tubi.video/ion/playlist_1920x1080_4200k.m3u8
 https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/e3/aa/13379eff448895256e2241cb8c5d/logo-ion-mystery-2024-2x.png" group-title="Entertainment",Ion Mystery
 https://5d8e88ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSU9OTXlzdGVyeV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3etz0zhgardfq.cloudfront.net/uploads/2023/10/06.The_Nest_Logo_White.png" group-title="Entertainment",The Nest
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
@@ -105,6 +105,10 @@ https://e1.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
 https://e1.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4
 https://e1.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qG4C76Xg5Tgdv8MkZvvJ-yd6IwpYwSax-7O3hZCtC7lsCqCwVf9homGeJsTILFDPQQ=w240-h480-rw" group-title="Sports",Tennis Channel HD
+https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png/900" group-title="Sports",T2
+https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/bein-sports-xtra_channel_logo_stacked_whitecopy.png?ch=width&auto=format%2Ccompress" group-title="Sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pub-mediabox-storage.rxweb-prd.com/exhibitor/logo/exh-131e4fb5-7bdf-4c75-866f-794142d51f48/desktop-large/10cf543c-6011-451a-81db-003a82deeb40.png" group-title="Sports",SportsGrid
@@ -115,10 +119,6 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m
 https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png" group-title="Sports",NHL Network HD
 https://livetv-fa.tubi.video/nhl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qG4C76Xg5Tgdv8MkZvvJ-yd6IwpYwSax-7O3hZCtC7lsCqCwVf9homGeJsTILFDPQQ=w240-h480-rw" group-title="Sports",Tennis Channel HD
-https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png/900" group-title="Sports",T2
-https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mECavVNoh2tn4Lku7JyVIN_RnW4-s2z5rEXWo41MVHmGjqUuJChPB0L2JYbHDZg5YL21OcId=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
@@ -159,7 +159,7 @@ https://amg01220-amg01220c1-lg-us-8248.playouts.now.amagi.tv/playlist/amg01220-t
 https://usatodaynews-xumo.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4p_Rkua0guh-POLIuwRdsaewn_pWYyoYtTzUCNaFBJNn3XMB7PEE2DXVtBPP-8RS7rtw&usqp=CAU" group-title="Music",Stingray Greatest Hits
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xwNvRXCTDFU0CjZPERoZsKLkVtRDgag7m40ItyeeacLYRvYGC-kdRu4z1Vp3nBpEPZvZXZbFgg=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Vevo Hip-Hop
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20241112T001853SQUARE.png" group-title="Music",Vevo Hip-Hop
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="Music",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
