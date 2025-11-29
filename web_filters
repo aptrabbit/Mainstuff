@@ -243,6 +243,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.global-sponsor-banner-alert
+###global-sponsor-banner-alert
 ##.donation-modal
 ###donation-modal
 ##.donation-cta
@@ -436,6 +438,9 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/pdc.min
+/qdc.min
+.online/a8?
 /ScrollEvent
 /vfTrack
 /onAcceptCookie
@@ -2043,15 +2048,15 @@ ups.com###nuance-chat-anchored-mob
 ||twitter.com^$removeparam=s
 /endpoints.Ads
 https://api.twitter.com/live_pipeline/events
-twitter.com##[aria-label="who to follow" i]:upward(1)
-twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
-twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
-twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article)
-twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
-twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
-twitter.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
-twitter.com,x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
-help.twitter.com###kampyleButtonContainer
+x.com##[aria-label="who to follow" i]:upward(1)
+x.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
+x.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"]))
+x.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article)
+x.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
+x.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
+x.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
+x.com,x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
+help.x.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
 www.wcostream.tv###star-watch-on
 www.wcostream.tv##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
@@ -2589,3 +2594,4 @@ www.wired.com##.persistent-aside--align-left.persistent-aside
 www.wired.com##.journey-unit__container
 o.canada.com##.priceline-widget
 o.canada.com##.article-content__widget-group--newsletter-slot
+www.jotform.com##.error-navigation-container
