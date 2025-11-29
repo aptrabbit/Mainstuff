@@ -37,7 +37,7 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/cnbc-world-20962.jpg" group-title="Business",CNBC World
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5tKArnyssLuyoxRDyScSTCfQhtknRYtoHQ&s" group-title="Entertainment",DeFiance Media
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5tKArnyssLuyoxRDyScSTCfQhtknRYtoHQ&s" group-title="Business",DeFiance Media
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -68,7 +68,7 @@ https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-logo="https://wgnradio.com/wp-content/uploads/sites/6/2023/10/NewsNation-512x512-Blue.jpg" group-title="News",NewsNation
 https://fl41.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
-https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+https://e1.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ff345931c56f92bd8e00248308b7e062c2644f220589d2b96364f05ec31d4ebe.png" group-title="Entertainment",FOX SOUL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/1200px-Fox-weather-logo-stacked-color.svg.png" group-title="Weather",FOX Weather
@@ -80,7 +80,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wttg-lgus/playlist
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/312reopgpxL.png" group-title="News",WRC-DT
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/master.m3u8?ads.xumo_channelId=99951181
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s160-c-k-c0x00ffffff-no-rj" group-title="News",MSNBC HD
-https://fl41.moveonjoy.com/MSNBC/index.m3u8
+https://e1.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png/900" group-title="News",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xjxmYwEWSbA78QQKTTtAOlbiGWqT3F1yGl1WoGDy0YXruTrtde9LtrJ_zqo9MPvWVJ8REyD_Qg=s900-c-k-c0x00ffffff-no-rj" group-title="News",Newsmax TV HD
@@ -154,7 +154,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 #EXTINF:-1 tvg-logo="https://canvas-bridge.staging-public.tubi.io/l_f5QzYyCubQs3x-wDdCnnYdq0c=/640x360/smart/img.adrise.tv/2c15cb65-7cbc-4494-9f61-4880fef8a9d2.jpeg" group-title="Entertainment",TMZ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rGlx8lI_q8Xj4f3PKpnbjrYCIMDUcPxUe6BF0-mA-1ocpTGle2sru1BnHU_TrYR183A" group-title="News",TYT The Young Turks
-https://amg01220-amg01220c1-lg-us-8248.playouts.now.amagi.tv/playlist/amg01220-theyoungturksfast-tyt-lgus/playlist.m3u8
+https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://aging-forward.org/wp-content/uploads/2025/06/usa-today-logo-png_seeklogo-481935.png" group-title="News",USA TODAY
 https://usatodaynews-xumo.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4p_Rkua0guh-POLIuwRdsaewn_pWYyoYtTzUCNaFBJNn3XMB7PEE2DXVtBPP-8RS7rtw&usqp=CAU" group-title="Music",Stingray Greatest Hits
