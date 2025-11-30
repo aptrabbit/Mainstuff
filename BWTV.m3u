@@ -74,7 +74,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/1200px-Fox-weather-logo-stacked-color.svg.png" group-title="Weather",FOX Weather
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/25b0b2f3-88f8-4797-94b7-aed41e42dda8/2.m3u8
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/665817-oyduisl0-400x400-300x300.jpeg" group-title="News",WTTG-DT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wttg-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/312reopgpxL.png" group-title="News",WRC-DT
