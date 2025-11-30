@@ -438,6 +438,8 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/prebid
+/js/prebid
 /pdc.min
 /qdc.min
 .online/a8?
@@ -497,7 +499,6 @@ _log.js
 /aanalytics
 _cookieConsent
 /promoted_content
-/js/prebid
 /truemed-ads
 /alertsDonation
 .tracking
@@ -1061,13 +1062,13 @@ https://app-measurement.com/sdk-exp$important
 ||*.videoask.com/embed/embed.js
 ||*.my.salesforce.com/embeddedservice/5.0/client/liveagent.esw.min.js
 ||*.nuance.com/media/launch/chatLoader*
+www.news-medical.net/bundles/js/desktop/base
+https://www.tiktok.com/passport/web/account/info/
+https://mssdk.us.tiktok.com/web/common?msToken
 en.wikipedia.org##.vector-limited-width-popup
 en.wikipedia.org##.cn-fundraising
 www.coinbase.com##.kuposl
 www.coinbase.com#@#[class*="cds-fixed-"]
-www.tiktok.com##.eyt76ed0
-https://www.tiktok.com/passport/web/account/info/
-https://mssdk.us.tiktok.com/web/common?msToken
 www.urbandictionary.com###leaderboard
 www.urbandictionary.com##.flex.mb-8 > div
 heimdalsecurity.com##.ulp-content
