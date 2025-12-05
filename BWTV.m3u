@@ -17,8 +17,6 @@ https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="News",BBC News (North America)
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Rsa-C1kXjVDQtAhbcp1uxvPuSVsVFX7HYEIoDLyiDZVqr5xV6FDh9F7J5DlM5RIytVHTntgzXQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",BBC America HD
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648311/group-61770.png" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648313/group-61771.png" group-title="Lifestyle/Food",BBC Home & Garden
