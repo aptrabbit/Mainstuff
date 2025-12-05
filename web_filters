@@ -243,6 +243,7 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.component--cookie-banner
 ##.global-sponsor-banner-alert
 ###global-sponsor-banner-alert
 ##.donation-modal
@@ -1933,6 +1934,7 @@ www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-bl
 www.twitch.tv###twilight-sticky-footer-root
 twitch.tv##+js(twitch-videoad)
 static.twitchcdn.net/assets/pages.embed-chat
+play.google.com/log
 google.com/gsi/button
 google.com##.gs_qsuggest_wrap
 google.com##.user-feedback-link
@@ -2531,9 +2533,11 @@ www.forexlive.com##.all-news__top-brokers
 www.forexlive.com##.banner
 www.forexlive.com##.above-header-meta-content
 ||outlier.ai^$removeparam=redirect_url
+app.outlier.ai/internal/experts/is-scale-fte-vpn
 www.tubefilter.com##.signupInline
 xumo.com##.showsPromo
 ||xumo.com^$removeparam=geoId
+valencia-app-mds.xumo.com/v2/security/drm/
 seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
 iptvplay.stream##div.border-2:nth-of-type(2)
 app.seobility.net##.productfruits--container
@@ -2592,3 +2596,4 @@ www.wired.com##.journey-unit__container
 o.canada.com##.priceline-widget
 o.canada.com##.article-content__widget-group--newsletter-slot
 www.jotform.com##.error-navigation-container
+longevity.technology##.popup_bg
