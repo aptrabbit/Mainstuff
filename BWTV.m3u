@@ -43,18 +43,6 @@ https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist1080-p.m
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7h2RtuST2OCPPy2fTm68tZCp_FxsPAoWsS2QVIvAKvr8gQH9E3Q-BgSDWcIyZ4q2H-KI_oU1ag=s900-c-k-c0x00ffffff-no-rj" group-title="Crime",Court TV
-https://cd63c9a2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ291cnRUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836747103353085953/8J7WS5SI_400x400.jpg" group-title="Crime",Law and Crime
-https://cdn.lawandcrime.net/rewind/720.m3u8
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa60248c8-7b26-4aa8-8e8e-241bdafc2e10%2F24-ION-1300577902-OTT-CTV---ION-Rebrand-Assets-for-FAST-and-vMVPD-Platforms_PLEX-Logo-Orange.png" group-title="Entertainment",ION
-https://livetv-fa.tubi.video/ion/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
-https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/e3/aa/13379eff448895256e2241cb8c5d/logo-ion-mystery-2024-2x.png" group-title="Entertainment",Ion Mystery
-https://5d8e88ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSU9OTXlzdGVyeV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
-https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/600x600.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/1200px-PBS_logo_2019_%28Symbol%29.svg.png" group-title="History/Science",PBS Stream
@@ -93,6 +81,18 @@ https://a-cdn.klowdtv.com/live1/oan_1080p/playlist.m3u8
 https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1807768828874760192/RvVrTRxF_400x400.jpg" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7h2RtuST2OCPPy2fTm68tZCp_FxsPAoWsS2QVIvAKvr8gQH9E3Q-BgSDWcIyZ4q2H-KI_oU1ag=s900-c-k-c0x00ffffff-no-rj" group-title="Crime",Court TV
+https://cd63c9a2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ291cnRUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836747103353085953/8J7WS5SI_400x400.jpg" group-title="Crime",Law and Crime
+https://cdn.lawandcrime.net/rewind/720.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa60248c8-7b26-4aa8-8e8e-241bdafc2e10%2F24-ION-1300577902-OTT-CTV---ION-Rebrand-Assets-for-FAST-and-vMVPD-Platforms_PLEX-Logo-Orange.png" group-title="Entertainment",ION
+https://livetv-fa.tubi.video/ion/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
+https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/e3/aa/13379eff448895256e2241cb8c5d/logo-ion-mystery-2024-2x.png" group-title="Entertainment",Ion Mystery
+https://5d8e88ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSU9OTXlzdGVyeV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMQ2GzhYagqygjHZgo3EX5GQ4xNkaISwPpw&s" group-title="Sports",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video_1=8000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 HD
