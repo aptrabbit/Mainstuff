@@ -445,6 +445,7 @@ $removeparam=visitToken
 -prebid
 _prebid
 /js/prebid
+_prebid_blocker
 /pdc.min
 /qdc.min
 .online/a8?
@@ -765,8 +766,6 @@ _clicktrack
 /newrelic
 -newrelic
 -new-relic
-_prebid
-_prebid_blocker
 /cfirebase
 -piano
 _piano
@@ -2211,11 +2210,6 @@ www.cosmeticsandtoiletries.com##div.card-deck-flow__node:nth-of-type(5)
 www.cosmeticsandtoiletries.com##.social-sharing
 www.cosmeticsandtoiletries.com##.page-rail.col-lg-4
 www.kidney.org###footer-sticky
-tv247us.com##.entry-content > p
-tv247us.com##.jp-relatedposts
-tv247us.com##.entry-content > h2
-tv247.us##.entry-content > p
-tv247.us##.wp-image-2180
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
 www.washingtonpost.com##.bb.b.overflow-hidden
 www.washingtonpost.com##.dn-hp-xs
@@ -2339,17 +2333,13 @@ ada.com##.bnEWUd
 clustrmaps.com###beenV
 tosdr.org###alert-funding
 getpublii.com###download-publii-link
-www.crypto-news-flash.com###before-disclaimer
-www.stacksocial.com##.css-h52rc8
-www.newyorker.com##.byNLHx
+crypto-news-flash.com###before-disclaimer
 www.cedars-sinai.org#@#.enewsletter
 www.cedars-sinai.org##.accessibilityWidget
 gizmodo.com##.cBHeRX
 www.soundguys.com##.--___ri
 kotaku.com###trending-module
-www.whois.com##.chiclet-promo.chiclet
-www.whois.com##.chiclet-slides.chiclet
-www.whois.com##div.chiclet
+whois.com##.chiclet
 labdoor.com##.shopModuleContainer
 finviz.com##.modal-elite-ad
 finviz.com##.mx-auto
@@ -2467,8 +2457,8 @@ www.msn.com##views-right-rail
 ||msn.com^$removeparam=ranid
 ||msn.com^$removeparam=ocid
 assets.msn.com/service/community/users/
-foundation.mozilla.org##.donate-banner
-foundation.mozilla.org###category-featured-cta
+mozilla.org##.donate-banner
+mozilla.org###category-featured-cta
 store.bitcoinmagazine.com###pandectes-banner
 www.healthyhearing.com###hh-sticky-panel
 newstimes.com###modals
