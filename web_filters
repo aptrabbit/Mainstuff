@@ -442,6 +442,8 @@ $removeparam=visitToken
 ||xn--$doc,frame
 /generic_events
 /prebid
+-prebid
+_prebid
 /js/prebid
 /pdc.min
 /qdc.min
@@ -951,8 +953,6 @@ _show_ads
 /mktg-analytics
 /careers-analytics
 /bidexchange
--prebid
-/prebid
 /mod-events
 /gif?events
 /web-privacy
@@ -1353,7 +1353,7 @@ selfhacked.com##.sponsored
 selfhacked.com##.end-of-post
 selfhacked.com##.post-ratings-wrapper
 benchmarks.ul.com##.clearfix.defaultbox
-www.precisiononcologynews.com##.footer__ads-footer
+precisiononcologynews.com##.footer__ads-footer
 abovethelaw.com##article.post-single--sponsored.post-single
 www.ratemyprofessors.com##.ReactModal__Overlay
 2cryptocalc.com##.static
@@ -1428,10 +1428,7 @@ www.dickssportinggoods.com###kampyleButtonContainer
 hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
 hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
 coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
-app.santiment.net##.Intercom_wrapper__2vK2L
-app.santiment.net#@#div[class^="SocialTool"]
-insights.santiment.net##.svelte-1ezhlqq.wrapper.SAN-panel_context.SAN-panel
-en.chessbase.com###askForCookiesBackground
+chessbase.com###askForCookiesBackground
 polkadot.subscan.io##.banner
 www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
 www.cryptoninjas.net##.widget_text.widget
@@ -1560,7 +1557,7 @@ investorplace.com##.widget_ipm_sidebar_ad.widgetcontainer
 investorplace.com##.countdown-banner
 www.findagrave.com##.d-print-none.mr-md-0.mr-3.col-lg-12.col-sm-6.overview-panel.native
 www.independent.co.uk##.video-hero-wrapper
-conversations.indy100.com##.bottom-strip
+indy100.com##.bottom-strip
 ||yahoo.com^$removeparam=activity
 ||yahoo.com^$removeparam=pspid
 ||yahoo.com^$removeparam=done
@@ -1586,6 +1583,8 @@ yahoo.com###ybar-nav-placement
 yahoo.com###mrt-node-Lead-1-Ad
 yahoo.com###app-err-banner
 yahoo.com##.module-recommended-stories
+yahoo.com###close-button-section
+yahoo.com###sda-MON
 coinquora.com##.coinq-widget.widget
 coinquora.com##.py-1.coins-stream
 blog.horizen.io##.widget_custom_html.widget.widget_text
@@ -1636,11 +1635,13 @@ www.windowscentral.com##div.article-body__section--wide-desktop.article-body__se
 www.wilderssecurity.com##.noticeContent
 www.torproject.org##.justify-content-center.d-flex.align-middle.banner.banner__containter
 www.hwinfo.com##.xds
-www.nytimes.com##.css-1r939ki
-www.nytimes.com##.e1xxpj0j0
-www.nytimes.com##.css-1wspfld
-www.nytimes.com##.MAG_web_all_Monthly-Sale-dock
-www.nytimes.com###dock-container
+nytimes.com##.css-1r939ki
+nytimes.com##.e1xxpj0j0
+nytimes.com##.css-1wspfld
+nytimes.com##.MAG_web_all_Monthly-Sale-dock
+nytimes.com###dock-container
+nytimes.com###paywallwrapper
+nytimes.com###athletic-gateway-container
 ||shrm.org/*/design/js/paywall.js$script,1p
 ||archive.org/includes/donate.php$subdocument
 web.archive.org###donato
@@ -1654,18 +1655,18 @@ kraken.com##.kraken-cookies-warning-wrapper
 uphold.com##.gxxZyB.ConsentBannerstyle__ConsentWrapper-sc-1qpe9f0-2
 uphold.com##.eTbgNl.sc-21f56367-2
 downloads.digitaltrends.com##.roof-ad
-www.bestbuy.com##.shop-blue-assist
-www.bestbuy.com##.shop-search-survey
-www.bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
-www.bestbuy.com##.ninja-carousel
-www.nerdwallet.com###reg-modal-wrappe
-www.nerdwallet.com##.JiKAEU
-www.nerdwallet.com##p > div
+bestbuy.com##.shop-blue-assist
+bestbuy.com##.shop-search-survey
+bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
+bestbuy.com##.ninja-carousel
+nerdwallet.com###reg-modal-wrappe
+nerdwallet.com##.JiKAEU
+nerdwallet.com##p > div
 west-games.com#@##cookie-law-info-bar
-www.verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
-secure.verizon.com###divhomebot
-www.merriam-webster.com##.cafemedia-ad-slot-top
-www.merriam-webster.com###subscribe-unabridged
+verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
+verizon.com###divhomebot
+merriam-webster.com##.cafemedia-ad-slot-top
+merriam-webster.com###subscribe-unabridged
 ||www.publish0x.com/images/nexo/borrow-now-button.svg$image
 www.publish0x.com##div.post.row:nth-of-type(9)
 www.publish0x.com##.d-md-block.d-none.overflow-hidden.text-center
@@ -1854,21 +1855,21 @@ www.foxnews.com##.promo-watch-live
 www.foxnews.com##.sidebar-columns > .collection
 www.foxnews.com##.alert-container
 www.buckscountycouriertimes.com##.gnt_pm
-www.newsbtc.com##.widget_svecc_reviews
-www.newsbtc.com##.widget_media_image
-www.newsbtc.com##.litespeed-loaded
-www.newsbtc.com##.svecc-widget-title
-www.newsbtc.com##.header-price-container
-www.newsbtc.com##.widget_custom_html
-www.newsbtc.com##.cryptocom-price-widget
-www.newsbtc.com###menu-item-458696
-www.newsbtc.com###menu-item-470793
-www.newsbtc.com###menu-item-446940
-www.newsbtc.com###menu-item-473245
-www.newsbtc.com###menu-item-473760
-www.newsbtc.com###menu-item-480135
-www.newsbtc.com###menu-item-481720
-www.dapp.com##.general-ad2
+newsbtc.com##.widget_svecc_reviews
+newsbtc.com##.widget_media_image
+newsbtc.com##.litespeed-loaded
+newsbtc.com##.svecc-widget-title
+newsbtc.com##.header-price-container
+newsbtc.com##.widget_custom_html
+newsbtc.com##.cryptocom-price-widget
+newsbtc.com###menu-item-458696
+newsbtc.com###menu-item-470793
+newsbtc.com###menu-item-446940
+newsbtc.com###menu-item-473245
+newsbtc.com###menu-item-473760
+newsbtc.com###menu-item-480135
+newsbtc.com###menu-item-481720
+dapp.com##.general-ad2
 stackshare.io###Cta_stackbot-react-component-4d4e77d0-3589-4748-a496-63c93594414e
 stackshare.io###HeaderNotice-react-component-adf3b206-0ede-47ba-b0aa-453f595c7398
 ezil.me##.ezil-zjlttn
@@ -2220,12 +2221,6 @@ www.washingtonpost.com##.bb.b.overflow-hidden
 www.washingtonpost.com##.dn-hp-xs
 washingtonpost.com/red-static/services/dat/
 www.outlookindia.com###coverLatest
-news.yahoo.com###close-button-section
-news.yahoo.com###module-monalixaRightRail
-news.yahoo.com###sda-MON
-news.yahoo.com###module-spotIm
-att.yahoo.com###module-spotIm
-att.yahoo.com###sda-MON
 www.mskcc.org###cassie-widget
 https://selfdecode.com/service/accounts/user/geolocation/
 selfdecode.com##.wt-cli-cookie-bar-container
@@ -2254,8 +2249,8 @@ www.nutraingredients-usa.com##div.mfp-wrap
 www.nutraingredients-usa.com##div.mfp-preloader
 www.nutraingredients-usa.com##.Section:nth-of-type(2)
 https://www.nutraingredients-usa.com/gtm/neolane_user_data
-blog.coincodecap.com##.ct-advertisement-widget.ct-widget
-blog.coincodecap.com###blocksy_ct_socials-3
+coincodecap.com##.ct-advertisement-widget.ct-widget
+coincodecap.com###blocksy_ct_socials-3
 coincodecap.com##.ai-close-fit
 www.mayoclinichealthsystem.org##.widget--cta-image-link
 www.mayoclinic.org##.warning.globalnotice
@@ -2268,7 +2263,7 @@ www.besthealthmag.ca###cmu_right_rail_widget-3
 www.engadget.com##.M\(MarginCenter\)
 stablediffusionweb.com##.text-gray-400.text-sm.text-left.max-w-3xl.mt-4.mx-auto
 www.flexjobs.com##.social-proof-rows
-tech.hindustantimes.com##.entryPointBanner
+hindustantimes.com##.entryPointBanner
 www.weekand.com##.pt16
 www.weekand.com###Flex1
 workforcenow.adp.com##.hdpi.pac-container
@@ -2507,9 +2502,10 @@ thehill.com##[href^="https://thehill.com/sponsor-content/"]
 thehill.com##.hha-sponsored
 thehill.com##.widget-area
 www.aimagicx.com##.text-white.shadow-lg
-www.ft.com##.n-layout__footer-before
-www.ft.com###o-header-search-primary
-www.ft.com##.concept-list
+ft.com##.n-layout__footer-before
+ft.com###o-header-search-primary
+ft.com##.concept-list
+ft.com##.article__content-sign-up
 searchenginejournal.com/location.json
 www.searchenginejournal.com##.sej-hello-bar
 www.searchenginejournal.com###sej-hello-bar
@@ -2586,8 +2582,6 @@ www.theepochtimes.com###uacta-target
 www.theepochtimes.com##.bg-\[\#EDF5F5\]
 www.mdlinx.com##.min-h-\[275px\]
 www.mdlinx.com##.sticky-outer-wrapper
-www.nytimes.com###paywallwrapper
-www.nytimes.com###athletic-gateway-container
 www.wired.com##.should-hold-space
 www.wired.com##.social-icons
 www.wired.com##.persistent-aside--align-left.persistent-aside
@@ -2596,4 +2590,3 @@ o.canada.com##.priceline-widget
 o.canada.com##.article-content__widget-group--newsletter-slot
 www.jotform.com##.error-navigation-container
 longevity.technology##.popup_bg
-www.ft.com##.article__content-sign-up
