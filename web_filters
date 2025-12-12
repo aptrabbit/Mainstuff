@@ -1,4 +1,4 @@
-$removeparam=?_yTrackUser
+$removeparam=_yTrackUser
 $removeparam=cpm
 $removeparam=ilm
 $removeparam=rcstdid
