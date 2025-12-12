@@ -1,3 +1,4 @@
+$removeparam=?_yTrackUser
 $removeparam=cpm
 $removeparam=ilm
 $removeparam=rcstdid
@@ -439,6 +440,7 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/generic_events
 /prebid
 /js/prebid
 /pdc.min
@@ -635,7 +637,6 @@ _ApplePay_Test
 /track-exposures
 /coremetrics
 /geolocation
-/logger
 /admiral
 /genericdatacollection
 -open-tracing
@@ -672,7 +673,6 @@ _showads
 /showads
 .salamus1
 /t.cdnhks
-.magnific-popup
 /HodoNd
 -parser.min.css
 /OkDYy
@@ -966,7 +966,6 @@ _show_ads
 /gdpr
 /donations
 /(newsletters
-/js-cookie
 /cookie-echo
 /cookieManager
 /cookies/manager
@@ -2597,3 +2596,4 @@ o.canada.com##.priceline-widget
 o.canada.com##.article-content__widget-group--newsletter-slot
 www.jotform.com##.error-navigation-container
 longevity.technology##.popup_bg
+www.ft.com##.article__content-sign-up
