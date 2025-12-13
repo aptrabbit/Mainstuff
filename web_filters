@@ -414,6 +414,8 @@ $removeparam=visitToken
 ###signup-popup
 ###onetrust-consent-sdk
 ##.ai-track
+##.affirm-site-modal
+###affirm-site-modal
 ###widget-rightUpsellSlot
 ###age-gate
 ##.pb-ad
@@ -446,9 +448,12 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+/visits
+/tracking-v
 -tracking
 _tracking
 /tracking.js
+/gTracking
 /generic_events
 /prebid
 -prebid
@@ -1157,7 +1162,6 @@ userstyles.org##.android_button_button
 capital.com##.footer-site-inner
 www.masculinedevelopment.com##.right.sAs
 www.realclearpolitics.com##.fark-header
-news.gallup.com##.gcb_35556
 cosmos.network##.banner-wrapper
 www.niche.com##.scatterplot__logged-out-messages
 www.niche.com##.search-result--featured
@@ -1213,7 +1217,6 @@ fulltip.net##.penci-wrap-gprd-law
 www.privacyend.com##.extendedwopts-hide
 www.thewindowsclub.com##[href^="http://www.restoro.com/includes/route.php"]
 www.crunchyroll.com###showmedia_free_trial_signup
-caliva.com###ccpa-app
 www.softwaresuggest.com##.visible.exit-intent-popup
 ||*.animenewsnetwork.com/assets/*.png$subdocument
 www.space.com##.Campaign--css.CampaignType--popup.Campaign.portland-campaign.exit-intent__dark-background.exit-intent
@@ -1227,13 +1230,9 @@ www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
 www.startengine.com###drift-frame-controller
 winaero.com##.entry-content > div
 winaero.com###dfsfsdfs-asdasd-2
-www.producthunt.com##.styles_promotedSection__1fAUW
 instadp.org##.text1.container
 instadp.org##div:nth-of-type(4)
-consensys.net##.notificationBar__visible--2U7sn.notificationBar__wrapper--378uN
 www.wbur.org##.uw--sponsorships
-www.monster.com##.lilo3746-wrapper
-smallbusiness.chron.com##.s2nBelowViewport.s2nContainer.k-VtBBB6Nk.s2nPlayer
 www.aarp.org##.parsys.iparsys.everywhere-page-header > div.section.parbase.textimage
 www.psychologytoday.com##.pt-ad-show-text
 dude-hack.com##.et_pb_code_0.et_pb_code.et_pb_module.et_pb_with_border
@@ -1241,8 +1240,7 @@ www.rentcafe.com##picture
 tzstats.com##.ghJHWi.AppStatus__Message-tbjd1-0
 careerkarma.com##.design1.wmpci-popup-wrp.splash
 steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container.ad-carousel
-kids.nationalgeographic.com###tou-message
-bittrex.com##.banner--container
+nationalgeographic.com###tou-message
 www.123rf.com##.showTNC.tnc-padding.tnc-container
 www.tennis-warehouse.com###data_protection
 coingeek.com##.acabnnr-39.gcabnnr-single > [href]
@@ -1296,13 +1294,10 @@ bankofamerica.com##.cardlytics-transaction-offer
 ||bankofamerica.com^$removeparam=source
 fast.com##.help-container
 daily.jstor.org##.footer-widget
-www.lexology.com##.register-msg
 www.practicalfishkeeping.co.uk###popup-modal-ee164d02-c921-44bf-ae25-af6a67f21005
 hypebeast.com##div.sidebar-sticky-container:nth-of-type(1)
 blockonomi.com###bottom
 blockonomi.com##.cf.share-float-a.post-share-float
-rvn.2miners.com##.btn-support
-rvn.2miners.com##.banner
 miningpoolstats.stream###mainpage_right [href] > .lozad
 miningpoolstats.stream###links_panel > div.box-comment.box > .table-condensed.table > tbody > tr > td > div
 hunter.io###support-notification
@@ -1311,8 +1306,6 @@ www.zacks.com###slider
 www.zacks.com###zc_popup_container
 www.zacks.com##.commentary_b.commentary_reports_content
 www.zacks.com##.bulleted
-eth.2miners.com##.btn-support
-eth.2miners.com##.banner-2cryptocalc.banner
 www.tasteofhome.com##.non-contextual-video-wrapper.pure-g
 www.adweek.com##.position-relative.justify-content-end.row
 www.marketbeat.com###HelpersArea
@@ -1359,7 +1352,6 @@ precisiononcologynews.com##.footer__ads-footer
 abovethelaw.com##article.post-single--sponsored.post-single
 www.ratemyprofessors.com##.ReactModal__Overlay
 2cryptocalc.com##.static
-www.fastcompany.com##.w56438
 www.ngpf.org###site-use-footerm
 www.discovermagazine.com##.dPURIw.thz482-0
 www.technologyreview.com##.overlayFooter__wrapper--3DhFn
@@ -1397,8 +1389,8 @@ www.healthline.com##li.css-1m7x7vu
 www.historic-uk.com###hu
 ||www.techpowerup.com/thlknzrjbv/*.jpg$image
 dailyhodl.com##.widget_custom_html.widget.widget_text
-etc.2miners.com##.banner-2cryptocalc.banner
-etc.2miners.com##.btn-support
+2miners.com##.banner-2cryptocalc
+2miners.com##.btn-support
 alternative.me###footer
 alternative.me##.container > .block
 www.ibtimes.com##.wf2-animated.wf2-slide-in-top.wf2-popover.grwf2-wrapper
@@ -1411,6 +1403,7 @@ robbreport.com##.sister-links
 www.trustnodes.com#@#.simple-share
 beincrypto.com##.with-promo
 beincrypto.com##.col-md-3
+beincrypto.com##.error
 beincrypto.com##.position-relative.ml-auto.text-nowrap.btn-parners.btn
 datamish.com##.cookielaw1
 datamish.com##.themesetting
@@ -1603,9 +1596,8 @@ www.coindesk.com###highimpact-ad-container
 www.coindesk.com##.pointer-events-none
 www.coindesk.com##.ah280px
 coindesk.com/newsletters/
-www.cspracing.com##.affirm-site-modal
-www.hotdeals.com##.afsstyle
-europe.autonews.com##.block-region-content-right
+hotdeals.com##.afsstyle
+autonews.com##.block-region-content-right
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.btn-mal-service
 cryptoslate.com##.image.sticky-footer
@@ -1695,7 +1687,6 @@ seekingalpha.com##.pzyFr
 ||seekingalpha.com^$removeparam=hasComeFromMpArticle
 /c.SignUpWithEmailFormWithTrack
 /_sa_track
-enfusion.com##.bg-gradient-12
 cryptodaily.co.uk##.braking-right
 cryptodaily.co.uk##div.side-block:nth-of-type(3)
 cryptodaily.co.uk##div.side-block:nth-of-type(5)
@@ -1877,8 +1868,8 @@ smallseotools.com##.pro_icon
 www.flickr.com##.moola-search-div
 www.flickr.com##.photo-page-leader-moola-view
 www.blogarama.com##.view-header > [href]
-academy.bit2me.com##.lazyloaded.exited
-academy.bit2me.com##.widget_media_image
+bit2me.com##.lazyloaded.exited
+bit2me.com##.widget_media_image
 www.scienceabc.com##.custom-html-widget
 cleartax.in###glossary-save-top-cta
 cleartax.in###glossary-save-side-cta
@@ -2015,6 +2006,7 @@ shopbestnaturals.com###sro-popup
 ||decrypt.co^$removeparam=source
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.mt-8
+decrypt.co##.justify-center.items-center.xl\:flex.hidden.w-full
 www.snopes.com##.banner_ad_between_sections
 www.snopes.com##.become_member_section
 www.realclearpolitics.com###distro_right_rail
@@ -2266,7 +2258,6 @@ www.ktbs.com##div.col-md-12
 www.livemint.com###rhsPopularVideosNotAdFree
 www.livemint.com##.story4.rightBlock
 www.livemint.com##.premiumSlider
-beincrypto.com##.error
 www.consumerlab.com##.reactions
 hbr.org##.article-utils--vertical
 hbr.org##.article-utils--horizontal
@@ -2277,8 +2268,6 @@ www.prnewswire.com##.btn-fab
 www.prnewswire.com##.newsletterSignupWidget
 www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
 thedefiant.io##.items-center.mt-10.mb-20.mx-1
-icelz.newsrade.com##.chat-window
-icelz.newsrade.com##.channel-header-fixed-buttons
 https://www.hotdeals.com/cut-port
 www.primewire.tf##.nopop.spn-btns
 www.starterstory.com##.fade.modal-backdrop
@@ -2286,16 +2275,7 @@ www.coinbureau.com##.Layout_mainCookieDiv__nf6PT
 www.cbssports.com###skybox-top-wrapper
 www.iherb.com##.email-subscription-new-container
 www.ccn.com##.ccn-consent
-decrypt.co##.justify-center.items-center.xl\:flex.hidden.w-full
 my.clevelandclinic.org##.justify-center.items-center.flex-col
-dlhd.sx##.recent p
-dlhd.sx###sidebar
-dlhd.sx###txtarea
-dlhd.sx###footer
-dlhd.sx##nav > [href="https://t.me/daddylivehd"]
-dlhd.sx##[href="/contact-us.php"]
-dlhd.sx##[href="https://discord.gg/SgbjFVn6th"]
-dlhd.sx##[href="#"]
 www.livehdtv.net##.userbar
 www.livehdtv.net##.mb-1
 www.livehdtv.net##p:nth-of-type(4)
@@ -2481,9 +2461,6 @@ www.amazon.com###nile-inline_feature_div
 www.webmd.com##.doctor-module-spacer
 ||cloudtts.com^$removeparam=r
 emojipedia.org##.md\:w-auto.w-full.mx-auto
-daddylive.dad##center > p
-daddylive.dad###sidebar
-daddylive.dad###footer
 ||virginia.gov^$removeparam=jsessionid
 ||virginia.gov^$removeparam=error
 www.forexlive.com##.all-news__top-brokers
@@ -2552,3 +2529,4 @@ o.canada.com##.priceline-widget
 o.canada.com##.article-content__widget-group--newsletter-slot
 www.jotform.com##.error-navigation-container
 longevity.technology##.popup_bg
+www.fastcompany.com##.mt-20.min-h-\[4000px\]
