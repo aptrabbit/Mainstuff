@@ -440,6 +440,9 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+-tracking
+_tracking
+/tracking.js
 /generic_events
 /prebid
 -prebid
@@ -478,7 +481,6 @@ _prebid_blocker
 /api/events
 /discourse-client-performance
 /tcf.stub
-/tracking
 /antibot
 /session-tracker
 _ad_
