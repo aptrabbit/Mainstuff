@@ -1256,8 +1256,8 @@ www.greekrank.com#@#.like-box
 www.ringcentral.com##.rc-notibar
 www.ccleaner.com###main-content > .text-center
 www.ccleaner.com##.download-notification--top.download-notification
-blog.hootsuite.com##._popupVariantContentUpgrade.content-upgrade--popup-variant.content-upgrade
-blog.hootsuite.com##.fade-in.exit-intent-modal
+hootsuite.com##._popupVariantContentUpgrade
+hootsuite.com##.fade-in.exit-intent-modal
 socialtipster.co##.flexright.hidden-xs.hidden-sm.th-col-right.to-flex-col
 socialtipster.co###socia-1030937160
 socialtipster.co##.socia-after-content
@@ -1334,8 +1334,6 @@ healthtechmagazine.net###block-googlesidebarad
 healthtechmagazine.net###header
 healthtechmagazine.net##.hdr-btm
 etherscan.io##.align-items-center.justify-content-between.flex-wrap.d-flex > .flex-wrap.d-flex
-login.aol.com##.login-bg-inner > .darla
-membernotifications.aol.com###content
 wetransfer.com##.banner__animations-enter-done.banner__container
 www.petco.com##.dycPwC.GlobalStripe__GlobalStripeContainer-sc-1hov7ve-0
 www.investors.com###investors-policy-terms-consent-dialog
@@ -1372,7 +1370,6 @@ www.nasdaq.com##.ads__midpage-fullwidth
 www.nasdaq.com##div.body--no-ads.body:nth-of-type(5)
 www.nasdaq.com##.inside-container
 www.nasdaq.com##.video-placeholder
-kusama.subscan.io##.banner
 www.finder.com##.hide-mobile.nps-feedbackModal__teaser
 www.finder.com###intercomChatButton
 www.finder.com.au##.hide-mobile.nps-feedbackModal__teaser
@@ -1400,7 +1397,7 @@ www.ibtimes.com##.discussion
 www.ibtimes.com##.block-sticky
 www.ibtimes.com###block-ibt-comment
 robbreport.com##.sister-links
-www.trustnodes.com#@#.simple-share
+trustnodes.com#@#.simple-share
 beincrypto.com##.with-promo
 beincrypto.com##.col-md-3
 beincrypto.com##.error
@@ -1413,7 +1410,7 @@ p2pfoundation.ning.com##.signedOut.chatFooter.xg_chat
 cryptowat.ch##._3To4aljoTY054zJj-UPJSD
 21shares.com###legal-disclaimer
 21shares.com###how-to-buy
-www.subscan.io##.banner
+subscan.io##.banner
 cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
 www.nbcnews.com##div.recommended-intersection-ref
@@ -1579,7 +1576,6 @@ yahoo.com###close-button-section
 yahoo.com###sda-MON
 coinquora.com##.coinq-widget.widget
 coinquora.com##.py-1.coins-stream
-blog.horizen.io##.widget_custom_html.widget.widget_text
 trading-education.com##.news-card__header-btn
 trading-education.com##.news-video-list.no-padding.col-lg-4.col-md-4.col-sm-12.col-xs-12
 laptopsdeals.net##.sgpb-popup-overlay.sgpb-popup-overlay
@@ -1616,7 +1612,6 @@ cryptoslate.com###hypelab-header-unit
 ||s.tradingview.com/mediumwidgetembed/$subdocument
 www.daytrading.com##.bottombar.text-center
 tech-latest.com##.td-post-title > .entry-title
-tech-latest.com###lates-177212927
 www.motor1.com##.widget-wrapper
 www.motor1.com##.msrp-stripe
 www.motor1.com##.msrp-body
@@ -1894,12 +1889,11 @@ www.medicalnewstoday.com##.css-1hu1ip
 www.history.com##phoenix-balloon-header
 www.history.com##div.inline-article-ad-container
 blackbeltmag.com###top_leaderboard
-www.cnbc.com##.pro-feedback-fixed
-www.cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
+cnbc.com##.pro-feedback-fixed
+cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
 cnbc.com#@#.SocialShare-socialShare
-www.cnbc.com##.ProHub-outerContainer
-www.cnbc.com##.TopBanner-styles-makeit-container--jXi8P
-www.cnbc.com###Market\ Data_LiveTVTempPass
+cnbc.com##.ProHub-outerContainer
+cnbc.com###Market\ Data_LiveTVTempPass
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
 www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
 www.twitch.tv###twilight-sticky-footer-root
