@@ -244,6 +244,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.social-list
+###social-list
 ##.sidebar-promo
 ###sidebar-promo
 ##.component--cookie-banner
@@ -455,6 +457,7 @@ _tracking
 /tracking.js
 /gTracking
 /generic_events
+/collector
 /prebid
 -prebid
 _prebid
@@ -837,7 +840,6 @@ _adframe
 =NudgeStatsTracker
 /utm_params_config
 -consent-guard
-/collector
 /visitor-identity
 /oneTrustApp
 /service-worker
@@ -1182,8 +1184,6 @@ www.businessnewsdaily.com##.e15dejzw0.css-md5sep-TransparentContainer
 www.imyfone.com##.left-list
 www.imyfone.com##.m-hidden-769.activity-aside.activity-aside-pc
 contentmarketinginstitute.com##.pty_pkg
-www.grammarly.com##._1X8pZ-overlay
-support.mozilla.org##.document-vote--sidebar-wrap
 www.laptopmag.com##.slot-topOfSidebar
 www.laptopmag.com##.slot-beforePopularBox
 www.laptopmag.com##.slot-leaderboard
@@ -1416,7 +1416,6 @@ cryptowat.ch##._3To4aljoTY054zJj-UPJSD
 www.subscan.io##.banner
 cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
-app.grammarly.com##.notificationContainer_fgmz57n
 www.nbcnews.com##div.recommended-intersection-ref
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
 www.dickssportinggoods.com###kampyleButtonContainer
@@ -1424,7 +1423,6 @@ hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
 hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
 coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
 chessbase.com###askForCookiesBackground
-polkadot.subscan.io##.banner
 www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
 www.cryptoninjas.net##.widget_text.widget
 thekrazycouponlady.com#@#.share-buttons
@@ -1441,7 +1439,7 @@ www.banklesstimes.com##.tipi-xs-0.sb-with-border.tipi-col.tipi-l-4.tipi-xs-12.sb
 www.suzuki.com###cookieAck
 www.cinemablend.com##.mobile-leaderboard-320-50
 www.cinemablend.com##div:nth-of-type(24)
-softwarekeep.com##.kl-private-reset-css-Xuajs1.klaviyo-form
+softwarekeep.com##.klaviyo-form
 www.timeanddate.com###mpo
 www.bsc.news##.ad-block-3-side-page
 www.entrepreneur.com##.article-subscribe
@@ -1779,13 +1777,11 @@ www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
 www.cryptonewsz.com##.stream-item-top-wrapper
 www.cryptonewsz.com##.widget_block
-cartesi.io##.footer-module--gdprBlock--2ms5n
 icoholder.com##.top-binance
 digitalcoinprice.com##.ads-90
 digitalcoinprice.com##.cmc-btn-grp
 www.thisismoney.co.uk##.watermark
 www.thisismoney.co.uk##.sticky-container
-research.binance.com##.jsx-1018176719
 www.fxempire.com##.jfOYJb > .kpqgMJ.Card-sc-1ib64vn-0
 www.fxempire.com##[src="/assets/btt-button.svg"]
 www.fxempire.com##.Closeable-sc-8mib5k-0
@@ -2075,7 +2071,6 @@ cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
 holisticprimarycare.net##.qc-cmp2-container
 @@||blogger.com^$removeparam=bpli
-www.pressplay.top##.dvr-728
 cointelegraph.com##.price-indexes-widget
 cointelegraph.com###vue-footer
 cointelegraph.com##.post__content-shares
@@ -2189,21 +2184,12 @@ www.outlookindia.com###coverLatest
 www.mskcc.org###cassie-widget
 https://selfdecode.com/service/accounts/user/geolocation/
 selfdecode.com##.wt-cli-cookie-bar-container
-selfdecode.com##.css-k0mzwv
-selfdecode.com##.css-1mg6eok
-selfdecode.com##.css-1l4l4f2
-selfdecode.com##.css-pxp87m
 selfdecode.com##[href="/app/gpt"]
 health.selfdecode.com##.sidebar-bio
 supplements.selfdecode.com##.sidebar-bio
 supplements.selfdecode.com##.affiliate-toggle
 www.usatoday.com##.gnt_xbr
 www.usatoday.com##a.gnt_cw_sl
-ww1.watchseriesfree.co##.support
-ww1.watchseriesfree.co###not_logged_in
-ww1.watchseriesfree.co##.bottom-menu-container
-ww1.watchseriesfree.co##[href="/contact"]
-blog.logrocket.com##.typescript-popup
 www.firesticktricks.com##.mysticky-welcomebar-animation
 www.firesticktricks.com##.warning
 www.idropnews.com##.post_sponsorship
@@ -2275,7 +2261,7 @@ www.coinbureau.com##.Layout_mainCookieDiv__nf6PT
 www.cbssports.com###skybox-top-wrapper
 www.iherb.com##.email-subscription-new-container
 www.ccn.com##.ccn-consent
-my.clevelandclinic.org##.justify-center.items-center.flex-col
+clevelandclinic.org##.justify-center.items-center.flex-col
 www.livehdtv.net##.userbar
 www.livehdtv.net##.mb-1
 www.livehdtv.net##p:nth-of-type(4)
@@ -2411,6 +2397,7 @@ www.msn.com##views-right-rail
 assets.msn.com/service/community/users/
 mozilla.org##.donate-banner
 mozilla.org###category-featured-cta
+mozilla.org##.document-vote--sidebar-wrap
 store.bitcoinmagazine.com###pandectes-banner
 www.healthyhearing.com###hh-sticky-panel
 newstimes.com###modals
@@ -2480,7 +2467,6 @@ nih.gov##.share_links_wrap
 nih.gov##footer
 nih.gov##.custom-feedback-button--base
 nih.gov##.usa-banner
-medcraveonline.com###contact-buttons-bar
 www.ainvest.com##.dark\:bg-gray-900
 blog.hubspot.com###slidebox
 ||hubspot.com^$removeparam=via
@@ -2530,3 +2516,7 @@ o.canada.com##.article-content__widget-group--newsletter-slot
 www.jotform.com##.error-navigation-container
 longevity.technology##.popup_bg
 www.fastcompany.com##.mt-20.min-h-\[4000px\]
+www.gallup.com##.c-v12-sticky-footer
+brobible.com##.bro-sponsored-block
+brobible.com##.bro-jamx
+brobible.com###social-list
