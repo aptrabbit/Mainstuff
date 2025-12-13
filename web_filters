@@ -1103,7 +1103,6 @@ www.coursehero.com##.stuck.cta-is-fixed.qal_blocker_container
 ||www.coursehero.com/assets/img/doc-landing/preview-blocker.svg$image
 www.coursehero.com##.flexible-sampling-v2-cta
 www.coursehero.com##.out-of-views-cta
-kubadownload.com##.at-cv-toaster-win.at-cv-animated-toaster.at-cv-win
 ||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
 sticknodes.com##.filepage-ad-bg
 www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
@@ -1137,18 +1136,19 @@ www.motorauthority.com###main > .article-block > .article-wrap > .right-col
 www.womenshistory.org##.n-modal
 www.cincinnati.com##.gnt_pm
 www.auslogics.com##.modal-container
-www.barchart.com##.no-print.bc-webinar-card
 investing.com##.signupWrap
 investing.com##.border-b-\[\#E6E9EB\]
 investing.com##.shadow-strategiesButton
-endpoints.investing.com/likes/api/v1/reaction
 thepostmillennial.com##.newsletter.banner.partial
 thepostmillennial.com##.closeable.bottom-shadow.no-margin.commercial > .inner > .display.publicity
 thepostmillennial.com##.player-wrapper
 thepostmillennial.com##.inner > div.commercial-container > .lazyload > div > .commercial
 thepostmillennial.com##.lazyload.content.publicity
-www.barchart.com##.in.auth-no-modal-ref-class.authentication-modal.register-modal.fade.reveal-modal
+www.barchart.com##.in.auth-no-modal-ref-class
 www.barchart.com##.in.fade.reveal-modal-bg
+www.barchart.com##.bc-webinar-card
+www.barchart.com##.barchartBrief
+www.barchart.com##.bc-header-premier-ads
 civilwartalk.com##font > center
 www.ecstuning.com##.show.fade.hide.modal
 www.bremboparts.com##.tooltip-newsletter
@@ -1243,7 +1243,6 @@ steemit.com##.swiper-container-horizontal.swiper-container-initialized.swiper-co
 nationalgeographic.com###tou-message
 www.123rf.com##.showTNC.tnc-padding.tnc-container
 www.tennis-warehouse.com###data_protection
-coingeek.com##.acabnnr-39.gcabnnr-single > [href]
 www.cointracker.io##.performance-chart-upgrade
 www.cointracker.io##tbody > .d-flex
 functionpoint.com##.ub-emb-container
@@ -1481,8 +1480,8 @@ freebitco.in###free_play_fun_no_captcha_msg
 freebitco.in###myModal22
 freebitco.in##.deposit_promo_message_content
 freebitco.in##.daily_jackpot_main_container_div
-www.health.harvard.edu##.welcome-popup
-www.health.harvard.edu##.exit-intent-popup
+harvard.edu##.welcome-popup
+harvard.edu##.exit-intent-popup
 notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
 support.microsoft.com###supWrapperToPreventFeedbackFlickering
 docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border-bottom.feedback-verbatim
@@ -1490,7 +1489,6 @@ dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
 gitlab.com##.trial-link
 ||theglobeandmail.com/pf/dist/engine/react.js$script,1p
-www.qmee.com##.show-0-2-15.prerender-0-2-14
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
 www.lasfit.com###soundest-forms-container
@@ -1633,7 +1631,6 @@ nytimes.com###athletic-gateway-container
 web.archive.org###donato
 healthfully.com##.sticky.video-player-wrapper
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
-tzkt.io##.text--secondary.text-sm-body-2.text-subtitle-3
 www.bloomberg.com##.bb-global-footer__ad-choices
 www.bloomberg.com##.leaderboard-container
 kraken.com##.fc-ea86f4fb-7
@@ -1719,8 +1716,8 @@ www.tomsguide.com##.jwplayer__widthsetter
 dappradar.com##.entry--wide
 dappradar.com###article-banner
 www.nasdaq.com##.watchlist
-news.spacconference.com##.ng-scope.ml-landscape-ad-container
-news.spacconference.com##.ng-scope.ml-square-ad-container
+news.spacconference.com##.ml-landscape-ad-container
+news.spacconference.com##.ml-square-ad-container
 medium.com##[data-popper-reference-hidden]
 www.fakespot.com##.bottom-box
 ||www.amazon.com^$removeparam=source
@@ -1750,8 +1747,6 @@ moneymorning.com##[href="https://pro.moneymappressinfo.com/m/1919602"]
 moneymorning.com##.nitro-offscreen
 moneymorning.com###profit_alerts-2
 www.speedtest.net##.eot-box-wrapper
-www.autolist.com##.jsx-2866408628
-www.autolist.com##.carfax
 ||www.fool.com^$removeparam=source
 www.fool.com###topnav-picks
 www.fool.com##.page-alert
@@ -1966,7 +1961,6 @@ www.theguardian.com##.css-9aekbr
 www.theguardian.com###sp_message_container_383916
 www.theguardian.com###sp_message_container_414202
 www.coingecko.com###geckoFloat
-check-host.net##div.athold11wr
 fortune.com###Leaderboard0
 fortune.com##div.empty\:contents
 fortune.com###outbrain-container
@@ -1993,6 +1987,7 @@ www.svgrepo.com##.style-module--flexbar--WT2ii
 www.svgrepo.com##.style-module--nativeInline--1pnni
 switchnutrition.com.au##.js-toggle-slide-nav
 shopbestnaturals.com###sro-popup
+@@||blogger.com^$removeparam=bpli
 ||decrypt.co^$removeparam=source
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.mt-8
@@ -2064,7 +2059,6 @@ cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
 holisticprimarycare.net##.qc-cmp2-container
-@@||blogger.com^$removeparam=bpli
 cointelegraph.com##.price-indexes-widget
 cointelegraph.com###vue-footer
 cointelegraph.com##.post__content-shares
@@ -2098,7 +2092,6 @@ homemetry.com###topads
 homemetry.com##.adsense-responsive-bottom
 homemetry.com###main > div.spinner
 www.relaxium.com###partial_form
-gab.com##a._2RKDs
 worldpopulationreview.com##.my-2.center
 ||startpage.com^$removeparam=pl
 ||startpage.com^$removeparam=language
@@ -2169,19 +2162,18 @@ www.cosmeticsandtoiletries.com##.card-deck-flow__node--position-before
 www.cosmeticsandtoiletries.com##div.card-deck-flow__node:nth-of-type(5)
 www.cosmeticsandtoiletries.com##.social-sharing
 www.cosmeticsandtoiletries.com##.page-rail.col-lg-4
+www.outlookindia.com###coverLatest
 www.kidney.org###footer-sticky
+www.mskcc.org###cassie-widget
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
 www.washingtonpost.com##.bb.b.overflow-hidden
 www.washingtonpost.com##.dn-hp-xs
 washingtonpost.com/red-static/services/dat/
-www.outlookindia.com###coverLatest
-www.mskcc.org###cassie-widget
 https://selfdecode.com/service/accounts/user/geolocation/
 selfdecode.com##.wt-cli-cookie-bar-container
 selfdecode.com##[href="/app/gpt"]
-health.selfdecode.com##.sidebar-bio
-supplements.selfdecode.com##.sidebar-bio
-supplements.selfdecode.com##.affiliate-toggle
+selfdecode.com##.sidebar-bio
+selfdecode.com##.affiliate-toggle
 www.usatoday.com##.gnt_xbr
 www.usatoday.com##a.gnt_cw_sl
 www.firesticktricks.com##.mysticky-welcomebar-animation
@@ -2191,7 +2183,7 @@ www.nutraingredients-usa.com##div.mfp-wrap
 www.nutraingredients-usa.com##div.mfp-preloader
 www.nutraingredients-usa.com##.Section:nth-of-type(2)
 https://www.nutraingredients-usa.com/gtm/neolane_user_data
-coincodecap.com##.ct-advertisement-widget.ct-widget
+coincodecap.com##.ct-advertisement-widget
 coincodecap.com###blocksy_ct_socials-3
 coincodecap.com##.ai-close-fit
 www.mayoclinichealthsystem.org##.widget--cta-image-link
@@ -2226,10 +2218,9 @@ nypost.com##.widget_nypost_zone_widget
 nypost.com##.wp-block-nypost-editor-newsletter
 www.techtarget.com##.cluster-branding-container
 bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
-gagarin.news##.cookie_1ZGqW
 www.tennisworldusa.org##.top_container > div:nth-of-type(1)
-www.paypal.com##.inv-feedback
-www.paypal.com###ccpaCookieBanner
+paypal.com##.inv-feedback
+paypal.com###ccpaCookieBanner
 paypal.com/credit-presentment/smart/message
 www.comingsoon.net##.wp-block-buttons
 www.salary.com##.sovrn-ads
@@ -2319,7 +2310,6 @@ www.androidauthority.com##.--_-___4l
 usnews.com##react-trigger
 usnews.com###bfad-slot
 www.techedubyte.com##ins
-www.benzinga.com##p.core-block.block:nth-of-type(3)
 www.ndtv.com##.stf__block
 www.ndtv.com##.sprt-btn
 www.pcgs.com##div.text-xsmall
