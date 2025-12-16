@@ -244,6 +244,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.featured-row
+###featured-row
 ##.ad-carousel
 ###ad-carousel
 ##.social-list
@@ -511,6 +513,7 @@ _log.js
 /dynamic_yield
 -metrics?
 /metrics
+/metric
 /firehose?
 /wp-consent
 /wp-event
@@ -2423,8 +2426,6 @@ www.amazon.com###nile-inline_feature_div
 www.webmd.com##.doctor-module-spacer
 ||cloudtts.com^$removeparam=r
 emojipedia.org##.md\:w-auto.w-full.mx-auto
-||virginia.gov^$removeparam=jsessionid
-||virginia.gov^$removeparam=error
 www.forexlive.com##.all-news__top-brokers
 www.forexlive.com##.banner
 www.forexlive.com##.above-header-meta-content
