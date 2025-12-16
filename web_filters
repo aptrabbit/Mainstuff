@@ -1722,6 +1722,8 @@ www.fakespot.com##.bottom-box
 ||www.amazon.com^$removeparam=source
 ||www.amazon.com^$removeparam=i
 www.amazon.com/checkout/turbo/
+www.amazon.com##.rufus-pill
+www.amazon.com###rufus-container
 www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 www.amazon.com###cart-item-recs
 www.amazon.com##.maple-banner
@@ -1736,6 +1738,7 @@ www.amazon.com##.sg-col-12-of-16.sg-col.s-widget
 www.amazon.com###promotions_feature_div
 www.amazon.com###above-dp-container
 www.amazon.com##.nav-rufus-disco
+www.amazon.com###nile-inline_feature_div
 zycrypto.com##.td-header-sp-recs
 zycrypto.com###block-2
 zycrypto.com###custom_html-13
@@ -2336,7 +2339,7 @@ www.gofundme.com###transcend-consent-manager
 https://assets.twitch.tv/assets/pages.embed-chat
 ||www.twitch.tv/embed/icelzz/chat$subdocument
 icelz.to##.channel-header-fixed-buttons
-www.cars.com###prequalified-banner-hook
+cars.com###prequalified-banner-hook
 jobzone.publishersweekly.com###candidate-products-promotion
 minaprotocol.com##.adf99
 www.dovepress.com##.psmtc_BuTp
@@ -2349,8 +2352,6 @@ thetvapp.to##[href="https://thetvsub.to/thetvsub-iptv-service-sign-up/"]
 thetvapp.to##.alert-primary.alert
 thetvapp.to##.m-2
 thetvapp.to###loadVideoSD
-www.amazon.com##.rufus-pill
-www.amazon.com###rufus-container
 www.msn.com##.recommendedSearch
 www.msn.com##.floatingfeedback
 www.msn.com###modernRightRail_container_0 > div
@@ -2414,7 +2415,6 @@ www.searchenginejournal.com##.sss2_sllo_o6
 www.searchenginejournal.com##.sej-in-cont-subs
 www.nutritioninsight.com##.bannerdiv
 www.nutritioninsight.com##.sidebanner-container
-www.amazon.com###nile-inline_feature_div
 www.webmd.com##.doctor-module-spacer
 ||cloudtts.com^$removeparam=r
 emojipedia.org##.md\:w-auto.w-full.mx-auto
@@ -2467,7 +2467,7 @@ examine.com##.py-10.bg-white.home-section
 examine.com##.lg\:text-xl.hover\:shadow-sm.text-white
 examine.com##.py-10.bg-white.flex-col.flex
 examine.com##[href^="/pro/"]
-@@||.amagi.tv$xhr,domain=iptv-web.app
+@@||.amagi.tv$xhr
 www.dropbox.com###ccpa_consent_banner
 www.sciencealert.com##.bg-sciencealert-yellow
 www.thedailybeast.com###user-comments
