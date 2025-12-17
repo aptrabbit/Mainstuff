@@ -48,7 +48,7 @@ https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/1200px-Fox-weather-logo-stacked-color.svg.png" group-title="Weather",FOX Weather
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
-https://dbrb49pjoymg4.cloudfront.net/10001/99991635/hls/playlist.m3u8?ads.xumo_channelId=99991635
+https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/665817-oyduisl0-400x400-300x300.jpeg" group-title="News",WTTG-DT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wttg-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/312reopgpxL.png" group-title="News",WRC-DT
