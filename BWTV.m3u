@@ -72,7 +72,7 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/1200px-PBS_logo_2019_%28Symbol%29.svg.png" group-title="History/Science",PBS Stream
 https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
-https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
+https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vQl0f8aAyYdhpJQ8hl0fJBT8EizPCoF_81wT1LuVk0ciR_x1AhtNEp13gZBWwWIxmrPyry_Y8lM=s900-c-k-c0x00ffffff-no-rj" group-title="Nature",Love Nature
 https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/AAIHtZjCzIkRjBI4s0XUWaxQkEI5nWkAAQAszxBPXMM0kRa_imt7qaeIp_nmVNboTGs" group-title="Nature",MagellanTV NOW
