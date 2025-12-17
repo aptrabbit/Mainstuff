@@ -110,11 +110,11 @@ https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m
 #EXTINF:-1 tvg-logo="https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/11/nfl.webp" group-title="Sports",NFL Channel
 https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png" group-title="Sports",NHL Network HD
-https://livetv-fa.tubi.video/nhl/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/b55de1cc-e4a9-4f16-a001-45795a08ad1d/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://vhx.imgix.net/speed3/assets/fff2e10c-33c2-4d99-b2d7-efa0fbf6e6a8.png" group-title="Sports",Racing America
-https://livetv-fa.tubi.video/racing-america/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWNA_7XR1A39qiA1Pxr8ubiCfSKHpwvXmkg&s" group-title="Entertainment",MotorTrend FAST TV
+https://amg00136-wbd-amg00136c57-xumo-us-6503.playouts.now.amagi.tv/playlist1080P.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Lifestyle/Food",Outside
 https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee8565160c17ec0797edd0d62c39" group-title="Entertainment",TNT HD
@@ -134,7 +134,7 @@ https://d6b383jzkrtyn.cloudfront.net/hls/xumo_smart_tv.m3u8?ads.xumo_channelId=9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPbfBHvl-1Fq88YqkE6F2-M-yXaJcNAm3tw&s" group-title="Comedy",FailArmy
 https://tmbijukin.global.transmit.live/hls/68d461e7f18d36c39be99d57/v1/jukin_failarmy_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
-https://livetv-fa.tubi.video/reelz/playlist_hd_1920x1080.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 tvg-logo="https://canvas-bridge.staging-public.tubi.io/l_f5QzYyCubQs3x-wDdCnnYdq0c=/640x360/smart/img.adrise.tv/2c15cb65-7cbc-4494-9f61-4880fef8a9d2.jpeg" group-title="Entertainment",TMZ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rGlx8lI_q8Xj4f3PKpnbjrYCIMDUcPxUe6BF0-mA-1ocpTGle2sru1BnHU_TrYR183A" group-title="News",TYT The Young Turks
