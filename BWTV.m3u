@@ -24,7 +24,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2018/12/bon-appetit-vector-logo.png" group-title="Lifestyle/Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Tastemade
-https://tastemade-xumo.amagi.tv/playlist.m3u8
+https://tastemade-xumo.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo HD
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wDBsmtVi7P1Kjpdavo97_hza4kY154TNQ&s" group-title="Business",Bloomberg HD
@@ -100,7 +100,7 @@ https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qG4C76Xg5Tgdv8MkZvvJ-yd6IwpYwSax-7O3hZCtC7lsCqCwVf9homGeJsTILFDPQQ=w240-h480-rw" group-title="Sports",Tennis Channel HD
 https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png/900" group-title="Sports",T2
-https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
+https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/bein-sports-xtra_channel_logo_stacked_whitecopy.png?ch=width&auto=format%2Ccompress" group-title="Sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pub-mediabox-storage.rxweb-prd.com/exhibitor/logo/exh-131e4fb5-7bdf-4c75-866f-794142d51f48/desktop-large/10cf543c-6011-451a-81db-003a82deeb40.png" group-title="Sports",SportsGrid
