@@ -16,7 +16,7 @@ https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="News",BBC News (North America)
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648311/group-61770.png" group-title="Nature",BBC Earth
-https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648313/group-61771.png" group-title="Lifestyle/Food",BBC Home & Garden
 https://dbrb49pjoymg4.cloudfront.net/10001/99951178/hls/playlist.m3u8?ads.xumo_channelId=99951178
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/12/652517/group-61812.png" group-title="Lifestyle/Food",BBC Food
@@ -132,7 +132,7 @@ https://aegis-cloudfront-1.tubi.video/ac972967-bdbf-42a1-8d59-dbd79a4ceab6/playl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7qJb5O5poDnWn4NGFtQEMIZbWCsTPn6J4cgjPHSUz2-AQ08GcLMhFtGwM_VhiEC1_No" group-title="Entertainment",Hi-YAH!
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
-https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_hd_1024x576.m3u8
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPbfBHvl-1Fq88YqkE6F2-M-yXaJcNAm3tw&s" group-title="Comedy",FailArmy
 https://tmbijukin.global.transmit.live/hls/68d461e7f18d36c39be99d57/v1/jukin_failarmy_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wfugK-_Y4Hr89XKEAOEi2wiK8sRfqz4xvj2B_N7xEcFyiuBmcrM7519oFOnyM7aUpnXUyi5t-w=s900-c-k-c0x00ffffff-no-rj" group-title="Comedy",LOL! Network
