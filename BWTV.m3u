@@ -19,8 +19,6 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/am
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648313/group-61771.png" group-title="Lifestyle/Food",BBC Home & Garden
 https://dbrb49pjoymg4.cloudfront.net/10001/99951178/hls/playlist.m3u8?ads.xumo_channelId=99951178
-#EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/12/652517/group-61812.png" group-title="Lifestyle/Food",BBC Food
-https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_channelId=99951177
 #EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2018/12/bon-appetit-vector-logo.png" group-title="Lifestyle/Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Tastemade
@@ -107,8 +105,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV HD
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://sg-images-bucket.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/11/nfl.webp" group-title="Sports",NFL Channel
-https://dcs-live-ue4.mp.lura.live/server/play/xWAaNW8Rs6WtPzjV/rendition.m3u8?track=video-5&anvsid=m177635072-n50121fec1c16dea68d3fedc9f95fc07c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png" group-title="Sports",NHL Network HD
 https://aegis-cloudfront-1.tubi.video/b55de1cc-e4a9-4f16-a001-45795a08ad1d/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
