@@ -251,6 +251,10 @@ $removeparam=visitToken
 ###ad-carousel
 ##.social-list
 ###social-list
+##.social-sharing
+###social-sharing
+##.social-proof-rows
+###social-proof-rows
 ##.sidebar-promo
 ###sidebar-promo
 ##.component--cookie-banner
@@ -308,6 +312,8 @@ $removeparam=visitToken
 ###gdpr-cookie-message
 ##.kg-signup-card-content
 ##.newsletter-form__wrapper
+###intercomChatButton
+##.itercomChatButton
 ##.cta-container
 ##.cta-newsletter
 ##.fs-consent_banner
@@ -458,6 +464,7 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+@@||.amagi.tv$xhr
 -optimizely
 _optimizely
 /optimizely
@@ -1092,7 +1099,6 @@ https://app-measurement.com/sdk-exp$important
 ||widget.portis.io/$subdocument
 ||static.parastorage.com/services/chat-widget/*
 ||tars-file-upload.s3.amazonaws.com/bulb/js/widget.js
-||firefox.com^$removeparam=deviceId
 ||*.formilla.com/scripts/feedback.js
 ||*.user.com/static/js/*
 ||*.videoask.com/embed/embed.js
@@ -1134,7 +1140,6 @@ www.komando.com##.k3-prefs-center-modal-background
 www.ebay.com##.vi-feedback-survey
 www.ebay.com##.vi-feedback-header
 www.ebay.com###ocs-inflow
-bookshelf.vitalsource.com###dialog-lXvC57b_Q
 theundefeated.com##.dialog-content
 theundefeated.com##.dialog-overlay
 digitalguyde.com##a.easyazon-link:nth-of-type(11) > .aligncenter.easyazon-image
@@ -1200,7 +1205,6 @@ www.popularmechanics.com##.gallery-module.embed
 www.nydailynews.com##.full.pb-c-sticky-chain.pb-chain.pb-layout-item.trb-flt-cont
 www.nsmedicaldevices.com##.home_timeline
 www.npr.org###global-modal-mount
-www.businessnewsdaily.com##.e15dejzw0.css-md5sep-TransparentContainer
 contentmarketinginstitute.com##.pty_pkg
 www.laptopmag.com##.slot-topOfSidebar
 www.laptopmag.com##.slot-beforePopularBox
@@ -1217,7 +1221,6 @@ www.techradar.com##.slot-afterPopularBox
 www.techradar.com##.slot-double-height-6-566
 www.techradar.com##.slot-double-height-image-6
 genius.com##apple-music-player
-www.swipehelper.com###tysixjhbu-blanket
 www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
 www.vidaselect.com##.cpro-open.cp-module-modal_popup.cp_style_19364.cp-popup-live-wrap.cp-popup-container
 www.zoosk.com##.interesting-info-header-div.interesting-info-div.text-center.small-12.columns
@@ -1274,9 +1277,9 @@ socialtipster.co##.flexright.hidden-xs.hidden-sm.th-col-right.to-flex-col
 socialtipster.co###socia-1030937160
 socialtipster.co##.socia-after-content
 smallbusiness.chron.com##.article-right-col-container
-client.schwab.com##.closed.feedbackLink
-www.schwab.com###Login-Logout-slot-1
-www.schwab.com###Login-Logout-slot-2
+schwab.com##.closed.feedbackLink
+schwab.com###Login-Logout-slot-1
+schwab.com###Login-Logout-slot-2
 homebusinessmag.com##.widget_media_image.widget.td_block_template_1
 www.binance.us##.css-1iq0xlp
 markets.businessinsider.com##.htl-ad
@@ -1349,7 +1352,7 @@ etherscan.io##.align-items-center.justify-content-between.flex-wrap.d-flex > .fl
 wetransfer.com##.banner__animations-enter-done.banner__container
 www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
-coinguides.org##.q2w3-fixed-widget-container.theiaStickySidebar
+coinguides.org##.theiaStickySidebar
 cryptocoin.news##.ccpw-header-ticker-fixedbar.ccpw-ticker-cont.style-1-2
 www.digit.in##.avg_height
 www.britannica.com##.rr-module-1.rr-module
@@ -1368,7 +1371,7 @@ www.monstersandcritics.com##.pw-ph-med-rect
 www.monstersandcritics.com###custom_html-4
 www.monstersandcritics.com##.comments-area > .related-posts-column
 www.getfilecloud.com##.textwidget
-www.kiplinger.com##.-sponsored-row-sidebar-enabled.-sponsored-row
+www.kiplinger.com##.-sponsored-row-sidebar-enabled
 www.gmx.com##.dialogOverlay
 www.autoevolution.com###swipebox-action
 www.autoevolution.com###swipebox-right
@@ -1377,10 +1380,8 @@ www.nasdaq.com##.ads__midpage-fullwidth
 www.nasdaq.com##div.body--no-ads.body:nth-of-type(5)
 www.nasdaq.com##.inside-container
 www.nasdaq.com##.video-placeholder
-www.finder.com##.hide-mobile.nps-feedbackModal__teaser
-www.finder.com###intercomChatButton
-www.finder.com.au##.hide-mobile.nps-feedbackModal__teaser
-www.finder.com.au###intercomChatButton
+www.finder.com##.nps-feedbackModal__teaser
+www.finder.com.au##.nps-feedbackModal__teaser
 www.dividend.com###header-survey-container
 www.intowindows.com##div.\32 25e8008c70a1c7498d64714d951c985
 www.intowindows.com##.widget_custom_html.widget.widget_text
@@ -1393,8 +1394,7 @@ dailyhodl.com##.widget_custom_html.widget.widget_text
 alternative.me###footer
 alternative.me##.container > .block
 www.ibtimes.com##.wf2-animated.wf2-slide-in-top.wf2-popover.grwf2-wrapper
-www.ibtimes.com##.wf2-bg-light.grwf2_backdrop
-www.ibtimes.com##.wf2-bg-dark.grwf2_backdrop
+www.ibtimes.com##.grwf2_backdrop
 www.ibtimes.com##.discussion
 www.ibtimes.com##.block-sticky
 www.ibtimes.com###block-ibt-comment
@@ -1464,7 +1464,6 @@ www.scribd.com##.orientation_portrait.auto__doc_page_webpack_doc_page_blur_promo
 www.tennisrecruiting.net##[href^="http://www.tennis-warehouse.com/"]
 www.tennisrecruiting.net###leftnav > div
 www.tennisrecruiting.net##.websitebox
-www.swagbucks.com###lock__overlay--5tJ3U
 www.terro.com##div.block-static-block.block.widget
 www.terro.com##.center
 www.terro.com##.right.ws-spr
@@ -1634,7 +1633,6 @@ bestbuy.com##.shop-search-survey
 bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
 bestbuy.com##.ninja-carousel
 nerdwallet.com###reg-modal-wrappe
-nerdwallet.com##.JiKAEU
 nerdwallet.com##p > div
 west-games.com#@##cookie-law-info-bar
 verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
@@ -1920,6 +1918,7 @@ google.com##.related-question-pair
 google.com##.commercial-unit-desktop-top
 google.com##.OTFaAf.WFxqwc > .NFQFxe.wDYxhc
 @@||www.google.com/display-ads-frontend-publisher-center/adsense-onboarding/loader
+@@||blogger.com^$removeparam=bpli
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||www.google.com^$removeparam=client
 https://accounts.google.com/gsi/client
@@ -1950,7 +1949,6 @@ www.thehansindia.com###home-mid-wrap1
 www.designpieces.com##.widget_custom_html
 switchnutrition.com.au##.js-toggle-slide-nav
 shopbestnaturals.com###sro-popup
-@@||blogger.com^$removeparam=bpli
 ||decrypt.co^$removeparam=source
 decrypt.co##.adbutler-inline-ad
 decrypt.co##.mt-8
@@ -2108,7 +2106,6 @@ www.cosmeticsandtoiletries.com##.ad-container--template-lb1
 www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
 www.cosmeticsandtoiletries.com##.card-deck-flow__node--position-before
 www.cosmeticsandtoiletries.com##div.card-deck-flow__node:nth-of-type(5)
-www.cosmeticsandtoiletries.com##.social-sharing
 www.cosmeticsandtoiletries.com##.page-rail.col-lg-4
 www.outlookindia.com###coverLatest
 www.kidney.org###footer-sticky
@@ -2143,8 +2140,6 @@ www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
 www.besthealthmag.ca###cmu_right_rail_widget-3
 www.engadget.com##.M\(MarginCenter\)
-stablediffusionweb.com##.text-gray-400.text-sm.text-left.max-w-3xl.mt-4.mx-auto
-www.flexjobs.com##.social-proof-rows
 hindustantimes.com##.entryPointBanner
 www.weekand.com##.pt16
 www.weekand.com###Flex1
@@ -2248,9 +2243,7 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
 www.seoreviewtools.com##.special-content
-timesofindia.indiatimes.com##.noPaddingTitle
-timesofindia.indiatimes.com##.xciRh
-timesofindia.com##.D7ys0
+indiatimes.com##.noPaddingTitle
 www.androidauthority.com##div.--_-___ti
 www.androidauthority.com##.--_-___4l
 usnews.com##react-trigger
@@ -2319,6 +2312,7 @@ www.msn.com##.articlePage_riverContainer-DS-EntryPoint1-1
 www.msn.com##.oneFooter-DS-EntryPoint1-1
 www.msn.com##.consumption-page-gridarea_action
 www.msn.com##views-right-rail
+assets.msn.com/service/community/users/
 ||msn.com^$removeparam=activityId
 ||msn.com^$removeparam=user
 ||msn.com^$removeparam=scn
@@ -2326,7 +2320,7 @@ www.msn.com##views-right-rail
 ||msn.com^$removeparam=%24select
 ||msn.com^$removeparam=ranid
 ||msn.com^$removeparam=ocid
-assets.msn.com/service/community/users/
+||firefox.com^$removeparam=deviceId
 mozilla.org##.donate-banner
 mozilla.org###category-featured-cta
 mozilla.org##.document-vote--sidebar-wrap
@@ -2426,7 +2420,6 @@ examine.com##.py-10.bg-white.home-section
 examine.com##.lg\:text-xl.hover\:shadow-sm.text-white
 examine.com##.py-10.bg-white.flex-col.flex
 examine.com##[href^="/pro/"]
-@@||.amagi.tv$xhr
 www.dropbox.com###ccpa_consent_banner
 www.sciencealert.com##.bg-sciencealert-yellow
 www.thedailybeast.com###user-comments
