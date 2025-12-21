@@ -243,8 +243,12 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.lozad
+###lozad
 ##.roof-ad
 ###roof-ad
+##.newsletter-signup-vue__form
+###newsletter-signup-vue__form
 ##.featured-row
 ###featured-row
 ##.ad-carousel
@@ -393,25 +397,31 @@ $removeparam=visitToken
 ##.pre-header-ad-holder
 ##.ads__inline
 ##.ads-container
+###ads-container
 ##.advertising
+###advertising
 ##.advert
 ##.ad-rail
+###ad-rail
 ##.responsive-ad-container
 ##.ad-sticky-banner
 ##.ad-unit
+###ad-unit
 ##.ads
+###ads
 ##.ad
+###ad
 ##.ad-svg
 ##.ad-placement
+###ad-placement
 ##.ad-slot
+###ad-slot
 ##.advertising__image
 ##.adbox--called
 ##.adbox
 ###adBlock
 ###adImage
 ###adPanel
-###ad
-##.ad
 ##.wrap-ad
 ##.side_float_ad
 ###my-banner-ad
@@ -481,7 +491,10 @@ _AdBreak
 /tracking-v
 -tracking
 _tracking
+-tracking_config
+/tracking_config
 /tracking.js
+-tracking.js
 /gTracking
 /generic_events
 /collector
@@ -605,7 +618,6 @@ _adblock
 -adblock
 -ad-refresh
 /ad-refresh
--tracking
 /check-adblock
 /checkadblock
 _ad.js
@@ -619,8 +631,6 @@ _social-icons
 _buymeacoffee
 -buymeacoffee
 /buymeacoffee
--tracking_config
-/tracking_config
 /feedback.js
 -feedback.js
 /feedback-link
@@ -1255,7 +1265,6 @@ instadp.org##div:nth-of-type(4)
 www.wbur.org##.uw--sponsorships
 www.aarp.org##.parsys.iparsys.everywhere-page-header > div.section.parbase.textimage
 www.psychologytoday.com##.pt-ad-show-text
-dude-hack.com##.et_pb_code_0.et_pb_code.et_pb_module.et_pb_with_border
 www.rentcafe.com##picture
 nationalgeographic.com###tou-message
 www.123rf.com##.showTNC.tnc-padding.tnc-container
@@ -1267,8 +1276,6 @@ functionpoint.com###featured-image
 www.mindtools.com##.display-on-load
 www.mindtools.com##div.panel.banner-vertical-article.banner-vertical.banner.advert
 www.g2.com##.border-bottom
-www.greekrank.com###main-container > .container > div:nth-of-type(1)
-www.greekrank.com#@#.like-box
 www.ringcentral.com##.rc-notibar
 www.ccleaner.com###main-content > .text-center
 www.ccleaner.com##.download-notification--top.download-notification
@@ -1282,12 +1289,10 @@ schwab.com##.closed.feedbackLink
 schwab.com###Login-Logout-slot-1
 schwab.com###Login-Logout-slot-2
 homebusinessmag.com##.widget_media_image.widget.td_block_template_1
-www.binance.us##.css-1iq0xlp
-markets.businessinsider.com##.htl-ad
-markets.businessinsider.com##div.mobile-spacer-25.spacer-50
-finance.zacks.com###pfnModule > div
+businessinsider.com##.htl-ad
+businessinsider.com##div.mobile-spacer-25.spacer-50
 manofmany.com##.header_banner_wrap
-manofmany.com##div.incontent-ad-banner.middle-banner
+manofmany.com##div.incontent-ad-banner
 manofmany.com##.single-post.banners
 adguard.com##.flash-wrapper--en.flash-wrapper
 hostadvice.com##.banner-popup
@@ -1296,32 +1301,26 @@ piwik.pro##div.cc-johnson-box
 piwik.pro##.hs-cta-wrapper
 coinpedia.org##.footerstickyimg
 coinpedia.org##.widget_custom_html.widget.container-wrapper.widget_text
-www.mercedes-amg.com##.amg-e-social-share-buttons
-www.mercedes-amg.com##.amg-state-active.amg-aem-edit-hidden.amg-m-notification-overlay
-dentacoin.com##.dcn-privacy-policy-cookie
 www.celebritynetworth.com###single__bar
 www.verywellhealth.com###mntl-leaderboard-spacer_1-0
-azdailysun.com##.has-promotiom.hidden-print.show-after-loaded.lee-subscription-article-link
+www.verywellhealth.com###health-social-nav_1-0
 www.theatlantic.com##.c-nudge-reg-expanded__container.c-nudge__container
-www.theatlantic.com##.BottomLeaflets_root__RjVTY
 www.medpagetoday.com##.leaderboard-region
 www.medpagetoday.com###right-rail-frame
 bankofamerica.com##.cardlytics-transaction-offer
 ||bankofamerica.com^$removeparam=source
 fast.com##.help-container
-daily.jstor.org##.footer-widget
-www.practicalfishkeeping.co.uk###popup-modal-ee164d02-c921-44bf-ae25-af6a67f21005
+jstor.org##.footer-widget
 hypebeast.com##div.sidebar-sticky-container:nth-of-type(1)
 blockonomi.com###bottom
 blockonomi.com##.cf.share-float-a.post-share-float
-miningpoolstats.stream###mainpage_right [href] > .lozad
-miningpoolstats.stream###links_panel > div.box-comment.box > .table-condensed.table > tbody > tr > td > div
 hunter.io###support-notification
-www.zacks.com##.disclosure-fixed-slab
-www.zacks.com###slider
-www.zacks.com###zc_popup_container
-www.zacks.com##.commentary_b.commentary_reports_content
-www.zacks.com##.bulleted
+zacks.com##.disclosure-fixed-slab
+zacks.com###slider
+zacks.com###zc_popup_container
+zacks.com##.commentary_b.commentary_reports_content
+zacks.com##.bulleted
+zacks.com###pfnModule > div
 www.tasteofhome.com##.non-contextual-video-wrapper.pure-g
 www.adweek.com##.position-relative.justify-content-end.row
 www.marketbeat.com###HelpersArea
@@ -1387,6 +1386,7 @@ www.dividend.com###header-survey-container
 www.intowindows.com##div.\32 25e8008c70a1c7498d64714d951c985
 www.intowindows.com##.widget_custom_html.widget.widget_text
 www.healthline.com###modal-host
+www.healthline.com##hl-newsletter-cta
 www.historic-uk.com###hu
 ||www.techpowerup.com/thlknzrjbv/*.jpg$image
 dailyhodl.com##.widget_custom_html.widget.widget_text
@@ -2019,7 +2019,6 @@ cointelegraph.com##.header-zone__banners
 cointelegraph.com##.top-100-details-card__poster
 cointelegraph.com##.top-100-people-footer_ads
 cointelegraph.com##.layout__header.header-zone > .container
-cointelegraph.com##.ad-slot_NjPAE
 cointelegraph.com##.header-zone__banner
 quizlet.com##.site > .HurricaneBannerWrapper
 quizlet.com##.SignupWallInline-overlay
@@ -2348,7 +2347,10 @@ mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 mail.proton.me##.bg-promotion
 mail.proton.me##.button-promotion
 www.nowfoods.com##.eu-cookie-compliance-banner--categories
+www.equitymaster.com##.sp-report
 www.equitymaster.com##.sp-report2
+www.equitymaster.com##.hpUnit
+www.equitymaster.com###divStockScreenerData
 www.dailymail.co.uk##.newsletter-modal-shopping
 www.bleepingcomputer.com##.bc_guide
 thehill.com##.instaread-audio-player
