@@ -13,7 +13,6 @@ $removeparam=subid1
 $removeparam=mrfcid
 $removeparam=LogSequence
 $removeparam=hubs_signup-url
-$removeparam=track
 $removeparam=adkey
 $removeparam=is-from-marketing-site
 $removeparam=gatewayAdapt
@@ -289,7 +288,6 @@ $removeparam=visitToken
 ###cookieconsent
 ##.cookie-modal
 ##.cookiemodal
-##.consent-banner-root
 ##.cookieTextDisplay
 ##.cookie-notice-container
 ###cookie-notice-container
@@ -333,7 +331,11 @@ $removeparam=visitToken
 ##.viafoura-comments
 ##.viafoura
 ###policy_div
+##.consent-banner-root
+##.consent-banner
+###consent-banner
 ###tracking-consent-banner
+##.js-consent-banner
 ##.gift-banner
 ##.cta-modal
 ##.cta-dynamic-wrapper
@@ -356,7 +358,6 @@ $removeparam=visitToken
 ##.privacyConsent
 ###ac-wrapper
 ###cookieConsentBannerContainer
-##.js-consent-banner
 ##.header__sponsored-logo
 ##.sponsored
 ###sponsored
@@ -457,6 +458,14 @@ $removeparam=visitToken
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
+-optimizely
+_optimizely
+/optimizely
+/userinfo
+/consent-banner
+-consent-banner
+_consent-banner
+-insights
 /MostViewedRightWithAd
 /event/report
 _AdBreak
@@ -768,6 +777,7 @@ _webvital
 /pixel.js
 -pixel
 /web-pixel
+/web-pixels
 _pixel
 /bidding.js
 /empty.js
@@ -1532,6 +1542,7 @@ investorplace.com##.countdown-banner
 www.findagrave.com##.d-print-none.mr-md-0.mr-3.col-lg-12.col-sm-6.overview-panel.native
 www.independent.co.uk##.video-hero-wrapper
 indy100.com##.bottom-strip
+||yahoo.com^$removeparam=src
 ||yahoo.com^$removeparam=activity
 ||yahoo.com^$removeparam=pspid
 ||yahoo.com^$removeparam=done
@@ -2349,7 +2360,6 @@ thehill.com##.instaread-audio-player
 thehill.com##[href^="https://thehill.com/sponsor-content/"]
 thehill.com##.hha-sponsored
 thehill.com##.widget-area
-www.aimagicx.com##.text-white.shadow-lg
 ft.com##.n-layout__footer-before
 ft.com###o-header-search-primary
 ft.com##.concept-list
@@ -2375,6 +2385,7 @@ www.tubefilter.com##.signupInline
 xumo.com##.showsPromo
 ||xumo.com^$removeparam=geoId
 valencia-app-mds.xumo.com/v2/security/drm/
+xumo.com/v2/devices
 seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
 iptvplay.stream##div.border-2:nth-of-type(2)
 app.seobility.net##.productfruits--container
