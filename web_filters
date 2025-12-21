@@ -465,6 +465,7 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/debouncer
 -optimizely
 _optimizely
 /optimizely
@@ -1238,7 +1239,7 @@ www.thewindowsclub.com##[href^="http://www.restoro.com/includes/route.php"]
 www.crunchyroll.com###showmedia_free_trial_signup
 www.softwaresuggest.com##.visible.exit-intent-popup
 ||*.animenewsnetwork.com/assets/*.png$subdocument
-www.space.com##.Campaign--css.CampaignType--popup.Campaign.portland-campaign.exit-intent__dark-background.exit-intent
+www.space.com##.Campaign--css
 www.space.com##.dfp-leaderboard-container
 www.afar.com###topPortal
 www.doxchannel.com###appBarHeaderContainer
