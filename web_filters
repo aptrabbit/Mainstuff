@@ -479,7 +479,6 @@ $removeparam=visitToken
 -optimizely
 _optimizely
 /optimizely
-/userinfo
 /consent-banner
 -consent-banner
 _consent-banner
