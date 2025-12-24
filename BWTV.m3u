@@ -32,7 +32,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/cnbc-world-20962.jpg" group-title="Business",CNBC World
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/nbcu-uk-cnbc-samsungpe/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUigqQD2ETaWJUMlqDIqrgWd6LspbZbL7G-g&s" group-title="Business",Cheddar
-https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_channelId=99991220
+https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/playlist.m3u8?ads.xumo_channelId=99991220
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5tKArnyssLuyoxRDyScSTCfQhtknRYtoHQ&s" group-title="Business",DeFiance Media
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News",CNN HD
