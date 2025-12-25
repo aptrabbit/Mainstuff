@@ -142,7 +142,7 @@ https://usatodaynews-xumo.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Shopping",Home Shopping Network
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU30vp6pyKhQ5Bce5_kpXDnACd4jKYz9Fsjg&s" group-title="Shopping",QVC HD
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/medhigh.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4p_Rkua0guh-POLIuwRdsaewn_pWYyoYtTzUCNaFBJNn3XMB7PEE2DXVtBPP-8RS7rtw&usqp=CAU" group-title="Music",Stingray Greatest Hits
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20241112T001853SQUARE.png" group-title="Music",Vevo Hip-Hop
