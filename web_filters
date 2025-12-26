@@ -243,6 +243,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.tooltip-newsletter
+###tooltip-newsletter
 ##.lozad
 ###lozad
 ##.roof-ad
@@ -475,6 +477,9 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/tingle.js
+-tingle.js
+_tingle.js
 /debouncer
 -optimizely
 _optimizely
@@ -648,6 +653,8 @@ _perfData
 /errorELKLogs
 /secure-cookie
 /pinger
+-pinger
+_pinger
 /heatmap
 -heatmap
 /heat-map
@@ -1186,7 +1193,6 @@ www.barchart.com##.barchartBrief
 www.barchart.com##.bc-header-premier-ads
 civilwartalk.com##font > center
 www.ecstuning.com##.show.fade.hide.modal
-www.bremboparts.com##.tooltip-newsletter
 www.pelicanparts.com##.simplemodal2-container
 www.pelicanparts.com###simplemodal2-overlay
 www.mercedescla.org###welcome_back
@@ -1625,8 +1631,9 @@ nytimes.com###athletic-gateway-container
 web.archive.org###donato
 healthfully.com##.sticky.video-player-wrapper
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
-www.bloomberg.com##.bb-global-footer__ad-choices
-www.bloomberg.com##.leaderboard-container
+bloomberg.com##.bb-global-footer__ad-choices
+bloomberg.com##.leaderboard-container
+bloomberg.com##.media-ui-LeaderboardAd_parallaxWrapper
 kraken.com##.kraken-cookies-warning-wrapper
 bestbuy.com##.shop-blue-assist
 bestbuy.com##.shop-search-survey
