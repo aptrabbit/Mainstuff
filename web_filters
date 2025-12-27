@@ -243,6 +243,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.footer__ads-footer
+###footer__ads-footer
 ##.tooltip-newsletter
 ###tooltip-newsletter
 ##.lozad
@@ -1431,7 +1433,6 @@ www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
 www.cryptoninjas.net##.widget_text.widget
 thekrazycouponlady.com#@#.share-buttons
 enotes.com##+js(rc, is-paywalled)
-www.genomeweb.com##.footer__ads-footer
 www.theonion.com###js_moreFromNetwork
 cryptonews.com##.mb-40.d-lg-block.d-none.dslot
 cryptonews.com###widget_container
@@ -1440,7 +1441,6 @@ www.docsity.com##.dsy-advertising
 www.banklesstimes.com##.tipi-xs-0.rotatable.secondary-navigation
 www.banklesstimes.com##.tipi-xs-0.sb-with-border.tipi-col.tipi-l-4.tipi-xs-12.sb-wrap-skin-1.sidebar-wrap.clearfix.block
 ||quotefancy.com/frontend/img/studio/promo/quotefancy_studio_*0_optim.jpg$image
-www.suzuki.com###cookieAck
 www.cinemablend.com##.mobile-leaderboard-320-50
 www.cinemablend.com##div:nth-of-type(24)
 softwarekeep.com##.klaviyo-form
@@ -1633,8 +1633,6 @@ healthfully.com##.sticky.video-player-wrapper
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
 bloomberg.com##.bb-global-footer__ad-choices
 bloomberg.com##.leaderboard-container
-bloomberg.com##.media-ui-LeaderboardAd_parallaxWrapper
-bloomberg.com###media-ui-LeaderboardAd_parallaxWrapper
 kraken.com##.kraken-cookies-warning-wrapper
 bestbuy.com##.shop-blue-assist
 bestbuy.com##.shop-search-survey
