@@ -45,10 +45,6 @@ https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
 https://amg01542-foxweatherllc-foxweather-lgus-7idov.amagi.tv/index_12.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
 https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/665817-oyduisl0-400x400-300x300.jpeg" group-title="News",WTTG-DT
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wttg-lgus/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/312reopgpxL.png" group-title="News",WRC-DT
-https://xumo-drct-ch105-la3kc.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s160-c-k-c0x00ffffff-no-rj" group-title="News",MSNBC HD
 https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png/900" group-title="News",NBC News NOW
