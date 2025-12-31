@@ -17,11 +17,13 @@ https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648311/group-61770.png" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648313/group-61771.png" group-title="Lifestyle/Food",BBC Home & Garden
+#EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648313/group-61771.png" group-title="Lifestyle/Travel",BBC Home & Garden
 https://dbrb49pjoymg4.cloudfront.net/10001/99951178/hls/playlist.m3u8?ads.xumo_channelId=99951178
-#EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2018/12/bon-appetit-vector-logo.png" group-title="Lifestyle/Food",Bon Appétit TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZggVROm8aLzPvG6NGp2eDJxCBWRMNJEahwQ&s" group-title="Lifestyle/Travel",GoTraveler
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2018/12/bon-appetit-vector-logo.png" group-title="Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Lifestyle/Food",Tastemade
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kE3VRjpIz3GM7ubwZBiR0KjfJJEHoPfNOx7LxQBWnCShRM=s900-c-k-c0x00ffffff-no-rj" group-title="Food",Tastemade
 https://tastemade-xumo.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo HD
 https://streamer1.nexgen.bz/BRAVO/tracks-v1a1/mono.ts.m3u8
@@ -105,7 +107,7 @@ https://aegis-cloudfront-1.tubi.video/b55de1cc-e4a9-4f16-a001-45795a08ad1d/playl
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWNA_7XR1A39qiA1Pxr8ubiCfSKHpwvXmkg&s" group-title="Entertainment",MotorTrend FAST TV
 https://amg00136-wbd-amg00136c57-xumo-us-6503.playouts.now.amagi.tv/playlist1080P.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Lifestyle/Food",Outside
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Lifestyle/Travel",Outside
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee8565160c17ec0797edd0d62c39" group-title="Entertainment",TNT HD
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
