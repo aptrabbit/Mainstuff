@@ -45,7 +45,7 @@ https://fl41.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.ts.m3u8
 https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/1200px-Fox-weather-logo-stacked-color.svg.png" group-title="Weather",FOX Weather
 https://amg01542-foxweatherllc-foxweather-lgus-7idov.amagi.tv/index_12.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
+#EXTINF:-1 tvg-logo="https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/0/100/LiveNOW-logo-1280x720.jpg" group-title="News",LiveNOW from FOX
 https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s160-c-k-c0x00ffffff-no-rj" group-title="News",MSNBC HD
 https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
