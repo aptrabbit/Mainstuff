@@ -1174,7 +1174,6 @@ www.strategy-business.com##.showing.newsletterOverlay
 www.ancestry.com###Banner_privacy_0
 www.fix.com##.modal-body
 www.fix.com##.in.fade.modal-backdrop
-www.tvshowsace.com###sticky-footer-div-gpt-ad-1579624331387-0
 www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
 www.netgear.com###container > div.modal-group > .active.custom-modal-bg
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
@@ -1297,7 +1296,7 @@ homebusinessmag.com##.widget_media_image.widget.td_block_template_1
 businessinsider.com##.htl-ad
 businessinsider.com##div.mobile-spacer-25.spacer-50
 manofmany.com##.header_banner_wrap
-manofmany.com##div.incontent-ad-banner
+manofmany.com##.incontent-ad-banner
 manofmany.com##.single-post.banners
 adguard.com##.flash-wrapper--en.flash-wrapper
 hostadvice.com##.banner-popup
@@ -1740,20 +1739,20 @@ moneymorning.com##.nitro-offscreen
 moneymorning.com###profit_alerts-2
 www.speedtest.net##.eot-box-wrapper
 ||www.fool.com^$removeparam=source
-www.fool.com###topnav-picks
-www.fool.com##.page-alert
-www.fool.com###market_performance
-www.fool.com##.special-message
-www.fool.com###best-next-section
-www.fool.com###services-section
-www.fool.com##.blk__cta
-www.fool.com##.art__pitch
-www.fool.com###hp-sa-splash
-www.fool.com###invest-smarter-sidebar-wrapper
-www.fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
-www.fool.com###sa-returns-sidebar-wrapper
-www.fool.com##.py-3
-www.fool.com##.modal
+fool.com###topnav-picks
+fool.com##.page-alert
+fool.com###market_performance
+fool.com##.special-message
+fool.com###best-next-section
+fool.com###services-section
+fool.com##.blk__cta
+fool.com##.art__pitch
+fool.com###hp-sa-splash
+fool.com###invest-smarter-sidebar-wrapper
+fool.com##.p-20px.shadow-card.bg-white.mt-8 > p
+fool.com###sa-returns-sidebar-wrapper
+fool.com##.py-3
+fool.com##.modal
 www.insidermonkey.com###shadow
 www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
@@ -1797,16 +1796,16 @@ bitcoinist.com##.orange-link
 bitcoinist.com##.lightchain-header-container
 www.complex.com###spotim-specific [src]
 www.asiablockchainreview.com##.pull-bottom
-www.foxnews.com##.sticky-region > .sidebar-columns > .has-load-more
-www.foxnews.com##.collection-trending
-www.foxnews.com##.is-programming.alert-banner
-www.foxnews.com##.collection-fox-nation
-www.foxnews.com##.article-social
-www.foxnews.com##[href] > strong
-www.foxnews.com##strong > [href]
-www.foxnews.com##.promo-watch-live
-www.foxnews.com##.sidebar-columns > .collection
-www.foxnews.com##.alert-container
+foxnews.com##.sticky-region > .sidebar-columns > .has-load-more
+foxnews.com##.collection-trending
+foxnews.com##.is-programming.alert-banner
+foxnews.com##.collection-fox-nation
+foxnews.com##.article-social
+foxnews.com##[href] > strong
+foxnews.com##strong > [href]
+foxnews.com##.promo-watch-live
+foxnews.com##.sidebar-columns > .collection
+foxnews.com##.alert-container
 newsbtc.com##.widget_svecc_reviews
 newsbtc.com##.widget_media_image
 newsbtc.com##.litespeed-loaded
@@ -1998,8 +1997,9 @@ coinmarketcap.com##.email-signup
 coinmarketcap.com##.buyAdButtonSection
 coinmarketcap.com##.carousel-items-wrapper
 www.w3schools.com###right
-www.seobility.net###sale_sidebar_content
-www.seobility.net###help-container
+seobility.net###sale_sidebar_content
+seobility.net###help-container
+seobility.net##.productfruits--container
 www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
 trailsoffroad.com##.paywall
@@ -2347,6 +2347,7 @@ mail.protonmail.com##section:nth-of-type(2)
 mail.protonmail.com##.flex-row.flex.no-padding.pm_grid
 mail.proton.me##.bg-promotion
 mail.proton.me##.button-promotion
+proton.me/api/data/v1/stats
 www.nowfoods.com##.eu-cookie-compliance-banner--categories
 www.equitymaster.com##.sp-report
 www.equitymaster.com##.sp-report2
@@ -2383,10 +2384,8 @@ www.tubefilter.com##.signupInline
 xumo.com##.showsPromo
 ||xumo.com^$removeparam=geoId
 valencia-app-mds.xumo.com/v2/security/drm/
-xumo.com/v2/devices
 seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
 iptvplay.stream##div.border-2:nth-of-type(2)
-app.seobility.net##.productfruits--container
 www.sciencedirect.com###gh-help-icon-popover
 nih.gov##.share_links_wrap
 nih.gov##footer
@@ -2438,9 +2437,11 @@ www.wired.com##.journey-unit__container
 o.canada.com##.priceline-widget
 o.canada.com##.article-content__widget-group--newsletter-slot
 www.jotform.com##.error-navigation-container
-longevity.technology##.popup_bg
 www.fastcompany.com##.mt-20.min-h-\[4000px\]
 www.gallup.com##.c-v12-sticky-footer
 brobible.com##.bro-sponsored-block
 brobible.com##.bro-jamx
 brobible.com###social-list
+longevity.technology##.popup_bg
+longevity.technology##.arrows_wrapper
+longevity.technology##.footer_logo
