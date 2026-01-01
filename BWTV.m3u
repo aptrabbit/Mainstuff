@@ -86,15 +86,11 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMQ2GzhYagqygjHZgo3EX5GQ4xNkaISwPpw&s" group-title="Sports",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video_1=8000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 HD
-https://foxvideo-sports-cf.video.fox/4e67b456057c7e29fc9d86ec0568b990e27f5387.20260102034759/live/foxsports1-ue1/foxsports1-ue1/index_2.m3u8
+https://foxvideo-sports-cf.video.fox/4e67b456057c7e29fc9d86ec0568b990e27f5387.20260102034759/live/foxsports1-ue1/foxsports1-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcfEScWo-V8GnH9agEhOd1RAvRooVtmuHnfg&s" group-title="Sports",FS2
 https://fastly-sports.edge.video.fox/1767326955_9a424629ae6c44b09bbd25e2f31555cda93b018e/*~/live/foxsports2-ue1/foxsports2-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleWj-gxgXktxkKEcBRqo8xUhzwBzkAdXBqg&s" group-title="Sports",ESPN HD
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN 2
-https://fl31.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="Sports",TSN 5
-https://fl41.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
+http://41.205.93.154/ESPN/index.m3u8m
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qG4C76Xg5Tgdv8MkZvvJ-yd6IwpYwSax-7O3hZCtC7lsCqCwVf9homGeJsTILFDPQQ=w240-h480-rw" group-title="Sports",Tennis Channel HD
 https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png/900" group-title="Sports",T2
