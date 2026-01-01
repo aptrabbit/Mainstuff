@@ -1,3 +1,4 @@
+$removeparam=_tracking
 $removeparam=_yTrackUser
 $removeparam=cpm
 $removeparam=ilm
@@ -236,7 +237,6 @@ $removeparam=subId3
 $removeparam=crid
 $removeparam=smid
 $removeparam=linkCode
-$removeparam=ie
 $removeparam=flow_id
 $removeparam=fromjk
 $removeparam=attributionid
@@ -479,6 +479,9 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/login-registration-bc-wall.
+/api/event
+/eloqua
 /tingle.js
 -tingle.js
 _tingle.js
@@ -496,7 +499,6 @@ _AdBreak
 /visits
 /tracking-v
 -tracking
-_tracking
 -tracking_config
 /tracking_config
 /tracking.js
@@ -543,7 +545,6 @@ _prebid_blocker
 /tcf.stub
 /antibot
 /session-tracker
-_ad_
 /logs.js
 -logs.js
 _logs.js
