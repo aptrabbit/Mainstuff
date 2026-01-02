@@ -243,6 +243,12 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+/ads.min
+-ads.min
+##.share-bar-container
+###share-bar-container
+##.news-letter
+###news-letter
 ##.footer__ads-footer
 ###footer__ads-footer
 ##.tooltip-newsletter
@@ -479,7 +485,8 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
-/login-registration-bc-wall.
+/subscribe-modal
+/login-registration-bc-wall
 /api/event
 /eloqua
 /tingle.js
