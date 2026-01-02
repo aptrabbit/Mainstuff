@@ -90,7 +90,7 @@ https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video_1=800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 HD
 https://foxvideo-sports-cf.video.fox/4e67b456057c7e29fc9d86ec0568b990e27f5387.20260102034759/live/foxsports1-ue1/foxsports1-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcfEScWo-V8GnH9agEhOd1RAvRooVtmuHnfg&s" group-title="Sports",FS2 HD
-https://fastly-sports.edge.video.fox/1767326955_9a424629ae6c44b09bbd25e2f31555cda93b018e/*~/live/foxsports2-ue1/foxsports2-ue1/index_1.m3u8
+https://foxvideo-sports-cf.video.fox/ae850d9cefda165a825243cdd02c0436f19b8365.20260103041643/live/foxsports2-ue1/foxsports2-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1996257490934312960/qej5-bls_400x400.jpg" group-title="Sports",Ryz Sports Network
 https://amg27125-amg27125c1-amgplt0055.playout.now3.amagi.tv/ryzsports/ryzspo/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qG4C76Xg5Tgdv8MkZvvJ-yd6IwpYwSax-7O3hZCtC7lsCqCwVf9homGeJsTILFDPQQ=w240-h480-rw" group-title="Sports",Tennis Channel HD
