@@ -1368,7 +1368,6 @@ www.britannica.com##.rr-module-1.rr-module
 selfhacked.com##.end-of-post
 selfhacked.com##.post-ratings-wrapper
 benchmarks.ul.com##.clearfix.defaultbox
-precisiononcologynews.com##.footer__ads-footer
 abovethelaw.com##article.post-single--sponsored.post-single
 www.ratemyprofessors.com##.ReactModal__Overlay
 2cryptocalc.com##.static
@@ -1379,7 +1378,6 @@ www.monstersandcritics.com##.pw-ph-leaderboard.leaderboard-ad-size
 www.monstersandcritics.com##.pw-ph-med-rect
 www.monstersandcritics.com###custom_html-4
 www.monstersandcritics.com##.comments-area > .related-posts-column
-www.getfilecloud.com##.textwidget
 www.kiplinger.com##.-sponsored-row-sidebar-enabled
 www.gmx.com##.dialogOverlay
 www.autoevolution.com###swipebox-action
@@ -1475,7 +1473,6 @@ www.terro.com##div.block-static-block.block.widget
 www.terro.com##.center
 www.terro.com##.right.ws-spr
 www.terro.com##.widget-product-grid.product-items
-www.terro.com##h2:nth-of-type(2)
 www.originpc.com##.show.fade.modal-backdrop
 financefeeds.com###aside
 freebitco.in###bottom_user_ads_container
@@ -1505,7 +1502,6 @@ u.today##.something--leaderboard
 u.today##.card--something-md
 u.today##.promoted__mark
 u.today##.something
-reelrundown.com##.mm-detail-header--image-size-full-bleed.m-detail-header
 issueexplorer.com##.con-carbon-noti
 www.bizjournals.com##.u-flex-justify-start.secondary\@lg
 forkast.news##div.spaced-group
@@ -1523,9 +1519,9 @@ ambcrypto.com##.ambcr-widget
 finbold.com##.mid-include
 finbold.com##.mt-4.order-lg-3.order-xl-2.col-xl-12.col-lg-6
 finbold.com###sub-intent
-www.autoblog.com###spotim-specific
-www.autoblog.com###autoblog-daily-digest
-www.automotivelogistics.media##.leaderboard
+autoblog.com###spotim-specific
+autoblog.com###autoblog-daily-digest
+automotivelogistics.media##.leaderboard
 humbledollar.com##.show-detected
 humbledollar.com##.top-bar
 humbledollar.com##.in-story-subscribe
@@ -1691,7 +1687,6 @@ www.benzinga.com##.signup-box
 www.benzinga.com###crypto-widget-CoinMarquee
 www.benzinga.com##.placement
 www.benzinga.com##.medium-8.small-12.cell > p
-viewblock.io##.gaoScI
 priceprediction.net##center
 www.tipranks.com##.mxauto.mb4.hideOnultimate
 www.tipranks.com##.client-components-tabbed-page-promotional__promotional
@@ -1859,7 +1854,6 @@ coincodex.com#@#.cc-container
 termly.io###termly-code-snippet-support
 www.businessofbusiness.com##.visible
 www.space.com##.trendingbar
-cryptogoat.net##.elementor-hidden-phone
 www.enginemailer.com##.proactiveChat
 www.enginemailer.com##.SecCookieBar
 www.history.com##phoenix-balloon-header
