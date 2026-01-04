@@ -243,6 +243,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###newsletter-banner
+##.newsletter-banner
 ###upgrade-modal
 ##.upgrade-modal
 ##.campaign-ad
