@@ -76,9 +76,9 @@ https://cdn.lawandcrime.net/rewind/720.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a60248c8-7b26-4aa8-8e8e-241bdafc2e10/24-ION-1300577902-OTT-CTV---ION-Rebrand-Assets-for-FAST-and-vMVPD-Platforms_PLEX-Logo-Orange.png" group-title="Entertainment",ION
 https://aegis-fastly.tubi.video/55011787-3022-4fad-9969-e9da07e94a2e/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
-https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/e3/aa/13379eff448895256e2241cb8c5d/logo-ion-mystery-2024-2x.png" group-title="Entertainment",Ion Mystery
-https://5d8e88ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSU9OTXlzdGVyeV9ITFM/playlist.m3u8
+https://aegis-fastly.tubi.video/d310f21b-19a4-434d-baec-ca24873c399a/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMQ2GzhYagqygjHZgo3EX5GQ4xNkaISwPpw&s" group-title="Sports",CBS Sports HQ
