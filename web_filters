@@ -1442,7 +1442,6 @@ cryptonews.com###widget_container
 imgur.com##.masthead.BannerTop3
 www.docsity.com##.dsy-advertising
 www.banklesstimes.com##.tipi-xs-0.rotatable.secondary-navigation
-www.banklesstimes.com##.tipi-xs-0.sb-with-border.tipi-col.tipi-l-4.tipi-xs-12.sb-wrap-skin-1.sidebar-wrap.clearfix.block
 ||quotefancy.com/frontend/img/studio/promo/quotefancy_studio_*0_optim.jpg$image
 www.cinemablend.com##.mobile-leaderboard-320-50
 www.cinemablend.com##div:nth-of-type(24)
@@ -1453,7 +1452,6 @@ www.entrepreneur.com##.article-subscribe
 www.entrepreneur.com##div.transparent.container
 www.entrepreneur.com###F20WidgetContainer
 www.entrepreneur.com##.show
-www.entrepreneur.com##.sm\:justify-center.justify-between.items-center.flex.text-sm.sm\:text-center.pl-4.bg-gray-200
 troypoint.com##.mysticky-welcomebar-fixed-wrap
 troypoint.com##.code-block-3.code-block
 troypoint.com###ai_widget-3
@@ -2186,7 +2184,6 @@ www.muscleandstrength.com##quote
 www.prnewswire.com##.btn-fab
 www.prnewswire.com##.newsletterSignupWidget
 www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
-thedefiant.io##.items-center.mt-10.mb-20.mx-1
 https://www.hotdeals.com/cut-port
 www.primewire.tf##.nopop.spn-btns
 www.starterstory.com##.fade.modal-backdrop
