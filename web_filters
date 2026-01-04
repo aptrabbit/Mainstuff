@@ -485,6 +485,7 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/logger
 /subscribe-modal
 /login-registration-bc-wall
 /api/event
