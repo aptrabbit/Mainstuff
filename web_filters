@@ -243,8 +243,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
-/ads.min
--ads.min
+##.campaign-ad
+###campaign-ad
 ##.share-bar-container
 ###share-bar-container
 ##.news-letter
@@ -485,8 +485,11 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/ads.min
+-ads.min
 /logger
 /subscribe-modal
+-subscribe-modal
 /login-registration-bc-wall
 /api/event
 /eloqua
@@ -1218,8 +1221,6 @@ www.niche.com##.search-result--featured
 www.urotuning.com###soundest-forms-container
 www.gamingscan.com##.fs-top-of-content
 www.bankrate.com##.myFinance-ad-unit
-www.guidingtech.com##div.space-two.layer-one.resetcoords.fill-bb-white.campaign-ad
-www.studiowide.co.uk###swpopup-wrapper
 www.dell.com##.ask-question-banner-wrapper
 www.jewage.org##.family_search_popup
 brainly.com##.js-react-brainly-plus-box-aside
