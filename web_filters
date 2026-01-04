@@ -243,6 +243,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###upgrade-modal
+##.upgrade-modal
 ##.campaign-ad
 ###campaign-ad
 ##.share-bar-container
@@ -1183,8 +1185,6 @@ www.strategy-business.com##.showing.newsletterOverlay
 www.ancestry.com###Banner_privacy_0
 www.fix.com##.modal-body
 www.fix.com##.in.fade.modal-backdrop
-www.netgear.com###container > div.modal-group > .active.email-opt-in-overlay.custom-modal
-www.netgear.com###container > div.modal-group > .active.custom-modal-bg
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
 www.womenshistory.org##.n-modal
 www.cincinnati.com##.gnt_pm
@@ -1234,7 +1234,6 @@ www.laptopmag.com##.slot-leaderboard
 www.laptopmag.com##.slot-afterPopularBox
 www.laptopmag.com##.hawk-main-transparent
 www.laptopmag.com##.slot-lightbox1
-www.chess.com###upgrade-modal
 www.majorgeeks.com##.navigation-light
 www.techradar.com##.slot-leaderboard
 www.techradar.com##.slot-topOfSidebar
@@ -1245,7 +1244,6 @@ www.techradar.com##.slot-double-height-image-6
 genius.com##apple-music-player
 www.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
 www.vidaselect.com##.cpro-open.cp-module-modal_popup.cp_style_19364.cp-popup-live-wrap.cp-popup-container
-www.zoosk.com##.interesting-info-header-div.interesting-info-div.text-center.small-12.columns
 patook.com##.cookies_subtext
 www.pdfdrive.com##.show.fade
 www.pdfdrive.com###alternatives > div > .form-inline
@@ -1272,7 +1270,6 @@ winaero.com###dfsfsdfs-asdasd-2
 instadp.org##.text1.container
 instadp.org##div:nth-of-type(4)
 www.wbur.org##.uw--sponsorships
-www.aarp.org##.parsys.iparsys.everywhere-page-header > div.section.parbase.textimage
 www.psychologytoday.com##.pt-ad-show-text
 www.rentcafe.com##picture
 nationalgeographic.com###tou-message
