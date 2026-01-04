@@ -1162,8 +1162,6 @@ www.coursehero.com##.flexible-sampling-v2-cta
 www.coursehero.com##.out-of-views-cta
 ||sticknodes.com/images/stickfigure-page-ad-bg-fix.png$image
 sticknodes.com##.filepage-ad-bg
-www.fakespot.com##.hidden-sm.hidden-xs.col-md-3.sticky-feature
-www.fakespot.com##.show-vote-share-links
 www.networkworld.com###insider-popup
 www.networkworld.com##.modal-close.modal-overlay
 www.komando.com##.k3-prefs-center-modal-background
@@ -1251,8 +1249,6 @@ www.zoosk.com##.interesting-info-header-div.interesting-info-div.text-center.sma
 patook.com##.cookies_subtext
 www.pdfdrive.com##.show.fade
 www.pdfdrive.com###alternatives > div > .form-inline
-invezz.com##.animate__ishake.animate__500.animate__animated.bg-grey-700.lg\:mb-0.mb-4.p-4.relative.inv-sidebar-widget
-invezz.com##.z-20.text-grey-100.bg-grey-700.w-full.bottom-0.fixed
 www.crypto-news-flash.com##.cpro-open.cp-module-modal_popup.cp_style_33446.cp-popup-live-wrap.cp-popup-container
 www.sparknotes.com##.partner__pw__header
 www.allposters.com##.slide.close-v1.email-lb-bg
@@ -1388,11 +1384,12 @@ www.kiplinger.com##.-sponsored-row-sidebar-enabled
 www.gmx.com##.dialogOverlay
 www.autoevolution.com###swipebox-action
 www.autoevolution.com###swipebox-right
-www.nasdaq.com##.article-header__railAd
-www.nasdaq.com##.ads__midpage-fullwidth
-www.nasdaq.com##div.body--no-ads.body:nth-of-type(5)
-www.nasdaq.com##.inside-container
-www.nasdaq.com##.video-placeholder
+nasdaq.com##.article-header__railAd
+nasdaq.com##.ads__midpage-fullwidth
+nasdaq.com##div.body--no-ads.body:nth-of-type(5)
+nasdaq.com##.inside-container
+nasdaq.com##.video-placeholder
+nasdaq.com##.watchlist
 www.finder.com##.nps-feedbackModal__teaser
 www.finder.com.au##.nps-feedbackModal__teaser
 www.dividend.com###header-survey-container
@@ -1712,11 +1709,9 @@ www.tomsguide.com##aside.hawk-processed
 www.tomsguide.com##.jwplayer__widthsetter
 dappradar.com##.entry--wide
 dappradar.com###article-banner
-www.nasdaq.com##.watchlist
-news.spacconference.com##.ml-landscape-ad-container
-news.spacconference.com##.ml-square-ad-container
+spacconference.com##.ml-landscape-ad-container
+spacconference.com##.ml-square-ad-container
 medium.com##[data-popper-reference-hidden]
-www.fakespot.com##.bottom-box
 ||www.amazon.com^$removeparam=source
 ||www.amazon.com^$removeparam=i
 www.amazon.com/checkout/turbo/
