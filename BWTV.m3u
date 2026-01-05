@@ -66,9 +66,9 @@ https://aegis-cloudfront-1.tubi.video/9978d306-2b97-495c-ae13-050d64cbbb71/1080p
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/AAIHtZjCzIkRjBI4s0XUWaxQkEI5nWkAAQAszxBPXMM0kRa_imt7qaeIp_nmVNboTGs" group-title="Nature",MagellanTV NOW
 https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist_fc18f0fd_2d126755.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8b/A%26E_%282013-.n.v.%29.png" group-title="Entertainment",A and E HD East
-https://dai.google.com/linear/hls/pa/event/4elNLJnvT_ifl3Qs6G67yQ/stream/cce65e72-f4eb-4403-a083-69af46c3c519:GRQ/variant/2e06d692e6768b1aedfe441a80205646/bandwidth/4143876.m3u8
+https://dai.google.com/linear/hls/event/4elNLJnvT_ifl3Qs6G67yQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png" group-title="History/Science",History HD
-https://dai.google.com/linear/hls/pa/event/3pCfCAVSTz24VQ7jZDXLzw/stream/4c280678-9293-425a-bd95-7f988e0d22a5:BRU/variant/50822ce92271643cd403e147f2df055d/bandwidth/4143876.m3u8
+https://dai.google.com/linear/hls/event/3pCfCAVSTz24VQ7jZDXLzw/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/800x800.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
