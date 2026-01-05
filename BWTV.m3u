@@ -3,7 +3,7 @@
 https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/abcnewslive-lg/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.accuweather.com/images/components/core/base-image-color.jpg" group-title="Weather",AccuWeather NOW
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel HD
+#EXTINF:-1 tvg-logo="https://www.tvweek.com/wp-content/uploads/2014/09/weather-channel-logo.png" group-title="Weather",The Weather Channel HD
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="Cartoons/Youth",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
@@ -57,12 +57,6 @@ https://a-cdn.klowdtv.com/live1/oan_1080p/playlist.m3u8
 https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1807768828874760192/RvVrTRxF_400x400.jpg" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wWSL7JmsenOYtWVluSiJpjTw1hAssPbgOUOCTdyyKWmWlSzKv9dyLd5Qh8tgNQlR5rw2fjsjkw=s900-c-k-c0x00ffffff-no-rj" group-title="History/Science",Documentary+
-https://linear-859.frequency.stream/mt/documentaryplus/859/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png" group-title="History/Science",History HD
-https://dai.google.com/linear/hls/pa/event/3pCfCAVSTz24VQ7jZDXLzw/stream/4c280678-9293-425a-bd95-7f988e0d22a5:BRU/variant/50822ce92271643cd403e147f2df055d/bandwidth/4143876.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/800x800.webp?type=color_onBlack" group-title="History/Science",True History
-https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/1200px-PBS_logo_2019_%28Symbol%29.svg.png" group-title="History/Science",PBS Stream
 https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
@@ -71,18 +65,24 @@ https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/1080p-cc/i
 https://aegis-cloudfront-1.tubi.video/9978d306-2b97-495c-ae13-050d64cbbb71/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/AAIHtZjCzIkRjBI4s0XUWaxQkEI5nWkAAQAszxBPXMM0kRa_imt7qaeIp_nmVNboTGs" group-title="Nature",MagellanTV NOW
 https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist_fc18f0fd_2d126755.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8b/A%26E_%282013-.n.v.%29.png" group-title="Entertainment",A and E HD East
+https://dai.google.com/linear/hls/pa/event/4elNLJnvT_ifl3Qs6G67yQ/stream/cce65e72-f4eb-4403-a083-69af46c3c519:GRQ/variant/2e06d692e6768b1aedfe441a80205646/bandwidth/4143876.m3u8
+#EXTINF:-1 tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png" group-title="History/Science",History HD
+https://dai.google.com/linear/hls/pa/event/3pCfCAVSTz24VQ7jZDXLzw/stream/4c280678-9293-425a-bd95-7f988e0d22a5:BRU/variant/50822ce92271643cd403e147f2df055d/bandwidth/4143876.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/800x800.webp?type=color_onBlack" group-title="History/Science",True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2020/11/78e6945d-logo-e1679690446891.png" group-title="Crime",Court TV
 https://cd63c9a2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ291cnRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836747103353085953/8J7WS5SI_400x400.jpg" group-title="Crime",Law and Crime
 https://cdn.lawandcrime.net/rewind/720.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a60248c8-7b26-4aa8-8e8e-241bdafc2e10/24-ION-1300577902-OTT-CTV---ION-Rebrand-Assets-for-FAST-and-vMVPD-Platforms_PLEX-Logo-Orange.png" group-title="Entertainment",ION
+#EXTINF:-1 tvg-logo="https://spellingbee.com/sites/default/files/national-partners/2024-HeroLogo_NewOrange.png" group-title="Entertainment",ION
 https://aegis-fastly.tubi.video/55011787-3022-4fad-9969-e9da07e94a2e/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
 https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/e3/aa/13379eff448895256e2241cb8c5d/logo-ion-mystery-2024-2x.png" group-title="Entertainment",Ion Mystery
 https://aegis-fastly.tubi.video/d310f21b-19a4-434d-baec-ca24873c399a/playlist_5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
-https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMQ2GzhYagqygjHZgo3EX5GQ4xNkaISwPpw&s" group-title="Sports",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video_1=8000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 HD
