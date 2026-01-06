@@ -244,6 +244,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.socials-links
+###socials-links
 ###newsletter-banner
 ##.newsletter-banner
 ##.c_newsletter
@@ -492,7 +494,8 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
-/gorillametrics
+/assets/dist/js/survey.js
+/web-vitals
 /ads.min
 -ads.min
 /logger
