@@ -494,7 +494,9 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
-/assets/dist/js/survey.js
+/event.send
+/sharedaddy
+/assets/dist/js/survey
 /web-vitals
 /ads.min
 -ads.min
