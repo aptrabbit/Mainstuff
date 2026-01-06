@@ -1,3 +1,4 @@
+$removeparam=campaignCode
 $removeparam=_tracking
 $removeparam=_yTrackUser
 $removeparam=cpm
@@ -245,6 +246,8 @@ $removeparam=aff_sub2
 $removeparam=visitToken
 ###newsletter-banner
 ##.newsletter-banner
+##.c_newsletter
+###c_newsletter
 ###upgrade-modal
 ##.upgrade-modal
 ##.campaign-ad
@@ -489,6 +492,7 @@ $removeparam=visitToken
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/gorillametrics
 /ads.min
 -ads.min
 /logger
