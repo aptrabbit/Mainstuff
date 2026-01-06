@@ -59,7 +59,7 @@ https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PBS_logo_2019_%28Symbol%29.svg/1200px-PBS_logo_2019_%28Symbol%29.svg.png" group-title="History/Science",PBS Stream
 https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/PBS-Symbol.png" group-title="Nature",PBS Nature
 https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vQl0f8aAyYdhpJQ8hl0fJBT8EizPCoF_81wT1LuVk0ciR_x1AhtNEp13gZBWwWIxmrPyry_Y8lM" group-title="Nature",Love Nature
 https://aegis-cloudfront-1.tubi.video/9978d306-2b97-495c-ae13-050d64cbbb71/1080p-cc/index.m3u8
@@ -111,7 +111,7 @@ https://aegis-cloudfront-1.tubi.video/b55de1cc-e4a9-4f16-a001-45795a08ad1d/playl
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWNA_7XR1A39qiA1Pxr8ubiCfSKHpwvXmkg" group-title="Entertainment",MotorTrend FAST TV
 https://amg00136-wbd-amg00136c57-xumo-us-6503.playouts.now.amagi.tv/playlist1080P.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Lifestyle/Travel",Outside
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Sports",Outside
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee8565160c17ec0797edd0d62c39" group-title="Entertainment",TNT HD
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
