@@ -5,9 +5,9 @@ https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/abcnewslive-lg
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://nexusmedianews.com/wp-content/uploads/2020/05/the-weather-channel-logo.png" group-title="Weather",The Weather Channel HD
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="Cartoons/Youth",Adult Swim
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1642044410438520834/AmpUOxVa_400x400.jpg" group-title="Cartoons/Youth",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Cartoons/Youth",Boomerang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Cartoons/Youth",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Cartoons/Youth",Nickelodeon HD
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
