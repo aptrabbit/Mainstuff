@@ -105,8 +105,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV HD
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png" group-title="Sports",NHL Network HD
-https://aegis-cloudfront-1.tubi.video/b55de1cc-e4a9-4f16-a001-45795a08ad1d/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UaScfP39EMhO29ShnBW7A1sqEih1zExs_KgL-v4ibdItPUroYgwHxpwKwrt6FJ7xSlg" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWNA_7XR1A39qiA1Pxr8ubiCfSKHpwvXmkg" group-title="Entertainment",MotorTrend FAST TV
