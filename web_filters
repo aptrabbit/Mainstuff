@@ -244,6 +244,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###exit-intent-overlay
+##.exit-intent-overlay
 ##.socials-links
 ###socials-links
 ###newsletter-banner
@@ -2449,3 +2451,4 @@ brobible.com###social-list
 longevity.technology##.popup_bg
 longevity.technology##.arrows_wrapper
 longevity.technology##.footer_logo
+www.motherjones.com##.mj-pledge-desktop-eoaw-widget
