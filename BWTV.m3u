@@ -73,7 +73,7 @@ https://dai.google.com/linear/hls/event/3pCfCAVSTz24VQ7jZDXLzw/master.m3u8
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/1200px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Hw2PjhVWwd7Bhw==/a9793f3e-0213-4207-addf-53a98644b60f/CIACEPACOgUxLjEuOA==" group-title="Entertainment",REELZ Famous & Infamous
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Entertainment",REELZ Famous & Infamous
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2020/11/78e6945d-logo-e1679690446891.png" group-title="Crime",Court TV
 https://cd63c9a2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ291cnRUVl9ITFM/playlist.m3u8
@@ -87,13 +87,13 @@ https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playl
 https://aegis-fastly.tubi.video/d310f21b-19a4-434d-baec-ca24873c399a/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAMQ2GzhYagqygjHZgo3EX5GQ4xNkaISwPpw" group-title="Sports",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video_1=8000000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuJoGPwN42BUNm7bN5658_pEJrC2WpmcJpQ" group-title="Sports",FS1 HD
+#EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS1.png" group-title="Sports",FS1 HD
 https://foxvideo-sports-cf.video.fox/4e67b456057c7e29fc9d86ec0568b990e27f5387.20260102034759/live/foxsports1-ue1/foxsports1-ue1/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zd8nu5uBGoV89RmCRX-jSRxevjbUc29E0Q" group-title="Sports",FS2 HD
+#EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS2.png" group-title="Sports",FS2 HD
 https://foxvideo-sports-cf.video.fox/ae850d9cefda165a825243cdd02c0436f19b8365.20260103041643/live/foxsports2-ue1/foxsports2-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleWj-gxgXktxkKEcBRqo8xUhzwBzkAdXBqg" group-title="Sports",ESPN HD
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1996257490934312960/qej5-bls_400x400.jpg" group-title="Sports",Ryz Sports Network
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3HWqnwxsqHQT85i1Lid8uqIRRKdJ63fXgQ" group-title="Sports",Ryz Sports Network
 https://live1378.delivery.roku.com/b519e4dd-1677-44b6-81ac-c7be7018d913/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qG4C76Xg5Tgdv8MkZvvJ-yd6IwpYwSax-7O3hZCtC7lsCqCwVf9homGeJsTILFDPQQ" group-title="Sports",Tennis Channel HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
