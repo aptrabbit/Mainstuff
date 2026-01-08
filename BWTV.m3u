@@ -73,7 +73,7 @@ https://dai.google.com/linear/hls/event/3pCfCAVSTz24VQ7jZDXLzw/master.m3u8
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/the-nest---blue.png" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Crime",REELZ Famous & Infamous
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqebTlK.png" group-title="Crime",REELZ Famous & Infamous
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_hd_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2020/11/78e6945d-logo-e1679690446891.png" group-title="Crime",Court TV
 https://cd63c9a2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ291cnRUVl9ITFM/playlist.m3u8
@@ -137,7 +137,7 @@ https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/medhigh.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNANbpN99ZN080tZpzpxohKSBXAoPBNQlsZQ" group-title="Music",Stingray Greatest Hits
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20241112T001853SQUARE.png" group-title="Music",Vevo Hip-Hop
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xwNvRXCTDFU0CjZPERoZsKLkVtRDgag7m40ItyeeacLYRvYGC-kdRu4z1Vp3nBpEPZvZXZbFgg" group-title="Music",Vevo Hip-Hop
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oVSB_KDuZF22WEa-j-s9Y3-l8KmvGolZ_A" group-title="Music",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/1080p/index.m3u8
