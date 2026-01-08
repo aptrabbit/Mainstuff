@@ -87,7 +87,7 @@ https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playl
 https://aegis-fastly.tubi.video/d310f21b-19a4-434d-baec-ca24873c399a/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxwPD7iE2FthPpoAoaKFExcfk_ml1mMheLQ" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWNA_7XR1A39qiA1Pxr8ubiCfSKHpwvXmkg" group-title="Entertainment",MotorTrend FAST TV
+#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/9SOk21YEa8_c0UTl6/240x240" group-title="Entertainment",MotorTrend FAST TV
 https://amg00136-wbd-amg00136c57-xumo-us-6503.playouts.now.amagi.tv/playlist1080P.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Sports",Outside
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
@@ -131,7 +131,7 @@ https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tyt.com/assets/touch/icon-1400.png" group-title="News",TYT The Young Turks
 https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://publish.purewow.net/wp-content/uploads/sites/2/2022/10/HSN_logo.svg_.png" group-title="Shopping",Home Shopping Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="Shopping",Home Shopping Network
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU30vp6pyKhQ5Bce5_kpXDnACd4jKYz9Fsjg" group-title="Shopping",QVC HD
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/medhigh.m3u8
