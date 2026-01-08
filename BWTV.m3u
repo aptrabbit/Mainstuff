@@ -5,14 +5,18 @@ https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/abcnewslive-lg
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://nexusmedianews.com/wp-content/uploads/2020/05/the-weather-channel-logo.png" group-title="Weather",The Weather Channel HD
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1642044410438520834/AmpUOxVa_400x400.jpg" group-title="Cartoons/Youth",AdultSwim com Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.foxcareers.com/Content/img2019/LifeAtFox/fox-weather-logo.png" group-title="Weather",FOX Weather
+https://amg01542-foxweatherllc-foxweather-lgus-7idov.amagi.tv/index_12.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1642044410438520834/AmpUOxVa_400x400.jpg" group-title="Animation",AdultSwim com Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Cartoons/Youth",Boomerang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Animation",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Cartoons/Youth",Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Animation",Nickelodeon HD
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM" group-title="Cartoons/Youth",RetroCrush
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM" group-title="Animation",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
+https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2muLeVkOBPuvZT7LJ0_Z7Qdji2e0Uf6fP4A" group-title="News",BBC News (North America)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648311/group-61770.png" group-title="Nature",BBC Earth
@@ -39,12 +43,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/playlist.m3u8?ads.xumo_c
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="News",CBS News
 https://news20e7hhcb.airspace-cdn.cbsivideo.com/index-english=128000-video=5000000.m3u8
-#EXTINF:-1 tvg-logo="https://wgnradio.com/wp-content/uploads/sites/6/2023/10/NewsNation-512x512-Blue.jpg" group-title="News",NewsNation
-https://fl41.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://www.foxcareers.com/Content/img2019/LifeAtFox/fox-weather-logo.png" group-title="Weather",FOX Weather
-https://amg01542-foxweatherllc-foxweather-lgus-7idov.amagi.tv/index_12.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFA17014-CC53-4C6D-A29B-F91BD461AEE5/3-1x1.png" group-title="News",LiveNOW from FOX
 https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://wgnradio.com/wp-content/uploads/sites/6/2023/10/NewsNation-512x512-Blue.jpg" group-title="News",NewsNation
+https://fl41.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png/900" group-title="News",NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://logos.stocktwits-cdn.com/NMAX.png" group-title="News",Newsmax TV HD
@@ -53,6 +55,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 https://nmxxumo.akamaized.net/hls/live/2020471/Live_1/4.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51DqyTKou1L.png" group-title="News",One America News Network HD
 https://a-cdn.klowdtv.com/live1/oan_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tyt.com/assets/touch/icon-1400.png" group-title="News",TYT The Young Turks
+https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51LHKISjsBL.png" group-title="News",Scripps News
 https://339597f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfU2NyaXBwc05ld3NfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1807768828874760192/RvVrTRxF_400x400.jpg" group-title="News",Reuters TV
@@ -83,8 +87,6 @@ https://cdn.lawandcrime.net/rewind/720.m3u8
 https://aegis-fastly.tubi.video/55011787-3022-4fad-9969-e9da07e94a2e/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
 https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playlist_5.m3u8
-#EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/e3/aa/13379eff448895256e2241cb8c5d/logo-ion-mystery-2024-2x.png" group-title="Entertainment",Ion Mystery
-https://aegis-fastly.tubi.video/d310f21b-19a4-434d-baec-ca24873c399a/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxwPD7iE2FthPpoAoaKFExcfk_ml1mMheLQ" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/9SOk21YEa8_c0UTl6/240x240" group-title="Entertainment",MotorTrend FAST TV
@@ -123,12 +125,8 @@ https://amc-amcpresents-1-us.xumo.wurl.tv/4300.m3u8
 https://aegis-cloudfront-1.tubi.video/ac972967-bdbf-42a1-8d59-dbd79a4ceab6/playlist_7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6bSL3TtkcEdHMvLbbMaUh3refsIidHzSOOw" group-title="Entertainment",Hi-YAH!
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
-https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRs9lxy7Kd8D0wN3EgUYCxkeYZAmRPCgL1pQ" group-title="Entertainment",TMZ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tyt.com/assets/touch/icon-1400.png" group-title="News",TYT The Young Turks
-https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnZN7rD.png" group-title="Shopping",Home Shopping Network
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU30vp6pyKhQ5Bce5_kpXDnACd4jKYz9Fsjg" group-title="Shopping",QVC HD
