@@ -532,6 +532,7 @@ _AdBreak
 /gTracking
 /generic_events
 /collector
+/collect
 /prebid
 -prebid
 _prebid
@@ -735,7 +736,6 @@ _ApplePay_Test
 /track-users
 /ping
 /prod/track
-/collect
 ?appDefinitionIdToSiteRevision
 /nsfw-blocking
 /PfAds
@@ -2451,4 +2451,5 @@ brobible.com###social-list
 longevity.technology##.popup_bg
 longevity.technology##.arrows_wrapper
 longevity.technology##.footer_logo
+longevity.technology##.elementor-social-icons-wrapper
 www.motherjones.com##.mj-pledge-desktop-eoaw-widget
