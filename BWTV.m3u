@@ -47,7 +47,7 @@ https://news20e7hhcb.airspace-cdn.cbsivideo.com/index-english=128000-video=50000
 https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://wgnradio.com/wp-content/uploads/sites/6/2023/10/NewsNation-512x512-Blue.jpg" group-title="News",NewsNation
 https://fl41.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png/900" group-title="News",NBC News NOW
+#EXTINF:-1 tvg-logo="https://daryncarp.com/wp-content/uploads/2024/05/NBC-news-now-1.png" group-title="News",NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://logos.stocktwits-cdn.com/NMAX.png" group-title="News",Newsmax TV HD
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
@@ -105,7 +105,7 @@ http://41.205.93.154/ESPN/index.m3u8
 https://live1378.delivery.roku.com/b519e4dd-1677-44b6-81ac-c7be7018d913/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31cM1IlYIBL.png" group-title="Sports",Tennis Channel HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png/900" group-title="Sports",T2
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Sports",T2
 https://amg01444-amg01444c8-xumo-us-7036.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5J8pTuU4n-mKBKoX8hJjSp1TLc6I5pUlTDA" group-title="Sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
@@ -141,5 +141,5 @@ https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/1080p/index.m3
 https://vicetv-vicefast1-firetv.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0urAH100yOHBVsGVASXcUe9OzbOL8sLf8Nw" group-title="Weather",WeatherSpy
 https://tmbijukin.global.transmit.live/hls/68dc4a172aa9a163d81820f5/v1/jukin_weatherspy_4/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI" group-title="Nature",WildEarth
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2BizvUANViV5NJDJ4V2S2oC50IN73GylylqnMik0TQ" group-title="Nature",WildEarth
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
