@@ -244,6 +244,8 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+##.elementor-popup-modal
+###elementor-popup-modal
 ###exit-intent-overlay
 ##.exit-intent-overlay
 ##.socials-links
