@@ -17,7 +17,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
 https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live_720.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2muLeVkOBPuvZT7LJ0_Z7Qdji2e0Uf6fP4A" group-title="News",BBC News (North America)
+#EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2020/04/5e84d4ab285bc.png" group-title="News",BBC News (North America)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648311/group-61770.png" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -73,7 +73,7 @@ https://amg00376-magellan-amg00376c1-lg-us-1347.playouts.now.amagi.tv/fc18f0fd-e
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoyf09WhCXh9WRs3BK2hp0DA2jpbu7ASfB_g" group-title="History/Science",History HD
 https://dai.google.com/linear/hls/event/3pCfCAVSTz24VQ7jZDXLzw/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQflBhFV_vpOxkEo2PDO9eG__hRYJzcU1W2Q" group-title="Entertainment",A and E HD East
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1428920270677549058/e2BBUKZt_400x400.jpg" group-title="Entertainment",A and E HD East
 https://dai.google.com/linear/hls/event/4elNLJnvT_ifl3Qs6G67yQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/the-nest---blue.png" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
@@ -131,9 +131,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.
 https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU30vp6pyKhQ5Bce5_kpXDnACd4jKYz9Fsjg" group-title="Shopping",QVC HD
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/medhigh.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNANbpN99ZN080tZpzpxohKSBXAoPBNQlsZQ" group-title="Music",Stingray Greatest Hits
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2005672820148158465/sZGtxQ5u_400x400.jpg" group-title="Music",Stingray Greatest Hits
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xwNvRXCTDFU0CjZPERoZsKLkVtRDgag7m40ItyeeacLYRvYGC-kdRu4z1Vp3nBpEPZvZXZbFgg" group-title="Music",Vevo Hip-Hop
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UGOO5nJIo0E3WTHfoQEYhLef1uiXgUbZww" group-title="Music",Vevo Hip-Hop
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oVSB_KDuZF22WEa-j-s9Y3-l8KmvGolZ_A" group-title="Music",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/1080p/index.m3u8
