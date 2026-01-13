@@ -342,6 +342,8 @@ $removeparam=visitToken
 ##.cookie-notice
 ###cookieConsentBannerContainer
 ##.cookieConsentBannerContainer
+###ccpa_consent_banner
+##.ccpa_consent_banner
 ###onetrust-consent-sdk
 ###tracking-consent-banner
 ##.cookieConsentWrapper
@@ -364,6 +366,8 @@ $removeparam=visitToken
 ###gdpr__notice
 ##.gdpr-cookie-message
 ###gdpr-cookie-message
+##.kampyleButtonContainer
+###kampyleButtonContainer
 ##.beehiiv_embed_signup
 ##.kg-signup-card-content
 ###signup-popup
@@ -505,6 +509,12 @@ $removeparam=visitToken
 ###sticky-top-ad
 ##.sidearm-adblock
 ###sidearm-adblock
+###leaderboard
+##.leaderboard
+###desktop_article_leaderboard_header
+##.desktop_article_leaderboard_header
+##.mobile-leaderboard
+###mobile-leaderboard
 ##.warranty-promo
 ##.ai-track
 ##.affirm-site-modal
@@ -529,8 +539,6 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ##.gnt_pm
-###desktop_article_leaderboard_header
-##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
 /social-sharing
@@ -1203,7 +1211,6 @@ coinbase.com##.kuposl
 coinbase.com#@#[class*="cds-fixed-"]
 wikipedia.org##.vector-limited-width-popup
 wikipedia.org##.cn-fundraising
-urbandictionary.com###leaderboard
 urbandictionary.com##.flex.mb-8 > div
 ghacks.net###ghacks_ad_code-2
 speedof.me##.cc-window-banner
@@ -1462,9 +1469,6 @@ cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
 www.nbcnews.com##div.recommended-intersection-ref
 ||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
-www.dickssportinggoods.com###kampyleButtonContainer
-hardwaresfera.com##.stream-item-top-wrapper.stream-item.tie-col-md-8
-hardwaresfera.com##.is-alreay-loaded.is-sticky.normal-side.tie-col-xs-12.tie-col-md-4.sidebar
 coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
 chessbase.com###askForCookiesBackground
 www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
@@ -1478,8 +1482,6 @@ imgur.com##.masthead.BannerTop3
 www.docsity.com##.dsy-advertising
 www.banklesstimes.com##.tipi-xs-0.rotatable.secondary-navigation
 ||quotefancy.com/frontend/img/studio/promo/quotefancy_studio_*0_optim.jpg$image
-www.cinemablend.com##.mobile-leaderboard-320-50
-www.cinemablend.com##div:nth-of-type(24)
 softwarekeep.com##.klaviyo-form
 www.timeanddate.com###mpo
 www.bsc.news##.ad-block-3-side-page
@@ -2000,7 +2002,6 @@ x.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: abs
 x.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])
 x.com##[aria-label="Timeline: Conversation"] h2>div>span:has-text(/^Discover more$/):upward([style^="transform"])~div
 x.com,x.com##[aria-label="Timeline: Conversation"] :is([data-testid="cellInnerDiv"]:has(h2:not(:only-child)), [data-testid="cellInnerDiv"]:has(h2:not(:only-child))~div)
-help.x.com###kampyleButtonContainer
 www.wcostream.net###reklam_adscat > table
 www.wcostream.tv###star-watch-on
 www.wcostream.tv##td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > div:nth-of-type(1)
@@ -2027,7 +2028,6 @@ www.w3schools.com###right
 seobility.net###sale_sidebar_content
 seobility.net###help-container
 seobility.net##.productfruits--container
-www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
@@ -2399,6 +2399,7 @@ nih.gov##.share_links_wrap
 nih.gov##footer
 nih.gov##.custom-feedback-button--base
 nih.gov##.usa-banner
+epa.gov##.differences
 www.ainvest.com##.dark\:bg-gray-900
 blog.hubspot.com###slidebox
 ||hubspot.com^$removeparam=via
@@ -2407,7 +2408,6 @@ libertymutual.com/health
 www.libertymutual.com###quoting-anchor
 www.the-express.com##div.text-description > ul
 ||realpage.com^$removeparam=ClientSessionID
-www.epa.gov##.differences
 www.nature.com##.c-site-messages--is-visible
 ||ctvnews.ca^$removeparam=cid
 www.glassdoor.ca###HardsellOverlay
@@ -2422,7 +2422,6 @@ www.netmeds.com##.realted-prod-btn
 cryptonewsland.com##.mb-6.p-2.cnl-banner
 thebinaryninja.github.io##.md-consent__inner
 thebinaryninja.github.io##.md-consent__overlay
-telemetr.io##.sm\:max-w-\[350px\].w-auto
 examine.com##[href^="https://docs.google.com/forms"]
 examine.com##.xl\:w-\[1000px\].lg\:pt-\[35\%\]
 examine.com##.undefined.hover\:bg-examine-purple-200
@@ -2431,7 +2430,6 @@ examine.com##.py-10.bg-white.home-section
 examine.com##.lg\:text-xl.hover\:shadow-sm.text-white
 examine.com##.py-10.bg-white.flex-col.flex
 examine.com##[href^="/pro/"]
-www.dropbox.com###ccpa_consent_banner
 www.sciencealert.com##.bg-sciencealert-yellow
 www.thedailybeast.com###user-comments
 www.theepochtimes.com###uacta-target
