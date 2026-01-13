@@ -439,6 +439,7 @@ $removeparam=visitToken
 ###ad-free
 ##.ad-free
 ##.ads__inline
+###ads__inline
 ##.ads-container
 ###ads-container
 ##.advertising
@@ -465,6 +466,9 @@ $removeparam=visitToken
 ##.advertising__image
 ##.adbox--called
 ##.adbox
+###adbox
+##.ad-v-box
+###ad-v-box
 ###adBlock
 ###adImage
 ###adPanel
@@ -1851,12 +1855,10 @@ newsbtc.com###menu-item-473245
 newsbtc.com###menu-item-473760
 newsbtc.com###menu-item-480135
 newsbtc.com###menu-item-481720
-dapp.com##.general-ad2
 ahrefs.com##.intercom-icon-container
 neilpatel.com###bottom-box-cta
 neilpatel.com###topbar
 neilpatel.com##.widget-analyzer
-www.thejakartapost.com##.ad-v-box
 developers.facebook.com###devsite_dock
 www.tronweekly.com##.widget_media_image
 blockchair.com##.page-address__promo
