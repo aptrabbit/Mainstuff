@@ -11,8 +11,6 @@ https://amg01542-foxweatherllc-foxweather-lgus-7idov.amagi.tv/index_12.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Animation",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Animation",Nickelodeon HD
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM" group-title="Animation",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
@@ -85,7 +83,7 @@ https://cd63c9a2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ2
 https://cdn.lawandcrime.net/rewind/720.m3u8
 #EXTINF:-1 tvg-logo="https://spellingbee.com/sites/default/files/national-partners/2024-HeroLogo_NewOrange.png" group-title="Crime",ION
 https://aegis-fastly.tubi.video/55011787-3022-4fad-9969-e9da07e94a2e/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/250px-ION_Plus_logo.svg.png" group-title="Crime",ION Plus
+#EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_BlueLogo_800x318.png" group-title="Crime",ION Plus
 https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxwPD7iE2FthPpoAoaKFExcfk_ml1mMheLQ" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
