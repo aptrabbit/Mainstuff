@@ -1974,8 +1974,6 @@ bitcoin.com##.sticky-down.bn_desktop_widgets
 bitcoin.com##widget_custom_html
 bitcoin.com###bitcoincom-wgt-footer
 www.studocu.com##.fade-in-enter-done
-www.thehansindia.com##.hocal_hide_on_mobile
-www.thehansindia.com###home-mid-wrap1
 www.designpieces.com##.widget_custom_html
 switchnutrition.com.au##.js-toggle-slide-nav
 shopbestnaturals.com###sro-popup
@@ -2132,7 +2130,6 @@ cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
 cosmeticsandtoiletries.com##.card-deck-flow__node--position-before
 cosmeticsandtoiletries.com##.page-rail.col-lg-4
 cosmeticsandtoiletries.com##.content-meter
-www.outlookindia.com###coverLatest
 www.kidney.org###footer-sticky
 www.mskcc.org###cassie-widget
 www.washingtonpost.com##.absolute.top-0.left-0.mt-lg.z-1
@@ -2164,7 +2161,6 @@ www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
 www.besthealthmag.ca###cmu_right_rail_widget-3
 www.engadget.com##.M\(MarginCenter\)
-hindustantimes.com##.entryPointBanner
 www.weekand.com##.pt16
 www.weekand.com###Flex1
 workforcenow.adp.com##.hdpi.pac-container
@@ -2260,8 +2256,12 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=source,important
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
-www.seoreviewtools.com##.special-content
+seoreviewtools.com##.special-content
 indiatimes.com##.noPaddingTitle
+outlookindia.com###coverLatest
+thehansindia.com##.hocal_hide_on_mobile
+thehansindia.com###home-mid-wrap1
+hindustantimes.com##.entryPointBanner
 usnews.com##react-trigger
 usnews.com###bfad-slot
 www.techedubyte.com##ins
