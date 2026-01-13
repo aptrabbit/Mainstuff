@@ -301,6 +301,9 @@ $removeparam=visitToken
 ##.donation-cta
 ###donation-cta
 ##.alert-donation
+###alert-donation
+##.alert-funding
+###alert-funding
 ##.blocker-intercept
 ###blocker-intercept
 ##.component--cookie-banner
@@ -815,7 +818,6 @@ _content-telemetry
 /libs_ads
 /monitoring
 /rufus
-/coinbase.experiment
 /share-button
 /sailthru
 -ad-referral
@@ -1196,10 +1198,11 @@ https://app-measurement.com/sdk-exp$important
 www.news-medical.net/bundles/js/desktop/base
 https://www.tiktok.com/passport/web/account/info/
 https://mssdk.us.tiktok.com/web/common?msToken
-wikipedia.org##.vector-limited-width-popup
-wikipedia.org##.cn-fundraising
+/coinbase.experiment
 coinbase.com##.kuposl
 coinbase.com#@#[class*="cds-fixed-"]
+wikipedia.org##.vector-limited-width-popup
+wikipedia.org##.cn-fundraising
 urbandictionary.com###leaderboard
 urbandictionary.com##.flex.mb-8 > div
 ghacks.net###ghacks_ad_code-2
@@ -1226,6 +1229,7 @@ www.komando.com##.k3-prefs-center-modal-background
 www.ebay.com##.vi-feedback-survey
 www.ebay.com##.vi-feedback-header
 www.ebay.com###ocs-inflow
+www.ancestry.com###Banner_privacy_0
 theundefeated.com##.dialog-content
 theundefeated.com##.dialog-overlay
 digitalguyde.com##a.easyazon-link:nth-of-type(11) > .aligncenter.easyazon-image
@@ -1237,9 +1241,6 @@ cnet.com##.bd
 ||www.usopen.org/assets/images/header/ribbon.gif$image
 lifehacker.com###sidebar_wrapper
 www.strategy-business.com##.showing.newsletterOverlay
-www.ancestry.com###Banner_privacy_0
-www.fix.com##.modal-body
-www.fix.com##.in.fade.modal-backdrop
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
 www.womenshistory.org##.n-modal
 investing.com##.signupWrap
@@ -1329,9 +1330,6 @@ www.ccleaner.com###main-content > .text-center
 www.ccleaner.com##.download-notification--top.download-notification
 hootsuite.com##._popupVariantContentUpgrade
 hootsuite.com##.fade-in.exit-intent-modal
-socialtipster.co##.flexright.hidden-xs.hidden-sm.th-col-right.to-flex-col
-socialtipster.co###socia-1030937160
-socialtipster.co##.socia-after-content
 smallbusiness.chron.com##.article-right-col-container
 schwab.com##.closed.feedbackLink
 schwab.com###Login-Logout-slot-1
@@ -2217,10 +2215,8 @@ www.livehdtv.net##p:nth-of-type(4)
 www.livehdtv.com##.text-center
 www.livehdtv.com##.col-lg-3
 www.bitcoininsider.org##.region--hero.region
-allthatsinteresting.com##div.pbh_inline
 ustvgo.kissreport.com##.adace-popup-detector
 clustrmaps.com###beenV
-tosdr.org###alert-funding
 getpublii.com###download-publii-link
 crypto-news-flash.com###before-disclaimer
 www.cedars-sinai.org#@#.enewsletter
@@ -2266,8 +2262,6 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=permalink,important
 www.seoreviewtools.com##.special-content
 indiatimes.com##.noPaddingTitle
-www.androidauthority.com##div.--_-___ti
-www.androidauthority.com##.--_-___4l
 usnews.com##react-trigger
 usnews.com###bfad-slot
 www.techedubyte.com##ins
