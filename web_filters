@@ -244,6 +244,20 @@ $removeparam=attributionid
 $removeparam=aff_sub
 $removeparam=aff_sub2
 $removeparam=visitToken
+###promobanners
+##.promobanners
+##.noticeContent
+###noticeContent
+##.top-ad
+###top-ad
+##.topads
+###topads
+##.tile-ad
+###tile-ad
+##.ads-large-leaderboard
+###ads-large-leaderboard
+##.post_sponsorship
+###post_sponsorship
 ##.elementor-popup-modal
 ###elementor-popup-modal
 ###exit-intent-overlay
@@ -276,6 +290,8 @@ $removeparam=visitToken
 ###featured-row
 ##.ad-carousel
 ###ad-carousel
+##.footer-social-wrap
+###footer-social-wrap
 ##.social-list
 ###social-list
 ##.social-sharing
@@ -398,11 +414,14 @@ $removeparam=visitToken
 ###affiliateDisclaimer
 ###page-survey
 ###customer_satisfaction_survey
+##.slot-leaderboard
+###slot-leaderboard
 ##.feedback-widget-view
 ###feedback-button-container
 ###feedback-survey
 ###feedback-button
 ##.feedback-sticky
+###feedback-sticky
 ##.feedback
 ###feedback
 ###skyline
@@ -415,6 +434,8 @@ $removeparam=visitToken
 ##.single-post-hero-ad
 ##.ad-bottom-spacing
 ##.advertisement-left
+##.advertinside
+###advertinside
 ###advertorial-container
 ##.adtech-section
 ##.pre-header-ad-holder
@@ -492,12 +513,22 @@ $removeparam=visitToken
 ###tbl-next-up
 ##.gs_qsuggest_wrap
 ##.demo-avd
+##.gnt_pm
 ###selfpromotionOverlay
 ##.selfpromotionOverlay
 ###desktop_article_leaderboard_header
 ##.desktop_article_leaderboard_header
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/social-sharing
+/js/assets/listener
+/track-bus
+-view-event
+/track-load
+/gtm-tracker
+-screen-change-event
+/p1events
+/rapid-identify
 /event.send
 /sharedaddy
 /assets/dist/js/survey
@@ -1141,7 +1172,6 @@ cdn2.editmysite.com/js/site/footerSignup.js
 cdn2.editmysite.com/js/site/main-customer-accounts-site.js
 no-cache.hubspot.com/cta/
 azureedge.net/scripts/sdt1.js
-trck.pix.twitch.prod-na.turntable.sonic.advertising
 https://www.gq.com/SQZ
 www.gstatic.com/firebasejs
 https://app-measurement.com/sdk-exp$important
@@ -1162,8 +1192,7 @@ coinbase.com##.kuposl
 coinbase.com#@#[class*="cds-fixed-"]
 urbandictionary.com###leaderboard
 urbandictionary.com##.flex.mb-8 > div
-www.ghacks.net###ghacks_ad_code-2
-www.studyblue.com##.slide-in.js-slideup-banner.slideup-banner
+ghacks.net###ghacks_ad_code-2
 speedof.me##.cc-window-banner
 speedof.me##.cc-dialog-pane
 airvpn.org###air_cookielaw_container
@@ -1203,10 +1232,7 @@ www.fix.com##.modal-body
 www.fix.com##.in.fade.modal-backdrop
 www.motorauthority.com###main > .article-block > .article-wrap > .right-col
 www.womenshistory.org##.n-modal
-www.cincinnati.com##.gnt_pm
-www.auslogics.com##.modal-container
 investing.com##.signupWrap
-investing.com##.border-b-\[\#E6E9EB\]
 investing.com##.shadow-strategiesButton
 thepostmillennial.com##.newsletter.banner.partial
 thepostmillennial.com##.closeable.bottom-shadow.no-margin.commercial > .inner > .display.publicity
@@ -1220,23 +1246,17 @@ www.barchart.com##.barchartBrief
 www.barchart.com##.bc-header-premier-ads
 civilwartalk.com##font > center
 www.ecstuning.com##.show.fade.hide.modal
-www.pelicanparts.com##.simplemodal2-container
-www.pelicanparts.com###simplemodal2-overlay
 www.mercedescla.org###welcome_back
 www.barrons.com###webui-read-next > div
 www.marketwatch.com###circular-widget
-www.pirateproxy-bay.com##.hidden-except-country.nord-message__wrap
+www.pirateproxy-bay.com##.nord-message__wrap
 userstyles.org##.android_button_button
-capital.com##.footer-site-inner
 www.realclearpolitics.com##.fark-header
 cosmos.network##.banner-wrapper
 www.niche.com##.scatterplot__logged-out-messages
 www.niche.com##.search-result--featured
-www.urotuning.com###soundest-forms-container
-www.gamingscan.com##.fs-top-of-content
 www.bankrate.com##.myFinance-ad-unit
 www.dell.com##.ask-question-banner-wrapper
-www.jewage.org##.family_search_popup
 brainly.com##.js-react-brainly-plus-box-aside
 expressdigest.com##.code-block-2.code-block
 www.popularmechanics.com##.gallery-module.embed
@@ -1246,12 +1266,10 @@ www.npr.org###global-modal-mount
 contentmarketinginstitute.com##.pty_pkg
 www.laptopmag.com##.slot-topOfSidebar
 www.laptopmag.com##.slot-beforePopularBox
-www.laptopmag.com##.slot-leaderboard
 www.laptopmag.com##.slot-afterPopularBox
 www.laptopmag.com##.hawk-main-transparent
 www.laptopmag.com##.slot-lightbox1
 www.majorgeeks.com##.navigation-light
-www.techradar.com##.slot-leaderboard
 www.techradar.com##.slot-topOfSidebar
 www.techradar.com##.slot-beforePopularBox
 www.techradar.com##.slot-afterPopularBox
@@ -1287,9 +1305,7 @@ instadp.org##.text1.container
 instadp.org##div:nth-of-type(4)
 www.wbur.org##.uw--sponsorships
 www.psychologytoday.com##.pt-ad-show-text
-www.rentcafe.com##picture
 nationalgeographic.com###tou-message
-www.123rf.com##.showTNC.tnc-padding.tnc-container
 www.tennis-warehouse.com###data_protection
 www.cointracker.io##.performance-chart-upgrade
 www.cointracker.io##tbody > .d-flex
@@ -1376,8 +1392,7 @@ www.investors.com###investors-policy-terms-consent-dialog
 www.investors.com##.drop-cap.post-content.single-post-content > p > span
 coinguides.org##.theiaStickySidebar
 cryptocoin.news##.ccpw-header-ticker-fixedbar.ccpw-ticker-cont.style-1-2
-www.digit.in##.avg_height
-www.britannica.com##.rr-module-1.rr-module
+www.britannica.com##.rr-module-1
 selfhacked.com##.end-of-post
 selfhacked.com##.post-ratings-wrapper
 benchmarks.ul.com##.clearfix.defaultbox
@@ -1386,6 +1401,7 @@ www.ratemyprofessors.com##.ReactModal__Overlay
 2cryptocalc.com##.static
 www.ngpf.org###site-use-footerm
 www.altcoinbuzz.io##aside.widget_media_image.widget.td_block_template_1
+www.altcoinbuzz.io##.tdn_block_newsletter_subscribe
 www.monstersandcritics.com##.tower300600
 www.monstersandcritics.com##.pw-ph-leaderboard.leaderboard-ad-size
 www.monstersandcritics.com##.pw-ph-med-rect
@@ -1499,8 +1515,8 @@ freebitco.in##.daily_jackpot_main_container_div
 harvard.edu##.welcome-popup
 harvard.edu##.exit-intent-popup
 notthebee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
-support.microsoft.com###supWrapperToPreventFeedbackFlickering
-docs.microsoft.com##.has-margin-bottom-small.has-padding-bottom-small.has-border-bottom.feedback-verbatim
+microsoft.com###supWrapperToPreventFeedbackFlickering
+microsoft.com##.feedback-verbatim
 dailywire.com##+js(rc, css-jzy0w8)
 dailywire.com##+js(rc, css-160lw9c)
 gitlab.com##.trial-link
@@ -1522,10 +1538,6 @@ forkast.news##.alert-bar
 www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
 www.cnn.com##.el-entitlement-.el-entitlement
 languagetool.org##.dock__item--premium.dock__item
-www.artfultea.com##.visible.sqs-popup-overlay
-appgrooves.com##.transitions-enabled.sticky-signup-section
-appgrooves.com##.mg-b-16.app-deals-wrapper
-appgrooves.com##.hidden-sm.hidden-xs.leftnav-menus-container > div > .mg-b-16.bordered-radius.page-section
 ambcrypto.com##.ub-sticky-ad-containerdesk
 ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
 ambcrypto.com##.ambcr-widget
@@ -1600,6 +1612,7 @@ www.coindesk.com###highimpact-ad-container
 www.coindesk.com##.pointer-events-none
 www.coindesk.com##.ah280px
 coindesk.com/newsletters/
+www.hotdeals.com/cut-port
 hotdeals.com##.afsstyle
 autonews.com##.block-region-content-right
 myanimelist.net##.banner-header-anime-straming
@@ -1625,10 +1638,9 @@ tech-latest.com##.td-post-title > .entry-title
 www.motor1.com##.widget-wrapper
 www.motor1.com##.msrp-stripe
 www.motor1.com##.msrp-body
-www.motor1.com##.top-banner-placeholder.m1-header-ad
+www.motor1.com##.m1-header-ad
 petri.com##.contentHighlight
 www.windowscentral.com##div.article-body__section--wide-desktop.article-body__section
-www.wilderssecurity.com##.noticeContent
 www.torproject.org##.justify-content-center.d-flex.align-middle.banner.banner__containter
 www.hwinfo.com##.xds
 nytimes.com##.MAG_web_all_Monthly-Sale-dock
@@ -1637,7 +1649,7 @@ nytimes.com###paywallwrapper
 nytimes.com###athletic-gateway-container
 ||shrm.org/*/design/js/paywall.js$script,1p
 ||archive.org/includes/donate.php$subdocument
-web.archive.org###donato
+archive.org###donato
 healthfully.com##.sticky.video-player-wrapper
 deadline.com##.u-hidden\@desktop-max.u-width-100p.toaster
 bloomberg.com##.bb-global-footer__ad-choices
@@ -1661,7 +1673,6 @@ www.publish0x.com##[href^="https://nexo.io/earn-crypto"]
 www.publish0x.com###registerPopup
 www.publish0x.com##.text-center.pb-2.offset-lg-2.col-lg-8
 crypto.com##.swiper-container-pointer-events
-seekingalpha.com###content > div.flex.grow.flex-col:last-child > div.absolute.inset-0.bg-black\/30:last-child
 seekingalpha.com##.banner-image
 seekingalpha.com###paywall_dynamic_ticker
 seekingalpha.com###px-captcha-wrapper
@@ -1700,6 +1711,8 @@ www.benzinga.com##.signup-box
 www.benzinga.com###crypto-widget-CoinMarquee
 www.benzinga.com##.placement
 www.benzinga.com##.medium-8.small-12.cell > p
+www.benzinga.com##.banner-wrapper
+www.benzinga.com##.wp-block-image
 priceprediction.net##center
 www.tipranks.com##.mxauto.mb4.hideOnultimate
 www.tipranks.com##.client-components-tabbed-page-promotional__promotional
@@ -1768,7 +1781,6 @@ www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
 www.cryptonewsz.com##.stream-item-top-wrapper
 www.cryptonewsz.com##.widget_block
-icoholder.com##.top-binance
 digitalcoinprice.com##.ads-90
 digitalcoinprice.com##.cmc-btn-grp
 www.thisismoney.co.uk##.watermark
@@ -1791,7 +1803,6 @@ walletinvestor.com##.etheal-text
 walletinvestor.com##.homepage-text
 walletinvestor.com##[href^="https://premium.walletinvestor.com/"]
 ||walletinvestor.com/static/frontend/images/nys/1920x150$subdocument
-capital.com##.shares
 ||bitcoinist.com/cryptocom-iframe.html$subdocument
 bitcoinist.com##.play-games
 bitcoinist.com##.svecc-header-price
@@ -1835,7 +1846,6 @@ ahrefs.com##.intercom-icon-container
 neilpatel.com###bottom-box-cta
 neilpatel.com###topbar
 neilpatel.com##.widget-analyzer
-www.thejakartapost.com##.ads-large-leaderboard
 www.thejakartapost.com##.ad-v-box
 developers.facebook.com###devsite_dock
 www.tronweekly.com##.widget_media_image
@@ -1850,8 +1860,6 @@ www.blogarama.com##.view-header > [href]
 bit2me.com##.lazyloaded.exited
 bit2me.com##.widget_media_image
 www.scienceabc.com##.custom-html-widget
-cleartax.in###glossary-save-top-cta
-cleartax.in###glossary-save-side-cta
 cryptobriefing.com##.article-sidebar-items
 cryptobriefing.com##.top-adv-content
 cryptobriefing.com##.extra.sidebar-info
@@ -1877,10 +1885,13 @@ cnbc.com##.HighlightShare-styles-makeit-container--3lGwK
 cnbc.com#@#.SocialShare-socialShare
 cnbc.com##.ProHub-outerContainer
 cnbc.com###Market\ Data_LiveTVTempPass
-||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
-www.twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
-www.twitch.tv###twilight-sticky-footer-root
+twitch.tv##.video-size.tw-top-0.tw-left-0.tw-full-width.tw-full-height.tw-block.tw-absolute.passthrough-events
+twitch.tv###twilight-sticky-footer-root
 twitch.tv##+js(twitch-videoad)
+||supervisor.ext-twitch.tv/supervisor/v1/index.html$subdocument
+https://assets.twitch.tv/assets/pages.embed-chat
+||www.twitch.tv/embed/icelzz/chat$subdocument
+trck.pix.twitch.prod-na.turntable.sonic.advertising
 static.twitchcdn.net/assets/pages.embed-chat
 play.google.com/log
 google.com/gsi/button
@@ -2011,12 +2022,12 @@ seobility.net###help-container
 seobility.net##.productfruits--container
 www.swansonvitamins.com###kampyleButtonContainer
 www.swansonvitamins.com###talkable-offer
-trailsoffroad.com##.paywall
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
 cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
+www.mediaite.com##.o-social-items
 holisticprimarycare.net##.qc-cmp2-container
 cointelegraph.com##.price-indexes-widget
 cointelegraph.com###vue-footer
@@ -2046,7 +2057,6 @@ forbes.com##.top-ed-placeholder
 forbes.com##.no-close
 forbes.com##.zephr-backdrop
 www.mskcc.org###msk-modal-dialog
-homemetry.com###topads
 homemetry.com##.adsense-responsive-bottom
 homemetry.com###main > div.spinner
 www.relaxium.com###partial_form
@@ -2082,11 +2092,9 @@ www.vox.com###toaster
 www.shrm.org##.HP-v2 > .row
 www.shrm.org##.shrm-widget
 www.shrm.org##.metteredHolder
-www.shrm.org##.tile-ad
 www.stylecraze.com##.widget_text
 www.stylecraze.com###viewdeos-player
 www.stylecraze.com##.flying-carpet-wrapper
-www.stylecraze.com##.advertinside
 www.allure.com##.ad-stickyhero-enable-mobile
 www.allure.com##.journey-unit__container
 nordiqnutrition.com##.wt-cli-cookie-bar
@@ -2111,12 +2119,12 @@ https://api-partner.spotify.com/ads/
 https://open.spotify.com/recaptcha/fraud
 /quicksilver
 /gabo-receiver-service
-www.cosmeticsandtoiletries.com##.node--text-ad-content-type
-www.cosmeticsandtoiletries.com##.ad-container--template-lb1
-www.cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
-www.cosmeticsandtoiletries.com##.card-deck-flow__node--position-before
-www.cosmeticsandtoiletries.com##div.card-deck-flow__node:nth-of-type(5)
-www.cosmeticsandtoiletries.com##.page-rail.col-lg-4
+cosmeticsandtoiletries.com##.node--text-ad-content-type
+cosmeticsandtoiletries.com##.ad-container--template-lb1
+cosmeticsandtoiletries.com##.ad-container--template-infinite-mr
+cosmeticsandtoiletries.com##.card-deck-flow__node--position-before
+cosmeticsandtoiletries.com##.page-rail.col-lg-4
+cosmeticsandtoiletries.com##.content-meter
 www.outlookindia.com###coverLatest
 www.kidney.org###footer-sticky
 www.mskcc.org###cassie-widget
@@ -2129,11 +2137,10 @@ selfdecode.com##.wt-cli-cookie-bar-container
 selfdecode.com##[href="/app/gpt"]
 selfdecode.com##.sidebar-bio
 selfdecode.com##.affiliate-toggle
-www.usatoday.com##.gnt_xbr
-www.usatoday.com##a.gnt_cw_sl
+usatoday.com##.gnt_xbr
+usatoday.com##a.gnt_cw_sl
 www.firesticktricks.com##.mysticky-welcomebar-animation
 www.firesticktricks.com##.warning
-www.idropnews.com##.post_sponsorship
 www.nutraingredients-usa.com##div.mfp-wrap
 www.nutraingredients-usa.com##div.mfp-preloader
 www.nutraingredients-usa.com##.Section:nth-of-type(2)
@@ -2178,10 +2185,8 @@ paypal.com/credit-presentment/smart/message
 www.comingsoon.net##.wp-block-buttons
 www.salary.com##.sovrn-ads
 ||www.malwarebytes.com^$removeparam=version
-www.ktbs.com##div.col-md-12
-www.livemint.com###rhsPopularVideosNotAdFree
-www.livemint.com##.story4.rightBlock
 www.livemint.com##.premiumSlider
+www.livemint.com##.newsletterRHS
 www.consumerlab.com##.reactions
 hbr.org##.article-utils--vertical
 hbr.org##.article-utils--horizontal
@@ -2191,7 +2196,6 @@ www.muscleandstrength.com##quote
 www.prnewswire.com##.btn-fab
 www.prnewswire.com##.newsletterSignupWidget
 www.express.co.uk##[href="https://express.co.uk/premium-subscription"]
-https://www.hotdeals.com/cut-port
 www.primewire.tf##.nopop.spn-btns
 www.starterstory.com##.fade.modal-backdrop
 www.cbssports.com###skybox-top-wrapper
@@ -2293,17 +2297,10 @@ people.com###mntl-sc-block_13-0
 people.com###mntl-sc-block_42-0
 people.com###mntl-sc-block_30-0
 people.com###mntl-sc-block_27-0
-account.cloudresearch.com###promobanners
-www.benzinga.com##.banner-wrapper
-www.benzinga.com##.wp-block-image
 www.gofundme.com###transcend-consent-manager
-https://assets.twitch.tv/assets/pages.embed-chat
-||www.twitch.tv/embed/icelzz/chat$subdocument
 icelz.to##.channel-header-fixed-buttons
 cars.com###prequalified-banner-hook
-jobzone.publishersweekly.com###candidate-products-promotion
-minaprotocol.com##.adf99
-www.dovepress.com##.psmtc_BuTp
+publishersweekly.com###candidate-products-promotion
 www.iplocation.net##.ip-buttons2.col
 www.iplocation.net##.ip-placeholder > p
 thetvapp.to##[href="/premium"]
@@ -2455,3 +2452,6 @@ longevity.technology##.arrows_wrapper
 longevity.technology##.footer_logo
 longevity.technology##.elementor-social-icons-wrapper
 www.motherjones.com##.mj-pledge-desktop-eoaw-widget
+www.oaepublish.com##.cook_box
+archaeologymag.com###custom_html-2
+archaeologymag.com##.wpb_wrapper.jeg_wrapper
