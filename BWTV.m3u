@@ -61,12 +61,16 @@ https://aegis-cloudfront-1.tubi.video/5e421f34-2a4d-42de-a61c-adbf6e20aa23/playl
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/pbs-5e539210-2d28-4f80-995f-279610e4062-resize-750.png" group-title="History/Science",PBS Stream
 https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/07/PBS-Travel.png" group-title="Entertainment",PBS Travel
+https://amg02333-pbs-amg02333c15-plex-us-8622.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
 https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png" group-title="Nature",Love Nature
 https://aegis-cloudfront-1.tubi.video/9978d306-2b97-495c-ae13-050d64cbbb71/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYscwY0VSUXSnycRIKSrBhBdB8o33dEwGsqw" group-title="Nature",MagellanTV Wildest
 https://amg00376-magellan-amg00376c1-plex-us-1372.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist_fc18f0fd_2d126755.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97Jno-_4xG-4cVfgmyuR2SM1rt87rh8V9nA" group-title="Entertainment",Curiosity NOW
+https://amg00170-curiositystream-amg00170c1-plex-us-2280.playouts.now.amagi.tv/curiositynow-wurl/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/800x800.webp?type=color_onBlack" group-title="History/Science",True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSNgz8qGyKpm1yLHYij7pqQwqbaxuWWsmRw" group-title="History/Science",History HD
@@ -139,7 +143,7 @@ https://tmbijukin.global.transmit.live/hls/68dc4a172aa9a163d81820f5/v1/jukin_wea
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2005672820148158465/sZGtxQ5u_400x400.jpg" group-title="Music",Stingray Greatest Hits
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/09/ab/09ab2f1d84e6f0fbbfdf3e7b66e5266d.jpg" group-title="Music",Stingray Alt Rock
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UGOO5nJIo0E3WTHfoQEYhLef1uiXgUbZww" group-title="Music",Vevo Hip-Hop
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/67dc70250a32ab6e4e1907cb" group-title="Music",iHeart Country
-https://dbrb49pjoymg4.cloudfront.net/10001/9995102/hls/hls.m3u8?ads.xumo_channelId=9995102
