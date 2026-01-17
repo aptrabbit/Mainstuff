@@ -307,6 +307,8 @@ $removeparam=visitToken
 ##.blocker-intercept
 ###blocker-intercept
 ##.component--cookie-banner
+##.cook_box
+###cook_box
 ##.cookieTest
 ###cookieTest
 ###cookie-consent
@@ -2272,7 +2274,6 @@ www.ndtv.com##.sprt-btn
 pcgs.com##div.text-xsmall
 pcgs.com###ebayFeedWrap
 cryptopanic.com##div.app-layout:first-child > div.app-left-pane.app-pane:first-child > div.left-nav:nth-child(2) > a.left-nav-item:nth-child(6)
-cryptopanic.com##div.app-layout:first-child > div.app-center-pane:nth-child(2) > div.app-main-container:first-child > div.app-content-panes > div.app-main-pane:first-child > div.news-container:nth-child(3) > div:first-child
 cryptopanic.com##.ps--active-y.ps.news-container > div:nth-of-type(1)
 cryptopanic.com##.news-row-sponsored
 cryptopanic.com##.text-ad-item
@@ -2455,7 +2456,6 @@ longevity.technology##.arrows_wrapper
 longevity.technology##.footer_logo
 longevity.technology##.elementor-social-icons-wrapper
 www.motherjones.com##.mj-pledge-desktop-eoaw-widget
-www.oaepublish.com##.cook_box
 archaeologymag.com###custom_html-2
 archaeologymag.com##.wpb_wrapper.jeg_wrapper
 www.thecity.nyc##.newspack-inline-popup
