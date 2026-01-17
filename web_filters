@@ -539,6 +539,8 @@ $removeparam=visitToken
 ###top_leaderboard
 ##.warranty-promo
 ##.ai-track
+##.exit-intent-popup
+###exit-intent-popu
 ##.modal-close
 ###modal-close
 ##.affirm-site-modal
@@ -558,7 +560,9 @@ $removeparam=visitToken
 ##.windows-app-upsell
 ###digi-button
 ##.affiliate
-###klaro
+###klarop
+##.google-follow-btn
+###google-follow-btn
 ###google-hats-survey
 ###tbl-next-up
 ##.nord-message__wrap
@@ -784,8 +788,6 @@ _pinger
 -rum-agent
 /rum-agent
 /c.rollBarEntry
-/ab_test
-/ab_tests
 /tippy
 /Universal-Federated-Analytics
 /pianoId
@@ -1022,7 +1024,6 @@ _show_ads
 /promotions
 /cookie-banner
 /RotateCookiesPage
-/marketing_campaign_actions
 /GoogleOneTap
 /autotracker
 /gtm-snippet
@@ -1150,7 +1151,6 @@ _show_ads
 /popup-subscribe
 /lozad
 /product_offers
-/marketing_campaigns
 /campaign_story_event
 /campaign-views
 /generate_204
@@ -1267,13 +1267,11 @@ www.barchart.com##.in.fade.reveal-modal-bg
 www.barchart.com##.bc-webinar-card
 www.barchart.com##.barchartBrief
 www.barchart.com##.bc-header-premier-ads
-civilwartalk.com##font > center
 www.ecstuning.com##.show.fade.hide.modal
 www.mercedescla.org###welcome_back
 www.barrons.com###webui-read-next > div
 www.marketwatch.com###circular-widget
 www.realclearpolitics.com##.fark-header
-cosmos.network##.banner-wrapper
 www.niche.com##.scatterplot__logged-out-messages
 www.niche.com##.search-result--featured
 www.dell.com##.ask-question-banner-wrapper
@@ -1299,7 +1297,6 @@ www.sparknotes.com##.partner__pw__header
 www.privacyend.com##.extendedwopts-hide
 www.thewindowsclub.com##[href^="http://www.restoro.com/includes/route.php"]
 www.crunchyroll.com###showmedia_free_trial_signup
-www.softwaresuggest.com##.visible.exit-intent-popup
 ||*.animenewsnetwork.com/assets/*.png$subdocument
 www.space.com##.Campaign--css
 www.space.com##.dfp-leaderboard-container
@@ -1320,8 +1317,6 @@ www.cointracker.io##tbody > .d-flex
 functionpoint.com##.ub-emb-container
 functionpoint.com###featured-image
 www.g2.com##.border-bottom
-www.ccleaner.com###main-content > .text-center
-www.ccleaner.com##.download-notification--top.download-notification
 hootsuite.com##._popupVariantContentUpgrade
 hootsuite.com##.fade-in.exit-intent-modal
 chron.com##.article-right-col-container
@@ -2321,7 +2316,6 @@ www.tubefilter.com##.signupInline
 xumo.com##.showsPromo
 ||xumo.com^$removeparam=geoId
 valencia-app-mds.xumo.com/v2/security/drm/
-seekingalpha.com##.pb-safe-or-24.px-24.dark\:bg-black.text-center.pt-24.bg-black-5
 iptvplay.stream##div.border-2:nth-of-type(2)
 www.sciencedirect.com###gh-help-icon-popover
 nih.gov##.share_links_wrap
@@ -2389,3 +2383,6 @@ www.thecity.nyc##.newspack-inline-popup
 www.thecity.nyc##.menu
 www.thecity.nyc##.newspack-popup-wrapper
 www.thecity.nyc##.newspack-lightbox-overlay
+seekingalpha.com##.dark\:bg-black-95.py-24.px-18
+seekingalpha.com##.bg-share-card-bg
+seekingalpha.com##.bg-black\/30.inset-0.absolute
