@@ -15,24 +15,24 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
 https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live_720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo HD
+https://streamer1.nexgen.bz/BRAVO/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2020/04/5e84d4ab285bc.png" group-title="News",BBC News (North America)
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648311/group-61770.png" group-title="Nature",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com/2024/11/648313/group-61771.png" group-title="Lifestyle",BBC Home & Garden
 https://dbrb49pjoymg4.cloudfront.net/10001/99951178/hls/playlist.m3u8?ads.xumo_channelId=99951178
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZggVROm8aLzPvG6NGp2eDJxCBWRMNJEahwQ" group-title="Lifestyle",GoTraveler
-https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist_fc18f0fd_2d126755.m3u8
 #EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2018/12/bon-appetit-vector-logo.png" group-title="Food",Bon Appétit TV
 https://bonappetit-samsung.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQJRx2HRssyuAS89EUQXaQOLnn3Mt_xv2lg" group-title="Food",Tastemade
 https://tastemade-xumo.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/640px-Bravo_2024.svg.png" group-title="Entertainment",Bravo HD
-https://streamer1.nexgen.bz/BRAVO/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wDBsmtVi7P1Kjpdavo97_hza4kY154TNQ" group-title="Business",Bloomberg HD
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZggVROm8aLzPvG6NGp2eDJxCBWRMNJEahwQ" group-title="Lifestyle",GoTraveler
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist_fc18f0fd_2d126755.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/cv/apiv2/myc/finance/Finance_icon_0919_250x252.png" group-title="Business",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-wDBsmtVi7P1Kjpdavo97_hza4kY154TNQ" group-title="Business",Bloomberg HD
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/cnbc-world-20962.jpg" group-title="Business",CNBC World
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/nbcu-uk-cnbc-samsungpe/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUigqQD2ETaWJUMlqDIqrgWd6LspbZbL7G-g" group-title="Business",Cheddar
@@ -57,16 +57,16 @@ https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/masterR1080p.m3
 https://aegis-cloudfront-1.tubi.video/5e421f34-2a4d-42de-a61c-adbf6e20aa23/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1807768828874760192/RvVrTRxF_400x400.jpg" group-title="News",The Reuters 60
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/pbs-5e539210-2d28-4f80-995f-279610e4062-resize-750.png" group-title="History/Science",PBS Stream
-https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/07/PBS-Travel.png" group-title="Lifestyle",PBS Travel
-https://amg02333-pbs-amg02333c15-plex-us-8622.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
-https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png" group-title="Nature",Love Nature
 https://aegis-cloudfront-1.tubi.video/9978d306-2b97-495c-ae13-050d64cbbb71/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYscwY0VSUXSnycRIKSrBhBdB8o33dEwGsqw" group-title="Nature",MagellanTV Wildest
 https://amg00376-magellan-amg00376c1-plex-us-1372.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist_fc18f0fd_2d126755.m3u8
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
+https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/07/PBS-Travel.png" group-title="Lifestyle",PBS Travel
+https://amg02333-pbs-amg02333c15-plex-us-8622.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/pbs-5e539210-2d28-4f80-995f-279610e4062-resize-750.png" group-title="History/Science",PBS Stream
+https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97Jno-_4xG-4cVfgmyuR2SM1rt87rh8V9nA" group-title="History/Science",Curiosity NOW
 https://amg00170-curiositystream-amg00170c1-plex-us-2280.playouts.now.amagi.tv/curiositynow-wurl/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/800x800.webp?type=color_onBlack" group-title="History/Science",True History
