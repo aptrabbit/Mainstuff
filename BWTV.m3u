@@ -93,8 +93,6 @@ https://aegis-cloudfront-1.tubi.video/2abef8d5-285e-412a-8fdc-10e33abe16a6/playl
 https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxwPD7iE2FthPpoAoaKFExcfk_ml1mMheLQ" group-title="Sports",Motorvision TV
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://s1.dmcdn.net/u/9SOk21YEa8_c0UTl6/240x240" group-title="Entertainment",MotorTrend FAST TV
-https://amg00136-wbd-amg00136c57-xumo-us-6503.playouts.now.amagi.tv/playlist1080P.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Sports",Outside
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356254152045850625/dVvuXpFI_400x400.jpg" group-title="Sports",CBS Sports HQ
