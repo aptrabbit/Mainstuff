@@ -482,6 +482,8 @@ $removeparam=visitToken
 ###adPanel
 ##.adsense-responsive-bottom
 ###adsense-responsive-bottom
+##.ad-banner-responsive--is-sticky
+###ad-banner-responsive--is-sticky
 ##.ads__native
 ##.adv-link
 ##.afs_ads
@@ -561,6 +563,7 @@ $removeparam=visitToken
 ###digi-button
 ##.affiliate
 ###klarop
+##.contribly
 ##.google-follow-btn
 ###google-follow-btn
 ###google-hats-survey
@@ -573,7 +576,6 @@ $removeparam=visitToken
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
 /social-sharing
-/js/assets/listener
 /track-bus
 -view-event
 /track-load
@@ -592,6 +594,7 @@ $removeparam=visitToken
 -subscribe-modal
 /login-registration-bc-wall
 /api/event
+/events?api
 /eloqua
 /tingle.js
 -tingle.js
@@ -2188,6 +2191,7 @@ thehansindia.com##.hocal_hide_on_mobile
 thehansindia.com###home-mid-wrap1
 hindustantimes.com##.entryPointBanner
 usnews.com###bfad-slot
+usnews.com###null-recommendations-widget
 www.techedubyte.com##ins
 www.ndtv.com##.stf__block
 www.ndtv.com##.sprt-btn
