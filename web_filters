@@ -575,6 +575,7 @@ $removeparam=visitToken
 ##.gnt_pm
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+/prebid
 /social-sharing
 /track-bus
 -view-event
@@ -1257,7 +1258,6 @@ www.ebay.com##.vi-feedback-survey
 www.ebay.com##.vi-feedback-header
 www.ebay.com###ocs-inflow
 www.ancestry.com###Banner_privacy_0
-pluto.tv##body > div:nth-of-type(2)
 ||www.stream2watch.io/frames/fp2/index.php$subdocument
 cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
 cnet.com###article-body > .col-4
@@ -1309,9 +1309,6 @@ www.starsandstripesfc.com##.tab-bar-fixed.c-tab-bar
 www.startengine.com###drift-frame-controller
 winaero.com##.entry-content > div
 winaero.com###dfsfsdfs-asdasd-2
-instadp.org##.text1.container
-instadp.org##div:nth-of-type(4)
-www.wbur.org##.uw--sponsorships
 www.psychologytoday.com##.pt-ad-show-text
 nationalgeographic.com###tou-message
 www.tennis-warehouse.com###data_protection
@@ -1384,7 +1381,6 @@ selfhacked.com##.post-ratings-wrapper
 benchmarks.ul.com##.clearfix.defaultbox
 www.ratemyprofessors.com##.ReactModal__Overlay
 2cryptocalc.com##.static
-www.ngpf.org###site-use-footerm
 www.altcoinbuzz.io##aside.widget_media_image.widget.td_block_template_1
 www.altcoinbuzz.io##.tdn_block_newsletter_subscribe
 www.monstersandcritics.com##.tower300600
