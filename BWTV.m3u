@@ -143,3 +143,9 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999206
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UGOO5nJIo0E3WTHfoQEYhLef1uiXgUbZww" group-title="Music",Vevo Hip-Hop
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51OUvjSSpZL.png" group-title="Sports",Golf Channel
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8
+https://cdn-vl-gcp-spinco-e-01.vos360.video/Content/DASH_DASH_ENC/Live/channel(e2cdd094-6856-27be-e15b-29b3b0289427)/manifest.mpd
