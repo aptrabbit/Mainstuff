@@ -103,8 +103,8 @@ https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playl
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video=8000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN 2
 https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png" group-title="Sports",TSN 5
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Sports",TSN 3
+https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS1.png" group-title="Sports",FS1 HD
 https://foxvideo-sports-cf.video.fox/4e67b456057c7e29fc9d86ec0568b990e27f5387.20260102034759/live/foxsports1-ue1/foxsports1-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS2.png" group-title="Sports",FS2 HD
@@ -115,6 +115,8 @@ https://live1378.delivery.roku.com/b519e4dd-1677-44b6-81ac-c7be7018d913/t2-origi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Sports",Tennis Channel 2
 https://amg01444-amg01444c8-xumo-us-7036.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u_d6XDdAwglW8FmzMNuCxwpHjLeMQvKkT587oDReb9K0CWS1f8PJ0B8uQMSWlCQdnxBt" group-title="Sports",PickleballTV
+https://amg01444-amg01444c3-xumo-us-6870.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/12/golf-channel-2026-logo.png" group-title="Sports",Golf Channel HD
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
