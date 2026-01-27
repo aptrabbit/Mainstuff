@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/V_BoxedBlackBorder_569.png" group-title="News",ABC News Live
-https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/abcnewslive-lg/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.accuweather.com/images/components/core/base-image-color.jpg" group-title="Weather",AccuWeather NOW
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://nexusmedianews.com/wp-content/uploads/2020/05/the-weather-channel-logo.png" group-title="Weather",The Weather Channel HD
@@ -53,6 +51,8 @@ https://fl41.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.ts.m3u8
 https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-msnow-v2/Content/DASH_DASH_ENC/Live/channel(85913052-3b78-5707-1a3f-c3d57b254c94)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://daryncarp.com/wp-content/uploads/2024/05/NBC-news-now-1.png" group-title="News",NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/V_BoxedBlackBorder_569.png" group-title="News",ABC News Live
+https://amg00497-lgus-amg00497c3-lg-us-2779.playouts.now.amagi.tv/abcnewslive-lg/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://logos.stocktwits-cdn.com/NMAX.png" group-title="News",Newsmax TV HD
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUc3QILp2MdiknzQaZVy3ydCDIBgDSsoacvQ" group-title="News",Newsmax2
