@@ -42,7 +42,7 @@ https://news20e7hhcb.airspace-cdn.cbsivideo.com/index-english=128000-video=50000
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7KdS64JnDtcrEXsZ4eP0gA7yUN7-41iRs4E53VK1VGg" group-title="News",LiveNOW from FOX
 https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://wgnradio.com/wp-content/uploads/sites/6/2023/10/NewsNation-512x512-Blue.jpg" group-title="News",NewsNation
-https://fl41.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.ts.m3u8
+https://fl31.moveonjoy.com/NEWS_NATION/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/MSNOW-Logo-1763225593173.jpg" group-title="Sports",MSNBC HD
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
