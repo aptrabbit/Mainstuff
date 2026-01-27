@@ -61,8 +61,6 @@ https://nmxxumo.akamaized.net/hls/live/2020471/Live_1/4.m3u8
 https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51LHKISjsBL.png" group-title="News",Scripps News
 https://aegis-cloudfront-1.tubi.video/5e421f34-2a4d-42de-a61c-adbf6e20aa23/playlist_5.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1807768828874760192/RvVrTRxF_400x400.jpg" group-title="News",The Reuters 60
-https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png" group-title="Nature",Love Nature
 https://aegis-cloudfront-1.tubi.video/9978d306-2b97-495c-ae13-050d64cbbb71/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYscwY0VSUXSnycRIKSrBhBdB8o33dEwGsqw" group-title="Nature",MagellanTV Wildest
@@ -81,8 +79,6 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x7
 https://dai.google.com/linear/hls/event/3pCfCAVSTz24VQ7jZDXLzw/master.m3u8
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/e7b2568c90c3455182207db3b21ad894-hd.jpg" group-title="Entertainment",FYI Channel HD
 https://dai.google.com/linear/hls/event/-umds2mLSeCPi0vUgua6Kg/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1428920270677549058/e2BBUKZt_400x400.jpg" group-title="Entertainment",A and E HD East
-https://dai.google.com/linear/hls/event/4elNLJnvT_ifl3Qs6G67yQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/the-nest---blue.png" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IqebTlK.png" group-title="Crime",REELZ Famous & Infamous
@@ -105,6 +101,8 @@ https://usanetwork.linear-east.viewlift.com/Content/DASH_DASH_ENC/Live/channel(4
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356254152045850625/dVvuXpFI_400x400.jpg" group-title="Sports",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video=8000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN 2
+https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS1.png" group-title="Sports",FS1 HD
 https://foxvideo-sports-cf.video.fox/4e67b456057c7e29fc9d86ec0568b990e27f5387.20260102034759/live/foxsports1-ue1/foxsports1-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS2.png" group-title="Sports",FS2 HD
