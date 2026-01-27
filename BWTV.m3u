@@ -129,8 +129,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XoD1YPXkc3H7IG_BPmnzm4OEoCTE5dpOuKhT9q57pmTa64-WD8kYGFeTBb797ooGDII" group-title="Sports",Racing America
 https://linear-1129.frequency.stream/mt/plex/1129/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1345005279285551105/nd676AiJ_400x400.png" group-title="Sports",SportsGrid
-https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/sup_tnt_app.png" group-title="Entertainment",TNT HD
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1684231903732289536/ZgGaeWsH_400x400.jpg" group-title="Entertainment",truTV HD
