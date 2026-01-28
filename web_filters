@@ -423,6 +423,10 @@ $removeparam=visitToken
 ##.promoted
 ###promobanners
 ##.promobanners
+##.promo-content
+###promo-content
+##.promo-sidebar
+###promo-sidebar
 ##.banner.advert
 ###banner.advert
 ##.text-banner
@@ -718,7 +722,6 @@ _BeaconService
 /GiveTipButton
 /geocode/ip
 /chunks/events
-/trk
 /otSDKStub
 /rgstr
 /statsig
@@ -2382,3 +2385,4 @@ www.thecity.nyc##.newspack-inline-popup
 www.thecity.nyc##.menu
 www.thecity.nyc##.newspack-popup-wrapper
 www.thecity.nyc##.newspack-lightbox-overlay
+www.newscaststudio.com##.hustle-animate-in
