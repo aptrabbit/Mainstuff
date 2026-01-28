@@ -65,8 +65,6 @@ https://aegis-cloudfront-1.tubi.video/9978d306-2b97-495c-ae13-050d64cbbb71/1080p
 https://amg00376-magellan-amg00376c1-plex-us-1372.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist_fc18f0fd_2d126755.m3u8
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/crain/O34T5HCJ55BJZALBMM4LRYIZUI.jpg" group-title="Nature",PBS Nature
 https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/07/PBS-Travel.png" group-title="Lifestyle",PBS Travel
-https://amg02333-pbs-amg02333c15-plex-us-8622.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/pbs-5e539210-2d28-4f80-995f-279610e4062-resize-750.png" group-title="History/Science",PBS Stream
 https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97Jno-_4xG-4cVfgmyuR2SM1rt87rh8V9nA" group-title="History/Science",Curiosity NOW
