@@ -95,10 +95,10 @@ https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playl
 https://usanetwork.linear-east.viewlift.com/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Sports",Outside
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w7pxRhRPZJvDiEkrGvl0yAZY8xwciMoOow" group-title="Sports",ESPN HD
-https://cdn-live-tv.ru/api/v1/channels/us-espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356254152045850625/dVvuXpFI_400x400.jpg" group-title="Sports",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video=8000000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w7pxRhRPZJvDiEkrGvl0yAZY8xwciMoOow" group-title="Sports",ESPN HD
+https://cdn-live-tv.ru/api/v1/channels/us-espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN 2
 https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Sports",TSN 3
