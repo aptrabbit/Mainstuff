@@ -11,8 +11,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM" group-title="Animation",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41o03HyOYlL.png" group-title="Animation",Crunchyroll
-https://live1063.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-origin/out/v1/live_1080.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31kdre5YN4L.png" group-title="Animation",Anime 24/7
+https://amg01923-odk-amg01923c20-plex-us-8362.playouts.now.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
 https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2020/04/5e84d4ab285bc.png" group-title="News",BBC News (North America)
