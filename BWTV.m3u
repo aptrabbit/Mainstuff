@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.accuweather.com/images/components/core/base-image-color.jpg" group-title="Weather",AccuWeather NOW
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU" group-title="Weather",AccuWeather NOW
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://nexusmedianews.com/wp-content/uploads/2020/05/the-weather-channel-logo.png" group-title="Weather",The Weather Channel HD
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
@@ -12,7 +12,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM" group-title="Animation",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41o03HyOYlL.png" group-title="Animation",Crunchyroll
-https://f7be89a9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9DcnVuY2h5cm9sbF9DTUFG/playlist.m3u8
+https://live1063.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
 https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2020/04/5e84d4ab285bc.png" group-title="News",BBC News (North America)
