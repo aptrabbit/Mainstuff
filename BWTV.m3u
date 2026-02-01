@@ -11,6 +11,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nE4aTKOkyN91qWOZlZYaOax8sZDlw31LQEAxup8IoW5JM" group-title="Animation",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41o03HyOYlL.png" group-title="Animation",Crunchyroll
+https://f7be89a9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9DcnVuY2h5cm9sbF9DTUFG/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1403002336134397952/5NBxB4tg_400x400.png" group-title="Entertainment",FailArmy
 https://live463.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live_720.m3u8
 #EXTINF:-1 tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2020/04/5e84d4ab285bc.png" group-title="News",BBC News (North America)
@@ -136,7 +138,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2005349063525310464/N3nhr0XL.jpg" group-title="Entertainment",Turner Classic Movies HD
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Entertainment",Stories by AMC
-https://amc-amcpresents-1-us.xumo.wurl.tv/4300.m3u8
+https://c5ca4726.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9TdG9yaWVzQnlBTUNfQ01BRg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/cinevault_logo_color.png" group-title="Entertainment",CINEVAULT
 https://aegis-cloudfront-1.tubi.video/ac972967-bdbf-42a1-8d59-dbd79a4ceab6/playlist_7.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6bSL3TtkcEdHMvLbbMaUh3refsIidHzSOOw" group-title="Entertainment",Hi-YAH!
@@ -155,5 +157,3 @@ https://tmbijukin.global.transmit.live/hls/68dc4a172aa9a163d81820f5/v1/jukin_wea
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2005672820148158465/sZGtxQ5u_400x400.jpg" group-title="Music",Stingray Greatest Hits
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992066
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/09/ab/09ab2f1d84e6f0fbbfdf3e7b66e5266d.jpg" group-title="Music",Stingray Alt Rock
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-rock-alternative/master.m3u8
