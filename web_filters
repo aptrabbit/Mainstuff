@@ -266,6 +266,8 @@ $removeparam=visitToken
 ###newsletter-signup-vue__form
 ##.newsletterModal
 ###newsletterModal
+##.newsletter-form
+###newsletter-form
 ##.newsletter-form__wrapper
 ##.footer__ads-footer
 ###footer__ads-footer
@@ -841,7 +843,6 @@ _ApplePay_Test
 /geo/location
 /chargebee
 -chargebee
-/get-csrf
 /onetrust
 -onetrust
 /gov/stat
@@ -982,7 +983,6 @@ _gpdr
 /HubspotTools
 /yTocca
 /xdomaincookie
--social-share
 /features.consent
 .last-x-events
 /javalon
@@ -2002,15 +2002,14 @@ worldpopulationreview.com##.my-2.center
 ||startpage.com^$removeparam=cat
 ||startpage.com/perf
 ||startpage.com/sp/cl
-||startpage.com/mq-embed/rsc
 startpage.com###home-below-the-fold-container
 startpage.com##div.app-banner-promo-container
 startpage.com##div.privacy-extension-and-app-widget
 startpage.com##.block-display
+startpage.com##.blog-menu
 startpage.com##.social
 startpage.com##.feedback-serp-container
 startpage.com##.feedback-widget
-startpage.com##.blog-menu
 startpage.com##.mobile-app-promo-banner
 startpage.com###main > div.ay-bg-top
 startpage.com##.survey-serp-cta
@@ -2386,3 +2385,4 @@ www.thecity.nyc##.menu
 www.thecity.nyc##.newspack-popup-wrapper
 www.thecity.nyc##.newspack-lightbox-overlay
 www.newscaststudio.com##.hustle-animate-in
+@@||maps.googleapis.com/maps-api-v3/api/js/62/13e/log.js$script,domain=www.communitycrimemap.com
