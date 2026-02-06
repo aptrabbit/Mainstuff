@@ -2182,6 +2182,7 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=source,important
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
+||www.reddit.com^$removeparam=context,important
 seoreviewtools.com##.special-content
 indiatimes.com##.noPaddingTitle
 outlookindia.com###coverLatest
