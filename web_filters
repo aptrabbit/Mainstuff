@@ -2013,6 +2013,7 @@ startpage.com##.feedback-widget
 startpage.com##.mobile-app-promo-banner
 startpage.com###main > div.ay-bg-top
 startpage.com##.survey-serp-cta
+startpage.com##.support-banner
 www.startpage.com/perf
 /TotalAdBlock
 /privacy-please
@@ -2293,6 +2294,7 @@ thehill.com##.instaread-audio-player
 thehill.com##[href^="https://thehill.com/sponsor-content/"]
 thehill.com##.hha-sponsored
 thehill.com##.widget-area
+thehill.com##.podwgt-relative
 ft.com##.n-layout__footer-before
 ft.com###o-header-search-primary
 ft.com##.concept-list
