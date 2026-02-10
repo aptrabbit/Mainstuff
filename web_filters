@@ -1616,8 +1616,6 @@ bestbuy.com##.shop-blue-assist
 bestbuy.com##.shop-search-survey
 bestbuy.com##div.v-border-top.v-border-next.v-p-top-m.v-m-top-m.row:nth-of-type(5)
 bestbuy.com##.ninja-carousel
-verizon.com##div.section.htmlscript > div > .u-colorBackgroundSecondary
-verizon.com###divhomebot
 merriam-webster.com##.cafemedia-ad-slot-top
 merriam-webster.com###subscribe-unabridged
 ||www.publish0x.com/images/nexo/borrow-now-button.svg$image
@@ -2014,6 +2012,8 @@ startpage.com##.mobile-app-promo-banner
 startpage.com###main > div.ay-bg-top
 startpage.com##.survey-serp-cta
 startpage.com##.support-banner
+www.startpage.com##.ai-chat-banner
+www.startpage.com##.ai-chat-top-banner
 www.startpage.com/perf
 /TotalAdBlock
 /privacy-please
