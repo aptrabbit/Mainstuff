@@ -1093,6 +1093,8 @@ _show_ads
 /plausible
 ~browser-logs
 ~trackers
+_taboola
+-taboola
 ~taboola
 /taboola
 /sponsored
@@ -2354,3 +2356,4 @@ www.thecity.nyc##.menu
 www.thecity.nyc##.newspack-popup-wrapper
 www.thecity.nyc##.newspack-lightbox-overlay
 www.newscaststudio.com##.hustle-animate-in
+www.newser.com##.vertical.retirely-widget
