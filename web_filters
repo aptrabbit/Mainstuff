@@ -1317,8 +1317,6 @@ nationalgeographic.com###tou-message
 www.tennis-warehouse.com###data_protection
 www.cointracker.io##.performance-chart-upgrade
 www.cointracker.io##tbody > .d-flex
-functionpoint.com##.ub-emb-container
-functionpoint.com###featured-image
 www.g2.com##.border-bottom
 hootsuite.com##._popupVariantContentUpgrade
 hootsuite.com##.fade-in.exit-intent-modal
@@ -1502,7 +1500,7 @@ forkast.news##div.spaced-group
 forkast.news##.alert-bar
 www.cnn.com##.el__leafmedia--standard.el__leafmedia--factbox.el__leafmedia
 www.cnn.com##.el-entitlement-.el-entitlement
-languagetool.org##.dock__item--premium.dock__item
+languagetool.org##.dock__item--premium
 ambcrypto.com##.ub-sticky-ad-containerdesk
 ambcrypto.com##.widget_custom_html.mvp-side-widget.widget_text
 ambcrypto.com##.ambcr-widget
@@ -1511,7 +1509,6 @@ finbold.com##.mt-4.order-lg-3.order-xl-2.col-xl-12.col-lg-6
 finbold.com###sub-intent
 autoblog.com###spotim-specific
 autoblog.com###autoblog-daily-digest
-automotivelogistics.media##.leaderboard
 humbledollar.com##.show-detected
 humbledollar.com##.top-bar
 humbledollar.com##.in-story-subscribe
@@ -1583,7 +1580,6 @@ cryptoslate.com##.buy-crypto.btn
 cryptoslate.com##.header-strip
 cryptoslate.com##.edge-cta
 cryptoslate.com##.edge
-cryptoslate.com##.leaderboard.placement
 cryptoslate.com##.ftx-news-button
 cryptoslate.com##.top-sticky
 cryptoslate.com##.code-block-3.code-block
@@ -1592,8 +1588,6 @@ cryptoslate.com##.code-block-14.code-block
 cryptoslate.com##.clickout-banner-native_table_box-bottom
 cryptoslate.com###hypelab-header-unit
 ||s.tradingview.com/mediumwidgetembed/$subdocument
-www.daytrading.com##.bottombar.text-center
-tech-latest.com##.td-post-title > .entry-title
 www.motor1.com##.widget-wrapper
 www.motor1.com##.msrp-stripe
 www.motor1.com##.msrp-body
@@ -1732,8 +1726,6 @@ www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
 www.cryptonewsz.com##.stream-item-top-wrapper
 www.cryptonewsz.com##.widget_block
-digitalcoinprice.com##.ads-90
-digitalcoinprice.com##.cmc-btn-grp
 www.thisismoney.co.uk##.watermark
 www.thisismoney.co.uk##.sticky-container
 thecoinperspective.com##.border-2.mt-md-4.mt-3.bg-highlight
