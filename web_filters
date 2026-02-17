@@ -269,6 +269,9 @@ $removeparam=visitToken
 ##.newsletter-form
 ###newsletter-form
 ##.newsletter-form__wrapper
+###newsletter-form__wrapper
+##.newsletter-subscribe-form
+###newsletter-subscribe-form
 ##.footer__ads-footer
 ###footer__ads-footer
 ##.tooltip-newsletter
@@ -525,12 +528,14 @@ $removeparam=visitToken
 ##.pb-ad
 ##.subscriber-ad
 ##.single-post-hero-ad
+##.sidearm-adblock
+###sidearm-adblock
 ##.sticky-ad-area
 ###sticky-ad-area
 ##.sticky-top-ad
 ###sticky-top-ad
-##.sidearm-adblock
-###sidearm-adblock
+##.sticky-container
+###sticky-container
 ###leaderboard
 ##.leaderboard
 ##.Leaderboard0
@@ -579,6 +584,7 @@ $removeparam=visitToken
 ##.gs_qsuggest_wrap
 ##.demo-avd
 ##.gnt_pm
+##.watermark
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
 /prebid
@@ -1245,7 +1251,6 @@ coinbase.com##.kuposl
 coinbase.com#@#[class*="cds-fixed-"]
 wikipedia.org##.vector-limited-width-popup
 wikipedia.org##.cn-fundraising
-urbandictionary.com##.flex.mb-8 > div
 ghacks.net###ghacks_ad_code-2
 speedof.me##.cc-window-banner
 speedof.me##.cc-dialog-panel
@@ -1262,7 +1267,6 @@ www.ebay.com##.vi-feedback-header
 www.ebay.com###ocs-inflow
 www.ancestry.com###Banner_privacy_0
 ||www.stream2watch.io/frames/fp2/index.php$subdocument
-cnet.com##.broad.desktop.newsletter-subscribe-form.hasNewsletter.shortcode.c-reengageNewsletter
 cnet.com###article-body > .col-4
 cnet.com##.bd
 ||www.usopen.org/assets/images/header/ribbon.gif$image
@@ -1281,7 +1285,6 @@ www.realclearpolitics.com##.fark-header
 www.niche.com##.scatterplot__logged-out-messages
 www.niche.com##.search-result--featured
 www.dell.com##.ask-question-banner-wrapper
-brainly.com##.js-react-brainly-plus-box-aside
 www.popularmechanics.com##.gallery-module.embed
 www.npr.org###global-modal-mount
 contentmarketinginstitute.com##.pty_pkg
@@ -1570,7 +1573,6 @@ www.coindesk.com##.ah280px
 coindesk.com/newsletters/
 www.hotdeals.com/cut-port
 hotdeals.com##.afsstyle
-autonews.com##.block-region-content-right
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.btn-mal-service
 cryptoslate.com##.image.sticky-footer
@@ -1726,16 +1728,10 @@ www.insidermonkey.com###premium-resource-center
 www.insidermonkey.com#@#.newsletter-promo
 www.cryptonewsz.com##.stream-item-top-wrapper
 www.cryptonewsz.com##.widget_block
-www.thisismoney.co.uk##.watermark
-www.thisismoney.co.uk##.sticky-container
 thecoinperspective.com##.border-2.mt-md-4.mt-3.bg-highlight
 www.investopedia.com###fin-billboard1-sticky-dynamic_3-0
 www.investopedia.com###partnerlinks_21-0
 www.investopedia.com##.performance-marketing
-www.exodus.com##.x__share
-www.exodus.com##.x__share-section
-www.exodus.com##.x__share__picker
-www.exodus.com##.x-page-side-buttons
 www.stakingrewards.com##.relative.bg-customGradientTopBar
 www.stakingrewards.com##.undefined
 walletinvestor.com##.btn-loan
@@ -1757,8 +1753,6 @@ bitcoinist.com##.widget_featured_companies
 bitcoinist.com##.green-link
 bitcoinist.com##.orange-link
 bitcoinist.com##.lightchain-header-container
-www.complex.com###spotim-specific [src]
-www.asiablockchainreview.com##.pull-bottom
 foxnews.com##.sticky-region > .sidebar-columns > .has-load-more
 foxnews.com##.collection-trending
 foxnews.com##.is-programming.alert-banner
@@ -1787,7 +1781,6 @@ ahrefs.com##.intercom-icon-container
 neilpatel.com###bottom-box-cta
 neilpatel.com###topbar
 neilpatel.com##.widget-analyzer
-developers.facebook.com###devsite_dock
 www.tronweekly.com##.widget_media_image
 blockchair.com##.page-address__promo
 blockchair.com##.top-buttons--right
@@ -1813,8 +1806,6 @@ coincodex.com##.ldb-top
 coincodex.com#@#.cc-container
 www.businessofbusiness.com##.visible
 www.space.com##.trendingbar
-www.enginemailer.com##.proactiveChat
-www.enginemailer.com##.SecCookieBar
 www.history.com##phoenix-balloon-header
 www.history.com##div.inline-article-ad-container
 cnbc.com##.pro-feedback-fixed
@@ -2076,7 +2067,6 @@ www.mayoclinic.org##.mayoad
 www.mayoclinic.org##.myc-subscription-form
 www.nhmagazine.com##.background.popup_canvas
 www.nhmagazine.com##.robly-overlay
-www.besthealthmag.ca###cmu_right_rail_widget-3
 www.engadget.com##.M\(MarginCenter\)
 www.weekand.com##.pt16
 www.weekand.com###Flex1
@@ -2085,7 +2075,7 @@ bestdroidplayer.com##.ulp-window-container
 cssgradient.io##.page-header_banner
 study.com##+js(rc, faded-content)
 study.com##+js(rc, hidden, div[ng-non-bindable])
-homework.study.com##.unlockStudyAnswers
+study.com##.unlockStudyAnswers
 pixabay.com##.show-gtty-item
 pixabay.com##.present-gtty-item
 pixabay.com##.present-g-item
@@ -2096,7 +2086,6 @@ nypost.com##.select-share
 nypost.com##.widget_nypost_zone_widget
 nypost.com##.wp-block-nypost-editor-newsletter
 www.techtarget.com##.cluster-branding-container
-bmcmusculoskeletdisord.biomedcentral.com##.cc-overlay
 www.tennisworldusa.org##.top_container > div:nth-of-type(1)
 paypal.com##.inv-feedback
 paypal.com###ccpaCookieBanner
