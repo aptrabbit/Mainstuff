@@ -596,7 +596,6 @@ $removeparam=visitToken
 /web-vitals
 /ads.min
 -ads.min
-/logger
 /subscribe-modal
 -subscribe-modal
 /login-registration-bc-wall
@@ -1229,6 +1228,7 @@ azureedge.net/scripts/sdt1.js
 https://www.gq.com/SQZ
 www.gstatic.com/firebasejs
 https://app-measurement.com/sdk-exp$important
+@@||maps.googleapis.com/maps-api-v3/api/js/62/13e/log.js$script,domain=www.communitycrimemap.com
 ||widget.portis.io/$subdocument
 ||static.parastorage.com/services/chat-widget/*
 ||tars-file-upload.s3.amazonaws.com/bulb/js/widget.js
@@ -1563,7 +1563,6 @@ yahoo.com###sda-MON
 coinquora.com##.coinq-widget.widget
 coinquora.com##.py-1.coins-stream
 www.lmaxdigital.com###lmax-cookie-bar
-www.lawinsider.com##.padding-1.light-blue-bordered-card
 www.coindesk.com##.h-56
 www.coindesk.com##.newsletter-module-wrapper
 www.coindesk.com##.false.article-com-wrapper
@@ -1815,13 +1814,11 @@ cryptobriefing.com##.extra.sidebar-info
 cryptobriefing.com#@#.newsletter-modal
 cryptobriefing.com##.ub-emb-container
 cryptobriefing.com##.ai-rotate
-thenftunicorn.com##.tickercontainer
 coincodex.com##.StickyTop
 coincodex.com##.StickyBottom
 coincodex.com##.market-overview
 coincodex.com##.ldb-top
 coincodex.com#@#.cc-container
-termly.io###termly-code-snippet-support
 www.businessofbusiness.com##.visible
 www.space.com##.trendingbar
 www.enginemailer.com##.proactiveChat
@@ -2192,9 +2189,6 @@ thehansindia.com###home-mid-wrap1
 hindustantimes.com##.entryPointBanner
 usnews.com###bfad-slot
 usnews.com###null-recommendations-widget
-www.techedubyte.com##ins
-www.ndtv.com##.stf__block
-www.ndtv.com##.sprt-btn
 pcgs.com##div.text-xsmall
 pcgs.com###ebayFeedWrap
 cryptopanic.com##div.app-layout:first-child > div.app-left-pane.app-pane:first-child > div.left-nav:nth-child(2) > a.left-nav-item:nth-child(6)
@@ -2388,4 +2382,3 @@ www.thecity.nyc##.menu
 www.thecity.nyc##.newspack-popup-wrapper
 www.thecity.nyc##.newspack-lightbox-overlay
 www.newscaststudio.com##.hustle-animate-in
-@@||maps.googleapis.com/maps-api-v3/api/js/62/13e/log.js$script,domain=www.communitycrimemap.com
