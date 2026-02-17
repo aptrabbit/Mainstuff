@@ -587,7 +587,6 @@ $removeparam=visitToken
 ##.watermark
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
-/prebid
 /social-sharing
 /track-bus
 -view-event
@@ -1468,10 +1467,6 @@ www.linkedin.com##.feed-identity-module__anchored-widget--premium-upsell
 ||linkedin.com^$removeparam=origin
 ||linkedin.com^$removeparam=searchId
 linkedin.com/litms/api/metadata
-www.terro.com##div.block-static-block.block.widget
-www.terro.com##.center
-www.terro.com##.right.ws-spr
-www.terro.com##.widget-product-grid.product-items
 freebitco.in###bottom_user_ads_container
 freebitco.in###premium_membership_msg
 freebitco.in##.premium_buy_more_tokens
@@ -1491,7 +1486,6 @@ gitlab.com##.trial-link
 ||theglobeandmail.com/pf/dist/engine/react.js$script,1p
 cryptopost.com##.td-header-sp-recs
 cryptopost.com##aside.widget_custom_html.widget
-www.lasfit.com###soundest-forms-container
 u.today##.something--fixed
 u.today##a.card--something.card
 u.today##.container.something--wide
@@ -1790,8 +1784,6 @@ smallseotools.com##.pro_icon
 www.flickr.com##.moola-search-div
 www.flickr.com##.photo-page-leader-moola-view
 www.blogarama.com##.view-header > [href]
-bit2me.com##.lazyloaded.exited
-bit2me.com##.widget_media_image
 www.scienceabc.com##.custom-html-widget
 cryptobriefing.com##.article-sidebar-items
 cryptobriefing.com##.top-adv-content
@@ -2086,7 +2078,6 @@ nypost.com##.select-share
 nypost.com##.widget_nypost_zone_widget
 nypost.com##.wp-block-nypost-editor-newsletter
 www.techtarget.com##.cluster-branding-container
-www.tennisworldusa.org##.top_container > div:nth-of-type(1)
 paypal.com##.inv-feedback
 paypal.com###ccpaCookieBanner
 paypal.com/credit-presentment/smart/message
