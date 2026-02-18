@@ -1101,6 +1101,8 @@ _taboola
 /marketingNotifications
 /privacy-standalone
 /campaign-monitor
+/campaign_story_event
+/campaign-views
 /sassy-social-share
 /nielsen
 /impression
@@ -1164,8 +1166,6 @@ _taboola
 /popup-subscribe
 /lozad
 /product_offers
-/campaign_story_event
-/campaign-views
 /generate_204
 /aping
 /statistics
@@ -1353,7 +1353,6 @@ zacks.com##.commentary_b.commentary_reports_content
 zacks.com##.bulleted
 zacks.com###pfnModule > div
 www.tasteofhome.com##.non-contextual-video-wrapper.pure-g
-www.adweek.com##.position-relative.justify-content-end.row
 www.marketbeat.com###HelpersArea
 www.marketbeat.com##tr.bottom-sort
 www.marketbeat.com###pnlAllAccessTrial
@@ -1435,8 +1434,6 @@ subscan.io##.banner
 cryptopro.app###modalDownload
 cryptopro.app##.show.fade.modal-backdrop
 www.nbcnews.com##div.recommended-intersection-ref
-||catholicherald.co.uk/wp-includes/js/backbone.min.js$script,1p
-coinfomania.com##.thecontent [href="https://coinfomania.com/go/nordfx-promo/"]
 chessbase.com###askForCookiesBackground
 www.cryptoninjas.net##.boxzilla-bottom-left-container.boxzilla-container
 www.cryptoninjas.net##.widget_text.widget
@@ -1782,7 +1779,6 @@ blockchair.com##.page-address__promo
 blockchair.com##.top-buttons--right
 blockchair.com##.lh-auto
 twiends.com##.cvs
-smallseotools.com##.pro_icon
 www.flickr.com##.moola-search-div
 www.flickr.com##.photo-page-leader-moola-view
 www.blogarama.com##.view-header > [href]
@@ -1926,9 +1922,11 @@ coinmarketcap.com##.email-signup
 coinmarketcap.com##.buyAdButtonSection
 coinmarketcap.com##.carousel-items-wrapper
 www.w3schools.com###right
+smallseotools.com##.pro_icon
 seobility.net###sale_sidebar_content
 seobility.net###help-container
 seobility.net##.productfruits--container
+seoreviewtools.com##.special-content
 www.swansonvitamins.com###talkable-offer
 cryptopotato.com##.ai-viewport-1.code-block-6.code-block
 cryptopotato.com##.widget_pojo_image.widget
@@ -1936,7 +1934,6 @@ cryptopotato.com##.code-block-12.code-block
 cryptopotato.com##.aos-animate
 www.mediaite.com##.adthrive-footer-message
 www.mediaite.com##.o-social-items
-holisticprimarycare.net##.qc-cmp2-container
 cointelegraph.com##.price-indexes-widget
 cointelegraph.com###vue-footer
 cointelegraph.com##.post__content-shares
@@ -1965,15 +1962,6 @@ forbes.com##.top-ed-placeholder
 forbes.com##.no-close
 forbes.com##.zephr-backdrop
 www.mskcc.org###msk-modal-dialog
-worldpopulationreview.com##.my-2.center
-||startpage.com^$removeparam=pl
-||startpage.com^$removeparam=language
-||startpage.com^$removeparam=extVersion
-||startpage.com^$removeparam=t
-||startpage.com^$removeparam=lui
-||startpage.com^$removeparam=cat
-||startpage.com/perf
-||startpage.com/sp/cl
 startpage.com###home-below-the-fold-container
 startpage.com##div.app-banner-promo-container
 startpage.com##div.privacy-extension-and-app-widget
@@ -1986,8 +1974,17 @@ startpage.com##.mobile-app-promo-banner
 startpage.com###main > div.ay-bg-top
 startpage.com##.survey-serp-cta
 startpage.com##.support-banner
-www.startpage.com##.ai-chat-banner
-www.startpage.com##.ai-chat-top-banner
+startpage.com##.ai-chat-sidebar-banner
+startpage.com##.ai-chat-banner
+startpage.com##.ai-chat-top-banner
+||startpage.com^$removeparam=pl
+||startpage.com^$removeparam=language
+||startpage.com^$removeparam=extVersion
+||startpage.com^$removeparam=t
+||startpage.com^$removeparam=lui
+||startpage.com^$removeparam=cat
+||startpage.com/perf
+||startpage.com/sp/cl
 www.startpage.com/perf
 /TotalAdBlock
 /privacy-please
@@ -2155,7 +2152,6 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
 ||www.reddit.com^$removeparam=context,important
-seoreviewtools.com##.special-content
 indiatimes.com##.noPaddingTitle
 outlookindia.com###coverLatest
 thehansindia.com##.hocal_hide_on_mobile
@@ -2351,9 +2347,5 @@ www.motherjones.com##.mj-pledge-desktop-eoaw-widget
 www.oaepublish.com##.cook_box
 archaeologymag.com###custom_html-2
 archaeologymag.com##.wpb_wrapper.jeg_wrapper
-www.thecity.nyc##.newspack-inline-popup
-www.thecity.nyc##.menu
-www.thecity.nyc##.newspack-popup-wrapper
-www.thecity.nyc##.newspack-lightbox-overlay
 www.newscaststudio.com##.hustle-animate-in
 www.newser.com##.vertical.retirely-widget
