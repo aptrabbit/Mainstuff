@@ -587,6 +587,8 @@ $removeparam=visitToken
 ##.watermark
 ||xn--$doc,frame
 @@||.amagi.tv$xhr
+-ads-widget
+/ads-widget
 /social-sharing
 /track-bus
 -view-event
