@@ -1,3 +1,4 @@
+$removeparam=ref
 $removeparam=campaignCode
 $removeparam=_tracking
 $removeparam=_yTrackUser
@@ -22,7 +23,6 @@ $removeparam=pdp_ext_f
 $removeparam=algo_exp_id
 $removeparam=utparam-url
 $removeparam=utm_source
-$removeparam=pipelineType
 $removeparam=userTagIds
 $removeparam=pageLoadId
 $removeparam=mt
@@ -534,8 +534,6 @@ $removeparam=visitToken
 ###sticky-ad-area
 ##.sticky-top-ad
 ###sticky-top-ad
-##.sticky-container
-###sticky-container
 ###leaderboard
 ##.leaderboard
 ##.Leaderboard0
@@ -2153,7 +2151,6 @@ https://www.redditstatic.com/desktop2x/HarbergerTaxBannerPurchaseCTA
 ||www.reddit.com^$removeparam=source,important
 ||www.reddit.com^$removeparam=rdt,important
 ||www.reddit.com^$removeparam=permalink,important
-||www.reddit.com^$removeparam=context,important
 indiatimes.com##.noPaddingTitle
 outlookindia.com###coverLatest
 thehansindia.com##.hocal_hide_on_mobile
