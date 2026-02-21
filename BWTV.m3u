@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EgDT3XrIaJbhZjINCWsiqjzonzqve7LgAbim8kHXWgg6fZnQebqIWjE6UcGahJ6yugU" group-title="Weather",AccuWeather NOW
-https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist1080-p.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991649/hls/playlist.m3u8?ads.xumo_channelId=99991649
 #EXTINF:-1 tvg-logo="https://nexusmedianews.com/wp-content/uploads/2020/05/the-weather-channel-logo.png" group-title="Weather",The Weather Channel HD
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxcareers.com/Content/img2019/LifeAtFox/fox-weather-logo.png" group-title="Weather",FOX Weather
@@ -99,12 +99,6 @@ https://usanetwork.linear-east.viewlift.com/Content/DASH_DASH_ENC/Live/channel(4
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356254152045850625/dVvuXpFI_400x400.jpg" group-title="Sports",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index-english=128000-video=8000000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w7pxRhRPZJvDiEkrGvl0yAZY8xwciMoOow" group-title="Sports",ESPN HD
-https://cdn-live-tv.ru/api/v1/channels/us-espn/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN 2
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Sports",TSN 3
-https://cdn-live-tv.ru/api/v1/channels/ca-tsn-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS1.png" group-title="Sports",FS1 HD
 https://foxvideo-sports-cf.video.fox/4e67b456057c7e29fc9d86ec0568b990e27f5387.20260102034759/live/foxsports1-ue1/foxsports1-ue1/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/b.fssta.com/uploads/application/fsgo/chip-images/1280/960/chip_FS2.png" group-title="Sports",FS2 HD
