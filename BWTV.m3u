@@ -43,12 +43,6 @@ https://news20e7hhcb.airspace-cdn.cbsivideo.com/index-english=128000-video=50000
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7KdS64JnDtcrEXsZ4eP0gA7yUN7-41iRs4E53VK1VGg" group-title="News",LiveNOW from FOX
 https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://radioimg.audacy.com/aud-opsconsole-media-images-prod-prod/MSNOW-Logo-1763225593173.jpg" group-title="Sports",MSNBC HD
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e4ce8bff31c721f16743a7c697bee0:ae8f15bb774b387d42ea64c677b8358d
-https://msnow.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-msnow-v2/Content/Channel/85913052-3b78-5707-1a3f-c3d57b254c94/DASH_ENC/master_5m.mpd
 #EXTINF:-1 tvg-logo="https://daryncarp.com/wp-content/uploads/2024/05/NBC-news-now-1.png" group-title="News",NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/V_BoxedBlackBorder_569.png" group-title="News",ABC News Live
@@ -89,12 +83,6 @@ https://cdn.lawandcrime.net/rewind/720.m3u8
 https://aegis-cloudfront-1.tubi.video/2abef8d5-285e-412a-8fdc-10e33abe16a6/playlist_1.m3u8
 #EXTINF:-1 tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/02/IONPLusRebrand_BlueLogo_800x318.png" group-title="Crime",ION Plus
 https://aegis-cloudfront-1.tubi.video/877753bc-e576-4695-a18e-c17acb83a908/playlist_5.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31qO-c5KghL.png" group-title="Sports",USA Network HD
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8
-https://usanetwork.linear-east.viewlift.com/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700030ON_20250729T184645SQUARE.png" group-title="Sports",Outside
 https://aegis-cloudfront-1.tubi.video/36168989-6318-4270-8464-cae725746589/playlistR_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356254152045850625/dVvuXpFI_400x400.jpg" group-title="Sports",CBS Sports HQ
