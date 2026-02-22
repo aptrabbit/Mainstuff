@@ -99,12 +99,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://amg01444-amg01444c8-xumo-us-7036.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u_d6XDdAwglW8FmzMNuCxwpHjLeMQvKkT587oDReb9K0CWS1f8PJ0B8uQMSWlCQdnxBt" group-title="Sports",PickleballTV
 https://amg01444-amg01444c3-xumo-us-6870.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/12/golf-channel-2026-logo.png" group-title="Sports",Golf Channel HD
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8
-https://cdn-vl-gcp-spinco-e-01.vos360.video/Content/DASH_DASH_ENC/Live/channel(e2cdd094-6856-27be-e15b-29b3b0289427)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5J8pTuU4n-mKBKoX8hJjSp1TLc6I5pUlTDA" group-title="Sports",beIN SPORTS XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxwPD7iE2FthPpoAoaKFExcfk_ml1mMheLQ" group-title="Sports",Motorvision TV
