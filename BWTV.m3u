@@ -40,7 +40,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/thumbnail.jpg" group-title="News",CBS News
 https://news20e7hhcb.airspace-cdn.cbsivideo.com/index-english=128000-video=5000000.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TA1fIRwGKyTlAc3tpu_nPKZnwr5u1PN3W1glmtJzm1dCR-pzjXiqCEhC2QkLgGx9LW8" group-title="News",Fox News Channel HD
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
+https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7KdS64JnDtcrEXsZ4eP0gA7yUN7-41iRs4E53VK1VGg" group-title="News",LiveNOW from FOX
 https://amg00488-amg00488c34-xumo-us-5805.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://daryncarp.com/wp-content/uploads/2024/05/NBC-news-now-1.png" group-title="News",NBC News NOW
